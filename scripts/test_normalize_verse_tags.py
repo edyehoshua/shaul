@@ -2,7 +2,7 @@
 import unittest
 
 from normalize_verse_tags import normalize_names, normalize_tags
-from verse_tag_conventions import canonicalize_tag
+from verse_tag_conventions import BESORAH, TANAJ, canonicalize_tag
 
 
 class NormalizeVerseTagsTests(unittest.TestCase):
@@ -36,6 +36,30 @@ class NormalizeVerseTagsTests(unittest.TestCase):
         self.assertEqual(canonicalize_tag("#galatians_3_13"), "#galatas_3_13")
         self.assertEqual(canonicalize_tag("#shemuel_2_12_1-15"), "#2_samuel_12_1-15")
         self.assertEqual(canonicalize_tag("#iojanan_7_53-8_11"), "#juan_7_53-8_11")
+
+    def test_tanaj_uses_hebrew_transliterations(self) -> None:
+        self.assertEqual(
+            canonicalize_tag("#genesis_1_1", TANAJ),
+            "#bereshit_1_1",
+        )
+        self.assertEqual(
+            canonicalize_tag("#isaias_53_5", TANAJ),
+            "#yeshayahu_53_5",
+        )
+
+    def test_besorah_uses_spanish_book_names(self) -> None:
+        self.assertEqual(
+            canonicalize_tag("#yojanan_1_1", BESORAH),
+            "#juan_1_1",
+        )
+        self.assertEqual(
+            canonicalize_tag("#markos_1_1", BESORAH),
+            "#marcos_1_1",
+        )
+
+    def test_cross_corpus_citations_keep_the_cited_book_convention(self) -> None:
+        self.assertEqual(canonicalize_tag("#genesis_1_1", BESORAH), "#bereshit_1_1")
+        self.assertEqual(canonicalize_tag("#juan_1_1", TANAJ), "#juan_1_1")
 
 
 if __name__ == "__main__":

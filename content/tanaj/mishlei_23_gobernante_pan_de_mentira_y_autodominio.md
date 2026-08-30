@@ -4,11 +4,11 @@ description: "Estudio de Mishlei 23:1-5 sobre discernir la mesa del gobernante, 
 date: 2026-08-05
 tags: [mishlei, mishlei_23, discernimiento, dominio_propios, riqueza]
 references:
-  - "#proverbios_23_1"
-  - "#proverbios_23_2"
-  - "#proverbios_23_3"
-  - "#proverbios_23_4"
-  - "#proverbios_23_5"
+  - "#mishlei_23_1"
+  - "#mishlei_23_2"
+  - "#mishlei_23_3"
+  - "#mishlei_23_4"
+  - "#mishlei_23_5"
 sources:
   - "https://www.youtube.com/watch?v=P5vAFttwh24"
   - "docs/scriptures/oe/json/proverbs/23.json"
@@ -30,11 +30,11 @@ Esta nota organiza la exposición pública sobre el inicio de Mishlei 23. Se cot
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_23_1 | כי תשב ללחום את מושל בין תבין את אשר לפניך | Cuando te sientes a comer con un gobernante, comprendiendo, discierne lo que está delante de ti. |
-| #proverbios_23_2 | ושמת שכין בלעך אם בעל נפש אתה | Y pon cuchillo en tu garganta, si eres poseedor de apetito. |
-| #proverbios_23_3 | אל תתאו למטעמותיו והוא לחם כזבים | No desees sus delicias, pues él es pan de mentiras. |
-| #proverbios_23_4 | אל תיגע להעשיר מבינתך חדל | No te fatigues para hacerte rico; de tu entendimiento hazlo cesar. |
-| #proverbios_23_5 | התעוף התעיף עיניך בו ואיננו כי עשה יעשה לו כנפים כנשר ועיף יעוף השמים | Vuela tu ojo sobre ello y ya no está; porque, haciendo, se hace alas, como águila, y vuela a los cielos. |
+| #mishlei_23_1 | כי תשב ללחום את מושל בין תבין את אשר לפניך | Cuando te sientes a comer con un gobernante, comprendiendo, discierne lo que está delante de ti. |
+| #mishlei_23_2 | ושמת שכין בלעך אם בעל נפש אתה | Y pon cuchillo en tu garganta, si eres poseedor de apetito. |
+| #mishlei_23_3 | אל תתאו למטעמותיו והוא לחם כזבים | No desees sus delicias, pues él es pan de mentiras. |
+| #mishlei_23_4 | אל תיגע להעשיר מבינתך חדל | No te fatigues para hacerte rico; de tu entendimiento hazlo cesar. |
+| #mishlei_23_5 | התעוף התעיף עיניך בו ואיננו כי עשה יעשה לו כנפים כנשר ועיף יעוף השמים | Vuela tu ojo sobre ello y ya no está; porque, haciendo, se hace alas, como águila, y vuela a los cielos. |
 
 ## Discernir la mesa y a quien gobierna
 

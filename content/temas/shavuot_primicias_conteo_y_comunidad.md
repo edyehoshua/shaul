@@ -10,24 +10,24 @@ tags:
   - torah
   - comunidad
 references:
-  - "#exodo_23_14"
-  - "#exodo_23_16"
-  - "#exodo_23_19"
-  - "#levitico_23_9"
-  - "#levitico_23_10"
-  - "#levitico_23_15"
-  - "#levitico_23_16"
-  - "#levitico_23_17"
-  - "#levitico_23_22"
-  - "#numeros_28_26"
-  - "#deuteronomio_16_9"
-  - "#deuteronomio_16_11"
-  - "#deuteronomio_16_12"
-  - "#deuteronomio_26_2"
-  - "#deuteronomio_26_5"
-  - "#deuteronomio_26_10"
-  - "#exodo_20_1"
-  - "#exodo_20_2"
+  - "#shemot_23_14"
+  - "#shemot_23_16"
+  - "#shemot_23_19"
+  - "#vayikra_23_9"
+  - "#vayikra_23_10"
+  - "#vayikra_23_15"
+  - "#vayikra_23_16"
+  - "#vayikra_23_17"
+  - "#vayikra_23_22"
+  - "#bamidbar_28_26"
+  - "#devarim_16_9"
+  - "#devarim_16_11"
+  - "#devarim_16_12"
+  - "#devarim_26_2"
+  - "#devarim_26_5"
+  - "#devarim_26_10"
+  - "#shemot_20_1"
+  - "#shemot_20_2"
 sources:
   - "https://www.youtube.com/watch?v=sfGXMp9LYCc"
   - "docs/scriptures/oe/json/exodus/23.json"
@@ -53,13 +53,13 @@ Esta nota organiza la clase _Jag Hashavu'ot 2020_. La transcripción automática
 
 | Referencia           | Texto hebreo local (OE, sin nikud)                                                                                       | Función en la enseñanza                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| #exodo_23_14, 16    | שלש רגלים תחג לי בשנה · וחג הקציר בכורי מעשיך אשר תזרע בשדה                                                              | Primera mención: peregrinaciones, cosecha y primeros frutos.                                 |
-| #exodo_23_19        | ראשית בכורי אדמתך תביא בית יהוה אלהיך                                                                                    | Lo primero y mejor pertenece a la casa de יהוה; no autoriza imponer el primer salario.       |
-| #levitico_23_10-11     | כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן · והניף את העמר לפני יהוה לרצנכם      | El עמר inaugura la cosecha delante de יהוה.                                                  |
-| #levitico_23_15-17     | וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה · עד ממחרת השבת השביעת תספרו חמשים יום... לחם תנופה שתים... בכורים ליהוה | El conteo conduce a una ofrenda nueva de dos panes, llamados primicias.                      |
-| #levitico_23_21-22     | וקראתם בעצם היום הזה מקרא קדש יהיה לכם... · ובקצרכם את קציר ארצכם לא תכלה... לעני ולגר תעזב אתם                          | La cita es convocación santa y la cosecha conserva un derecho para el pobre y el extranjero. |
-| #deuteronomio_16_9-12     | שבעה שבעת תספר לך... · ושמחת לפני יהוה אלהיך... · וזכרת כי עבד היית במצרים                                               | Conteo, alegría, inclusión y memoria de la esclavitud.                                       |
-| #deuteronomio_26_2, 5, 10 | ולקחת מראשית כל פרי האדמה... · ארמי אבד אבי... · הנה הבאתי את ראשית פרי האדמה                                            | La primicia se presenta con una confesión histórica, no como fórmula de prosperidad.         |
+| #shemot_23_14, 16    | שלש רגלים תחג לי בשנה · וחג הקציר בכורי מעשיך אשר תזרע בשדה                                                              | Primera mención: peregrinaciones, cosecha y primeros frutos.                                 |
+| #shemot_23_19        | ראשית בכורי אדמתך תביא בית יהוה אלהיך                                                                                    | Lo primero y mejor pertenece a la casa de יהוה; no autoriza imponer el primer salario.       |
+| #vayikra_23_10-11     | כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן · והניף את העמר לפני יהוה לרצנכם      | El עמר inaugura la cosecha delante de יהוה.                                                  |
+| #vayikra_23_15-17     | וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה · עד ממחרת השבת השביעת תספרו חמשים יום... לחם תנופה שתים... בכורים ליהוה | El conteo conduce a una ofrenda nueva de dos panes, llamados primicias.                      |
+| #vayikra_23_21-22     | וקראתם בעצם היום הזה מקרא קדש יהיה לכם... · ובקצרכם את קציר ארצכם לא תכלה... לעני ולגר תעזב אתם                          | La cita es convocación santa y la cosecha conserva un derecho para el pobre y el extranjero. |
+| #devarim_16_9-12     | שבעה שבעת תספר לך... · ושמחת לפני יהוה אלהיך... · וזכרת כי עבד היית במצרים                                               | Conteo, alegría, inclusión y memoria de la esclavitud.                                       |
+| #devarim_26_2, 5, 10 | ולקחת מראשית כל פרי האדמה... · ארמי אבד אבי... · הנה הבאתי את ראשית פרי האדמה                                            | La primicia se presenta con una confesión histórica, no como fórmula de prosperidad.         |
 
 ## De la primera mención a la fiesta de la cosecha
 
@@ -99,12 +99,12 @@ Al final, Eric vuelve a Shemot 20:1-2: יהוה habla y se presenta como quien s
 
 | Unidad textual   | Observación concreta de la clase                                                                                                     | Tratamiento en esta nota                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| #exodo_23_14-19 | Shavuot aparece primero como fiesta de cosecha y primicias; el pasaje no prueba de manera explícita la fecha de entrega de la Torah. | Apoyo textual y calificación de la inferencia histórica.                               |
-| #levitico_23_9-17  | El עמר inaugura la cosecha y el conteo de siete semanas conduce a cincuenta días y a dos panes de primicias.                         | Desarrollo en orden, hoja de comparación y aclaración de _omer_, _reshit_ y _bikurim_. |
-| #levitico_23_21-22 | La convocación santa y el dejar parte de la cosecha muestran que la fiesta tiene dimensión comunitaria y social.                     | Apoyo textual; se vincula la alegría con cuidado del pobre y del extranjero.           |
-| #deuteronomio_16_9-12 | La celebración incluye familia, levita, extranjero, huérfano y viuda, y recuerda la esclavitud en Mitzráim.                          | Apoyo textual y explicación del eje memoria-alegría-inclusión.                         |
-| #deuteronomio_26_2-11 | La primicia se acompaña de una declaración de historia, liberación y gratitud; no es el primer salario.                              | Contraste textual con la práctica moderna que Eric critica.                            |
-| #exodo_20_1-17  | Las diez palabras forman a un pueblo liberado; la clase propone la imagen del alfarero y sus diez dedos.                             | La imagen se conserva como pedagogía, no como significado literal del pasaje.          |
+| #shemot_23_14-19 | Shavuot aparece primero como fiesta de cosecha y primicias; el pasaje no prueba de manera explícita la fecha de entrega de la Torah. | Apoyo textual y calificación de la inferencia histórica.                               |
+| #vayikra_23_9-17  | El עמר inaugura la cosecha y el conteo de siete semanas conduce a cincuenta días y a dos panes de primicias.                         | Desarrollo en orden, hoja de comparación y aclaración de _omer_, _reshit_ y _bikurim_. |
+| #vayikra_23_21-22 | La convocación santa y el dejar parte de la cosecha muestran que la fiesta tiene dimensión comunitaria y social.                     | Apoyo textual; se vincula la alegría con cuidado del pobre y del extranjero.           |
+| #devarim_16_9-12 | La celebración incluye familia, levita, extranjero, huérfano y viuda, y recuerda la esclavitud en Mitzráim.                          | Apoyo textual y explicación del eje memoria-alegría-inclusión.                         |
+| #devarim_26_2-11 | La primicia se acompaña de una declaración de historia, liberación y gratitud; no es el primer salario.                              | Contraste textual con la práctica moderna que Eric critica.                            |
+| #shemot_20_1-17  | Las diez palabras forman a un pueblo liberado; la clase propone la imagen del alfarero y sus diez dedos.                             | La imagen se conserva como pedagogía, no como significado literal del pasaje.          |
 
 ## Referencias judías y fuentes externas
 
@@ -127,7 +127,7 @@ Shavuot ordena una memoria agradecida: יהוה libera, forma, hace fructificar 
 
 ## Ver también
 
-- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: conteo, primicias y Shavuot]]
+- [[vayikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: conteo, primicias y Shavuot]]
 - [[temas/shavuot_convocacion_primicias_y_promesa|Shavuot: convocación, primicias y promesa]]
 - [[temas/las_613_mitzvot_escuchar_servir_y_discernir_la_torah|Las mitzvot: escuchar, servir y discernir la Torah]]
 

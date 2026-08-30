@@ -12,7 +12,7 @@ tags:
 references:
   - "#romanos_8_1-4"
   - "#romanos_8_5-17"
-  - "#isaias_42_21"
+  - "#yeshayahu_42_21"
   - "#mateo_26_41"
 sources:
   - "https://www.youtube.com/watch?v=hWLNM5oTVzU"
@@ -40,7 +40,7 @@ Esta nota organiza la sesión pública sobre Romanos 8:1-17, que la clase deja a
 | #romanos_8_5-8 | La carne medita en lo de la carne; el Rúaj, en lo del Rúaj. La intención de la carne es muerte y enemistad, porque no se somete a la Torah de Elohim. | «Carne» y «Rúaj» describen orientaciones rivales de la mente y de la vida. |
 | #romanos_8_9-13 | El Rúaj de Elohim y el Rúaj del Mesías moran en el creyente; por el Rúaj se hacen morir las obras de la carne. | La presencia del Rúaj tiene fruto práctico: muerte de las obras pecaminosas y vida. |
 | #romanos_8_14-17 | Los llevados por el Rúaj son hijos de Elohim; han recibido Rúaj de adopción, claman «¡Abá!», son herederos y comparten la aflicción del Mesías antes de la gloria. | La filiación se reconoce por conducción, relación y perseverancia, no por una afirmación universal sobre toda la humanidad. |
-| #isaias_42_21 | «יהוה se deleitó por el bien de su justicia, engrandecerá la Torah y la glorificará». | La conexión de la clase con una Torah engrandecida apoya el contraste entre debilidad humana y valor de la Torah; no es una cita de Romanos 8. |
+| #yeshayahu_42_21 | «יהוה se deleitó por el bien de su justicia, engrandecerá la Torah y la glorificará». | La conexión de la clase con una Torah engrandecida apoya el contraste entre debilidad humana y valor de la Torah; no es una cita de Romanos 8. |
 | #mateo_26_41 | «Velen y oren... el espíritu está listo para ir a su Creador, pero la carne es débil y enferma». | Ilustra la tensión entre disposición y debilidad, aunque no decide por sí solo cómo traducir cada aparición de Rúaj en Romanos. |
 
 El corpus TTH local consultado para esta nota no contiene un archivo de Ezequiel; por eso la alusión de la clase a Ezequiel 36:26-27 se registra como conexión pendiente y no se publica como cita textual.

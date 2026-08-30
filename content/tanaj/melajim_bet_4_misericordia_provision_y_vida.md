@@ -1,6 +1,6 @@
 ---
 title: "Melajim Bet 4–5: deuda, vida, provisión y reclamo"
-description: "Estudio canónico de 2 Reyes 4–5: la deuda de la viuda, la hospitalidad de la shunamita, la vida restaurada, la provisión en Gilgal y el reclamo de יהוה que recoge a Naamán de su tzaraat."
+description: "Estudio canónico de 2 Melajim 4–5: la deuda de la viuda, la hospitalidad de la shunamita, la vida restaurada, la provisión en Gilgal y el reclamo de יהוה que recoge a Naamán de su tzaraat."
 date: 2026-07-29
 tags:
   - tanaj
@@ -10,17 +10,17 @@ tags:
   - eliysha
   - naaman
 references:
-  - "#2_reyes_4_1-7"
-  - "#2_reyes_4_8-17"
-  - "#2_reyes_4_18-37"
-  - "#2_reyes_4_38-41"
-  - "#2_reyes_4_42-44"
-  - "#2_reyes_5_1-8"
-  - "#2_reyes_5_9-14"
-  - "#2_reyes_5_15-19"
-  - "#levitico_13_1-3"
-  - "#levitico_14_1-2"
-  - "#numeros_6_22-27"
+  - "#melajim_bet_4_1-7"
+  - "#melajim_bet_4_8-17"
+  - "#melajim_bet_4_18-37"
+  - "#melajim_bet_4_38-41"
+  - "#melajim_bet_4_42-44"
+  - "#melajim_bet_5_1-8"
+  - "#melajim_bet_5_9-14"
+  - "#melajim_bet_5_15-19"
+  - "#vayikra_13_1-3"
+  - "#vayikra_14_1-2"
+  - "#bamidbar_6_22-27"
   - "#mateo_14_15-21"
   - "#marcos_8_1-9"
   - "#lucas_4_24-27"
@@ -36,7 +36,7 @@ translation: "[TTH]"
 
 # Tesis
 
-La haftará de Tazria recorre #2_reyes_4_38-44 y #2_reyes_5_1-19 como un arco de provisión y reclamo: primero יהוה quita la muerte de la olla y multiplica panes de primicias para los discípulos de los profetas; después recoge a Naamán de su **צרעת** mediante la palabra del profeta, no mediante la imaginación del general. Eric de Jesús Rodríguez Mendoza lee el bloque desde Vayiqrá 12–14: distingue al afectado (**צרוע**) del que está en rehabilitación (**מצורע** / proceso de **טהר**), interpreta la **צרעת** como reclamo divino y no como lepra bacteriana moderna, y hace del relato de Naamán una confrontación entre expectativa carnal y obediencia sencilla. El hebreo local confirma hambre, milagro de palabra, victoria otorgada por יהוה, choque de Naamán y carne devuelta como de siervo pequeño; las hipótesis sobre el origen israelita de Naamán y el alcance exacto de “vete en shalom” se conservan como exposición atribuida y se marcan donde el texto no las cierra.
+La haftará de Tazria recorre #melajim_bet_4_38-44 y #melajim_bet_5_1-19 como un arco de provisión y reclamo: primero יהוה quita la muerte de la olla y multiplica panes de primicias para los discípulos de los profetas; después recoge a Naamán de su **צרעת** mediante la palabra del profeta, no mediante la imaginación del general. Eric de Jesús Rodríguez Mendoza lee el bloque desde Vayiqrá 12–14: distingue al afectado (**צרוע**) del que está en rehabilitación (**מצורע** / proceso de **טהר**), interpreta la **צרעת** como reclamo divino y no como lepra bacteriana moderna, y hace del relato de Naamán una confrontación entre expectativa carnal y obediencia sencilla. El hebreo local confirma hambre, milagro de palabra, victoria otorgada por יהוה, choque de Naamán y carne devuelta como de siervo pequeño; las hipótesis sobre el origen israelita de Naamán y el alcance exacto de “vete en shalom” se conservan como exposición atribuida y se marcan donde el texto no las cierra.
 
 ## Alcance de la nota
 
@@ -46,15 +46,15 @@ Se sigue el rango de las clases en orden textual (4:1–5:19). La exposición de
 
 | Referencia           | Texto local TTH                                                                                                                                                                      | Función en el argumento                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| #2_reyes_4_1-7   | TTH: la viuda de un hijo de los profetas clama por la deuda; Elishá pregunta qué tiene en casa, manda pedir recipientes vacíos y el aceite se detiene cuando ya no queda recipiente. | La palabra profética protege la vida de la familia sin convertir la provisión en espectáculo.  |
-| #2_reyes_4_8-17  | TTH: la mujer de Shunem reconoce a un hombre de Elohim santo, le prepara una cámara y recibe el anuncio de un hijo.                                                                  | Hospitalidad discernida y promesa inesperada antes de la crisis.                               |
-| #2_reyes_4_18-37 | TTH: el niño muere, la madre se aferra a la búsqueda de Elishá, él ora a יהוה y el niño abre los ojos.                                                                               | La vida restaurada procede de la súplica y de la acción profética bajo יהוה, no de un amuleto. |
-| #2_reyes_4_38-41 | **ואלישע שב הגלגלה והרעב בארץ ובני הנביאים ישבים לפניו ... מות בסיר איש האלהים ... ויאמר וקחו קמח וישלך אל הסיר ... ולא היה דבר רע בסיר**                                            | Hambre en Gilgal, olla tóxica y palabra que quita lo malo.                                     |
-| #2_reyes_4_42-44 | **ואיש בא מבעל שלשה ... לחם בכורים עשרים לחם שערים וכרמל בצקלנו ... מה אתן זה לפני מאה איש ... כי כה אמר יהוה אכל והותר ... ויאכלו ויותרו כדבר יהוה**                                | Panes de primicias, objeción del servidor y multiplicación por mandato de יהוה.                |
-| #2_reyes_5_1-3   | **ונעמן שר צבא מלך ארם ... ונשא פנים כי בו נתן יהוה תשועה לארם ... גבור חיל מצרע ... אחלי אדני לפני הנביא אשר בשמרון אז יאסף אתו מצרעתו**                                            | Grandeza, victoria otorgada y sierva que desea recolección desde la tzaraat.                   |
-| #2_reyes_5_7-8   | **ויקרע בגדיו ... האלהים אני להמית ולהחיות ... למה קרעת בגדיך יבא נא אלי וידע כי יש נביא בישראל**                                                                                    | El rey rasga identidad; Elisha redirige al profeta en Israel.                                  |
-| #2_reyes_5_10-14 | **הלוך ורחצת שבע פעמים בירדן ... וטהר ... ויקצף נעמן ... ויטבל בירדן שבע פעמים ... וישב בשרו כבשר נער קטן ויטהר**                                                                    | Orden sencilla, choque de expectativas y rehabilitación.                                       |
-| #2_reyes_5_15-19 | **הנה נא ידעתי כי אין אלהים בכל הארץ כי אם בישראל ... לך לשלום**                                                                                                                     | Confesión monoteísta territorial, oferta de bendición y despedida de shalom.                   |
+| #melajim_bet_4_1-7   | TTH: la viuda de un hijo de los profetas clama por la deuda; Elishá pregunta qué tiene en casa, manda pedir recipientes vacíos y el aceite se detiene cuando ya no queda recipiente. | La palabra profética protege la vida de la familia sin convertir la provisión en espectáculo.  |
+| #melajim_bet_4_8-17  | TTH: la mujer de Shunem reconoce a un hombre de Elohim santo, le prepara una cámara y recibe el anuncio de un hijo.                                                                  | Hospitalidad discernida y promesa inesperada antes de la crisis.                               |
+| #melajim_bet_4_18-37 | TTH: el niño muere, la madre se aferra a la búsqueda de Elishá, él ora a יהוה y el niño abre los ojos.                                                                               | La vida restaurada procede de la súplica y de la acción profética bajo יהוה, no de un amuleto. |
+| #melajim_bet_4_38-41 | **ואלישע שב הגלגלה והרעב בארץ ובני הנביאים ישבים לפניו ... מות בסיר איש האלהים ... ויאמר וקחו קמח וישלך אל הסיר ... ולא היה דבר רע בסיר**                                            | Hambre en Gilgal, olla tóxica y palabra que quita lo malo.                                     |
+| #melajim_bet_4_42-44 | **ואיש בא מבעל שלשה ... לחם בכורים עשרים לחם שערים וכרמל בצקלנו ... מה אתן זה לפני מאה איש ... כי כה אמר יהוה אכל והותר ... ויאכלו ויותרו כדבר יהוה**                                | Panes de primicias, objeción del servidor y multiplicación por mandato de יהוה.                |
+| #melajim_bet_5_1-3   | **ונעמן שר צבא מלך ארם ... ונשא פנים כי בו נתן יהוה תשועה לארם ... גבור חיל מצרע ... אחלי אדני לפני הנביא אשר בשמרון אז יאסף אתו מצרעתו**                                            | Grandeza, victoria otorgada y sierva que desea recolección desde la tzaraat.                   |
+| #melajim_bet_5_7-8   | **ויקרע בגדיו ... האלהים אני להמית ולהחיות ... למה קרעת בגדיך יבא נא אלי וידע כי יש נביא בישראל**                                                                                    | El rey rasga identidad; Elisha redirige al profeta en Israel.                                  |
+| #melajim_bet_5_10-14 | **הלוך ורחצת שבע פעמים בירדן ... וטהר ... ויקצף נעמן ... ויטבל בירדן שבע פעמים ... וישב בשרו כבשר נער קטן ויטהר**                                                                    | Orden sencilla, choque de expectativas y rehabilitación.                                       |
+| #melajim_bet_5_15-19 | **הנה נא ידעתי כי אין אלהים בכל הארץ כי אם בישראל ... לך לשלום**                                                                                                                     | Confesión monoteísta territorial, oferta de bendición y despedida de shalom.                   |
 
 ## Mapa de la enseñanza de Eric
 
@@ -68,9 +68,9 @@ Se sigue el rango de las clases en orden textual (4:1–5:19). La exposición de
 - **4:8-17 — la cámara de la shunamita:** Eric presenta a la mujer de Shunem como alguien que discierne la santidad del hombre de Elohim y prepara un lugar concreto para su servicio. El TTH confirma la cámara, sus objetos y el anuncio del hijo; la lectura de la habitación como modelo universal de hospedaje es **aplicación**.
 - **4:18-37 — muerte, aferramiento y oración:** la exposición sigue la secuencia del niño, la respuesta contenida de la madre, el bastón que no produce resultado y la oración de Elishá a יהוה. El texto respalda la insuficiencia del bastón y la restauración del niño; no autoriza convertir los gestos físicos en una técnica repetible.
 
-## Deuda, aceite y vida recibida — 4:1-37 #2_reyes_4_1-37
+## Deuda, aceite y vida recibida — 4:1-37 #melajim_bet_4_1-37
 
-La clase de Vayerá' comienza con una mujer de las mujeres de los hijos de los profetas. Su esposo ha muerto, el acreedor viene por los dos niños y ella clama a Elishá (#2_reyes_4_1). Eric conserva el peso social de la escena: la viuda no llega con abundancia escondida, sino con una deuda que amenaza el futuro de sus hijos. El profeta no le ofrece una consigna abstracta; pregunta qué tiene en casa. Ella responde que solo posee una jarra de aceite.
+La clase de Vayerá' comienza con una mujer de las mujeres de los hijos de los profetas. Su esposo ha muerto, el acreedor viene por los dos niños y ella clama a Elishá (#melajim_bet_4_1). Eric conserva el peso social de la escena: la viuda no llega con abundancia escondida, sino con una deuda que amenaza el futuro de sus hijos. El profeta no le ofrece una consigna abstracta; pregunta qué tiene en casa. Ella responde que solo posee una jarra de aceite.
 
 La orden es concreta: pedir recipientes vacíos a los vecinos, no pocos, entrar y cerrar la puerta detrás de ella y de sus hijos, verter el aceite y apartar los llenos. La forma **(אסף)**, _asaf_, «recoger o reunir», es una equivalencia hebrea aproximada para describir la acción de reunir recipientes; no debe confundirse con el **אסף** de 5:3, donde la niña habla de recoger a Naamán de su tzaraat. En 4:6 el aceite se detiene cuando ya no hay recipiente. Eric subraya que el relato no termina en una acumulación sin propósito: Elishá manda vender, pagar la deuda y vivir con el resto. La provisión está ordenada a vida y responsabilidad, no a una promesa genérica de riqueza.
 
@@ -80,7 +80,7 @@ El niño crece y muere en las rodillas de su madre. Eric sigue con atención la 
 
 El bastón enviado con Guejazí no despierta al niño. Elishá entra, cierra la puerta y ora a יהוה; luego se extiende sobre el niño, vuelve a andar por la casa y se extiende otra vez hasta que el muchacho estornuda siete veces y abre los ojos. La clase puede describir los gestos, pero el control textual está en la oración y en la atribución de la vida a יהוה. No hay base para presentar el bastón, el contacto corporal o el número siete como una fórmula autónoma. La mujer recibe a su hijo y sale: el episodio termina en restitución, no en exhibición del profeta.
 
-## Hambre, olla y panes en Gilgal — 4:38-44 #2_reyes_4_38-44
+## Hambre, olla y panes en Gilgal — 4:38-44 #melajim_bet_4_38-44
 
 Eric no entra de golpe en Naamán. Remonta a 4:38: Elisha vuelve a Gilgal, hay hambre en la tierra y los discípulos de los profetas están sentados delante de él. El hebreo local tiene **בני הנביאים ישבים לפניו**. La clase insiste en que **בן** aquí funciona como discípulo en círculo profético, y que más adelante “pueblo” nombra a ese grupo, no a todo Israel. Esa precisión contextual es útil y **aproximada**: el relato usa el léxico familiar de los círculos proféticos.
 
@@ -88,9 +88,9 @@ La olla se llena con **פקעת שדה**, calabazas o melones silvestres de una 
 
 Inmediatamente llega el hombre de Baal-Shalishah con **לחם בכורים**, veinte panes de cebada y **כרמל** en su alforja. Eric distingue con cuidado primicias y estados del grano, y recuerda que no se confundan ofrendas y calendarios. El servidor objeta: **מה אתן זה לפני מאה איש**. Elisha no improvisa poder propio: **כי כה אמר יהוה אכל והותר**. Comieron y sobró **כדבר יהוה**. Aquí la clase traza el puente hacia las multiplicaciones del Mesías: la palabra de יהוה sostiene y multiplica. El paralelismo canónico es legítimo como eco; no convierte a Elisha en mera “prefiguración plana” ni agota el relato de Reyes.
 
-## Naamán: grandeza, reclamo y sierva pequeña — 5:1-8 #2_reyes_5_1-8
+## Naamán: grandeza, reclamo y sierva pequeña — 5:1-8 #melajim_bet_5_1-8
 
-El capítulo 5 abre con densidad teológica. Naamán es jefe del ejército de Aram, hombre grande delante de su señor y **נשא פנים**. Eric conecta la construcción con el gesto de “levantar el rostro” y, de modo pedagógico, con la bendición sacerdotal que pide que יהוה alce su rostro (#numeros_6_22-27). El sentido normal de **נשא פנים** es favor o estima destacada; la clase lo oye también como reconocimiento que saca a alguien de la postración. Esa segunda capa es **aproximada**.
+El capítulo 5 abre con densidad teológica. Naamán es jefe del ejército de Aram, hombre grande delante de su señor y **נשא פנים**. Eric conecta la construcción con el gesto de “levantar el rostro” y, de modo pedagógico, con la bendición sacerdotal que pide que יהוה alce su rostro (#bamidbar_6_22-27). El sentido normal de **נשא פנים** es favor o estima destacada; la clase lo oye también como reconocimiento que saca a alguien de la postración. Esa segunda capa es **aproximada**.
 
 Lo decisivo está en la causal: **כי בו נתן יהוה תשועה לארם**. No es propaganda aramea: el narrador atribuye la victoria a יהוה. Y sin embargo el hombre es **מצרע**. Eric plantea preguntas que la clase no resuelve de un plumazo: ¿era Naamán consciente del respaldo de יהוה? ¿Hay un reclamo divino sobre él? ¿Por qué un extranjero aparece bajo el léxico de tzaraat que Vayiqrá asocia al santuario de Israel? Propone, como posibilidad, un origen o formación israelita distorsionada, apoyándose en la presencia de la sierva israelita y en patrones bíblicos de desertores y lealtades cruzadas. El texto **no** declara la genealogía de Naamán; la hipótesis se mantiene abierta y atribuida.
 
@@ -98,7 +98,7 @@ La niña cautiva dice a su señora: **אחלי אדני לפני הנביא אש
 
 Cuando el rey de Israel lee la carta, rasga sus vestidos y pregunta si él es Elohim para matar y dar vida. Eric lee el rasgar **בגדים** como acto público de identidad rota por la emoción, y recuerda que al sumo sacerdote se le prohibía ese gesto. Elisha responde con la pregunta correctiva: **למה קרעת בגדיך** —que venga a mí y sepa que hay profeta en Israel. El texto sostiene el contraste entre pánico real y presencia profética; la aplicación (“cuántas veces rasgamos identidad por la noticia”) es pastoral y atribuida.
 
-## Jordán, shock y carne de siervo pequeño — 5:9-19 #2_reyes_5_9-19
+## Jordán, shock y carne de siervo pequeño — 5:9-19 #melajim_bet_5_9-19
 
 Naamán llega con caballos y carro hasta la puerta. Elisha ni siquiera sale: envía un mensajero con una orden humilde: ve, lávate siete veces en el Jordán, y tu carne volverá a ti y **וטהר**. Eric insiste en que **טהר** aquí es quedar apto/rehabilitado, el verbo de Vayiqrá 14, no un eufemismo vago de “limpieza moral” desconectada del relato.
 
@@ -128,8 +128,8 @@ Eric interpreta ese shalom como contención: deja de multiplicar planes cultuale
 
 ## Conexiones principales
 
-- #levitico_13_1-3 y #levitico_14_1-2 suministran el marco de diagnóstico y rehabilitación que Eric usa para leer a Naamán.
-- #numeros_6_22-27 ilumina, de modo aproximado, el lenguaje de rostro levantado.
+- #vayikra_13_1-3 y #vayikra_14_1-2 suministran el marco de diagnóstico y rehabilitación que Eric usa para leer a Naamán.
+- #bamidbar_6_22-27 ilumina, de modo aproximado, el lenguaje de rostro levantado.
 - #mateo_14_15-21 y #marcos_8_1-9 son el eco canónico de la multiplicación por palabra que la clase asocia a 4:42-44.
 - #lucas_4_24-27 muestra por qué el caso de Naamán puede predicarse como advertencia y esperanza fuera de las expectativas locales.
 

@@ -4,12 +4,12 @@ description: "La alegría, la aflicción y el temor de יהוה se disciernen po
 date: 2026-08-05
 tags: [mishlei, mishlei_15, corazon, espiritu, temor, afliccion, sabiduria]
 references:
-  - "#proverbios_15_12"
-  - "#proverbios_15_13"
-  - "#proverbios_15_14"
-  - "#proverbios_15_15"
-  - "#proverbios_15_16"
-  - "#proverbios_15_17"
+  - "#mishlei_15_12"
+  - "#mishlei_15_13"
+  - "#mishlei_15_14"
+  - "#mishlei_15_15"
+  - "#mishlei_15_16"
+  - "#mishlei_15_17"
   - "#juan_16_33"
   - "#mateo_5_3"
   - "#marcos_10_29"
@@ -34,12 +34,12 @@ Esta nota organiza la clase sobre Mishlei 15:12-17. Se conserva la observación 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_15_12 | לא יאהב לץ הוכח לו אל חכמים לא ילך | El burlador no ama <em>al</em> que lo reprende, a los sabios no va. |
-| #proverbios_15_13 | לב שמח ייטב פנים ובעצבת לב רוח נכאה | El corazón alegre hace bueno el rostro, pero en el dolor de corazón, el espíritu es herido. |
-| #proverbios_15_14 | לב נבון יבקש דעת ופני פי כסילים ירעה אולת | El corazón entendido buscará conocimiento, pero la boca de los indisciplinados pasta tontería. |
-| #proverbios_15_15 | כל ימי עני רעים וטוב לב משתה תמיד | Todos los días del afligido son malos, pero el de buen corazón <em>tiene</em> banquete continuo. |
-| #proverbios_15_16 | טוב מעט ביראת יהוה מאוצר רב ומהומה בו | Mejor es lo poco con el temor de יהוה que el mucho tesoro, y disturbio en él. |
-| #proverbios_15_17 | טוב ארחת ירק ואהבה שם משור אבוס ושנאה בו | Mejor es una ración de vegetales y amor allí, que de buey engordado, y odio en él. |
+| #mishlei_15_12 | לא יאהב לץ הוכח לו אל חכמים לא ילך | El burlador no ama <em>al</em> que lo reprende, a los sabios no va. |
+| #mishlei_15_13 | לב שמח ייטב פנים ובעצבת לב רוח נכאה | El corazón alegre hace bueno el rostro, pero en el dolor de corazón, el espíritu es herido. |
+| #mishlei_15_14 | לב נבון יבקש דעת ופני פי כסילים ירעה אולת | El corazón entendido buscará conocimiento, pero la boca de los indisciplinados pasta tontería. |
+| #mishlei_15_15 | כל ימי עני רעים וטוב לב משתה תמיד | Todos los días del afligido son malos, pero el de buen corazón <em>tiene</em> banquete continuo. |
+| #mishlei_15_16 | טוב מעט ביראת יהוה מאוצר רב ומהומה בו | Mejor es lo poco con el temor de יהוה que el mucho tesoro, y disturbio en él. |
+| #mishlei_15_17 | טוב ארחת ירק ואהבה שם משור אבוס ושנאה בו | Mejor es una ración de vegetales y amor allí, que de buey engordado, y odio en él. |
 
 ## La reprensión separa al burlador del corazón que aprende
 
@@ -73,10 +73,10 @@ El verso 16 ofrece el criterio de evaluación: “mejor es lo poco con el temor 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_15_12 | El burlador evita tanto al que reprende como a los sabios; oír no equivale a escuchar y obedecer. | Apoyo textual, con aplicación de la clase atribuida. |
-| #proverbios_15_13-14 | “Hacer bueno el rostro” no debe reducirse a belleza emocional; el corazón entendido busca conocimiento y el necio se alimenta de tontería. | Clarificación léxica y cualificación de la inferencia. |
-| #proverbios_15_15-16 | El banquete continuo puede representar una abundancia engañosa, mientras el siervo puede sufrir ahora y esperar la vida futura. | Conexión con Lucas 16, Juan 16 y Marcos 10; inferencia calificada. |
-| #proverbios_15_17 | Vegetales con amor superan al buey engordado con odio. | Apoyo textual directo y aplicación comunitaria. |
+| #mishlei_15_12 | El burlador evita tanto al que reprende como a los sabios; oír no equivale a escuchar y obedecer. | Apoyo textual, con aplicación de la clase atribuida. |
+| #mishlei_15_13-14 | “Hacer bueno el rostro” no debe reducirse a belleza emocional; el corazón entendido busca conocimiento y el necio se alimenta de tontería. | Clarificación léxica y cualificación de la inferencia. |
+| #mishlei_15_15-16 | El banquete continuo puede representar una abundancia engañosa, mientras el siervo puede sufrir ahora y esperar la vida futura. | Conexión con Lucas 16, Juan 16 y Marcos 10; inferencia calificada. |
+| #mishlei_15_17 | Vegetales con amor superan al buey engordado con odio. | Apoyo textual directo y aplicación comunitaria. |
 
 ## Conexiones principales
 

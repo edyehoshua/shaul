@@ -6,11 +6,11 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#eclesiastes_1_1"
-  - "#eclesiastes_1_2"
-  - "#eclesiastes_1_3"
-  - "#eclesiastes_1_9"
-  - "#eclesiastes_1_18"
+  - "#qohelet_1_1"
+  - "#qohelet_1_2"
+  - "#qohelet_1_3"
+  - "#qohelet_1_9"
+  - "#qohelet_1_18"
 sources:
   - "https://www.youtube.com/watch?v=BeQAO-iBr0o"
   - "https://www.youtube.com/watch?v=MV63b73MhTU"
@@ -39,11 +39,11 @@ Qohélet 1 considera el límite de la ganancia bajo el sol y la insuficiencia de
 
 | Referencia         | Texto local (OE, sin nikud)                                           | Observación                                    |
 | ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
-| #eclesiastes_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
-| #eclesiastes_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
-| #eclesiastes_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
-| #eclesiastes_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
-| #eclesiastes_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_1_1  | **דברי קהלת בן דוד מלך בירושלם**                                     | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_1_2  | **הבל הבלים אמר קהלת הבל הבלים הכל הבל**                             | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_1_3  | **מה יתרון לאדם בכל עמלו שיעמל תחת השמש**                        | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_1_9  | **מה שהיה הוא שיהיה ומה שנעשה הוא שיעשה ואין כל חדש תחת השמש** | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_1_18 | **כי ברב חכמה רב כעס ויוסיף דעת יוסיף מכאוב**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

@@ -98,7 +98,7 @@ De allí surge el oficio: Yehoshua es sumo sacerdote misericordioso y fiel en lo
 
 - [[hebreos_1_hijo_palabra_y_superioridad_sobre_los_angeles|Hebreos 1: el Hijo, la palabra y los ángeles]] prepara la advertencia de 2:1 mediante la superioridad del Hijo.
 - [[hebreos_5_sumo_sacerdote_madurez_y_discernimiento|Hebreos 5: sumo sacerdote, madurez y discernimiento]] desarrolla el sacerdocio anticipado en 2:17.
-- [[yojanan_1_testigo_cordero|Yojanán 1: testigo y Cordero]] permite comparar testimonio, carne y revelación sin borrar las diferencias entre ambos escritos.
+- [[juan_1_testigo_cordero|Yojanán 1: testigo y Cordero]] permite comparar testimonio, carne y revelación sin borrar las diferencias entre ambos escritos.
 
 ## Conclusión
 

@@ -9,10 +9,10 @@ tags:
   - meribah
   - mosheh
 references:
-  - "#numeros_19_1-22"
-  - "#numeros_20_1-13"
-  - "#numeros_20_14-21"
-  - "#numeros_20_22-29"
+  - "#bamidbar_19_1-22"
+  - "#bamidbar_20_1-13"
+  - "#bamidbar_20_14-21"
+  - "#bamidbar_20_22-29"
 sources:
   - "https://www.youtube.com/watch?v=0a9JenvoNhM"
   - "docs/scriptures/oe/json/numbers/19.json"
@@ -67,9 +67,9 @@ La muerte de Aharón no cancela la continuidad del sacerdocio: la vestidura y el
 
 ## Edom y el final de Aharón: límites del mediador y continuidad del servicio
 
-Israel envía mensajeros al rey de Edom y recuerda la aflicción de sus padres: «hemos clamado a יהוה, y él oyó nuestra voz» (#numeros_20_14-17). **אח**, _aj_, significa hermano; en «tu hermano Israel» la palabra presenta una relación reclamada en el mensaje diplomático, no garantiza que Edom acepte el paso. **דרך**, _dérek_, significa camino o vía; aquí designa la ruta prometida, sin convertir el rodeo posterior en una negación de la fidelidad de יהוה. La respuesta de Edom obliga a Israel a apartarse, pero el texto no atribuye ese rechazo a la misma falta que juzgó a Mosheh y Aharón en Meribah.
+Israel envía mensajeros al rey de Edom y recuerda la aflicción de sus padres: «hemos clamado a יהוה, y él oyó nuestra voz» (#bamidbar_20_14-17). **אח**, _aj_, significa hermano; en «tu hermano Israel» la palabra presenta una relación reclamada en el mensaje diplomático, no garantiza que Edom acepte el paso. **דרך**, _dérek_, significa camino o vía; aquí designa la ruta prometida, sin convertir el rodeo posterior en una negación de la fidelidad de יהוה. La respuesta de Edom obliga a Israel a apartarse, pero el texto no atribuye ese rechazo a la misma falta que juzgó a Mosheh y Aharón en Meribah.
 
-En Hor, יהוה ordena quitar a Aharón sus vestiduras y vestir con ellas a Eleazar (#numeros_20_25-28). **אסף**, _asaf_, significa reunir o recoger; «ser reunido a su pueblo» es una fórmula de muerte cuyo referente contextual es el final de Aharón, no la desaparición del sacerdocio. «Relevo administrativo» sería una equivalencia **pedagógica** demasiado moderna: la transferencia de las vestiduras hace visible la continuidad del servicio bajo el mandato de יהוה. La comunidad llora treinta días, de modo que el capítulo termina con duelo real y con orden preservado, no con una espiritualización de la muerte.
+En Hor, יהוה ordena quitar a Aharón sus vestiduras y vestir con ellas a Eleazar (#bamidbar_20_25-28). **אסף**, _asaf_, significa reunir o recoger; «ser reunido a su pueblo» es una fórmula de muerte cuyo referente contextual es el final de Aharón, no la desaparición del sacerdocio. «Relevo administrativo» sería una equivalencia **pedagógica** demasiado moderna: la transferencia de las vestiduras hace visible la continuidad del servicio bajo el mandato de יהוה. La comunidad llora treinta días, de modo que el capítulo termina con duelo real y con orden preservado, no con una espiritualización de la muerte.
 
 Esta secuencia amplía la cautela de Eric sobre «La Roca». La provisión de agua no elimina los límites del representante, y la muerte de Aharón no convierte al representante en indispensable. El texto mantiene juntas la compasión por una comunidad sedienta, el juicio sobre una representación defectuosa y la continuidad de la obra sacerdotal.
 
@@ -122,7 +122,7 @@ Esta secuencia también protege la lectura de «La Roca». El título público d
 
 ## Reparación: muerte, campamento y agua bajo una misma palabra
 
-La primera mitad de la nota debe conservar con más nitidez el recorrido interno de Bamidbar 19 antes de saltar a la peña. El capítulo no presenta solo un símbolo difícil: regula cómo una comunidad santa atraviesa el contacto con la muerte. TTH dice que quien toque «un muerto, el cadáver de cualquier persona» quedará impuro siete días (#numeros_19_11). OE formula **הנגע במת לכל נפש אדם**, y la palabra **(נגע)**, _naga_, significa tocar, alcanzar o entrar en contacto; aquí su fuerza es contacto ritual con un cadáver, no una acusación moral automática. **(מת)**, _met_, significa muerto; el referente es la muerte corporal que irrumpe en el campamento. «Contaminación espiritual» puede ser pedagógica, pero sería inexacta si borra el procedimiento temporal y comunitario del capítulo.
+La primera mitad de la nota debe conservar con más nitidez el recorrido interno de Bamidbar 19 antes de saltar a la peña. El capítulo no presenta solo un símbolo difícil: regula cómo una comunidad santa atraviesa el contacto con la muerte. TTH dice que quien toque «un muerto, el cadáver de cualquier persona» quedará impuro siete días (#bamidbar_19_11). OE formula **הנגע במת לכל נפש אדם**, y la palabra **(נגע)**, _naga_, significa tocar, alcanzar o entrar en contacto; aquí su fuerza es contacto ritual con un cadáver, no una acusación moral automática. **(מת)**, _met_, significa muerto; el referente es la muerte corporal que irrumpe en el campamento. «Contaminación espiritual» puede ser pedagógica, pero sería inexacta si borra el procedimiento temporal y comunitario del capítulo.
 
 El purificado no se define por una sensación privada. En el tercer y séptimo día se toma del agua de exclusión, se rocía al impuro y luego se lava la ropa y el cuerpo. **(הזה)**, _hizah_, significa rociar o salpicar; la forma causativa señala una acción ritual realizada por otra persona. «Aplicar una limpieza interior» es una equivalencia pedagógica; el texto describe agua, hisopo, tiempo y testigos. **(כבס)**, _kavas_, significa lavar; en 19:19 su fuerza contextual alcanza la ropa del que rocía y del que toca la preparación. La exposición de Eric sobre una santidad que no trivializa la muerte queda apoyada cuando se muestra que aun el encargado del rito debe reconocer los límites de la impureza.
 
@@ -130,7 +130,7 @@ El v. 13 une muerte, impureza y santuario: «todo el que toque un muerto, el cad
 
 El capítulo también protege contra una lectura mágica de la ceniza. **(מים חיים)**, _mayim jayim_, significa «aguas vivas», es decir, agua corriente o fresca; en 19:17 se mezcla con la ceniza para preparar el agua de exclusión. «Agua de vida eterna» sería una extensión teológica y no una equivalencia exacta. **(אפר)**, _efer_, significa ceniza; su fuerza contextual es la ceniza guardada «para la congregación de los hijos de Israel» y usada dentro de un procedimiento mandado. La sustancia no actúa como poder independiente: el texto repite la orden de יהוה, define días y distingue al impuro, al que rocía y al que toca. Eric puede hablar de una señal de purificación, pero la clase no debe convertirse en una fórmula que permita manipular lo santo.
 
-Esa disciplina ilumina Bamidbar 20. Cuando falta agua, la orden es: «Toma la vara, reúne la congregación… y hablarán a la peña a sus ojos» (TTH, #numeros_20_8). **(קהל)**, _qahal_, significa congregación o asamblea reunida; aquí identifica al pueblo visible delante del cual debía manifestarse la provisión. **(עין)**, _ayin_, significa ojo o vista; en **(לעיניהם)**, _le'eneihem_, «ante sus ojos», recalca que el acto debía enseñar públicamente quién daba el agua. Eric preserva una observación crítica al liderazgo: el milagro no puede separarse de la forma en que se presenta al pueblo.
+Esa disciplina ilumina Bamidbar 20. Cuando falta agua, la orden es: «Toma la vara, reúne la congregación… y hablarán a la peña a sus ojos» (TTH, #bamidbar_20_8). **(קהל)**, _qahal_, significa congregación o asamblea reunida; aquí identifica al pueblo visible delante del cual debía manifestarse la provisión. **(עין)**, _ayin_, significa ojo o vista; en **(לעיניהם)**, _le'eneihem_, «ante sus ojos», recalca que el acto debía enseñar públicamente quién daba el agua. Eric preserva una observación crítica al liderazgo: el milagro no puede separarse de la forma en que se presenta al pueblo.
 
 Mosheh dice «¿sacaremos agua?» y golpea la peña dos veces. Aunque el agua sale, la sentencia no se mide por el resultado solamente. **(מרה)**, _marah_, significa ser rebelde o amargo; su forma en 20:24 aparece en la explicación de la falta de Mosheh y Aharón. «Rebelarse» es aproximado en castellano, pero comunica mejor que una mera equivocación técnica. **(מעל)**, _maal_, significa actuar infielmente o quebrantar una confianza; en 20:12 la idea de no afirmarse en יהוה y no santificarlo alcanza la representación pública. El texto no especifica que cada detalle del golpe tenga el mismo peso; sí establece que los mediadores no mostraron ante Israel la santidad y la confianza exigidas.
 
@@ -173,7 +173,7 @@ La equivalencia «La Roca» es, por tanto, **teológica y aproximada** cuando de
 
 Bamidbar 19–20 no opone purificación y provisión: ambas dependen de la palabra de יהוה. La muerte exige un tratamiento santo; la sed recibe agua; y aun así el liderazgo es juzgado por cómo representa al dador. «La Roca» es una lectura provechosa sólo si conserva esta tensión: יהוה permanece firme, provee a su pueblo y exige que su santidad no sea reemplazada por una acción humana, aunque produzca agua.
 
-## La custodia de la ceniza y la responsabilidad del contacto — Bamidbar 19:9-22 #numeros_19_9-22
+## La custodia de la ceniza y la responsabilidad del contacto — Bamidbar 19:9-22 #bamidbar_19_9-22
 
 La clase pública de Eric presenta la «segunda Mishméret» como una llamada a custodiar lo que יהוה entrega para la restauración de la congregación. El texto usa **למשמרת**, _lemishmeret_, «para custodia» o «para guardar», de la raíz **(שמר)**, _shamar_, guardar, custodiar u observar. Su fuerza contextual es una responsabilidad comunitaria concreta: la ceniza queda disponible para preparar las aguas y no se convierte en propiedad privada del sacerdote o del hombre que la recoge. «Administración espiritual» sería una equivalencia pedagógica; «para custodia de los hijos de Israel» es la formulación más exacta.
 
@@ -183,7 +183,7 @@ La restauración se ejecuta en dos momentos: **והזה הטהר על הטמא �
 
 El verbo **(חטא)**, _jata_, puede significar errar o, en la forma causativa de esta unidad, purificar mediante la acción prescrita. Su fuerza contextual debe establecerse por la forma verbal y por el objeto, no por una simple asociación castellana entre pecado y limpieza. «Expiar» puede ser una equivalencia canónica aproximada, pero no debe borrar que Bamidbar 19 ordena una acción de rociar. La ceniza y el agua no operan como amuletos; la restauración procede de la palabra recibida.
 
-## La Roca, la santidad y el mediador — Bamidbar 20:1-13 #numeros_20_1-13
+## La Roca, la santidad y el mediador — Bamidbar 20:1-13 #bamidbar_20_1-13
 
 La fuente `youtube:0a9JenvoNhM` enlaza la purificación con «La Roca» y con la prueba del liderazgo. Bamidbar 20 conserva ese enlace mediante una transición textual: Miriam muere, no hay agua para la congregación, יהוה ordena reunir al pueblo y hablar a la peña, y el agua sale. **(סלע)**, _sela_, significa peña o roca; en 20:8-11 designa un objeto concreto. «Roca de salvación» es una equivalencia teológica y pedagógica, no el sentido léxico exhaustivo de la forma.
 

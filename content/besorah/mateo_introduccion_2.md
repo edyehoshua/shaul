@@ -173,9 +173,9 @@ Esta segunda introducción a Mateo propone que el evangelio debe leerse desde la
 
 ## Ver también
 
-- [Introducción a Yojanán](./yojanan_introduccion.md) — otra introducción al Besorah con énfasis en sustrato hebreo-arameo.
-- [Romanim 11](./romanim_11.md) — remanente y multipolaridad dentro de Israel.
-- [Yeshayahu 65](../tanaj/ieshaiahu_65.md) — bifurcación entre masa inercial y remanente escogido.
+- [Introducción a Yojanán](./juan_introduccion.md) — otra introducción al Besorah con énfasis en sustrato hebreo-arameo.
+- [Romanim 11](./romanos_11.md) — remanente y multipolaridad dentro de Israel.
+- [Yeshayahu 65](../tanaj/yeshayahu_65.md) — bifurcación entre masa inercial y remanente escogido.
 - [Bamidbar 13](../tanaj/bamidbar_13.md) — distribución de pueblos en las cuatro esquinas de la tierra.
 
 ## Créditos

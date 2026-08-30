@@ -9,10 +9,10 @@ tags:
   - servicio
   - esperanza
 references:
-  - "#salmos_123_1"
-  - "#salmos_123_2"
-  - "#salmos_123_3"
-  - "#salmos_123_4"
+  - "#tehilim_123_1"
+  - "#tehilim_123_2"
+  - "#tehilim_123_3"
+  - "#tehilim_123_4"
   - "#romanos_6_17"
 sources:
   - "https://www.youtube.com/watch?v=_-ExM5ay5Ic"
@@ -34,12 +34,12 @@ Esta nota organiza la enseñanza de Eric sobre Tehilim 123 y la contrasta con el
 
 | Referencia     | Texto local OE (sin nikud y sin segmentación)                                              | Función en la lectura                                                   |
 | -------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| #salmos_123_1 | **שיר המעלות אליך נשאתי את עיני היושבי בשמים**                                             | La mirada se dirige al habitante de los cielos.                         |
-| #salmos_123_2 | **הנה כעיני עבדים אל יד אדניהם כעיני שפחה אל יד גברתה כן עינינו אל יהוה אלהינו עד שיחננו** | La comunidad espera de יהוה como siervos atentos a la mano de su señor. |
-| #salmos_123_3 | **חננו יהוה חננו כי רב שבענו בוז**                                                         | La repetición de la petición responde a una saturación de desprecio.    |
-| #salmos_123_4 | **רבת שבעה לה נפשנו הלעג השאננים הבוז לגאיונים**                                           | El desprecio se concreta en burla de los arrogantes.                    |
+| #tehilim_123_1 | **שיר המעלות אליך נשאתי את עיני היושבי בשמים**                                             | La mirada se dirige al habitante de los cielos.                         |
+| #tehilim_123_2 | **הנה כעיני עבדים אל יד אדניהם כעיני שפחה אל יד גברתה כן עינינו אל יהוה אלהינו עד שיחננו** | La comunidad espera de יהוה como siervos atentos a la mano de su señor. |
+| #tehilim_123_3 | **חננו יהוה חננו כי רב שבענו בוז**                                                         | La repetición de la petición responde a una saturación de desprecio.    |
+| #tehilim_123_4 | **רבת שבעה לה נפשנו הלעג השאננים הבוז לגאיונים**                                           | El desprecio se concreta en burla de los arrogantes.                    |
 
-## Una mirada que carga la experiencia — Tehilim 123:1 #salmos_123_1
+## Una mirada que carga la experiencia — Tehilim 123:1 #tehilim_123_1
 
 Eric comienza con **אֵלֶיךָ נָשָׂאתִי אֶת עֵינָי**, «hacia ti levanté mis ojos». Su observación material es que el verbo de levantar, **(נשא)** _nasa_, no evoca solamente mirar hacia arriba: también puede significar llevar o cargar. Por eso relaciona la mirada con el peso de la tristeza, la ansiedad o el enojo que una persona lleva en el rostro. El texto sí usa _nasa_ para «levantar» los ojos; la asociación entre mirada y carga es una aplicación pedagógica aproximada, no una traducción alternativa de todo el verso.
 
@@ -47,7 +47,7 @@ La clase contrasta esa mirada dirigida a יהוה con levantar los ojos hacia un
 
 Eric también desarrolla el verbo «habitar» como estar sentado, inmóvil y establecido. Esa lectura le permite hablar de los cielos como esfera de lo incorruptible y conectar la posición celestial con la obra redentora terminada, incluyendo la imagen sacerdotal de sentarse después de completar la obra. La forma hebrea **(ישב)** _yashav_ normalmente significa sentarse, habitar o permanecer. La aplicación a la consumación mesiánica es teológica y pedagógica; es una relación aproximada con Hebreos, no el sentido exhaustivo de Tehilim 123:1.
 
-## Ojos de siervos y espera de gracia — Tehilim 123:2 #salmos_123_2
+## Ojos de siervos y espera de gracia — Tehilim 123:2 #tehilim_123_2
 
 El segundo verso no abandona la imagen de los ojos. Los compara con los ojos de **עבדים** _avadim_, siervos, hacia la mano de sus señores, y con los ojos de una sierva hacia la mano de su señora. Eric insiste en que la comparación se entiende mejor en un mundo donde el siervo no presume propiedad independiente: espera de la mano del señor la provisión, la orden y el favor. Desde allí critica una espiritualidad que reclama a יהוה como si la obediencia produjera un derecho contractual sobre él.
 
@@ -57,7 +57,7 @@ Eric lleva esta imagen a Romanos 6:17: la liberación del pecado no produce auto
 
 La clase añade una corrección comunitaria: la autoridad bíblica no convierte a los líderes en príncipes intocables. Quien recibe más autoridad recibe más carga y responsabilidad. Esa aplicación no está dicha en el verso, pero sí preserva un movimiento coherente de la comparación: mirar hacia la mano del señor no justifica que el dirigente descargue su responsabilidad sobre los débiles.
 
-## «Concédenos gracia» frente al desprecio — Tehilim 123:3-4 #salmos_123_3-4
+## «Concédenos gracia» frente al desprecio — Tehilim 123:3-4 #tehilim_123_3-4
 
 La súplica se repite: **חָנֵּנוּ יְהוָה חָנֵּנוּ**, «ten piedad de nosotros, יהוה, ten piedad de nosotros». Eric utiliza la repetición para mostrar que la comunidad no pide poder para destruir a quienes la desprecian. Pide gracia para permanecer fiel mientras está saturada de humillación. El hebreo **(חנן)** _janan_ significa mostrar favor, conceder gracia o tener compasión; aquí la correspondencia con «gracia» es directa en sentido básico, aunque no agota sus usos bíblicos.
 

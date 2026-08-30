@@ -4,21 +4,21 @@ description: "Estudio de Mishlei 23:19-25 y 29-35 sobre escuchar la disciplina, 
 date: 2026-08-05
 tags: [mishlei, mishlei_23, disciplina, vino, deseo, emuna, verdad]
 references:
-  - "#proverbios_23_19"
-  - "#proverbios_23_20"
-  - "#proverbios_23_21"
-  - "#proverbios_23_22"
-  - "#proverbios_23_23"
-  - "#proverbios_23_24"
-  - "#proverbios_23_25"
-  - "#proverbios_23_29"
-  - "#proverbios_23_30"
-  - "#proverbios_23_31"
-  - "#proverbios_23_32"
-  - "#proverbios_23_33"
-  - "#proverbios_23_34"
-  - "#proverbios_23_35"
-  - "#isaias_61_10"
+  - "#mishlei_23_19"
+  - "#mishlei_23_20"
+  - "#mishlei_23_21"
+  - "#mishlei_23_22"
+  - "#mishlei_23_23"
+  - "#mishlei_23_24"
+  - "#mishlei_23_25"
+  - "#mishlei_23_29"
+  - "#mishlei_23_30"
+  - "#mishlei_23_31"
+  - "#mishlei_23_32"
+  - "#mishlei_23_33"
+  - "#mishlei_23_34"
+  - "#mishlei_23_35"
+  - "#yeshayahu_61_10"
   - "#santiago_1_6"
 sources:
   - "https://www.youtube.com/watch?v=2rgTJuC-zlQ"
@@ -41,11 +41,11 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre Mish
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_23_19 | שמע אתה בני וחכם ואשר בדרך לבך | Escucha tú, hijo mío, y sé sabio, y endereza por el camino tu corazón. |
-| #proverbios_23_20-21 | אל תהי בסבאי יין בזללי בשר למו / כי סבא וזולל יורש וקרעים תלביש נומה | No estés con los bebedores de vino, con los comilones de carne para sí; porque el bebedor y el comilón se empobrecerán, y prendas rasgadas vestirá la somnolencia. |
-| #proverbios_23_22-25 | שמע לאביך זה ילדך ואל תבוז כי זקנה אמך / אמת קנה ואל תמכר חכמה ומוסר ובינה / גול גיל יגול יגיל אבי צדיק יולד ויולד חכם וישמח ישמח בו / ישמח אביך ואמך ותגל יולדתך | Escucha a tu padre, este te engendró; y no desprecies a tu madre cuando sea anciana. Verdad adquiere, y no la vendas, sabiduría, disciplina y discernimiento. Gozándose, se regocijará el padre del justo, y el que engendra un sabio, se alegrará en él. Se alegrarán tu padre y tu madre, se regocijará la que te dio a luz. |
-| #proverbios_23_29-32 | למי אוי למי אבוי למי מדונים מדינים למי שיח למי פצעים חנם למי חכללות עינים / למאחרים על היין לבאים לחקר ממסך / אל תרא יין כי יתאדם כי יתן בכיס בכוס עינו יתהלך במישרים / אחריתו כנחש ישך וכצפעני יפרש | ¿De quién es el “¡Oy!”? ¿De quién el “¡Avoy!”? ¿De quién las contiendas, el parloteo, las heridas en vano y los ojos enrojecidos? De los que se demoran en el vino, de los que van a buscar vino mezclado. No mires al vino cuando enrojece, cuando da su ojo en la copa, ¡andará en rectitudes! Su final, como serpiente morderá, y como víbora picará. |
-| #proverbios_23_33-35 | עיניך יראו זרות ולבך ידבר תהפכות / והיית כשכב בלב ים וכשכב בראש חבל / הכוני בל חליתי הלמוני בל ידעתי מתי אקיץ אוסיף אבקשנו עוד | Tus ojos mirarán a las extrañas, y tu corazón hablará perversidades. Y serás como el que se acuesta en el corazón del mar, y como el que se acuesta en la cima de un barco. “Me hirieron, pero no me dolió; me golpearon, pero no supe; cuando despierte, volveré a buscar más”. |
+| #mishlei_23_19 | שמע אתה בני וחכם ואשר בדרך לבך | Escucha tú, hijo mío, y sé sabio, y endereza por el camino tu corazón. |
+| #mishlei_23_20-21 | אל תהי בסבאי יין בזללי בשר למו / כי סבא וזולל יורש וקרעים תלביש נומה | No estés con los bebedores de vino, con los comilones de carne para sí; porque el bebedor y el comilón se empobrecerán, y prendas rasgadas vestirá la somnolencia. |
+| #mishlei_23_22-25 | שמע לאביך זה ילדך ואל תבוז כי זקנה אמך / אמת קנה ואל תמכר חכמה ומוסר ובינה / גול גיל יגול יגיל אבי צדיק יולד ויולד חכם וישמח ישמח בו / ישמח אביך ואמך ותגל יולדתך | Escucha a tu padre, este te engendró; y no desprecies a tu madre cuando sea anciana. Verdad adquiere, y no la vendas, sabiduría, disciplina y discernimiento. Gozándose, se regocijará el padre del justo, y el que engendra un sabio, se alegrará en él. Se alegrarán tu padre y tu madre, se regocijará la que te dio a luz. |
+| #mishlei_23_29-32 | למי אוי למי אבוי למי מדונים מדינים למי שיח למי פצעים חנם למי חכללות עינים / למאחרים על היין לבאים לחקר ממסך / אל תרא יין כי יתאדם כי יתן בכיס בכוס עינו יתהלך במישרים / אחריתו כנחש ישך וכצפעני יפרש | ¿De quién es el “¡Oy!”? ¿De quién el “¡Avoy!”? ¿De quién las contiendas, el parloteo, las heridas en vano y los ojos enrojecidos? De los que se demoran en el vino, de los que van a buscar vino mezclado. No mires al vino cuando enrojece, cuando da su ojo en la copa, ¡andará en rectitudes! Su final, como serpiente morderá, y como víbora picará. |
+| #mishlei_23_33-35 | עיניך יראו זרות ולבך ידבר תהפכות / והיית כשכב בלב ים וכשכב בראש חבל / הכוני בל חליתי הלמוני בל ידעתי מתי אקיץ אוסיף אבקשנו עוד | Tus ojos mirarán a las extrañas, y tu corazón hablará perversidades. Y serás como el que se acuesta en el corazón del mar, y como el que se acuesta en la cima de un barco. “Me hirieron, pero no me dolió; me golpearon, pero no supe; cuando despierte, volveré a buscar más”. |
 
 ## Escuchar, enderezar y adquirir verdad
 
@@ -96,16 +96,16 @@ El cierre es la radiografía del ciclo: “me hirieron, no me dolió; me golpear
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_23_19 | Escuchar y ser sabio significa recibir disciplina y enderezar el corazón; la raíz de rectitud se acerca a la bienaventuranza. | Llamado a escuchar apoyado; vínculo etimológico y teológico calificado. |
-| #proverbios_23_20-21 | El bebedor y el comilón se alimentan de su propia carne, empobrecen en el espíritu y quedan con vestiduras rasgadas. | Advertencia textual apoyada; pobreza espiritual y manto de salvación tratados como aplicación mesiánica. |
-| #proverbios_23_22-25 | Padre y madre se leen como יהוה y la Jerusalén celestial; adquirir verdad, disciplina y discernimiento produce gozo. | Mandato familiar y adquisición de verdad apoyados; alegoría de Jerusalén pendiente de verificación. |
-| #proverbios_23_29-30 | Las seis preguntas diagnostican contiendas, parloteo, heridas sin fruto y ojos enrojecidos en quienes se demoran sobre el vino. | Estructura y diagnóstico apoyados; “en vano” frente a “sin causa” requiere cotejo. |
-| #proverbios_23_31-32 | El vino ofrece una apariencia recta, pero su final muerde como serpiente; la clase lo relaciona con el engaño de Babel. | Ironía y peligro apoyados; Babel y serpiente como aplicación intertextual. |
-| #proverbios_23_33-35 | El deseo tuerce ojos, corazón y palabras, deja a la persona inestable y la hace volver a buscar más después de la disciplina. | Secuencia textual apoyada; extensión a adicciones y redes sociales como aplicación pastoral. |
+| #mishlei_23_19 | Escuchar y ser sabio significa recibir disciplina y enderezar el corazón; la raíz de rectitud se acerca a la bienaventuranza. | Llamado a escuchar apoyado; vínculo etimológico y teológico calificado. |
+| #mishlei_23_20-21 | El bebedor y el comilón se alimentan de su propia carne, empobrecen en el espíritu y quedan con vestiduras rasgadas. | Advertencia textual apoyada; pobreza espiritual y manto de salvación tratados como aplicación mesiánica. |
+| #mishlei_23_22-25 | Padre y madre se leen como יהוה y la Jerusalén celestial; adquirir verdad, disciplina y discernimiento produce gozo. | Mandato familiar y adquisición de verdad apoyados; alegoría de Jerusalén pendiente de verificación. |
+| #mishlei_23_29-30 | Las seis preguntas diagnostican contiendas, parloteo, heridas sin fruto y ojos enrojecidos en quienes se demoran sobre el vino. | Estructura y diagnóstico apoyados; “en vano” frente a “sin causa” requiere cotejo. |
+| #mishlei_23_31-32 | El vino ofrece una apariencia recta, pero su final muerde como serpiente; la clase lo relaciona con el engaño de Babel. | Ironía y peligro apoyados; Babel y serpiente como aplicación intertextual. |
+| #mishlei_23_33-35 | El deseo tuerce ojos, corazón y palabras, deja a la persona inestable y la hace volver a buscar más después de la disciplina. | Secuencia textual apoyada; extensión a adicciones y redes sociales como aplicación pastoral. |
 
 ## Conexiones principales
 
-- #isaias_61_10 ilumina la imagen del vestido, pero no convierte automáticamente “ropas rasgadas” en una doctrina completa de justificación.
+- #yeshayahu_61_10 ilumina la imagen del vestido, pero no convierte automáticamente “ropas rasgadas” en una doctrina completa de justificación.
 - #santiago_1_6 acompaña la imagen de la inestabilidad como ola; la relación es temática y aproximada.
 - [Mishlei 23: entregar el corazón y discernir lo extraño](./mishlei_23_corazon_extraña_y_traicion.md) desarrolla la unidad que continúa desde el verso 26.
 - [Mishlei 25: la miel con medida y el corazón disciplinado](./mishlei_25_miel_con_medida_y_corazon.md) muestra otro llamado a recibir sin saturarse y caminar en integridad.

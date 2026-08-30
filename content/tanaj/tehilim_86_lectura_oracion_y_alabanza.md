@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_86_1"
-  - "#salmos_86_17"
+  - "#tehilim_86_1"
+  - "#tehilim_86_17"
 sources:
   - "https://www.youtube.com/watch?v=6YMSW80IzL0"
   - "docs/scriptures/oe/json/psalms/86.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 86. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                       | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_86_1  | תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_86_17 | עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני | El verso final permite observar el cierre de la composición.         |
+| #tehilim_86_1  | תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני                | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_86_17 | עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

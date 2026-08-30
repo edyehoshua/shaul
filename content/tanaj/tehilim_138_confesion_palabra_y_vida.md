@@ -8,10 +8,10 @@ tags:
   - resurreccion
   - palabra
 references:
-  - "#salmos_138_1-8"
-  - "#salmos_82_1-8"
-  - "#exodo_19_5-6"
-  - "#isaias_57_15"
+  - "#tehilim_138_1-8"
+  - "#tehilim_82_1-8"
+  - "#shemot_19_5-6"
+  - "#yeshayahu_57_15"
   - "#lucas_1_46-55"
   - "#romanos_10_9-10"
   - "#efesios_2_1-10"
@@ -35,9 +35,9 @@ Se sigue el capítulo completo en orden textual. La nota distingue las observaci
 
 | Ref.             | Texto hebreo local                                                                                                                                  | Función en el argumento                                                   |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| #salmos_138_1-2 | **לדוד אודך בכל לבי נגד אלהים אזמרך; אשתחוה אל היכל קדשך ואודה את שמך על חסדך ועל אמתך כי הגדלת על כל שמך אמרתך**                                   | Corazón entero, postración, nombre, bondad, verdad y palabra.             |
-| #salmos_138_3-5 | **ביום קראתי ותענני תרהבני בנפשי עז; יודוך יהוה כל מלכי ארץ כי שמעו אמרי פיך; וישירו בדרכי יהוה כי גדול כבוד יהוה**                                 | Clamor respondido, fortalecimiento y confesión de los reyes al oír.       |
-| #salmos_138_6-8 | **כי רם יהוה ושפל יראה וגבה ממרחק יידע; אם אלך בקרב צרה תחיני על אף איבי תשלח ידך ותושיעני ימינך; יהוה יגמר בעדי יהוה חסדך לעולם מעשי ידיך אל תרף** | יהוה mira al humilde, da vida en la angustia y completa/sostiene su obra. |
+| #tehilim_138_1-2 | **לדוד אודך בכל לבי נגד אלהים אזמרך; אשתחוה אל היכל קדשך ואודה את שמך על חסדך ועל אמתך כי הגדלת על כל שמך אמרתך**                                   | Corazón entero, postración, nombre, bondad, verdad y palabra.             |
+| #tehilim_138_3-5 | **ביום קראתי ותענני תרהבני בנפשי עז; יודוך יהוה כל מלכי ארץ כי שמעו אמרי פיך; וישירו בדרכי יהוה כי גדול כבוד יהוה**                                 | Clamor respondido, fortalecimiento y confesión de los reyes al oír.       |
+| #tehilim_138_6-8 | **כי רם יהוה ושפל יראה וגבה ממרחק יידע; אם אלך בקרב צרה תחיני על אף איבי תשלח ידך ותושיעני ימינך; יהוה יגמר בעדי יהוה חסדך לעולם מעשי ידיך אל תרף** | יהוה mira al humilde, da vida en la angustia y completa/sostiene su obra. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -82,8 +82,8 @@ La grandeza de יהוה no contradice su mirada al humilde. Eric conecta **שפ�
 
 ## Conexiones principales
 
-- #salmos_82_1-8 muestra el uso de **אלהים** en un contexto de autoridades que recibieron palabra y juicio.
-- #exodo_19_5-6 y #apocalipsis_1_5-6 sostienen la conexión entre pueblo, sacerdocio y realeza; la relación es canónica, no una traducción de “reyes”.
+- #tehilim_82_1-8 muestra el uso de **אלהים** en un contexto de autoridades que recibieron palabra y juicio.
+- #shemot_19_5-6 y #apocalipsis_1_5-6 sostienen la conexión entre pueblo, sacerdocio y realeza; la relación es canónica, no una traducción de “reyes”.
 - #lucas_1_46-55 comparte la inversión entre el Altísimo y el humilde.
 - #romanos_10_9-10 permite contrastar confesión interior y declaración pública.
 - #efesios_2_1-10 y #apocalipsis_1_5-6 hacen explícita la conexión mesiánica entre muerte, vida y pueblo hecho reino; no sustituyen la escena de angustia del salmo.

@@ -9,15 +9,15 @@ tags:
   - primicias
   - memoria
 references:
-  - "#levitico_23_15"
-  - "#levitico_23_16"
-  - "#levitico_23_17"
-  - "#levitico_23_21"
-  - "#levitico_23_22"
-  - "#deuteronomio_16_9"
-  - "#deuteronomio_16_10"
-  - "#deuteronomio_16_11"
-  - "#deuteronomio_16_12"
+  - "#vayikra_23_15"
+  - "#vayikra_23_16"
+  - "#vayikra_23_17"
+  - "#vayikra_23_21"
+  - "#vayikra_23_22"
+  - "#devarim_16_9"
+  - "#devarim_16_10"
+  - "#devarim_16_11"
+  - "#devarim_16_12"
   - "#hechos_2_1"
   - "#hechos_2_4"
   - "#hechos_2_16"
@@ -44,9 +44,9 @@ Esta nota estudia una fuente exclusiva de la lane colosenses. No presenta como o
 
 | Unidad                                 | Texto local                                                                                                                                                        | Fuerza en el estudio                                                              |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| #levitico_23_15-17                    | «Y contaréis para vosotros desde el día siguiente del shabat… siete shabatot completos… cincuenta días»; se presenta una ofrenda nueva y dos panes como primicias. | La fiesta nace de una cuenta y de una entrega concreta, no de una fecha aislada.  |
-| #levitico_23_21-22                    | «Convocación santa» y mandato de no agotar el borde de la cosecha, dejándolo para el pobre y el extranjero.                                                        | La santidad incluye una economía que comparte la provisión.                       |
-| #deuteronomio_16_9-12                   | Se cuentan siete semanas, se celebra con una ofrenda voluntaria y se incluye al levita, extranjero, huérfano y viuda, recordando Egipto.                           | El sentido de la fiesta une proporción, gozo, memoria y hospitalidad.             |
+| #vayikra_23_15-17                    | «Y contaréis para vosotros desde el día siguiente del shabat… siete shabatot completos… cincuenta días»; se presenta una ofrenda nueva y dos panes como primicias. | La fiesta nace de una cuenta y de una entrega concreta, no de una fecha aislada.  |
+| #vayikra_23_21-22                    | «Convocación santa» y mandato de no agotar el borde de la cosecha, dejándolo para el pobre y el extranjero.                                                        | La santidad incluye una economía que comparte la provisión.                       |
+| #devarim_16_9-12                   | Se cuentan siete semanas, se celebra con una ofrenda voluntaria y se incluye al levita, extranjero, huérfano y viuda, recordando Egipto.                           | El sentido de la fiesta une proporción, gozo, memoria y hospitalidad.             |
 | #hechos_2_1-4, #hechos_2_16-18, #hechos_2_39 | La comunidad está reunida al cumplirse las semanas; Pedro interpreta el acontecimiento mediante Yoel y anuncia una promesa para los llamados.                      | La lectura mesiánica debe conservar la reunión, el Ruaj y el llamamiento textual. |
 
 ## Mapa de la enseñanza de Eric
@@ -57,15 +57,15 @@ Esta nota estudia una fuente exclusiva de la lane colosenses. No presenta como o
 
 ## Levítico 23: contar antes de celebrar
 
-Levítico ordena contar desde la presentación del ómer hasta siete semanas completas y después cincuenta días (#levitico_23_15-16). La forma hebrea **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza contextual es un conteo disciplinado que espera un término señalado. «Contar» es una glosa directa. **עֹמֶר**, _omer_, significa gavilla o medida de grano; en este pasaje designa la ofrenda inicial, no una metáfora que deba convertirse automáticamente en cronología escatológica. La correspondencia entre la práctica de la clase y el mandato es textual; fijar calendarios posteriores requiere verificación histórica adicional.
+Levítico ordena contar desde la presentación del ómer hasta siete semanas completas y después cincuenta días (#vayikra_23_15-16). La forma hebrea **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza contextual es un conteo disciplinado que espera un término señalado. «Contar» es una glosa directa. **עֹמֶר**, _omer_, significa gavilla o medida de grano; en este pasaje designa la ofrenda inicial, no una metáfora que deba convertirse automáticamente en cronología escatológica. La correspondencia entre la práctica de la clase y el mandato es textual; fijar calendarios posteriores requiere verificación histórica adicional.
 
-El resultado del conteo es una ofrenda nueva y dos panes fermentados presentados como primicias (#levitico_23_16-17). **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; su fuerza aquí es reconocer que la cosecha recibida pertenece primero a יהוה. «Primicias» es una traducción directa y contextual. No es exacto convertir cada detalle agrícola en una alegoría mesiánica; tal conexión puede ser pedagógica cuando otros textos la apoyan, pero no sustituye la lectura del capítulo.
+El resultado del conteo es una ofrenda nueva y dos panes fermentados presentados como primicias (#vayikra_23_16-17). **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; su fuerza aquí es reconocer que la cosecha recibida pertenece primero a יהוה. «Primicias» es una traducción directa y contextual. No es exacto convertir cada detalle agrícola en una alegoría mesiánica; tal conexión puede ser pedagógica cuando otros textos la apoyan, pero no sustituye la lectura del capítulo.
 
 ## Deuteronomio 16: el sentido incluye al prójimo
 
-Deuteronomio repite el conteo y ordena celebrar según la bendición recibida (#deuteronomio_16_9-10). **שָׂמַח**, _samach_, significa alegrarse o regocijarse; su fuerza no es una emoción privada, sino una fiesta compartida ante יהוה. La ofrenda es **מַתָּנָה**, _mattanah_, un don o dádiva; la proporción «según te haya bendecido» impide fingir una medida idéntica para todos. Ambas glosas son directas; aplicar el texto como medidor de la piedad individual sería ilegítimo.
+Deuteronomio repite el conteo y ordena celebrar según la bendición recibida (#devarim_16_9-10). **שָׂמַח**, _samach_, significa alegrarse o regocijarse; su fuerza no es una emoción privada, sino una fiesta compartida ante יהוה. La ofrenda es **מַתָּנָה**, _mattanah_, un don o dádiva; la proporción «según te haya bendecido» impide fingir una medida idéntica para todos. Ambas glosas son directas; aplicar el texto como medidor de la piedad individual sería ilegítimo.
 
-La lista de quienes participan incluye al levita, extranjero, huérfano y viuda, y la memoria de haber sido esclavos en Egipto acompaña la obediencia (#deuteronomio_16_11-12). **זָכַר**, _zakhar_, significa recordar o traer a la memoria; aquí el recuerdo funda una práctica presente de humildad y cuidado. La enseñanza anunciada por el título recibe apoyo cuando entiende el sentido de la fiesta como más que una fecha: el texto une gratitud, memoria y justicia.
+La lista de quienes participan incluye al levita, extranjero, huérfano y viuda, y la memoria de haber sido esclavos en Egipto acompaña la obediencia (#devarim_16_11-12). **זָכַר**, _zakhar_, significa recordar o traer a la memoria; aquí el recuerdo funda una práctica presente de humildad y cuidado. La enseñanza anunciada por el título recibe apoyo cuando entiende el sentido de la fiesta como más que una fecha: el texto une gratitud, memoria y justicia.
 
 ## Hechos 2: cumplimiento, Ruaj y promesa
 
@@ -86,7 +86,7 @@ La fiesta se cuenta, se ofrece y se comparte. Levítico da el orden, Deuteronomi
 ## Ver también
 
 - [[shavuot_convocacion_primicias_y_promesa|Shavu’ot: convocación, primicias y promesa]]
-- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
+- [[vayikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
 
 ## Créditos
 

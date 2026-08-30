@@ -10,13 +10,13 @@ tags:
   - tamim
   - tsedeq
 references:
-  - "#salmos_15_1"
-  - "#salmos_15_2"
-  - "#salmos_15_3"
-  - "#salmos_15_4"
-  - "#salmos_15_5"
-  - "#deuteronomio_32_4"
-  - "#salmos_11_7"
+  - "#tehilim_15_1"
+  - "#tehilim_15_2"
+  - "#tehilim_15_3"
+  - "#tehilim_15_4"
+  - "#tehilim_15_5"
+  - "#devarim_32_4"
+  - "#tehilim_11_7"
 sources:
   - "https://www.youtube.com/watch?v=Cazychv1rks"
   - "docs/scriptures/oe/json/psalms/15.json"
@@ -38,13 +38,13 @@ La enseñanza «Tehilim/Hymnos/Salmo chap 15» recorre los cinco versículos heb
 
 | Referencia | Texto hebreo local (OE, normalizado) | TTH (ES) | Función en la lectura |
 | --- | --- | --- | --- |
-| #salmos_15_1 | מזמור לדוד יהוה מי יגור באהלך מי ישכן בהר קדשך | «יהוה, ¿quién residirá en tu tienda? ¿Quién morará en el monte de tu santidad?» | Encabezado y doble pregunta sobre residencia y morada. |
-| #salmos_15_2 | הולך תמים ופעל צדק ודבר אמת בלבבו | «El que camina íntegro y hace justicia, y habla verdad en su corazón;» | Respuesta inicial: andar completo, obrar tsedeq, hablar emet. |
-| #salmos_15_3 | לא רגל על לשנו לא עשה לרעהו רעה וחרפה לא נשא על קרבו | «no calumnió de acuerdo a su lengua, no hizo mal a su compañero, e insulto no levantó sobre su cercano.» | Negaciones sobre lengua, daño al prójimo y cherpah. |
-| #salmos_15_4 | נבזה בעיניו נמאס ואת יראי יהוה יכבד נשבע להרע ולא ימר | «Despreciado es en sus ojos el aborrecido, y a los temerosos de יהוה honra. Juró para hacer mal, y no cambiará.» | Desprecio del reprobado, honra a los yir’ei יהוה y juramento sin cambio. |
-| #salmos_15_5 | כספו לא נתן בנשך ושחד על נקי לא לקח עשה אלה לא ימוט לעולם | «Su plata no dio con interés, y soborno contra el inocente no tomó. El hacedor de estas cosas no será sacudido por siempre.» | Plata/neshekh, soborno y cierre de firmeza eterna. |
+| #tehilim_15_1 | מזמור לדוד יהוה מי יגור באהלך מי ישכן בהר קדשך | «יהוה, ¿quién residirá en tu tienda? ¿Quién morará en el monte de tu santidad?» | Encabezado y doble pregunta sobre residencia y morada. |
+| #tehilim_15_2 | הולך תמים ופעל צדק ודבר אמת בלבבו | «El que camina íntegro y hace justicia, y habla verdad en su corazón;» | Respuesta inicial: andar completo, obrar tsedeq, hablar emet. |
+| #tehilim_15_3 | לא רגל על לשנו לא עשה לרעהו רעה וחרפה לא נשא על קרבו | «no calumnió de acuerdo a su lengua, no hizo mal a su compañero, e insulto no levantó sobre su cercano.» | Negaciones sobre lengua, daño al prójimo y cherpah. |
+| #tehilim_15_4 | נבזה בעיניו נמאס ואת יראי יהוה יכבד נשבע להרע ולא ימר | «Despreciado es en sus ojos el aborrecido, y a los temerosos de יהוה honra. Juró para hacer mal, y no cambiará.» | Desprecio del reprobado, honra a los yir’ei יהוה y juramento sin cambio. |
+| #tehilim_15_5 | כספו לא נתן בנשך ושחד על נקי לא לקח עשה אלה לא ימוט לעולם | «Su plata no dio con interés, y soborno contra el inocente no tomó. El hacedor de estas cosas no será sacudido por siempre.» | Plata/neshekh, soborno y cierre de firmeza eterna. |
 
-## Pregunta y morada: Tehilim 15:1 #salmos_15_1
+## Pregunta y morada: Tehilim 15:1 #tehilim_15_1
 
 Eric observa que el título es breve: **מזמור לדוד**. Como en otros salmos de la serie, lee **לדוד** con doble alcance pedagógico: composición asociada a David y, por el sentido del nombre, dedicación «para el amado». El OE local confirma el encabezado; la dualidad de lectura es marco de la clase, no una regla lexicográfica universal del Salterio.
 
@@ -56,7 +56,7 @@ Sobre **מי**, Eric recuerda dos matices. En hebreo la pregunta «quién» a me
 
 **הר קדשך** no se reduce, en su explicación, al edificio del Hejal. Distingue el edificio, el entorno del Beit haMiqdash y todo el perímetro de la montaña —sobre todo en el horizonte del Segundo Templo— como el ámbito llamado monte de la santidad. Añade una analogía que usa en otras clases: la «montaña» como cuerpo doctrinal o voluntad divina. El texto nombra el monte de la santidad; la extensión doctrinal es pedagógica. La imposibilidad de instalarse allí sin habilitación divina la ilustra con Sinaí y sus límites, con los hijos de Aharón que entraron por su cuenta y con quien tocó el arca sin permiso: sin **קדש**, sin santidad —y la santidad es de יהוה mismo—, nadie puede agradar ni permanecer. Cita de apoyo Isaías 31:9 (luz en Sión / horno en Yerushalayim) y el bloqueo del árbol de la vida. Esas intertextualidades refuerzan su tesis de imposibilidad; no reescriben el léxico inmediato de Tehilim 15:1.
 
-## El que anda completo: Tehilim 15:2 #salmos_15_2
+## El que anda completo: Tehilim 15:2 #tehilim_15_2
 
 El v. 2 dice: **הולך תמים ופעל צדק ודבר אמת בלבבו**. Las versiones suelen leerlo como descripción del hombre íntegro que obra justicia. Eric advierte el malentendido: si se lee solo como mérito humano, el salmo parecería enseñar que quien «hace estas cosas» se gana la entrada. Su tesis central es la contraria: aquí se está hablando de יהוה. El que anda completo y obra tsedeq es Hashem; el hombre no acumula méritos suficientes ni para entrar ni, mucho menos, para «recibir» residencia estable.
 
@@ -66,7 +66,7 @@ Sobre **תמים**, rechaza aplanar la palabra en la sola «integridad» moral c
 
 **דבר אמת בלבבו** lo lee desde lo general a lo particular: la emet es, en última instancia, Él y su palabra; lo que no cambia; la Torah que permanece firme en los cielos. El corazón es el núcleo, la fuente de los pensamientos. De ahí su aplicación: el propósito que inició con su pueblo lo terminará completo; Él es garantía de sí mismo. La conexión con el sacrificio del Mesías, la semilla de Abraham y la resurrección es extensión canónica de la clase, no el sentido léxico mínimo de **אמת** en el verso.
 
-## Lengua, prójimo y cherpah: Tehilim 15:3 #salmos_15_3
+## Lengua, prójimo y cherpah: Tehilim 15:3 #tehilim_15_3
 
 El v. 3 niega tres acciones: **לא רגל על לשנו** —no «caminó» sobre su lengua—; **לא עשה לרעהו רעה**; **וחרפה לא נשא על קרבו**. Eric glosa «caminar sobre la lengua» como tener lengua larga: anunciar lo que no se va a hacer, kilómetros de palabrería. Aplicado a Hashem: nunca dijo algo que no fuera a cumplir. El hebreo de **רגל** con lengua suele entenderse como calumniar o ir de chisme; la imagen de «caminar sobre la lengua» es pedagogía de la clase. El punto que sí sostiene el paralelismo del salmo es la coherencia entre palabra y hecho.
 
@@ -74,13 +74,13 @@ El v. 3 niega tres acciones: **לא רגל על לשנו** —no «caminó» sob
 
 Sobre **חרפה**, Eric evita dejarla en un «vituperio» opaco: la asocia a socavar, erosionar fundamentos, restar. Hashem no ha venido a derribar a Israel por capricho; cuando derriba, derriba idolatría e inmundicia en medio del pueblo, no el pueblo mismo, y reserva remanente. El OE tiene **חרפה לא נשא על קרבו**; la teología del remanente y la distinción idolatría/pueblo son inferencias cualificadas ancladas en el conjunto de la Escritura que la clase invoca.
 
-## Desprecio, temor y juramento: Tehilim 15:4 #salmos_15_4
+## Desprecio, temor y juramento: Tehilim 15:4 #tehilim_15_4
 
 El v. 4 contrapone: **נבזה בעיניו נמאס** —despreciado en sus ojos es el reprobado— y **ואת יראי יהוה יכבד** —honra a los que temen a יהוה—. Eric lee que quien se hace despreciable se hace botín; todo humano nace en estado incompatible con la santidad, y quien permanece ahí termina como despojo, mientras que a los que Hashem hace suyos les da peso de honra (**כבד**). El texto sostiene desprecio del nimas y kabod a los yir’ei יהוה; la antropología universal del «todos despreciables» y la soteriología del «hacer suyos» son marcos de la clase.
 
 **נשבע להרע ולא ימר** lo lee como juramento que implica perjuicio propio y, aun así, no cambia. En clave mesiánica, conecta el juramento con el venir a sufrir, ser escupido y crucificado: fidelidad aunque el compromiso «no le representaba beneficio en sí». El hebreo es difícil y discutido en la tradición (¿juró para mal / al malo y no cambia?). La lectura cristológica del perjuicio propio es extensión de Eric; el dato textual seguro es la firmeza del juramento sin mudanza (**לא ימר**).
 
-## Plata, soborno e inconmovible: Tehilim 15:5 #salmos_15_5
+## Plata, soborno e inconmovible: Tehilim 15:5 #tehilim_15_5
 
 El cierre: **כספו לא נתן בנשך** —su plata no dio con interés—; **ושחד על נקי לא לקח** —soborno contra el inocente no tomó—; **עשה אלה לא ימוט לעולם** —el hacedor de estas cosas no será sacudido para siempre—.
 
@@ -113,10 +113,10 @@ La clase cierra exhortando, con Hebreos, a acercarse con corazón completo, sin 
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
-| #salmos_15_1 | **מי יגור / מי ישכן**: nadie por mérito propio reside en la tienda (cielos) ni en el monte de la santidad; sin qodesh hay muerte (Sinaí, Aharón, arca). | Doble pregunta y verbos cotejados con OE/TTH; tienda celestial, «nadie» retórico y tipología del acceso quedan cualificados o pendientes. |
-| #salmos_15_2 | **הולך תמים ופעל צדק**: no es baremo de mérito humano sino descripción de Hashem que anda completo y obra el deber ser; habla emet en su corazón. | Tamim/tsedeq/emet explicados léxicamente; sujeto teocéntrico marcado como lectura de la clase frente a la ética humana clásica. |
-| #salmos_15_3 | No camina sobre su lengua; no hace mal a su amigo Israel; no socava al cercano: derriba idolatría, no al pueblo; reserva remanente. | Lengua, ra‘ah y cherpah ancladas en el texto; identificación Israel y pastoral anti-adicción como inferencia cualificada. |
-| #salmos_15_4–5 | Desprecia al nimas y honra a los yir’ei יהוה; jura aun con perjuicio y no muda; plata no por interés (midrash: Torah/amor); no toma soborno contra el naqi; el oseh elleh es Hashem y no yimot leolam. | Contraste desprecio/honra y cierre inconmovible con apoyo textual; midrash de la plata, juramento cristológico y acusación cósmica en pendiente de verificar. |
+| #tehilim_15_1 | **מי יגור / מי ישכן**: nadie por mérito propio reside en la tienda (cielos) ni en el monte de la santidad; sin qodesh hay muerte (Sinaí, Aharón, arca). | Doble pregunta y verbos cotejados con OE/TTH; tienda celestial, «nadie» retórico y tipología del acceso quedan cualificados o pendientes. |
+| #tehilim_15_2 | **הולך תמים ופעל צדק**: no es baremo de mérito humano sino descripción de Hashem que anda completo y obra el deber ser; habla emet en su corazón. | Tamim/tsedeq/emet explicados léxicamente; sujeto teocéntrico marcado como lectura de la clase frente a la ética humana clásica. |
+| #tehilim_15_3 | No camina sobre su lengua; no hace mal a su amigo Israel; no socava al cercano: derriba idolatría, no al pueblo; reserva remanente. | Lengua, ra‘ah y cherpah ancladas en el texto; identificación Israel y pastoral anti-adicción como inferencia cualificada. |
+| #tehilim_15_4–5 | Desprecia al nimas y honra a los yir’ei יהוה; jura aun con perjuicio y no muda; plata no por interés (midrash: Torah/amor); no toma soborno contra el naqi; el oseh elleh es Hashem y no yimot leolam. | Contraste desprecio/honra y cierre inconmovible con apoyo textual; midrash de la plata, juramento cristológico y acusación cósmica en pendiente de verificar. |
 
 ## Pendiente de verificar
 

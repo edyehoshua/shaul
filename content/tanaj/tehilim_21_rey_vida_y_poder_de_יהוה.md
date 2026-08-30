@@ -11,14 +11,14 @@ tags:
   - "poder_de_יהוה"
   - "mesias"
 references:
-  - "#salmos_21_2"
-  - "#salmos_21_4"
-  - "#salmos_21_5"
-  - "#salmos_21_6"
-  - "#salmos_21_8"
-  - "#salmos_21_9"
-  - "#salmos_21_14"
-  - "#genesis_3_15"
+  - "#tehilim_21_2"
+  - "#tehilim_21_4"
+  - "#tehilim_21_5"
+  - "#tehilim_21_6"
+  - "#tehilim_21_8"
+  - "#tehilim_21_9"
+  - "#tehilim_21_14"
+  - "#bereshit_3_15"
   - "#juan_10_10"
   - "#juan_11_25"
   - "#romanos_1_16"
@@ -43,25 +43,25 @@ Esta nota organiza una clase sobre el salmo 21. El hermano Eric lo lee en clave 
 
 | Unidad textual   | Observación concreta tomada de la clase                                                                                        | Evaluación en esta nota                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| #salmos_21_2-6  | Eric lee la fuerza, la salvación, la corona, la vida y la gloria como dones que proceden de יהוה y los relaciona con Yehoshua. | Apoyo textual e inferencia cualificada: la dirección de los dones es explícita; la aplicación mesiánica se conserva como recepción de la clase. |
-| #salmos_21_7-8  | La estabilidad del rey depende de la misericordia y la confianza en יהוה, no de una autonomía real.                            | Apoyo textual: el poema vincula permanencia, hesed y confianza; la aplicación doctrinal amplia queda atribuida.                                 |
-| #salmos_21_9-13 | Eric conecta la derrota de los enemigos con Bereshit 3:15 y con la victoria del Mesías sobre el mal.                           | Inferencia cualificada: el salmo afirma juicio contra adversarios, pero no identifica por sí solo una figura espiritual concreta.               |
-| #salmos_21_14   | La victoria termina en canto comunitario a la fuerza de יהוה, no en venganza privada.                                          | Apoyo textual y aplicación ética: la alabanza final está explícita; el límite a la venganza se deriva del movimiento del poema.                 |
+| #tehilim_21_2-6  | Eric lee la fuerza, la salvación, la corona, la vida y la gloria como dones que proceden de יהוה y los relaciona con Yehoshua. | Apoyo textual e inferencia cualificada: la dirección de los dones es explícita; la aplicación mesiánica se conserva como recepción de la clase. |
+| #tehilim_21_7-8  | La estabilidad del rey depende de la misericordia y la confianza en יהוה, no de una autonomía real.                            | Apoyo textual: el poema vincula permanencia, hesed y confianza; la aplicación doctrinal amplia queda atribuida.                                 |
+| #tehilim_21_9-13 | Eric conecta la derrota de los enemigos con Bereshit 3:15 y con la victoria del Mesías sobre el mal.                           | Inferencia cualificada: el salmo afirma juicio contra adversarios, pero no identifica por sí solo una figura espiritual concreta.               |
+| #tehilim_21_14   | La victoria termina en canto comunitario a la fuerza de יהוה, no en venganza privada.                                          | Apoyo textual y aplicación ética: la alabanza final está explícita; el límite a la venganza se deriva del movimiento del poema.                 |
 
 ## Hoja de comparación
 
 | Referencia        | Texto local (hebreo sin nikud)                                                                         | Observación                                                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| #salmos_21_2     | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד                                                            | El gozo del rey procede de la fuerza y de la salvación de יהוה.                                                                                              |
-| #salmos_21_3     | תאות לבו נתתה לו וארשת שפתיו בל מנעת סלה                                                               | Eric relaciona el deseo concedido con la promesa de יהוה; el verso afirma la respuesta divina, mientras la aplicación al reencuentro mesiánico es atribuida. |
-| #salmos_21_4     | כי תקדמנו ברכות טוב תשית לראשו עטרת פז                                                                 | La bendición y la corona son acciones de יהוה hacia el rey.                                                                                                  |
-| #salmos_21_5     | חיים שאל ממך נתתה לו ארך ימים עולם ועד                                                                 | El pedido de vida recibe una respuesta que se extiende «olam va-ed».                                                                                         |
-| #salmos_21_6     | גדול כבודו בישועתך הוד והדר תשוה עליו                                                                  | La gloria del rey está en la salvación de יהוה, no en autonomía.                                                                                             |
-| #salmos_21_7     | כי תשיתהו ברכות לעד תחדהו בשמחה את פניך                                                                | La bendición perpetua y la alegría ante el rostro de יהוה sostienen la lectura de Eric sobre contentamiento; no es una definición técnica de la raíz.        |
-| #salmos_21_8     | כי המלך בטח ביהוה ובחסד עליון בל ימוט                                                                  | La confianza en יהוה y su hesed sostiene al rey.                                                                                                             |
-| #salmos_21_9-10  | תמצא ידך לכל איביך ימינך תמצא שנאיך תשיתמו כתנור אש לעת פניך יהוה באפו יבלעם ותאכלם אש                 | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada.                                                                             |
-| #salmos_21_11-13 | פרימו מארץ תאבד וזרעם מבני אדם כי נטו עליך רעה חשבו מזמה בל יוכלו כי תשיתמו שכם במיתריך תכונן על פניהם | Los planes de los adversarios no prevalecen; la lectura de Eric sobre justicia proporcional requiere otros textos para su desarrollo.                        |
-| #salmos_21_14    | רומה יהוה בעזך נשירה ונזמרה גבורתך                                                                     | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.                                                                                |
+| #tehilim_21_2     | יהוה בעזך ישמח מלך ובישועתך מה יגיל יגל מאד                                                            | El gozo del rey procede de la fuerza y de la salvación de יהוה.                                                                                              |
+| #tehilim_21_3     | תאות לבו נתתה לו וארשת שפתיו בל מנעת סלה                                                               | Eric relaciona el deseo concedido con la promesa de יהוה; el verso afirma la respuesta divina, mientras la aplicación al reencuentro mesiánico es atribuida. |
+| #tehilim_21_4     | כי תקדמנו ברכות טוב תשית לראשו עטרת פז                                                                 | La bendición y la corona son acciones de יהוה hacia el rey.                                                                                                  |
+| #tehilim_21_5     | חיים שאל ממך נתתה לו ארך ימים עולם ועד                                                                 | El pedido de vida recibe una respuesta que se extiende «olam va-ed».                                                                                         |
+| #tehilim_21_6     | גדול כבודו בישועתך הוד והדר תשוה עליו                                                                  | La gloria del rey está en la salvación de יהוה, no en autonomía.                                                                                             |
+| #tehilim_21_7     | כי תשיתהו ברכות לעד תחדהו בשמחה את פניך                                                                | La bendición perpetua y la alegría ante el rostro de יהוה sostienen la lectura de Eric sobre contentamiento; no es una definición técnica de la raíz.        |
+| #tehilim_21_8     | כי המלך בטח ביהוה ובחסד עליון בל ימוט                                                                  | La confianza en יהוה y su hesed sostiene al rey.                                                                                                             |
+| #tehilim_21_9-10  | תמצא ידך לכל איביך ימינך תמצא שנאיך תשיתמו כתנור אש לעת פניך יהוה באפו יבלעם ותאכלם אש                 | El juicio pertenece a la mano y al rostro de יהוה; no autoriza venganza privada.                                                                             |
+| #tehilim_21_11-13 | פרימו מארץ תאבד וזרעם מבני אדם כי נטו עליך רעה חשבו מזמה בל יוכלו כי תשיתמו שכם במיתריך תכונן על פניהם | Los planes de los adversarios no prevalecen; la lectura de Eric sobre justicia proporcional requiere otros textos para su desarrollo.                        |
+| #tehilim_21_14    | רומה יהוה בעזך נשירה ונזמרה גבורתך                                                                     | El cierre vuelve de la victoria del rey a la exaltación de la fuerza de יהוה.                                                                                |
 
 Las formas se conservan sin segmentación morfológica y las traducciones españolas funcionan como guía de lectura, no como sustituto del poema hebreo.
 
@@ -88,15 +88,15 @@ Los evangelios ofrecen ecos que permiten una lectura canónica prudente: Yehoshu
 
 ## Enemistad, juicio y esperanza
 
-En los vv. 9–13 el salmo nombra enemigos y anuncia que los planes de daño no prevalecerán. La clase lo conecta con la enemistad de #genesis_3_15 y con la victoria de Yehoshua sobre el mal. Es una lectura teológica posible dentro de su marco; Tehilim 21, por sí mismo, no define a esos enemigos como una figura espiritual concreta ni describe los detalles de la ejecución romana.
+En los vv. 9–13 el salmo nombra enemigos y anuncia que los planes de daño no prevalecerán. La clase lo conecta con la enemistad de #bereshit_3_15 y con la victoria de Yehoshua sobre el mal. Es una lectura teológica posible dentro de su marco; Tehilim 21, por sí mismo, no define a esos enemigos como una figura espiritual concreta ni describe los detalles de la ejecución romana.
 
-La respuesta final es litúrgica: “nosotros cantaremos y entonaremos tu poder” (#salmos_21_14). Por eso la esperanza de justicia no se transforma en una licencia para dañar, sino en confianza en el juicio de יהוה y en alabanza de su fuerza.
+La respuesta final es litúrgica: “nosotros cantaremos y entonaremos tu poder” (#tehilim_21_14). Por eso la esperanza de justicia no se transforma en una licencia para dañar, sino en confianza en el juicio de יהוה y en alabanza de su fuerza.
 
 ## Conexiones principales
 
 - #efesios_1_5-6: la clase asocia la bendición y la recepción “en el Amado” con la adopción; el pasaje debe leerse en su propio argumento sobre la gracia en el Mesías.
-- #juan_10_10 y #juan_11_25: vida abundante y resurrección iluminan, sin agotar, la expresión “vida” de #salmos_21_5.
-- #genesis_3_15: una conexión canónica para pensar la enemistad y la victoria, no una identificación explícita hecha por el salmo.
+- #juan_10_10 y #juan_11_25: vida abundante y resurrección iluminan, sin agotar, la expresión “vida” de #tehilim_21_5.
+- #bereshit_3_15: una conexión canónica para pensar la enemistad y la victoria, no una identificación explícita hecha por el salmo.
 - #romanos_1_16: la salvación de יהוה es confesada como poder para quien cree.
 
 ## Recorrido textual en el orden del salmo
@@ -146,8 +146,8 @@ Tehilim 21 enseña a recibir la victoria como don: el rey se alegra, vive y perm
 
 ## Ver también
 
-- [[yojanan_10_pastor_vida_obras|Yojanán 10: pastor, vida y obras]]
-- [[yojanan_11_lazaro_gloria_testimonio|Yojanán 11: Eleazar, gloria y testimonio]]
+- [[juan_10_pastor_vida_obras|Yojanán 10: pastor, vida y obras]]
+- [[juan_11_lazaro_gloria_testimonio|Yojanán 11: Eleazar, gloria y testimonio]]
 
 ## Créditos
 

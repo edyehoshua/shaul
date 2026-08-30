@@ -4,9 +4,9 @@ description: "Nota canónica de Vayikra 14, organizada a partir de una clase de 
 date: 2026-07-27
 tags:
   - parashot
-  - vaikra
+  - vayikra
 references:
-  - "#levitico_14_1"
+  - "#vayikra_14_1"
 sources:
   - "https://www.youtube.com/watch?v=kBqgbYQQCCk"
   - "docs/scriptures/oe/json/leviticus/14.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Vayikra 14 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud) | Observación                                                                                           |
 | ------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #levitico_14_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #vayikra_14_1 | **וידבר יהוה אל משה לאמר** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

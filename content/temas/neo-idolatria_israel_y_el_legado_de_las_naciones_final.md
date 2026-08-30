@@ -107,7 +107,7 @@ La conclusión de la serie llama a quitar la idolatría del corazón y a dejar q
 
 - [Santísima Trinidad: historia, lectura bíblica y unidad de Elohim](./santisima_trinidad_historia_lectura_biblica_y_unidad_de_elohim.md)
 - [Elohim: unidad, fidelidad y vida](./elohim_emet_unidad_fidelidad_y_vida.md)
-- [Restauración, siembra y nueva creación](../besorah/galatim_6_restauracion_siembra_y_nueva_creacion.md)
+- [Restauración, siembra y nueva creación](../besorah/galatas_6_restauracion_siembra_y_nueva_creacion.md)
 
 ## Créditos
 

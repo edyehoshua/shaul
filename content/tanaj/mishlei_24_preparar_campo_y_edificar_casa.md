@@ -4,18 +4,18 @@ description: "Mishlei 24:27-34 sobre trabajo preparado, edificación responsable
 date: 2026-08-05
 tags: [mishlei, mishlei_24, trabajo, casa, disciplina, pereza]
 references:
-  - "#proverbios_24_27"
-  - "#proverbios_24_28"
-  - "#proverbios_24_29"
-  - "#proverbios_24_30"
-  - "#proverbios_24_31"
-  - "#proverbios_24_32"
-  - "#proverbios_24_33"
-  - "#proverbios_24_34"
-  - "#genesis_1_1"
-  - "#genesis_1_2"
-  - "#genesis_2_3"
-  - "#isaias_25_8"
+  - "#mishlei_24_27"
+  - "#mishlei_24_28"
+  - "#mishlei_24_29"
+  - "#mishlei_24_30"
+  - "#mishlei_24_31"
+  - "#mishlei_24_32"
+  - "#mishlei_24_33"
+  - "#mishlei_24_34"
+  - "#bereshit_1_1"
+  - "#bereshit_1_2"
+  - "#bereshit_2_3"
+  - "#yeshayahu_25_8"
 sources:
   - "https://www.youtube.com/watch?v=gOcUq1FQz14"
   - "docs/scriptures/oe/json/proverbs/24.json"
@@ -40,10 +40,10 @@ La clase se concentra en 24:27 y luego enlaza el verso 30 con la viña del perez
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_24_27 | הכן בחוץ מלאכתך ועתדה בשדה לך אחר ובנית ביתך | Prepara afuera tu trabajo, y tenlo listo para ti en el campo después, y edificarás tu casa. |
-| #proverbios_24_28-29 | אל תהי עד חנם ברעך ... אל תאמר כאשר עשה לי כן אעשה לו | No seas testigo sin causa contra tu compañero... No digas: “Como él me ha hecho, así le haré”. |
-| #proverbios_24_30-32 | על שדה איש עצל עברתי ... ואחזה אנכי אשית לבי ראיתי לקחתי מוסר | Sobre el campo del hombre perezoso pasé... y vi, puse mi corazón, miré, tomé disciplina. |
-| #proverbios_24_33-34 | מעט שנות מעט תנומות ... ובא מתהלך רישך | Un poco de dormir... y vendrá caminando tu pobreza, y tu escasez como hombre de escudo. |
+| #mishlei_24_27 | הכן בחוץ מלאכתך ועתדה בשדה לך אחר ובנית ביתך | Prepara afuera tu trabajo, y tenlo listo para ti en el campo después, y edificarás tu casa. |
+| #mishlei_24_28-29 | אל תהי עד חנם ברעך ... אל תאמר כאשר עשה לי כן אעשה לו | No seas testigo sin causa contra tu compañero... No digas: “Como él me ha hecho, así le haré”. |
+| #mishlei_24_30-32 | על שדה איש עצל עברתי ... ואחזה אנכי אשית לבי ראיתי לקחתי מוסר | Sobre el campo del hombre perezoso pasé... y vi, puse mi corazón, miré, tomé disciplina. |
+| #mishlei_24_33-34 | מעט שנות מעט תנומות ... ובא מתהלך רישך | Un poco de dormir... y vendrá caminando tu pobreza, y tu escasez como hombre de escudo. |
 
 Para la conexión de la clase, Bereshit 1:1-3 dice: **בראשית ברא אלהים את השמים ואת הארץ**, “En el principio creó Elohim los cielos y la tierra”; la tierra estaba **תהו ובהו**, y Elohim dijo: “Sea luz”, y fue luz. Bereshit 2:3 añade que Elohim cesó de toda su obra “que creó Elohim para hacer”. El texto local no obliga a convertir _bara_ en “planificar” en cada aparición; permite observar una obra ordenada que culmina en hacer.
 
@@ -83,10 +83,10 @@ Los versos 33-34 reproducen la estrategia de la demora: poco sueño, poco adorme
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_24_27 | Preparar el trabajo, tenerlo listo en el campo y luego edificar la casa son tres pasos aplicables a familia, hijos y vida de Torah. | Apoyo textual de la secuencia; extensión familiar y nacional cualificada. |
-| #genesis_1_1-3; #genesis_2_3 | La creación se presenta como obra establecida, formada y llevada a cabo; “creó para hacer” se relaciona con un proceso aún desplegado. | Conexión canónica; distinciones exactas entre raíces pendientes. |
-| #proverbios_24_30-34 | El campo del perezoso muestra que posponer el trabajo trae espinos, cerco derribado, pobreza y escasez. | Apoyo textual directo. |
-| #isaias_25_8 | La obra futura culmina cuando la muerte es tragada y la oscuridad deja de gobernar. | Conexión escatológica apoyada por el pasaje; no es glosa léxica de Mishlei. |
+| #mishlei_24_27 | Preparar el trabajo, tenerlo listo en el campo y luego edificar la casa son tres pasos aplicables a familia, hijos y vida de Torah. | Apoyo textual de la secuencia; extensión familiar y nacional cualificada. |
+| #bereshit_1_1-3; #bereshit_2_3 | La creación se presenta como obra establecida, formada y llevada a cabo; “creó para hacer” se relaciona con un proceso aún desplegado. | Conexión canónica; distinciones exactas entre raíces pendientes. |
+| #mishlei_24_30-34 | El campo del perezoso muestra que posponer el trabajo trae espinos, cerco derribado, pobreza y escasez. | Apoyo textual directo. |
+| #yeshayahu_25_8 | La obra futura culmina cuando la muerte es tragada y la oscuridad deja de gobernar. | Conexión escatológica apoyada por el pasaje; no es glosa léxica de Mishlei. |
 
 ## Pendiente de verificar
 
@@ -97,9 +97,9 @@ Los versos 33-34 reproducen la estrategia de la demora: poco sueño, poco adorme
 
 ## Conexiones principales
 
-- #proverbios_24_32 y #proverbios_1_2-5: observar y tomar _musar_ conecta la disciplina del campo con la escuela de sabiduría.
-- #genesis_2_3: la frase “creó Elohim para hacer” ilumina la conexión de la clase, sin convertir la aplicación en traducción obligatoria.
-- #isaias_25_8: la esperanza de que יהוה trague la muerte sostiene la lectura futura de una obra de restauración.
+- #mishlei_24_32 y #mishlei_1_2-5: observar y tomar _musar_ conecta la disciplina del campo con la escuela de sabiduría.
+- #bereshit_2_3: la frase “creó Elohim para hacer” ilumina la conexión de la clase, sin convertir la aplicación en traducción obligatoria.
+- #yeshayahu_25_8: la esperanza de que יהוה trague la muerte sostiene la lectura futura de una obra de restauración.
 
 ## Conclusión
 

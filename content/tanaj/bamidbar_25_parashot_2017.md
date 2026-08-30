@@ -9,12 +9,12 @@ tags:
   - pacto
   - santidad
 references:
-  - "#numeros_25_1-9"
-  - "#numeros_25_6-9"
-  - "#numeros_25_10-15"
-  - "#numeros_25_16-18"
-  - "#oseas_9_10"
-  - "#salmos_106_28-31"
+  - "#bamidbar_25_1-9"
+  - "#bamidbar_25_6-9"
+  - "#bamidbar_25_10-15"
+  - "#bamidbar_25_16-18"
+  - "#hoshea_9_10"
+  - "#tehilim_106_28-31"
 sources:
   - "https://www.youtube.com/watch?v=PVazxaKCzLs"
   - "https://www.youtube.com/watch?v=cDOCQ1RXrH8"
@@ -38,10 +38,10 @@ Esta nota reúne la exposición «Parashat Pinjás Nm 25:10-30:1 El celo de tu c
 
 | Referencia         | Hebreo local OE (sin nikud)                                                | TTH local                                                                                                                | Fuerza del pasaje                                                                      |
 | ------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| #numeros_25_1-3   | **וישב ישראל בשטים ויחל העם לזנות אל בנות מואב ... ויצמד ישראל לבעל פעור** | «Israel se asentó en Shitim, y el pueblo comenzó a prostituirse con las hijas de Moav ... e Israel se apegó a Baal-Peor» | La crisis combina relación, culto y adhesión a una deidad rival.                       |
-| #numeros_25_4-9   | **קח את כל ראשי העם והוקע אותם ... ויהיו המתים במגפה ארבעה ועשרים אלף**    | «Toma a todos los jefes del pueblo y cuélgalos ... y fueron los muertos por la plaga veinticuatro mil»                   | El juicio se describe como asunto público del pueblo, no como venganza privada.        |
-| #numeros_25_10-13 | **השיב את חמתי ... בקנאו את קנאתי ... הנני נתן לו את בריתי שלום**          | «Hizo volver mi ira ... al tener celo por mi celo ... he aquí que le doy mi pacto de paz»                                | El texto vincula celo, detención de la plaga y pacto sacerdotal.                       |
-| #numeros_25_16-18 | **צרור את המדינים והכיתם אותם כי צררים הם לכם**                            | «Hostilicen a los midianitas y golpéenlos, porque son hostiles para ustedes»                                             | La instrucción pertenece al conflicto narrado y debe leerse con su contexto histórico. |
+| #bamidbar_25_1-3   | **וישב ישראל בשטים ויחל העם לזנות אל בנות מואב ... ויצמד ישראל לבעל פעור** | «Israel se asentó en Shitim, y el pueblo comenzó a prostituirse con las hijas de Moav ... e Israel se apegó a Baal-Peor» | La crisis combina relación, culto y adhesión a una deidad rival.                       |
+| #bamidbar_25_4-9   | **קח את כל ראשי העם והוקע אותם ... ויהיו המתים במגפה ארבעה ועשרים אלף**    | «Toma a todos los jefes del pueblo y cuélgalos ... y fueron los muertos por la plaga veinticuatro mil»                   | El juicio se describe como asunto público del pueblo, no como venganza privada.        |
+| #bamidbar_25_10-13 | **השיב את חמתי ... בקנאו את קנאתי ... הנני נתן לו את בריתי שלום**          | «Hizo volver mi ira ... al tener celo por mi celo ... he aquí que le doy mi pacto de paz»                                | El texto vincula celo, detención de la plaga y pacto sacerdotal.                       |
+| #bamidbar_25_16-18 | **צרור את המדינים והכיתם אותם כי צררים הם לכם**                            | «Hostilicen a los midianitas y golpéenlos, porque son hostiles para ustedes»                                             | La instrucción pertenece al conflicto narrado y debe leerse con su contexto histórico. |
 
 ## 1. Shitim, Baal-Peor y una adhesión que cambia el centro
 
@@ -77,17 +77,17 @@ El título de la clase, «El celo de tu casa me consumió», enlaza esta escena 
 
 El cierre ordena hostilizar a Midian porque sus acciones en Peor y el asunto de Cozbi son descritos como hostiles. **צרר**, _tsarar_, significa «oprimir, hostilizar o poner en estrechez»; en **צרים**, _tsorerim_, la fuerza contextual es la enemistad activa. «Enemigo espiritual» es pedagógico, no exacto. El mandato se encuentra dentro de la guerra narrada y no puede usarse como autorización para violencia religiosa contemporánea.
 
-El vínculo con #oseas_9_10 y #salmos_106_28-31 es una conexión canónica útil: ambos recuerdan Peor y la respuesta de Pinjas. Pero esos textos deben hablar con sus propios términos. La repetición confirma que el episodio fue memoria de infidelidad y juicio; no convierte cada aplicación posterior en una glosa literal de Bamidbar 25.
+El vínculo con #hoshea_9_10 y #tehilim_106_28-31 es una conexión canónica útil: ambos recuerdan Peor y la respuesta de Pinjas. Pero esos textos deben hablar con sus propios términos. La repetición confirma que el episodio fue memoria de infidelidad y juicio; no convierte cada aplicación posterior en una glosa literal de Bamidbar 25.
 
 ## 5. El recorrido completo: de la comida al pacto
 
-La perícopa no comienza con una abstracción sobre «el afuera», sino con una cadena de verbos: Israel se asentó, el pueblo comió, se inclinó y se apegó (#numeros_25_1-3). **ויצמד**, _vayitsamed_, no describe una emoción vaga: la raíz צמד expresa unirse o estar atado. El TTH «se apegó» conserva mejor la imagen que «se interesó». Eric acierta al advertir que la crisis afecta el centro de la lealtad, pero su explicación sobre gentiles periféricos debe evaluarse con cautela: el narrador culpa a Israel por sus acciones y luego identifica a los midianitas en la hostilidad del conflicto; no ofrece una regla étnica general.
+La perícopa no comienza con una abstracción sobre «el afuera», sino con una cadena de verbos: Israel se asentó, el pueblo comió, se inclinó y se apegó (#bamidbar_25_1-3). **ויצמד**, _vayitsamed_, no describe una emoción vaga: la raíz צמד expresa unirse o estar atado. El TTH «se apegó» conserva mejor la imagen que «se interesó». Eric acierta al advertir que la crisis afecta el centro de la lealtad, pero su explicación sobre gentiles periféricos debe evaluarse con cautela: el narrador culpa a Israel por sus acciones y luego identifica a los midianitas en la hostilidad del conflicto; no ofrece una regla étnica general.
 
 En 25:6-9 la escena se hace visible ante Mosheh, la asamblea y la tienda de reunión. El OE dice **ויבך** («y lloraba») y luego **ויבא** («y llevó»), de modo que el llanto comunitario y la provocación pública están en el mismo marco narrativo. **קהל**, _qahal_, significa asamblea o congregación; aquí señala al pueblo reunido, no una audiencia privada. El mapa del campamento que Eric usa para explicar la proximidad al Mishkán es una imagen útil apoyada por Bamidbar 2, pero debe conservarse como conexión contextual: Bamidbar 25 no dice que toda murmuración empiece siempre en el borde ni atribuye corrupción natural a los que están fuera.
 
 La acción de Pinjas produce el giro que יהוה interpreta en 25:10-13. **השיב**, _heshiv_, forma causativa de שוב, significa «hizo volver»; el objeto es la ira de יהוה, no una autonomía de Pinjas para gobernar el juicio. **את קנאתי**, _et qinati_, «mi celo», conserva la primera persona divina. Por eso la aplicación de Eric sobre «celo por la casa» puede exhortar a no tolerar la profanación, pero sólo es segura si permanece sometida a la palabra que reconoce a Pinjas en esta escena singular.
 
-Finalmente, la instrucción contra Midian (#numeros_25_16-18) vuelve a nombrar el daño: **בנכליהם**, _benakhelehem_, significa «con sus engaños o artificios», y apunta a la estrategia narrada en Peor. «Influencias impuras» es una equivalencia pedagógica; no sustituye la referencia a acciones históricas. La secuencia completa —adhesión, juicio, intervención, interpretación divina y conflicto— impide aislar el pacto de paz de la gravedad de la ruptura.
+Finalmente, la instrucción contra Midian (#bamidbar_25_16-18) vuelve a nombrar el daño: **בנכליהם**, _benakhelehem_, significa «con sus engaños o artificios», y apunta a la estrategia narrada en Peor. «Influencias impuras» es una equivalencia pedagógica; no sustituye la referencia a acciones históricas. La secuencia completa —adhesión, juicio, intervención, interpretación divina y conflicto— impide aislar el pacto de paz de la gravedad de la ruptura.
 
 ## Evaluación ampliada de las observaciones de Eric
 
@@ -135,11 +135,11 @@ La memoria posterior confirma el foco sin borrar el contexto. Hoshea 9:10 recuer
 
 ## Cierre textual: celo recibido, paz concedida
 
-El TTH de #numeros_25_11 conserva: «Pinjás, hijo de Eleazar, hijo de Aharón el sacerdote, ha hecho volver mi ira de sobre los hijos de Israel, al tener celo por mi celo entre ellos, para que no consumiera a los hijos de Israel en mi celo». OE expresa la misma atribución: **השיב את חמתי מעל בני ישראל בקנאו את קנאתי בתוכם**. La repetición de **קנא**, _qana_, y el sufijo de primera persona en «mi celo» impiden separar la acción del intérprete divino: Pinjas no se autoproclama dueño del juicio; יהוה explica qué vio y qué efecto produjo.
+El TTH de #bamidbar_25_11 conserva: «Pinjás, hijo de Eleazar, hijo de Aharón el sacerdote, ha hecho volver mi ira de sobre los hijos de Israel, al tener celo por mi celo entre ellos, para que no consumiera a los hijos de Israel en mi celo». OE expresa la misma atribución: **השיב את חמתי מעל בני ישראל בקנאו את קנאתי בתוכם**. La repetición de **קנא**, _qana_, y el sufijo de primera persona en «mi celo» impiden separar la acción del intérprete divino: Pinjas no se autoproclama dueño del juicio; יהוה explica qué vio y qué efecto produjo.
 
 El versículo siguiente dice en TTH: «Por eso, di: He aquí que le doy mi pacto de paz». **לכן**, _lajen_, «por eso», conecta el pacto con la interpretación precedente; **הנני נתן**, _hineni noten_, «he aquí, doy», presenta la iniciativa de יהוה. La paz es, por tanto, una concesión pactal, no una recompensa que la comunidad pueda reproducir por fuerza propia. La observación de Eric sobre defender la casa y el nombre de Elohim conserva un núcleo exhortativo cuando llama a la fidelidad, pero pierde el límite del texto si convierte el celo reconocido a Pinjas en licencia para violencia privada.
 
-El final del capítulo también debe permanecer visible. TTH traduce #numeros_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
+El final del capítulo también debe permanecer visible. TTH traduce #bamidbar_25_18: «porque ellos son hostiles para ustedes con sus engaños, con los que los engañaron en el asunto de Peor». **בנכליהם**, _benakhelehem_, procede de נכל, «actuar con engaño o artificio»; su fuerza contextual recuerda una estrategia concreta asociada con Peor. «Toda influencia impura» es una aplicación pedagógica, no una equivalencia exacta. La perícopa queda así cerrada por memoria y discernimiento: nombra acciones, agentes y conflicto; no autoriza al lector a fabricar adversarios espirituales sin evidencia.
 
 ## La paz del pacto está delimitada por la palabra
 

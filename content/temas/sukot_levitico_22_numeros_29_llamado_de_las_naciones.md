@@ -9,16 +9,16 @@ tags:
   - naciones
   - torah
 references:
-  - "#levitico_22_26"
-  - "#levitico_22_27"
-  - "#levitico_22_28"
-  - "#levitico_22_29"
-  - "#levitico_22_32"
-  - "#numeros_29_12"
-  - "#numeros_29_13"
-  - "#numeros_29_35"
-  - "#genesis_10_32"
-  - "#deuteronomio_32_8"
+  - "#vayikra_22_26"
+  - "#vayikra_22_27"
+  - "#vayikra_22_28"
+  - "#vayikra_22_29"
+  - "#vayikra_22_32"
+  - "#bamidbar_29_12"
+  - "#bamidbar_29_13"
+  - "#bamidbar_29_35"
+  - "#bereshit_10_32"
+  - "#devarim_32_8"
 sources:
   - "https://www.youtube.com/watch?v=r4_qmQa-HEY"
   - "docs/scriptures/oe/json/raw/leviticus.json"
@@ -40,11 +40,11 @@ La fuente pública del hermano Eric de Jesús Rodríguez Mendoza recorre Levíti
 
 | Referencia         | Texto local (OE)                                                                                                                                                                               | Función en el argumento                                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| #levitico_22_26-28   | **וַיְדַבֵּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֥ה לֵּאמֹֽר׃ שׁ֣וֹר אוֹ כֶ֤שֶׂב אוֹ עֵז֙ כִּ֣י יִוָּלֵ֔ד וְהָיָ֛ה שִׁבְעַ֥ת יָמִ֖ים תַּ֣חַת אִמּ֑וֹ ... אֹת֣וֹ וְאֶת בְּנ֔וֹ לֹ֥א תִשְׁחֲט֖וּ בְּי֥וֹם אֶחָֽד** | Tiempo de espera, aceptabilidad y límite contra la matanza conjunta.        |
-| #levitico_22_29-33   | **וְכִֽי תִזְבְּח֥וּ זֶֽבַח תּוֹדָ֖ה לַיהוָ֑ה ... וְלֹ֤א תְחַלְּלוּ֙ אֶת שֵׁ֣ם קָדְשִׁ֔י וְנִ֨קְדַּשְׁתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל**                                                    | La obediencia festiva se mide por la santificación del Nombre.              |
-| #numeros_29_12-16 | **וּבַחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ הַשְּׁבִיעִי ... וְהִקְרַבְתֶּם ... פָּרִים ... שְׁלֹשָׁה עָשָׂר**                                                                                        | Inicio de la solemnidad y primer conjunto de ofrendas.                      |
-| #numeros_29_17-34 | **וּבַיּוֹם הַשֵּׁנִי ... שְׁנֵים עָשָׂר ... וּבַיּוֹם הַשְּׁבִיעִי ... שִׁבְעָה**                                                                                                             | Disminución ordenada de los toros, sin que desaparezcan las demás ofrendas. |
-| #numeros_29_35-38 | **בַּיּוֹם הַשְּׁמִינִי עֲצֶרֶת תִּהְיֶה לָכֶם ... פַּר אֶחָד**                                                                                                                                | Cierre distinto: asamblea del octavo día y una ofrenda.                     |
+| #vayikra_22_26-28   | **וַיְדַבֵּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֥ה לֵּאמֹֽר׃ שׁ֣וֹר אוֹ כֶ֤שֶׂב אוֹ עֵז֙ כִּ֣י יִוָּלֵ֔ד וְהָיָ֛ה שִׁבְעַ֥ת יָמִ֖ים תַּ֣חַת אִמּ֑וֹ ... אֹת֣וֹ וְאֶת בְּנ֔וֹ לֹ֥א תִשְׁחֲט֖וּ בְּי֥וֹם אֶחָֽד** | Tiempo de espera, aceptabilidad y límite contra la matanza conjunta.        |
+| #vayikra_22_29-33   | **וְכִֽי תִזְבְּח֥וּ זֶֽבַח תּוֹדָ֖ה לַיהוָ֑ה ... וְלֹ֤א תְחַלְּלוּ֙ אֶת שֵׁ֣ם קָדְשִׁ֔י וְנִ֨קְדַּשְׁתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל**                                                    | La obediencia festiva se mide por la santificación del Nombre.              |
+| #bamidbar_29_12-16 | **וּבַחֲמִשָּׁה עָשָׂר יוֹם לַחֹדֶשׁ הַשְּׁבִיעִי ... וְהִקְרַבְתֶּם ... פָּרִים ... שְׁלֹשָׁה עָשָׂר**                                                                                        | Inicio de la solemnidad y primer conjunto de ofrendas.                      |
+| #bamidbar_29_17-34 | **וּבַיּוֹם הַשֵּׁנִי ... שְׁנֵים עָשָׂר ... וּבַיּוֹם הַשְּׁבִיעִי ... שִׁבְעָה**                                                                                                             | Disminución ordenada de los toros, sin que desaparezcan las demás ofrendas. |
+| #bamidbar_29_35-38 | **בַּיּוֹם הַשְּׁמִינִי עֲצֶרֶת תִּהְיֶה לָכֶם ... פַּר אֶחָד**                                                                                                                                | Cierre distinto: asamblea del octavo día y una ofrenda.                     |
 
 ## Mapa de la enseñanza de Eric
 
@@ -87,11 +87,11 @@ El octavo día cambia el patrón: **עֲצֶרֶת**, _atseret_, significa asamb
 
 La fuente pública `youtube:r4_qmQa-HEY` permite conservar tres observaciones concretas de Eric: el límite sobre el animal y su cría, la santidad del Nombre y la cuenta descendente de los toros durante Sukot. La atribución se mantiene en paráfrasis y con crédito visible; el argumento se prueba en el orden de las perícopas, no mediante una cita reconstruida. Levítico 22:26-33 establece primero el trato temporal y cultual del animal, luego la acción de gracias y finalmente la santificación del Nombre. Números 29:12-38 organiza después la liturgia festiva y termina con una asamblea distinta. La relación entre esas unidades es **canónica y cualificada**: comparten santidad y ofrenda, pero el texto no afirma que Levítico 22 sea una explicación secreta de cada cifra de Números 29.
 
-En #levitico_22_26-28, **(יָלַד)**, _yalad_, significa dar a luz o nacer; su fuerza contextual marca el comienzo de la vida del animal y justifica los siete días bajo su madre. «Recién nacido» es una glosa **directa**, mientras convertir los siete días en un calendario profético es **inferencial**. **(רָצָה)**, _ratsah_, significa aceptar, agradar o mostrar favor; aunque ayuda a explicar la aceptabilidad de una ofrenda, no debe usarse para deducir que todo sacrificio produce automáticamente favor. **(שָׁחַט)**, _shajat_, significa degollar o sacrificar; en la prohibición de 22:28 su fuerza es precisa: no se deben sacrificar el animal y su cría en el mismo día. La observación de Eric recibe **apoyo textual directo** en este límite, pero la extensión a regulaciones posteriores sobre carne y leche queda **histórica y cualificada**.
+En #vayikra_22_26-28, **(יָלַד)**, _yalad_, significa dar a luz o nacer; su fuerza contextual marca el comienzo de la vida del animal y justifica los siete días bajo su madre. «Recién nacido» es una glosa **directa**, mientras convertir los siete días en un calendario profético es **inferencial**. **(רָצָה)**, _ratsah_, significa aceptar, agradar o mostrar favor; aunque ayuda a explicar la aceptabilidad de una ofrenda, no debe usarse para deducir que todo sacrificio produce automáticamente favor. **(שָׁחַט)**, _shajat_, significa degollar o sacrificar; en la prohibición de 22:28 su fuerza es precisa: no se deben sacrificar el animal y su cría en el mismo día. La observación de Eric recibe **apoyo textual directo** en este límite, pero la extensión a regulaciones posteriores sobre carne y leche queda **histórica y cualificada**.
 
-En #levitico_22_29-33, **(תּוֹדָה)**, _todah_, significa acción de gracias o agradecimiento; **זֶבַח**, _zevaj_, significa sacrificio u ofrenda degollada. Juntas, las formas describen una ofrenda concreta de gratitud, no una emoción desligada de la obediencia. **(חָלַל)**, _jalal_, significa profanar o tratar como común; **קָדַשׁ**, _qadash_, significa hacer santo o apartar como santo. El contraste entre ambas formas explica la afirmación de Eric sobre el Nombre: la conducta festiva puede profanar o santificar según su relación con los mandamientos. Aplicar este principio al cuidado de la creación es **pedagógico y ético**; es válido como extensión responsable, pero no como el referente exclusivo de Levítico 22:32.
+En #vayikra_22_29-33, **(תּוֹדָה)**, _todah_, significa acción de gracias o agradecimiento; **זֶבַח**, _zevaj_, significa sacrificio u ofrenda degollada. Juntas, las formas describen una ofrenda concreta de gratitud, no una emoción desligada de la obediencia. **(חָלַל)**, _jalal_, significa profanar o tratar como común; **קָדַשׁ**, _qadash_, significa hacer santo o apartar como santo. El contraste entre ambas formas explica la afirmación de Eric sobre el Nombre: la conducta festiva puede profanar o santificar según su relación con los mandamientos. Aplicar este principio al cuidado de la creación es **pedagógico y ético**; es válido como extensión responsable, pero no como el referente exclusivo de Levítico 22:32.
 
-En #numeros_29_12-38, **(מִקְרָא)**, _miqra_, significa convocatoria o proclamación; **קֹדֶשׁ**, _qodesh_, significa santidad o cosa apartada. «Convocación santa» es una traducción **directa y contextual**, porque la fiesta reúne al pueblo en un tiempo señalado. **(פָּר)**, _par_, significa toro joven o res vacuna; la forma nombra el animal cuya cantidad desciende de trece a siete. La disminución es **textual y exacta**; sumarla para obtener setenta toros es aritmética del inventario, pero afirmar que cada toro representa una nación es **tradicional, aproximado y no explícito** en Números. **(עֲצֶרֶת)**, _atseret_, significa asamblea solemne o detención festiva; «cierre» es una glosa **pedagógica**, útil para señalar el cambio del octavo día sin convertirlo en una cronología escatológica.
+En #bamidbar_29_12-38, **(מִקְרָא)**, _miqra_, significa convocatoria o proclamación; **קֹדֶשׁ**, _qodesh_, significa santidad o cosa apartada. «Convocación santa» es una traducción **directa y contextual**, porque la fiesta reúne al pueblo en un tiempo señalado. **(פָּר)**, _par_, significa toro joven o res vacuna; la forma nombra el animal cuya cantidad desciende de trece a siete. La disminución es **textual y exacta**; sumarla para obtener setenta toros es aritmética del inventario, pero afirmar que cada toro representa una nación es **tradicional, aproximado y no explícito** en Números. **(עֲצֶרֶת)**, _atseret_, significa asamblea solemne o detención festiva; «cierre» es una glosa **pedagógica**, útil para señalar el cambio del octavo día sin convertirlo en una cronología escatológica.
 
 La lectura final debe conservar dos límites. Primero, los siete días no son un descenso de todas las ofrendas: carneros, corderos y macho cabrío permanecen dentro de la ordenanza. Segundo, el octavo día no es simplemente el día octavo de la misma serie, pues Números lo presenta como una asamblea con una res. La enseñanza de Eric queda respaldada cuando llama a observar la arquitectura litúrgica y la responsabilidad ante el Nombre; queda solo **cualificada** cuando la suma de setenta y el «último llamado» se presentan como significado obligatorio. El texto permite esperanza hacia las naciones, pero la esperanza debe someterse a la forma explícita de la Torah.
 

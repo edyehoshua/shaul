@@ -10,9 +10,9 @@ tags:
   - postrer_adam
   - redencion
 references:
-  - "#genesis_1_26"
-  - "#genesis_2_7"
-  - "#genesis_2_16"
+  - "#bereshit_1_26"
+  - "#bereshit_2_7"
+  - "#bereshit_2_16"
   - "#1_corintios_15_44"
   - "#1_corintios_15_45"
   - "#1_corintios_15_47"
@@ -62,10 +62,10 @@ La respuesta propuesta es distinguir entre adam como designación amplia de una 
 
 | Referencia             | Hebreo (sin nikud)                                          | TTH (ES)                                                        | Función en la enseñanza                              |
 | ---------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------- |
-| #genesis_1_26         | ויאמר אלהים נעשה אדם בצלמנו כדמותנו…                        | Y dijo Elohim: Haremos al hombre en nuestra imagen…             | Adam como categoría previa a la caída.               |
-| #genesis_1_27         | ויברא אלהים את האדם בצלמו… זכר ונקבה ברא אתם                | Y creó Elohim al hombre en su imagen… varón y hembra los creó.  | Entidad viviente distinta de los animales.           |
-| #genesis_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה… ויהי האדם לנפש חיה   | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente.                |
-| #genesis_2_16         | ויצו יהוה אלהים על האדם לאמר מכל עץ הגן אכל תאכל            | Y ordenó יהוה Elohim al hombre…                                 | Lectura de «este adam» por el artículo.              |
+| #bereshit_1_26         | ויאמר אלהים נעשה אדם בצלמנו כדמותנו…                        | Y dijo Elohim: Haremos al hombre en nuestra imagen…             | Adam como categoría previa a la caída.               |
+| #bereshit_1_27         | ויברא אלהים את האדם בצלמו… זכר ונקבה ברא אתם                | Y creó Elohim al hombre en su imagen… varón y hembra los creó.  | Entidad viviente distinta de los animales.           |
+| #bereshit_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה… ויהי האדם לנפש חיה   | Y formó יהוה Elohim al hombre… y fue el hombre un ser viviente. | Base del lenguaje de cuerpo viviente.                |
+| #bereshit_2_16         | ויצו יהוה אלהים על האדם לאמר מכל עץ הגן אכל תאכל            | Y ordenó יהוה Elohim al hombre…                                 | Lectura de «este adam» por el artículo.              |
 | #1_corintios_15_44 | יזרע גוף נפשי ויקום גוף רוחני…                              | TTH no disponible en corpus local                               | Cuerpo psychikon y pneumatikon.                      |
 | #1_corintios_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה | TTH no disponible en corpus local                               | Primer Adam y postrer Adam.                          |
 | #1_corintios_15_47 | האדם הראשון מןהאדמה הוא שלעפר והאדם השני הוא האדון מןהשמים  | TTH no disponible en corpus local                               | Origen terrenal y celestial.                         |
@@ -125,7 +125,7 @@ La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno 
 | Midrash / Tanaj   | Primer y postrer Adam             | Marco de #1_corintios_15_44-47   | Pendiente de verificar |
 | Targum / arameo   | **(בר אנש)** y títulos mesiánicos | Trasfondo de «Hijo de Hombre»        | Pendiente de verificar |
 | BDB / Jastrow     | אדם, בן, זרע                      | Apoyo léxico de la hoja léxica       | Pendiente de verificar |
-| #genesis_1_26-27 | Creación del adam                 | Categoría de entidad viviente        | Cotejado               |
+| #bereshit_1_26-27 | Creación del adam                 | Categoría de entidad viviente        | Cotejado               |
 | #galatas_3_16     | Promesa a la simiente             | Unidad viviente portadora de promesa | Cotejado (Delitzsch)   |
 
 ## Pendiente de verificar
@@ -138,8 +138,8 @@ La transcripción pide leer "hombre", "hijo" y "simiente" desde el hilo interno 
 
 - [Elohim y Abba](elohim_aba)
 - [Bat Kol: Hijo, Siervo y Testimonio](bat_kol)
-- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/yojanan_1)
-- [Yojanán 9: el Ben Adam y el ciego](../besorah/yojanan_9_ben_adam_y_el_ciego)
+- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/juan_1)
+- [Yojanán 9: el Ben Adam y el ciego](../besorah/juan_9_ben_adam_y_el_ciego)
 
 ## Créditos
 

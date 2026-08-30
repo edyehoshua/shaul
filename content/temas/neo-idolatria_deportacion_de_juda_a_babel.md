@@ -8,11 +8,11 @@ tags:
   - deportacion
   - melajim-bet
 references:
-  - "#2_reyes_23_31-35"
-  - "#2_reyes_23_36-37"
-  - "#2_reyes_24_8-17"
-  - "#2_reyes_24_18-20"
-  - "#2_reyes_25_1-21"
+  - "#melajim_bet_23_31-35"
+  - "#melajim_bet_23_36-37"
+  - "#melajim_bet_24_8-17"
+  - "#melajim_bet_24_18-20"
+  - "#melajim_bet_25_1-21"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
 source_ids:
@@ -31,11 +31,11 @@ Esta nota organiza la clase pública sobre la deportación de Judá y coteja sus
 
 | Referencia | Texto TTH local | Función en la clase |
 | --- | --- | --- |
-| #2_reyes_23_31 | «Edad de veintitrés años tenía Yehoajaz... y tres meses reinó» | Egipto interviene y el reinado queda sometido. |
-| #2_reyes_23_36 | «Edad de veinticinco años tenía Yehoiakim... y once años reinó» | El segundo rey gobierna bajo tributo y cambia de señor imperial. |
-| #2_reyes_24_8 | «Edad de dieciocho años tenía Iehoiajín... y tres meses reinó» | La sucesión breve precede a la primera deportación de élite. |
-| #2_reyes_24_18 | «Edad de veintiún años tenía Tzidkiyahu... y once años reinó» | La última rebelión termina con el cerco. |
-| #2_reyes_25_8 | «Vino Nebuzaradán... a Yerushaláim» | La presencia babilónica se convierte en destrucción de la ciudad. |
+| #melajim_bet_23_31 | «Edad de veintitrés años tenía Yehoajaz... y tres meses reinó» | Egipto interviene y el reinado queda sometido. |
+| #melajim_bet_23_36 | «Edad de veinticinco años tenía Yehoiakim... y once años reinó» | El segundo rey gobierna bajo tributo y cambia de señor imperial. |
+| #melajim_bet_24_8 | «Edad de dieciocho años tenía Iehoiajín... y tres meses reinó» | La sucesión breve precede a la primera deportación de élite. |
+| #melajim_bet_24_18 | «Edad de veintiún años tenía Tzidkiyahu... y once años reinó» | La última rebelión termina con el cerco. |
+| #melajim_bet_25_8 | «Vino Nebuzaradán... a Yerushaláim» | La presencia babilónica se convierte en destrucción de la ciudad. |
 
 ## Cuatro reyes en una tierra ya sometida
 
@@ -66,8 +66,8 @@ El capítulo 25 lleva la consecuencia a Jerusalén: sitio, hambre, brecha en la 
 
 - [[neo-idolatria_exilio_de_israel_dispersion_y_identidad|Exilio de Israel, dispersión e identidad]].
 - [[neo-idolatria_sincretismo_babel_israel_y_purificacion|Sincretismo, Babel, Israel y purificación]].
-- #deuteronomio_28_36-37 — advertencias de exilio y sometimiento que iluminan el marco de la clase.
-- #2_reyes_25_22 — Gedaliáhu y el remanente que queda en la tierra.
+- #devarim_28_36-37 — advertencias de exilio y sometimiento que iluminan el marco de la clase.
+- #melajim_bet_25_22 — Gedaliáhu y el remanente que queda en la tierra.
 
 ## Pendiente de verificar
 

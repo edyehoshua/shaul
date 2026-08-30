@@ -10,7 +10,7 @@ tags:
 references:
   - "#hebreos_8_1-6"
   - "#hebreos_8_7-13"
-  - "#jeremias_31_31-34"
+  - "#yirmeyahu_31_31-34"
 sources:
   - "https://www.youtube.com/watch?v=i3xcAIcBSjM"
   - "docs/scriptures/delitzsch/json/hebrews.json"

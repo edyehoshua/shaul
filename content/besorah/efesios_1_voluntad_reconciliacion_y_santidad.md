@@ -22,8 +22,8 @@ references:
   - "#efesios_1_20"
   - "#efesios_1_22"
   - "#efesios_1_23"
-  - "#salmos_24_7"
-  - "#isaias_41_4"
+  - "#tehilim_24_7"
+  - "#yeshayahu_41_4"
   - "#2_corintios_5_17"
   - "#2_corintios_5_18"
   - "#2_corintios_5_19"
@@ -80,7 +80,7 @@ Efesios 1 abre identificando a Pablo como enviado de Yehoshua el Mesías «por v
 | #efesios_1_7-9           | **אשרבו לנו הפדיום בדמו וסליחת הפשעים כרב חסדו׃**; **והודיע אתנו אתסוד חפצו כרצונו ועצתו מראש אשר יעץ בו׃**                                                                                                                                                                                                                                                    | El texto nombra redención, perdón y la revelación del misterio de su voluntad.                                       |
 | #efesios_1_15-20         | **בעבור זאת גםאנכי אחרי שמעי אמונתכם באדנינו ישוע והאהבה אשראהבתם אתכלהקדשים׃**; **שיתן לכם אלהי אדנינו ישוע המשיח אבי הכבוד אתרוח החכמה והחזון לדעת אתו׃**; **ויאר עיני לבבכם למען תדעו מההיא תוחלת קריאתו ומהעשר כבוד נחלתו בקדשים׃**; **ומהיתרון גדלת גבורתו בנו המאמינים כפי פעלת עצם כחו׃**; **אשר פעל במשיח בהעיר אתו מןהמתים ויושיבנו לימינו במרומים׃** | La oración pide conocimiento, esperanza y comprensión del poder mostrado en la resurrección.                         |
 | #efesios_1_22-23         | **וישת כל תחת רגליו ויתן אתו לראש לכל אלהעדה׃**; **אשר היא גופו מלוא שלהממלא אתהכל בכל׃**                                                                                                                                                                                                                                                                      | El capítulo culmina nombrando al Mesías como cabeza y a la asamblea como su cuerpo.                                  |
-| #salmos_24_7; #isaias_41_4 | **שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד׃**; **מי פעל ועשה קרא הדרות מראש אני יהוה ראשון ואת אחרנים אני הוא׃**                                                                                                                                                                                                                                      | Las clases los acercan como ecos para hablar de gloria, cabeza y llamado; la relación debe probarse contextualmente. |
+| #tehilim_24_7; #yeshayahu_41_4 | **שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד׃**; **מי פעל ועשה קרא הדרות מראש אני יהוה ראשון ואת אחרנים אני הוא׃**                                                                                                                                                                                                                                      | Las clases los acercan como ecos para hablar de gloria, cabeza y llamado; la relación debe probarse contextualmente. |
 
 ## El envío no comienza en una ambición privada
 
@@ -123,7 +123,7 @@ La clase explica _emunah_, amor, oración y «padre de gloria» mediante una ext
 
 La parte 6 continúa desde #efesios_1_18 hasta el fin. #efesios_1_19-20 une el poder de Elohim para los creyentes con la obra realizada en el Mesías al levantarlo de los muertos y sentarlo en los lugares celestiales. Luego #efesios_1_22-23 declara que todo fue puesto bajo sus pies, que él fue dado como cabeza sobre todas las cosas a la asamblea, y que esta es su cuerpo.
 
-El expositor conecta este cierre con #isaias_41_4 y #salmos_24_7, y desarrolla las imágenes de cabeza, semilla, gloria y pueblo. Esas conexiones son propuestas de lectura de la serie, no citas explícitas de Efesios. El vínculo textual más firme de la nota queda en la secuencia de Efesios mismo: oración, poder en la resurrección, supremacía del Mesías y comunidad descrita como cuerpo. La imagen no autoriza por sí sola a fijar una teoría exhaustiva de organización comunitaria.
+El expositor conecta este cierre con #yeshayahu_41_4 y #tehilim_24_7, y desarrolla las imágenes de cabeza, semilla, gloria y pueblo. Esas conexiones son propuestas de lectura de la serie, no citas explícitas de Efesios. El vínculo textual más firme de la nota queda en la secuencia de Efesios mismo: oración, poder en la resurrección, supremacía del Mesías y comunidad descrita como cuerpo. La imagen no autoriza por sí sola a fijar una teoría exhaustiva de organización comunitaria.
 
 ## La plenitud se expresa en una comunidad bajo la cabeza (1:20-23) #efesios_1_20-23
 
@@ -254,7 +254,7 @@ La oración final confirma el destino comunitario. Pablo pide **ἐπίγνωσ�
 - [ ] Examinar el contexto completo de #1_tesalonicenses_4_1-8 antes de convertir las aplicaciones de la sesión sobre matrimonio, temor y confianza en reglas universales.
 - [ ] Cotejar la afirmación de que todo mal se identifica simplemente con lo que no restaura o no favorece la vida; el criterio requiere una base bíblica y contextual más precisa.
 - [ ] Verificar las afirmaciones léxicas de las partes 2–6 —en especial las equivalencias propuestas para _pistis_, _agape_, _energeia_, «cabeza» y «padre de gloria»— directamente en textos griegos, hebreos y léxicos especializados.
-- [ ] Evaluar contextualmente las conexiones de la clase entre #efesios_1_17-23, #isaias_41_4 y #salmos_24_7 antes de presentarlas como intertextos directos.
+- [ ] Evaluar contextualmente las conexiones de la clase entre #efesios_1_17-23, #yeshayahu_41_4 y #tehilim_24_7 antes de presentarlas como intertextos directos.
 
 ## Control de transición: voluntad recibida, respuesta y cuerpo (1:1-23) #efesios_1_1-23
 
@@ -362,4 +362,4 @@ El recorrido completo del capítulo amplía esa apertura: bendición, elección,
 ## Ver también
 
 - [[colosenses_1_santos_fieles_sin_anadiduras|Colosenses 1: santos y fieles sin añadiduras]]
-- [[tesalonicenses_1_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]
+- [[1_tesalonicenses_comunidad_testimonio_esperanza|1 Tesalonicenses 1: comunidad, testimonio y esperanza]]

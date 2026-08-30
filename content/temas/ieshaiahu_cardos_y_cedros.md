@@ -6,8 +6,8 @@ tags:
   - yeshayahu
   - juicio
 references:
-  - "#isaias_5_6"
-  - "#isaias_2_13"
+  - "#yeshayahu_5_6"
+  - "#yeshayahu_2_13"
 sources: []
 ---
 
@@ -17,15 +17,15 @@ Las imágenes de cardos, espinos y cedros del Líbano se usan aquí para hablar 
 
 ## Texto base
 
-- #isaias_5_6
-- #isaias_2_13
+- #yeshayahu_5_6
+- #yeshayahu_2_13
 
 ## Hoja de comparación
 
 | Referencia      | TTH                                                                                                                                      | Observación                                                                              |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| #isaias_5_6  | Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia. | Los cardos y espinos aparecen como señal visible de una viña dejada al juicio.           |
-| #isaias_2_13 | Y sobre todos los cedros del Lebanón, los elevados y los exaltados, y sobre todos los robles del Bashán,                                 | Los cedros quedan dentro del mismo movimiento de abatimiento contra lo alto y ensalzado. |
+| #yeshayahu_5_6  | Y la pondré como páramo; no será podada ni trabajada, y subirán cardos y espinos. Y a las nubes ordenaré de no llover sobre ella lluvia. | Los cardos y espinos aparecen como señal visible de una viña dejada al juicio.           |
+| #yeshayahu_2_13 | Y sobre todos los cedros del Lebanón, los elevados y los exaltados, y sobre todos los robles del Bashán,                                 | Los cedros quedan dentro del mismo movimiento de abatimiento contra lo alto y ensalzado. |
 
 ## Observaciones
 

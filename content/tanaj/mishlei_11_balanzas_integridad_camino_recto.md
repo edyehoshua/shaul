@@ -10,12 +10,12 @@ tags:
   - humildad
   - emunah
 references:
-  - "#proverbios_11_1"
-  - "#proverbios_11_2"
-  - "#proverbios_11_3"
-  - "#proverbios_11_4"
-  - "#proverbios_11_5"
-  - "#miqueas_6_8"
+  - "#mishlei_11_1"
+  - "#mishlei_11_2"
+  - "#mishlei_11_3"
+  - "#mishlei_11_4"
+  - "#mishlei_11_5"
+  - "#mijah_6_8"
 sources:
   - "https://www.youtube.com/watch?v=_H0SXgt3C28"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -36,12 +36,12 @@ Esta nota sigue la clase sobre los primeros cinco versículos de Mishlei 11. Se 
 
 | Referencia | Hebreo OE (sin nikud) | Función en el pasaje |
 | --- | --- | --- |
-| #proverbios_11_1 | מאזני מרמה תועבת יהוה ואבן שלמה רצונו | יהוה aborrece la balanza engañosa y desea la piedra completa. |
-| #proverbios_11_2 | בא זדון ויבא קלון ואת צנועים חכמה | La insolencia trae deshonra; la sabiduría acompaña a los humildes. |
-| #proverbios_11_3 | תמת ישרים תנחם וסלף בוגדים ושדם ישדם | La integridad guía a los rectos; la perversidad destruye a los traidores. |
-| #proverbios_11_4 | לא יועיל הון ביום עברה וצדקה תציל ממות | La riqueza no sirve en el día de la ira; la justicia rescata de la muerte. |
-| #proverbios_11_5 | צדקת תמים תישר דרכו וברשעתו יפל רשע | La justicia del íntegro endereza su camino; el malvado cae por su maldad. |
-| #miqueas_6_8 | El pasaje que la clase relaciona con hacer justicia, amar misericordia y andar humildemente con Elohim. | Conexión canónica para explicar la humildad; no reemplaza la lectura de Mishlei. |
+| #mishlei_11_1 | מאזני מרמה תועבת יהוה ואבן שלמה רצונו | יהוה aborrece la balanza engañosa y desea la piedra completa. |
+| #mishlei_11_2 | בא זדון ויבא קלון ואת צנועים חכמה | La insolencia trae deshonra; la sabiduría acompaña a los humildes. |
+| #mishlei_11_3 | תמת ישרים תנחם וסלף בוגדים ושדם ישדם | La integridad guía a los rectos; la perversidad destruye a los traidores. |
+| #mishlei_11_4 | לא יועיל הון ביום עברה וצדקה תציל ממות | La riqueza no sirve en el día de la ira; la justicia rescata de la muerte. |
+| #mishlei_11_5 | צדקת תמים תישר דרכו וברשעתו יפל רשע | La justicia del íntegro endereza su camino; el malvado cae por su maldad. |
+| #mijah_6_8 | El pasaje que la clase relaciona con hacer justicia, amar misericordia y andar humildemente con Elohim. | Conexión canónica para explicar la humildad; no reemplaza la lectura de Mishlei. |
 
 ## Balanza, piedra completa y corazón medido
 
@@ -85,9 +85,9 @@ En 11:5, la justicia del íntegro endereza su camino y el malvado cae por su pro
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_11_1 | La balanza y la piedra representan el corazón; los mandamientos deben nivelarlo conforme a la voluntad de יהוה. | Honestidad comercial apoyada; simbolismo del corazón y de las piedras calificado como aplicación. |
-| #proverbios_11_2-3 | La insolencia cruza los límites de la Torah y trae deshonra; la humildad recibe sabiduría y la integridad guía. | Contrastes textuales apoyados; etimologías de _zadon_ y _tumat_ pendientes. |
-| #proverbios_11_4-5 | La riqueza no sirve en el día de la ira; la justicia rescata y rectifica el camino, mientras el malvado cae en su propia maldad. | Juicio y camino apoyados; tesoro celestial y completitud en Yehoshua tratados como aplicación mesiánica. |
+| #mishlei_11_1 | La balanza y la piedra representan el corazón; los mandamientos deben nivelarlo conforme a la voluntad de יהוה. | Honestidad comercial apoyada; simbolismo del corazón y de las piedras calificado como aplicación. |
+| #mishlei_11_2-3 | La insolencia cruza los límites de la Torah y trae deshonra; la humildad recibe sabiduría y la integridad guía. | Contrastes textuales apoyados; etimologías de _zadon_ y _tumat_ pendientes. |
+| #mishlei_11_4-5 | La riqueza no sirve en el día de la ira; la justicia rescata y rectifica el camino, mientras el malvado cae en su propia maldad. | Juicio y camino apoyados; tesoro celestial y completitud en Yehoshua tratados como aplicación mesiánica. |
 
 ## Pendiente de verificar
 

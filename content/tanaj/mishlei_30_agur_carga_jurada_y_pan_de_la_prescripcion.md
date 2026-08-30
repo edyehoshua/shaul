@@ -4,18 +4,18 @@ description: "Estudio de Mishlei 30:1-9 sobre la carga de Agur, la confesión de
 date: 2026-08-05
 tags: [mishlei, mishlei_30, agur, masah, redencion, disciplina]
 references:
-  - "#proverbios_30_1"
-  - "#proverbios_30_2"
-  - "#proverbios_30_3"
-  - "#proverbios_30_4"
-  - "#proverbios_30_5"
-  - "#proverbios_30_6"
-  - "#proverbios_30_7"
-  - "#proverbios_30_8"
-  - "#proverbios_30_9"
-  - "#genesis_22_15"
-  - "#2_samuel_23_1"
-  - "#salmos_18_30"
+  - "#mishlei_30_1"
+  - "#mishlei_30_2"
+  - "#mishlei_30_3"
+  - "#mishlei_30_4"
+  - "#mishlei_30_5"
+  - "#mishlei_30_6"
+  - "#mishlei_30_7"
+  - "#mishlei_30_8"
+  - "#mishlei_30_9"
+  - "#bereshit_22_15"
+  - "#shemuel_bet_23_1"
+  - "#tehilim_18_30"
   - "#santiago_1_13"
 sources:
   - "https://www.youtube.com/watch?v=d2CoDgU_eAM"
@@ -38,13 +38,13 @@ Esta nota organiza la clase sobre el comienzo de Mishlei 30. Se sigue el orden d
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_30_1 | דברי אגור בן יקה המשא נאם הגבר לאיתיאל לאיתיאל ואכל | Palabras de Agur, hijo de Iakeh, la carga. Declaración del varón, a Itiel, a Itiel y Ujal. |
-| #proverbios_30_2 | כי בער אנכי מאיש ולא בינת אדם לי | Porque bruto soy yo, más que hombre, y no hay discernimiento de hombre para mí. |
-| #proverbios_30_3 | ולא למדתי חכמה ודעת קדשים אדע | Y no he aprendido sabiduría, ni conocimiento de los apartados conozco. |
-| #proverbios_30_4 | מי עלה שמים וירד מי אסף רוח בחפניו מי צרר מים בשמלה מי הקים כל אפסי ארץ מה שמו ומה שם בנו כי תדע | ¿Quién subió a los cielos y descendió? ¿Quién reunió el viento en sus puños? ¿Quién encerró las aguas en un manto? ¿Quién estableció todos los confines de la tierra? ¿Cuál es su nombre? ¿Y cuál es el nombre de su hijo? Pues lo sabes. |
-| #proverbios_30_5 | כל אמרת אלוה צרופה מגן הוא לחסים בו | Todo dicho de Eloha es refinado, escudo es Él para los que se refugian en Él. |
-| #proverbios_30_6 | אל תוסף על דבריו פן יוכיח בך ונכזבת | No añadirás sobre sus palabras, para que no te reprenda con evidencias y seas demostrado como falso. |
-| #proverbios_30_7-9 | שתים שאלתי מאתך ... שוא ודבר כזב ... הטריפני לחם חקי ... מי יהוה ... | Dos cosas he pedido... falsedad y palabra de mentira aleja de mí... aliméntame, el pan de mi prescripción... ¿Quién es יהוה? |
+| #mishlei_30_1 | דברי אגור בן יקה המשא נאם הגבר לאיתיאל לאיתיאל ואכל | Palabras de Agur, hijo de Iakeh, la carga. Declaración del varón, a Itiel, a Itiel y Ujal. |
+| #mishlei_30_2 | כי בער אנכי מאיש ולא בינת אדם לי | Porque bruto soy yo, más que hombre, y no hay discernimiento de hombre para mí. |
+| #mishlei_30_3 | ולא למדתי חכמה ודעת קדשים אדע | Y no he aprendido sabiduría, ni conocimiento de los apartados conozco. |
+| #mishlei_30_4 | מי עלה שמים וירד מי אסף רוח בחפניו מי צרר מים בשמלה מי הקים כל אפסי ארץ מה שמו ומה שם בנו כי תדע | ¿Quién subió a los cielos y descendió? ¿Quién reunió el viento en sus puños? ¿Quién encerró las aguas en un manto? ¿Quién estableció todos los confines de la tierra? ¿Cuál es su nombre? ¿Y cuál es el nombre de su hijo? Pues lo sabes. |
+| #mishlei_30_5 | כל אמרת אלוה צרופה מגן הוא לחסים בו | Todo dicho de Eloha es refinado, escudo es Él para los que se refugian en Él. |
+| #mishlei_30_6 | אל תוסף על דבריו פן יוכיח בך ונכזבת | No añadirás sobre sus palabras, para que no te reprenda con evidencias y seas demostrado como falso. |
+| #mishlei_30_7-9 | שתים שאלתי מאתך ... שוא ודבר כזב ... הטריפני לחם חקי ... מי יהוה ... | Dos cosas he pedido... falsedad y palabra de mentira aleja de mí... aliméntame, el pan de mi prescripción... ¿Quién es יהוה? |
 
 ## La masá no permite presumir conocimiento
 
@@ -84,11 +84,11 @@ El verso 9 muestra el peligro de ambos excesos: la saciedad puede llevar a negar
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_30_1 | Agur es leído como el que reúne y vomita; la _masá_ es juicio sobre el pueblo. | Carácter de carga apoyado; etimología e identificación corporativa calificadas. |
-| #proverbios_30_2-3 | El hablante confiesa estar consumido, sin sabiduría ni conocimiento de los apartados. | Confesión textual apoyada; aplicación a Israel atribuida. |
-| #proverbios_30_4 | El que sube, desciende, reúne el viento y tiene un nombre de hijo es leído mesiánicamente. | Preguntas textuales apoyadas; conexión con Yehoshua calificada. |
-| #proverbios_30_5-6 | La palabra refinada protege, y añadir a ella expone al falso. | Apoyo textual directo; aplicación contra razonamientos humanos. |
-| #proverbios_30_7-9 | El pan prescrito es alimento de vida; la abundancia y la carencia pueden torcer al pueblo. | Petición textual apoyada; lectura espiritual desarrollada por la clase. |
+| #mishlei_30_1 | Agur es leído como el que reúne y vomita; la _masá_ es juicio sobre el pueblo. | Carácter de carga apoyado; etimología e identificación corporativa calificadas. |
+| #mishlei_30_2-3 | El hablante confiesa estar consumido, sin sabiduría ni conocimiento de los apartados. | Confesión textual apoyada; aplicación a Israel atribuida. |
+| #mishlei_30_4 | El que sube, desciende, reúne el viento y tiene un nombre de hijo es leído mesiánicamente. | Preguntas textuales apoyadas; conexión con Yehoshua calificada. |
+| #mishlei_30_5-6 | La palabra refinada protege, y añadir a ella expone al falso. | Apoyo textual directo; aplicación contra razonamientos humanos. |
+| #mishlei_30_7-9 | El pan prescrito es alimento de vida; la abundancia y la carencia pueden torcer al pueblo. | Petición textual apoyada; lectura espiritual desarrollada por la clase. |
 
 ## Pendiente de verificar
 

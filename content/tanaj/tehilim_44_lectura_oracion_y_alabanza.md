@@ -9,9 +9,9 @@ tags:
   - fidelidad
   - redencion
 references:
-  - "#salmos_44_1-9"
-  - "#salmos_44_10-17"
-  - "#salmos_44_18-27"
+  - "#tehilim_44_1-9"
+  - "#tehilim_44_10-17"
+  - "#tehilim_44_18-27"
 sources:
   - "https://www.youtube.com/watch?v=-SGr7Idwdek"
   - "docs/scriptures/oe/json/psalms/44.json"
@@ -37,7 +37,7 @@ El expositor acreditado es el hermano Eric de Jesús Rodríguez Mendoza. Esta no
 | 44:18-23 | כל זאת באתנו ולא שכחנוך ולא שקרנו בבריתך; ... אם שכחנו שם אלהינו ונפרש כפינו לאל זר; ... כי עליך הרגנו כל היום נחשבנו כצאן טבחה   | El pueblo afirma no haber olvidado el pacto ni extendido las manos a un dios extraño, aunque sufre como oveja para el matadero.                              |
 | 44:24-27 | עורה למה תישן אדני הקיצה אל תזנח לנצח; ... קומה עזרתה לנו ופדנו למען חסדך                                                         | El cierre no maquilla el dolor: despierta, levántate, ayuda y redime por tu חסד.                                                                             |
 
-## 44:1-9: título, memoria y actividad de Elohim #salmos_44_1-9
+## 44:1-9: título, memoria y actividad de Elohim #tehilim_44_1-9
 
 El encabezado dice: «Al director, de los hijos de Qóraj, maskil». Eric insiste en que los títulos de los himnos importan para entender su sentido. **משכיל**, _maskil_, puede relacionarse con instrucción, composición reflexiva o canto de entendimiento; no es una autorización para leer el poema como simple relato. El título sitúa una enseñanza cantada por una comunidad concreta.
 
@@ -47,7 +47,7 @@ Los versos 3-4 describen la conquista como acción de Elohim: «con tu mano expu
 
 La confesión continúa: «Tú eres mi Rey, Elohim; ordena las salvaciones de Jacob». **ישועה**, _yeshuah_, significa salvación, liberación o victoria. La comunidad atribuye a Elohim el mandato y la realización de la liberación. Por eso puede decir: «contigo embestiremos a nuestros enemigos; en tu nombre pisotearemos a nuestros adversarios», pero inmediatamente niega que la confianza esté en el arco o en la espada. Eric mantiene la dirección del texto: la alabanza no se construye sobre capacidad militar propia.
 
-## 44:10-17: cuando la memoria choca con la derrota #salmos_44_10-17
+## 44:10-17: cuando la memoria choca con la derrota #tehilim_44_10-17
 
 El giro del verso 10 es abrupto: «pero nos has rechazado y nos has avergonzado, y no sales con nuestros ejércitos». La oración no intenta resolver demasiado pronto la tensión entre la fidelidad pasada de Elohim y la derrota presente. Los versos siguientes describen retorno ante el enemigo, entrega como ovejas para alimento, dispersión entre las naciones y venta del pueblo sin ganancia para Elohim.
 
@@ -55,7 +55,7 @@ Eric enlaza esta sección con la experiencia de que la comunidad puede quedar hu
 
 La repetición de «todo el día» intensifica la duración de la humillación: la vergüenza está frente al hablante y el rostro queda cubierto. La protesta es franca, pero sigue dirigida a Elohim. El salmo no convierte al enemigo en dueño de la interpretación final; le pide a Elohim que responda por la contradicción entre su memoria y su situación.
 
-## 44:18-23: fidelidad declarada bajo aflicción #salmos_44_18-23
+## 44:18-23: fidelidad declarada bajo aflicción #tehilim_44_18-23
 
 El centro defensivo de la oración aparece en 44:18-22: «todo esto nos vino y no te olvidamos, ni mentimos en tu pacto». El pueblo no afirma que jamás haya pecado en toda su historia; afirma que, en la crisis descrita, no abandonó la memoria de Elohim ni actuó falsamente contra el pacto. **ברית**, _berit_, significa pacto, alianza o compromiso; aquí es el marco relacional contra el que la comunidad mide su sufrimiento.
 
@@ -63,7 +63,7 @@ El salmo incluso dice que el corazón no retrocedió y que los pasos no se desvi
 
 El verso 23 intensifica el contraste: «por ti nos matan todo el día; somos considerados como ovejas para el matadero». Pablo retomará esta imagen en Romanos 8, pero Tehilim 44 conserva aquí su propio lamento comunitario. **טבח**, _tavaj_, significa degollar, sacrificar o matar para alimento; «oveja para el matadero» es una imagen exacta del verso. La comunidad no interpreta el sufrimiento como prueba automática de que olvidó a Elohim.
 
-## 44:24-27: el despertar pedido y la redención por חסד #salmos_44_24-27
+## 44:24-27: el despertar pedido y la redención por חסד #tehilim_44_24-27
 
 El cierre pregunta: «despierta, ¿por qué duermes, Señor?; despierta, no rechaces para siempre». La atribución de sueño a Elohim es lenguaje de protesta y personificación, no una afirmación de que Elohim pierda conciencia. **עור**, _ur_, significa despertar, levantarse o suscitar; aquí funciona como grito de urgencia dirigido al juez y rey que parece inactivo.
 

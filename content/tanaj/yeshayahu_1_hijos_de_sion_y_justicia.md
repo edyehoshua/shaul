@@ -1,9 +1,9 @@
 ---
 title: "Hijos de Sion y justicia"
-description: "Isaías 1 confronta la rebeldía y llama a la justicia que defiende al vulnerable."
+description: "Yeshayahu 1 confronta la rebeldía y llama a la justicia que defiende al vulnerable."
 date: 2026-07-27
 tags: [tanaj, yeshayahu, haftarah, dvarim]
-references: ["#isaias_1_17"]
+references: ["#yeshayahu_1_17"]
 sources:
   [
     "https://www.youtube.com/watch?v=7mwpoXK-GO4",
@@ -20,7 +20,7 @@ Isaías 1 confronta la rebelión de Sion y ordena aprender a hacer el bien, busc
 
 | Referencia      | Texto local             | Observación                                        |
 | --------------- | ----------------------- | -------------------------------------------------- |
-| #isaias_1_17 | Texto local de Isaías 1 | La corrección profética incluye justicia concreta. |
+| #yeshayahu_1_17 | Texto local de Isaías 1 | La corrección profética incluye justicia concreta. |
 
 ## Lectura
 

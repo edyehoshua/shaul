@@ -12,8 +12,8 @@ references:
   - "#romanos_7_1-6"
   - "#romanos_7_7-13"
   - "#romanos_7_14-25"
-  - "#deuteronomio_24_1-4"
-  - "#ezequiel_36_26-27"
+  - "#devarim_24_1-4"
+  - "#yejezkel_36_26-27"
 sources:
   - "https://www.youtube.com/watch?v=yh_hsRK7MgE"
   - "docs/scriptures/tth/json/romanos.json"

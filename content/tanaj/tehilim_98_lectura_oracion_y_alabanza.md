@@ -9,9 +9,9 @@ tags:
   - alabanza
   - juicio
 references:
-  - "#salmos_98_1-3"
-  - "#salmos_98_4-6"
-  - "#salmos_98_7-9"
+  - "#tehilim_98_1-3"
+  - "#tehilim_98_4-6"
+  - "#tehilim_98_7-9"
 sources:
   - "https://www.youtube.com/watch?v=YR2hC3YqrjY"
   - "docs/scriptures/oe/json/psalms/98.json"
@@ -32,23 +32,23 @@ La exposición pública compara Tehilim 98 con el 96 y relaciona sus expresiones
 
 | Referencia      | Texto local (OE, hebreo sin nikud)                                                                                                                                          | Función en el argumento                                                                 |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| #salmos_98_1-3 | **מזמור שירו ליהוה שיר חדש כי נפלאות עשה הושיעה לו ימינו וזרוע קדשו; הודיע יהוה ישועתו לעיני הגוים גלה צדקתו; זכר חסדו ואמונתו לבית ישראל ראו כל אפסי ארץ את ישועת אלהינו** | La obra maravillosa, la salvación visible y la memoria fiel del pacto abren el cántico. |
-| #salmos_98_4-6 | **הריעו ליהוה כל הארץ פצחו ורננו וזמרו; זמרו ליהוה בכנור בכנור וקול זמרה; בחצצרות וקול שופר הריעו לפני המלך יהוה**                                                          | La respuesta pasa de la voz del pueblo a instrumentos y a la proclamación ante el Rey.  |
-| #salmos_98_7-9 | **ירעם הים ומלאו תבל וישבי בה; נהרות ימחאו כף יחד הרים ירננו; לפני יהוה כי בא לשפט הארץ ישפט תבל בצדק ועמים במישרים**                                                       | Mar, ríos y montes celebran porque יהוה viene a juzgar con rectitud.                    |
+| #tehilim_98_1-3 | **מזמור שירו ליהוה שיר חדש כי נפלאות עשה הושיעה לו ימינו וזרוע קדשו; הודיע יהוה ישועתו לעיני הגוים גלה צדקתו; זכר חסדו ואמונתו לבית ישראל ראו כל אפסי ארץ את ישועת אלהינו** | La obra maravillosa, la salvación visible y la memoria fiel del pacto abren el cántico. |
+| #tehilim_98_4-6 | **הריעו ליהוה כל הארץ פצחו ורננו וזמרו; זמרו ליהוה בכנור בכנור וקול זמרה; בחצצרות וקול שופר הריעו לפני המלך יהוה**                                                          | La respuesta pasa de la voz del pueblo a instrumentos y a la proclamación ante el Rey.  |
+| #tehilim_98_7-9 | **ירעם הים ומלאו תבל וישבי בה; נהרות ימחאו כף יחד הרים ירננו; לפני יהוה כי בא לשפט הארץ ישפט תבל בצדק ועמים במישרים**                                                       | Mar, ríos y montes celebran porque יהוה viene a juzgar con rectitud.                    |
 
-## 98:1-3: la maravilla que renueva el canto #salmos_98_1-3
+## 98:1-3: la maravilla que renueva el canto #tehilim_98_1-3
 
 Eric empieza señalando que Tehilim 98 comparte con el 96 la invitación a cantar y el lenguaje de las maravillas. Su observación concreta es que el capítulo no presenta una alabanza flotante: el motivo está en **כי נפלאות עשה**, «porque hizo maravillas», y en que su diestra y su brazo santo le dieron salvación. El texto confirma la secuencia causal. La alabanza responde a una obra de יהוה, no a una emoción producida por el cantante.
 
 La clase relaciona **שיר חדש** (_shir chadash_) con una promesa que se canta de nuevo desde una obra renovada. «Nuevo» es el sentido normal de **חדש** (_chadash_); en este contexto puede expresar novedad de manifestación y no necesariamente una promesa distinta. La relación con la idea de un pacto renovado es pedagógica e intertextual, no una traducción exacta de la frase. El v. 3 mantiene el equilibrio: יהוה recuerda **חסד** (_hesed_), fidelidad misericordiosa o bondad leal, y **אמונה** (_emunah_), firmeza o fidelidad, «a la casa de Israel», mientras los confines de la tierra ven su salvación. La clase acierta al conservar continuidad entre promesa, obra y canto; excedería el verso decir que aquí se define por sí solo toda la doctrina posterior del pacto.
 
-## 98:4-6: la alabanza pública ante el Rey #salmos_98_4-6
+## 98:4-6: la alabanza pública ante el Rey #tehilim_98_4-6
 
 Después de la memoria particular de Israel, el salmo ordena a toda la tierra gritar, romper en júbilo y cantar. Eric observa que la salvación que ha sido revelada no queda encerrada en una experiencia privada. La cadena **הריעו**, **פצחו**, **רננו** y **זמרו** acumula formas de respuesta sonora. La fuerza normal de **רנן** (_ranan_) es lanzar gritos o cantar con júbilo; aquí sostiene una celebración pública, no una fórmula silenciosa.
 
 Los instrumentos —**כנור**, _kinnor_, arpa o lira; **חצצרות**, _chatsotserot_, trompetas; y **שופר**, _shofar_, cuerno— no son pruebas de una cronología ritual específica. Su función contextual es hacer audible la comparecencia «delante del Rey יהוה». La exposición vincula esta entronización con la obra del Mesías y con una revelación más plena. Esa lectura puede conectarse canónicamente con otros textos, pero el salmo afirma directamente que el Rey viene y merece una respuesta total.
 
-## 98:7-9: creación y juicio sin arbitrariedad #salmos_98_7-9
+## 98:7-9: creación y juicio sin arbitrariedad #tehilim_98_7-9
 
 El cierre amplía la asamblea a mar, mundo habitado, ríos y montes. Eric usa esta personificación para mostrar que la redención no es solamente una experiencia humana: toda la creación participa en la expectativa del juicio. El texto no afirma que los ríos tengan voz literal; presenta una personificación poética en la que el orden creado responde al gobierno de יהוה.
 

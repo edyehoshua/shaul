@@ -9,15 +9,15 @@ tags:
   - santidad
   - comunidad
 references:
-  - "#levitico_23_15"
-  - "#levitico_23_21"
-  - "#levitico_23_22"
-  - "#deuteronomio_16_9"
-  - "#deuteronomio_16_10"
-  - "#deuteronomio_16_11"
-  - "#deuteronomio_16_12"
-  - "#exodo_23_16"
-  - "#isaias_58_13"
+  - "#vayikra_23_15"
+  - "#vayikra_23_21"
+  - "#vayikra_23_22"
+  - "#devarim_16_9"
+  - "#devarim_16_10"
+  - "#devarim_16_11"
+  - "#devarim_16_12"
+  - "#shemot_23_16"
+  - "#yeshayahu_58_13"
   - "#mateo_11_28"
 sources:
   - "https://www.youtube.com/watch?v=ILFHBTEagyc"
@@ -43,14 +43,14 @@ Esta nota estudia únicamente `youtube:ILFHBTEagyc` y distingue entre el énfasi
 
 | Unidad                       | Texto y observación                                                                                      | Evaluación                                                                                  |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| #levitico_23_15-21          | El conteo de siete semanas culmina en una convocación santa; no se trabaja la obra servil.               | Apoyo textual directo para hablar de una asamblea apartada y un límite laboral.             |
-| #levitico_23_22             | La cosecha no debe agotarse: queda para el pobre y el extranjero.                                        | Apoyo textual directo para una santidad social, no solo ceremonial.                         |
-| #deuteronomio_16_9-12         | La fiesta incluye ofrenda, alegría ante יהוה, levita, extranjero, huérfano y viuda, y memoria de Egipto. | Apoyo textual; el descanso se entiende dentro de inclusión y memoria.                       |
-| #exodo_23_16; #isaias_58_13 | Cosecha y día santo pueden iluminar una aplicación sobre dedicación del tiempo.                          | Conexión pedagógica y cualificada; estos pasajes no son una definición completa de Shavuot. |
+| #vayikra_23_15-21          | El conteo de siete semanas culmina en una convocación santa; no se trabaja la obra servil.               | Apoyo textual directo para hablar de una asamblea apartada y un límite laboral.             |
+| #vayikra_23_22             | La cosecha no debe agotarse: queda para el pobre y el extranjero.                                        | Apoyo textual directo para una santidad social, no solo ceremonial.                         |
+| #devarim_16_9-12         | La fiesta incluye ofrenda, alegría ante יהוה, levita, extranjero, huérfano y viuda, y memoria de Egipto. | Apoyo textual; el descanso se entiende dentro de inclusión y memoria.                       |
+| #shemot_23_16; #yeshayahu_58_13 | Cosecha y día santo pueden iluminar una aplicación sobre dedicación del tiempo.                          | Conexión pedagógica y cualificada; estos pasajes no son una definición completa de Shavuot. |
 
 ## La convocación que interrumpe la producción
 
-Levítico 23:15-21 sitúa Shavuot después de un conteo completo. El término hebreo **(שבתון)**, _shabbaton_, tiene el sentido ordinario de cesación, descanso o reposo solemne; en #levitico_23_21 su fuerza contextual es una pausa pública asociada con la convocación santa. «Descanso» es una glosa directa del campo semántico, pero no significa que el pasaje ordene una suspensión idéntica de toda actividad contemporánea. La frase **(מקרא קדש)**, _miqra qodesh_, significa convocación santa o reunión apartada; su fuerza es comunitaria y cultual, no la mera sensación privada de tranquilidad.
+Levítico 23:15-21 sitúa Shavuot después de un conteo completo. El término hebreo **(שבתון)**, _shabbaton_, tiene el sentido ordinario de cesación, descanso o reposo solemne; en #vayikra_23_21 su fuerza contextual es una pausa pública asociada con la convocación santa. «Descanso» es una glosa directa del campo semántico, pero no significa que el pasaje ordene una suspensión idéntica de toda actividad contemporánea. La frase **(מקרא קדש)**, _miqra qodesh_, significa convocación santa o reunión apartada; su fuerza es comunitaria y cultual, no la mera sensación privada de tranquilidad.
 
 El título de Eric habla del «pueblo» y el texto confirma que el sujeto no es una élite espiritual. La convocación reúne a quienes pertenecen a la comunidad y los coloca bajo una orden común. La pausa tiene así una dimensión crítica: el fruto de la tierra no define por completo la vida del pueblo, porque el pueblo recibe el tiempo de יהוה y debe presentarse ante él.
 
@@ -58,21 +58,21 @@ El título de Eric habla del «pueblo» y el texto confirma que el sujeto no es 
 
 La santidad de la fiesta no cancela la responsabilidad económica. Levítico 23:22 ordena no segar hasta el extremo ni recoger todo lo que cae, sino dejarlo para el pobre y el extranjero. **(לקט)**, _leqet_, significa recolección de lo que queda o espigas caídas; en el contexto, su fuerza es el remanente de cosecha que no debe convertirse en propiedad exhaustiva del dueño. Traducirlo como «ayuda» sería pedagógico; el texto describe una obligación agrícola concreta, no solo una emoción caritativa.
 
-**(עני)**, _ani_, significa pobre, afligido o necesitado, y **(גר)**, _ger_, significa residente extranjero; ambos términos reciben una función concreta en #levitico_23_22. La glosa «vulnerable» es aproximada: ayuda a reunir los casos, pero no borra sus diferencias jurídicas y sociales. El descanso del pueblo se contradice si la abundancia de unos elimina el acceso de otros. Por eso la aplicación comunitaria del título recibe apoyo textual cualificado: la fiesta tiene reposo, pero ese reposo no es indiferencia ante la necesidad.
+**(עני)**, _ani_, significa pobre, afligido o necesitado, y **(גר)**, _ger_, significa residente extranjero; ambos términos reciben una función concreta en #vayikra_23_22. La glosa «vulnerable» es aproximada: ayuda a reunir los casos, pero no borra sus diferencias jurídicas y sociales. El descanso del pueblo se contradice si la abundancia de unos elimina el acceso de otros. Por eso la aplicación comunitaria del título recibe apoyo textual cualificado: la fiesta tiene reposo, pero ese reposo no es indiferencia ante la necesidad.
 
 ## Alegría, memoria y pertenencia
 
-Deuteronomio 16:9-12 vuelve a contar siete semanas y ordena celebrar según la bendición recibida. El verbo **(שמח)**, _samaj_, significa alegrarse o regocijarse; en #deuteronomio_16_11 su fuerza es una alegría «delante de יהוה» que incluye familia, levita, extranjero, huérfano y viuda. «Celebrar» es una traducción aproximada de la escena completa: el gozo no queda reducido a una reunión festiva, porque el versículo especifica con quién se comparte.
+Deuteronomio 16:9-12 vuelve a contar siete semanas y ordena celebrar según la bendición recibida. El verbo **(שמח)**, _samaj_, significa alegrarse o regocijarse; en #devarim_16_11 su fuerza es una alegría «delante de יהוה» que incluye familia, levita, extranjero, huérfano y viuda. «Celebrar» es una traducción aproximada de la escena completa: el gozo no queda reducido a una reunión festiva, porque el versículo especifica con quién se comparte.
 
-La memoria de haber sido esclavo en Egipto (#deuteronomio_16_12) controla la celebración. **(זכר)**, _zakar_, significa recordar, traer a la memoria o tener presente; aquí su fuerza es una memoria que gobierna la obediencia. No autoriza a convertir el pasado en una consigna abstracta: el recuerdo de la esclavitud explica por qué la fiesta debe ser inclusiva y por qué la alegría no puede medirse solo por posesión.
+La memoria de haber sido esclavo en Egipto (#devarim_16_12) controla la celebración. **(זכר)**, _zakar_, significa recordar, traer a la memoria o tener presente; aquí su fuerza es una memoria que gobierna la obediencia. No autoriza a convertir el pasado en una consigna abstracta: el recuerdo de la esclavitud explica por qué la fiesta debe ser inclusiva y por qué la alegría no puede medirse solo por posesión.
 
 ## Mapa de la enseñanza de Eric
 
 | Unidad                                                        | Observación pública atribuible                                                               | Evaluación frente a la Escritura                                                                                      |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Título de `youtube:ILFHBTEagyc`                               | Eric presenta la sesión como «Un descanso para el pueblo de YHWH».                           | El título acredita el foco general; no permite reconstruir una exposición palabra por palabra.                        |
-| #levitico_23_15-21; `youtube:ILFHBTEagyc`                    | La idea pública de descanso se examina a la luz de una convocación santa después del conteo. | Apoyo textual cualificado: _shabbaton_ y _miqra qodesh_ sostienen pausa y reunión, sin resolver cada práctica actual. |
-| #levitico_23_22; #deuteronomio_16_9-12; `youtube:ILFHBTEagyc` | El descanso del pueblo se relaciona con cosecha, alegría, memoria e inclusión.               | Apoyo textual: pobre, extranjero, huérfano, viuda y levita aparecen en la estructura de la fiesta.                    |
+| #vayikra_23_15-21; `youtube:ILFHBTEagyc`                    | La idea pública de descanso se examina a la luz de una convocación santa después del conteo. | Apoyo textual cualificado: _shabbaton_ y _miqra qodesh_ sostienen pausa y reunión, sin resolver cada práctica actual. |
+| #vayikra_23_22; #devarim_16_9-12; `youtube:ILFHBTEagyc` | El descanso del pueblo se relaciona con cosecha, alegría, memoria e inclusión.               | Apoyo textual: pobre, extranjero, huérfano, viuda y levita aparecen en la estructura de la fiesta.                    |
 
 ## Aplicaciones y límites
 

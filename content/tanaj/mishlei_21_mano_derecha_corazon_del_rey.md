@@ -4,18 +4,18 @@ description: "Las corrientes de agua, el juicio recto y el camino limpio en la p
 date: 2026-08-05
 tags: [mishlei, mishlei_21, mesias, juicio, torah, obediencia]
 references:
-  - "#proverbios_21_1"
-  - "#proverbios_21_2"
-  - "#proverbios_21_3"
-  - "#proverbios_21_4"
-  - "#proverbios_21_5"
-  - "#proverbios_21_6"
-  - "#proverbios_21_7"
-  - "#proverbios_21_8"
-  - "#proverbios_21_9"
-  - "#proverbios_21_10"
-  - "#salmos_1_3"
-  - "#isaias_43_3"
+  - "#mishlei_21_1"
+  - "#mishlei_21_2"
+  - "#mishlei_21_3"
+  - "#mishlei_21_4"
+  - "#mishlei_21_5"
+  - "#mishlei_21_6"
+  - "#mishlei_21_7"
+  - "#mishlei_21_8"
+  - "#mishlei_21_9"
+  - "#mishlei_21_10"
+  - "#tehilim_1_3"
+  - "#yeshayahu_43_3"
 sources:
   - "https://www.youtube.com/watch?v=vhpR59HeYB4"
   - "docs/scriptures/oe/json/proverbs/21.json"
@@ -39,17 +39,17 @@ Esta nota organiza la clase pública sobre el comienzo de Mishlei 21. Se desarro
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_21_1 | פלגי מים לב מלך ביד יהוה על כל אשר יחפץ יטנו | Corrientes de aguas es el corazón del Rey en la mano de יהוה, a todo lo que quiera lo inclinará. |
-| #proverbios_21_2 | כל דרך איש ישר בעיניו ותכן לבות יהוה | Todo camino del hombre es recto a sus ojos, pero יהוה sopesa los corazones. |
-| #proverbios_21_3 | עשה צדקה ומשפט נבחר ליהוה מזבח | Hacer justicia y juicio es más escogido por יהוה que el sacrificio. |
-| #proverbios_21_4 | רום עינים ורחב לב נר רשעים חטאת | Altivez de ojos y arrogancia de corazón son lámpara de los condenados, es pecado. |
-| #proverbios_21_5 | מחשבות חרוץ אך למותר וכל אץ אך למחסור | Los pensamientos del diligente son solamente para abundancia, pero todo apresurado es solamente para escasez. |
-| #proverbios_21_6 | פעל אוצרות בלשון שקר הבל נדף מבקשי מות | Hacer tesoros con lengua de mentira es vapor disperso, buscadores de muerte. |
-| #proverbios_21_7 | שד רשעים יגורם כי מאנו לעשות משפט | La violencia de los condenados los arrastrará, porque rechazan hacer juicio. |
-| #proverbios_21_8 | הפכפך דרך איש וזר וזך ישר פעלו | Torcido es el camino del hombre, y extraño, pero el limpio, recta es su obra. |
-| #proverbios_21_9 | טוב לשבת על פנת גג מאשת מדינים ובית חבר | Mejor es sentarse sobre la esquina del techo que mujer de contiendas y casa de compañía. |
-| #proverbios_21_10 | נפש רשע אותה רע לא יחן בעיניו רעהו | La garganta del condenado desea el mal, su compañero no hallará favor a sus ojos. |
-| #salmos_1_3 | והיה כעץ שתול על פלגי מים אשר פריו יתן בעתו ועליו לא יבול וכל אשר יעשה יצליח | El árbol plantado sobre corrientes de aguas da su fruto a su tiempo. |
+| #mishlei_21_1 | פלגי מים לב מלך ביד יהוה על כל אשר יחפץ יטנו | Corrientes de aguas es el corazón del Rey en la mano de יהוה, a todo lo que quiera lo inclinará. |
+| #mishlei_21_2 | כל דרך איש ישר בעיניו ותכן לבות יהוה | Todo camino del hombre es recto a sus ojos, pero יהוה sopesa los corazones. |
+| #mishlei_21_3 | עשה צדקה ומשפט נבחר ליהוה מזבח | Hacer justicia y juicio es más escogido por יהוה que el sacrificio. |
+| #mishlei_21_4 | רום עינים ורחב לב נר רשעים חטאת | Altivez de ojos y arrogancia de corazón son lámpara de los condenados, es pecado. |
+| #mishlei_21_5 | מחשבות חרוץ אך למותר וכל אץ אך למחסור | Los pensamientos del diligente son solamente para abundancia, pero todo apresurado es solamente para escasez. |
+| #mishlei_21_6 | פעל אוצרות בלשון שקר הבל נדף מבקשי מות | Hacer tesoros con lengua de mentira es vapor disperso, buscadores de muerte. |
+| #mishlei_21_7 | שד רשעים יגורם כי מאנו לעשות משפט | La violencia de los condenados los arrastrará, porque rechazan hacer juicio. |
+| #mishlei_21_8 | הפכפך דרך איש וזר וזך ישר פעלו | Torcido es el camino del hombre, y extraño, pero el limpio, recta es su obra. |
+| #mishlei_21_9 | טוב לשבת על פנת גג מאשת מדינים ובית חבר | Mejor es sentarse sobre la esquina del techo que mujer de contiendas y casa de compañía. |
+| #mishlei_21_10 | נפש רשע אותה רע לא יחן בעיניו רעהו | La garganta del condenado desea el mal, su compañero no hallará favor a sus ojos. |
+| #tehilim_1_3 | והיה כעץ שתול על פלגי מים אשר פריו יתן בעתו ועליו לא יבול וכל אשר יעשה יצליח | El árbol plantado sobre corrientes de aguas da su fruto a su tiempo. |
 
 ## El corazón del Rey y las corrientes de agua
 
@@ -83,10 +83,10 @@ Los versos 9-10 repiten la escena de la esquina del techo y la mujer de contiend
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_21_1 y #salmos_1_3 | Las corrientes de agua explican el corazón del Rey y la vida del árbol plantado. | Correspondencia textual directa; identificación del Rey con Yehoshua calificada como lectura mesiánica. |
-| #proverbios_21_2-4 | El deseo humano parece recto, pero יהוה examina el corazón; justicia y juicio valen más que sacrificio. | Apoyo textual directo; aplicación a obediencia de la Torah. |
-| #proverbios_21_5-8 | La diligencia produce abundancia, mientras la prisa, mentira y violencia llevan a escasez y camino torcido. | Desarrollo textual; inferencia sobre dirección espiritual señalada. |
-| #proverbios_21_9-10 | La esquina del techo representa apartarse de la casa de contienda y de la idolatría. | Comparación literal apoyada; lectura alegórica de la exposición calificada. |
+| #mishlei_21_1 y #tehilim_1_3 | Las corrientes de agua explican el corazón del Rey y la vida del árbol plantado. | Correspondencia textual directa; identificación del Rey con Yehoshua calificada como lectura mesiánica. |
+| #mishlei_21_2-4 | El deseo humano parece recto, pero יהוה examina el corazón; justicia y juicio valen más que sacrificio. | Apoyo textual directo; aplicación a obediencia de la Torah. |
+| #mishlei_21_5-8 | La diligencia produce abundancia, mientras la prisa, mentira y violencia llevan a escasez y camino torcido. | Desarrollo textual; inferencia sobre dirección espiritual señalada. |
+| #mishlei_21_9-10 | La esquina del techo representa apartarse de la casa de contienda y de la idolatría. | Comparación literal apoyada; lectura alegórica de la exposición calificada. |
 
 ## Pendiente de verificar
 
@@ -97,9 +97,9 @@ Los versos 9-10 repiten la escena de la esquina del techo y la mujer de contiend
 
 ## Conexiones principales
 
-- #salmos_1_3: el árbol plantado sobre corrientes de aguas ilumina la imagen de estabilidad y fruto.
-- #proverbios_19_21: los pensamientos humanos no cancelan el propósito de יהוה.
-- #isaias_43_3-4: la exposición enlaza el gobierno de יהוה con su rescate y su valor del pueblo; la conexión debe leerse junto con la nota sobre el verso 18.
+- #tehilim_1_3: el árbol plantado sobre corrientes de aguas ilumina la imagen de estabilidad y fruto.
+- #mishlei_19_21: los pensamientos humanos no cancelan el propósito de יהוה.
+- #yeshayahu_43_3-4: la exposición enlaza el gobierno de יהוה con su rescate y su valor del pueblo; la conexión debe leerse junto con la nota sobre el verso 18.
 
 ## Conclusión
 

@@ -15,7 +15,7 @@ references:
   - "#mateo_5_18"
   - "#romanos_6_14"
   - "#galatas_3_13"
-  - "#deuteronomio_27_26"
+  - "#devarim_27_26"
   - "#1_corintios_15_56"
   - "#1_corintios_15_57"
   - "#1_corintios_15_58"

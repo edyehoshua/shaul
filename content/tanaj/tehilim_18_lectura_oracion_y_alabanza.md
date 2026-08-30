@@ -9,17 +9,17 @@ tags:
   - mesias
   - rescate
 references:
-  - "#salmos_18_1"
-  - "#salmos_18_2"
-  - "#salmos_18_5"
-  - "#salmos_18_17"
-  - "#salmos_18_21"
-  - "#salmos_18_29"
-  - "#salmos_18_37"
-  - "#salmos_18_44"
-  - "#salmos_18_51"
-  - "#exodo_12_43"
-  - "#salmos_89_51"
+  - "#tehilim_18_1"
+  - "#tehilim_18_2"
+  - "#tehilim_18_5"
+  - "#tehilim_18_17"
+  - "#tehilim_18_21"
+  - "#tehilim_18_29"
+  - "#tehilim_18_37"
+  - "#tehilim_18_44"
+  - "#tehilim_18_51"
+  - "#shemot_12_43"
+  - "#tehilim_89_51"
   - "#efesios_6_12"
 sources:
   - "https://www.youtube.com/watch?v=QmGVXrN-3pQ"
@@ -41,14 +41,14 @@ La clase relaciona Tehilim 18 con Shemuel Bet 22, con el cántico de Devarim 32 
 
 | Referencia        | Texto hebreo local (OE, sin nikud)                                                                                                               | Función en la exposición                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| #salmos_18_1     | למנצח לעבד יהוה לדוד אשר דבר ליהוה את דברי השירה הזאת ביום הציל יהוה אותו מכף כל איביו ומיד שאול                                                 | Encabezado: cántico de David después del rescate, y punto de partida histórico.                 |
-| #salmos_18_2-4   | ויאמר ארחמך יהוה חזקי; יהוה סלעי ומצודתי ומפלטי אלי צורי אחסה בו מגני וקרן ישעי משגבי; מהלל אקרא יהוה ומן איבי אושע                              | Amor, roca, refugio, escudo y salvación concentran la confesión inicial.                        |
-| #salmos_18_5-7   | אפפוני חבלי מות ונחלי בליעל יבעתוני; חבלי שאול סבבוני קדמוני מוקשי מות; בצר לי אקרא יהוה ואל אלהי אשוע ישמע מהיכלו קולי ושועתי לפניו תבוא באזניו | La angustia y la invocación preceden a la respuesta.                                            |
-| #salmos_18_8-20  | ותגעש ותרעש הארץ ...; ישלח ממרום יקחני ימשני ממים רבים; יצילני מאיבי עז ...; ויוציאני למרחב יחלצני כי חפץ בי                                     | Teofanía de juicio, aguas y rescate desde lo alto hasta el espacio abierto.                     |
-| #salmos_18_21-30 | יגמלני יהוה כצדקי כבר ידי ישיב לי ...; כי אתה תאיר נרי יהוה אלהי יגיה חשכי; כי בך ארץ גדוד ובאלהי אדלג שור                                       | Justicia, integridad, luz y capacidad para atravesar el muro.                                   |
-| #salmos_18_31-37 | האל תמים דרכו אמרת יהוה צרופה מגן הוא לכל החסים בו ...; תרחיב צעדי תחתי ולא מעדו קרסלי                                                           | Camino perfecto, escudo, instrucción para la guerra y pies que no tropiezan.                    |
-| #salmos_18_38-45 | ארדוף אויבי ואשיגם ...; תפלטני מריבי עם תשימני לראש גוים עם לא ידעתי יעבדוני                                                                     | Derrota de enemigos y elevación como cabeza de pueblos.                                         |
-| #salmos_18_46-51 | בני נכר יבלו ...; על כן אודך בגוים יהוה ...; מגדל מגדיל ישועות מלכו ועשה חסד למשיחו לדוד ולזרעו עד עולם                                          | Los extranjeros, la alabanza entre las naciones y el cierre en el rey, el ungido y su simiente. |
+| #tehilim_18_1     | למנצח לעבד יהוה לדוד אשר דבר ליהוה את דברי השירה הזאת ביום הציל יהוה אותו מכף כל איביו ומיד שאול                                                 | Encabezado: cántico de David después del rescate, y punto de partida histórico.                 |
+| #tehilim_18_2-4   | ויאמר ארחמך יהוה חזקי; יהוה סלעי ומצודתי ומפלטי אלי צורי אחסה בו מגני וקרן ישעי משגבי; מהלל אקרא יהוה ומן איבי אושע                              | Amor, roca, refugio, escudo y salvación concentran la confesión inicial.                        |
+| #tehilim_18_5-7   | אפפוני חבלי מות ונחלי בליעל יבעתוני; חבלי שאול סבבוני קדמוני מוקשי מות; בצר לי אקרא יהוה ואל אלהי אשוע ישמע מהיכלו קולי ושועתי לפניו תבוא באזניו | La angustia y la invocación preceden a la respuesta.                                            |
+| #tehilim_18_8-20  | ותגעש ותרעש הארץ ...; ישלח ממרום יקחני ימשני ממים רבים; יצילני מאיבי עז ...; ויוציאני למרחב יחלצני כי חפץ בי                                     | Teofanía de juicio, aguas y rescate desde lo alto hasta el espacio abierto.                     |
+| #tehilim_18_21-30 | יגמלני יהוה כצדקי כבר ידי ישיב לי ...; כי אתה תאיר נרי יהוה אלהי יגיה חשכי; כי בך ארץ גדוד ובאלהי אדלג שור                                       | Justicia, integridad, luz y capacidad para atravesar el muro.                                   |
+| #tehilim_18_31-37 | האל תמים דרכו אמרת יהוה צרופה מגן הוא לכל החסים בו ...; תרחיב צעדי תחתי ולא מעדו קרסלי                                                           | Camino perfecto, escudo, instrucción para la guerra y pies que no tropiezan.                    |
+| #tehilim_18_38-45 | ארדוף אויבי ואשיגם ...; תפלטני מריבי עם תשימני לראש גוים עם לא ידעתי יעבדוני                                                                     | Derrota de enemigos y elevación como cabeza de pueblos.                                         |
+| #tehilim_18_46-51 | בני נכר יבלו ...; על כן אודך בגוים יהוה ...; מגדל מגדיל ישועות מלכו ועשה חסד למשיחו לדוד ולזרעו עד עולם                                          | Los extranjeros, la alabanza entre las naciones y el cierre en el rey, el ungido y su simiente. |
 
 ## Del rescate histórico al cántico con horizonte futuro
 
@@ -80,7 +80,7 @@ La exposición también conecta los tobillos y los talones con la crucifixión: 
 
 ## Cabeza de pueblos, «extraños» y el cierre del amado
 
-En los vv. 44-46 el hablante es puesto por cabeza de naciones; un pueblo que no conocía le sirve y los «hijos de lo extraño» se debilitan y salen temblando de sus fortalezas. Eric insiste en que **בני נכר** (_bene nejar_) no debe aplanarse como cualquier extranjero: lo relaciona con «hijos del extraño» y, dentro de su lectura espiritual, con discípulos o herederos de una oposición satánica. El sentido normal de נכר es «extraño, extranjero»; el valor de «discípulos de Satanás» es una interpretación de la clase, no una equivalencia léxica exacta. También conecta el lenguaje con #exodo_12_43, donde la participación en Pésaj distingue al que pertenece de quien permanece fuera; esa conexión requiere leer ambos contextos por separado.
+En los vv. 44-46 el hablante es puesto por cabeza de naciones; un pueblo que no conocía le sirve y los «hijos de lo extraño» se debilitan y salen temblando de sus fortalezas. Eric insiste en que **בני נכר** (_bene nejar_) no debe aplanarse como cualquier extranjero: lo relaciona con «hijos del extraño» y, dentro de su lectura espiritual, con discípulos o herederos de una oposición satánica. El sentido normal de נכר es «extraño, extranjero»; el valor de «discípulos de Satanás» es una interpretación de la clase, no una equivalencia léxica exacta. También conecta el lenguaje con #shemot_12_43, donde la participación en Pésaj distingue al que pertenece de quien permanece fuera; esa conexión requiere leer ambos contextos por separado.
 
 El salmo termina: «engrandece las salvaciones de su rey», hace חסד a su משיח, a David y a su simiente para siempre. Eric toma **משיחו** (_mesijo_, «su ungido») y la simiente como una señal explícita de la línea mesiánica. Aquí la referencia al ungido sí está en el texto; lo que debe calificarse es el paso desde la promesa dinástica a la identificación completa con Yehoshua. La alabanza «entre las naciones» prepara una esperanza pública y no meramente privada.
 
@@ -102,12 +102,12 @@ El orden del poema importa para la lectura de Eric. La angustia de 18:5-7 no se 
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                                                          | Tratamiento en esta nota                                                                                                                            |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #salmos_18_1-7   | Eric compara el salmo con Shemuel Bet 22, conserva el rescate de David y observa que la angustia y los verbos futuros abren un alcance que supera un relato pasado.                       | **Apoyo textual y calificación**: se mantiene el marco histórico y se registra el horizonte mesiánico como inferencia.                              |
-| #salmos_18_8-20  | La clase lee humo, fuego, aguas y tribunal celestial como intervención de יהוה; explica אף como participación y las muchas aguas como una amenaza de muertos o potestades.                | **Aclaración léxica y cualificación**: se confirma la teofanía poética y se marca «potestades» y «participación» como lecturas pedagógicas.         |
-| #salmos_18_21-30 | Eric sostiene que la justicia y pureza del hablante no encajan completamente con David histórico y ve en la luz y el muro una figura del Mesías en tinieblas.                             | **Inferencia cualificada**: se conserva la tensión biográfica, pero el salmo no identifica por nombre al Mesías en esta sección.                    |
-| #salmos_18_31-37 | La instrucción para la guerra, los pies firmes y los tobillos se relacionan con la guerra espiritual y con la perforación de los talones en la crucifixión.                               | **Apoyo textual parcial y pendiente**: guerra, escudo y tobillos están en el texto; la crucifixión y Tehilim 89 requieren verificación externa.     |
-| #salmos_18_38-46 | Eric interpreta la derrota, la cabeza de pueblos y los hijos de lo extraño dentro del conflicto entre el Mesías y las potestades, distinguiendo al extranjero de un discípulo de Satanás. | **Aclaración léxica y calificación**: se conserva su observación sobre נכר, pero no se convierte la interpretación espiritual en definición hebrea. |
-| #salmos_18_47-51 | El cierre es leído como confesión profética: el rey, el ungido y la simiente apuntan hacia una esperanza mesiánica entre las naciones.                                                    | **Apoyo textual y extensión tipológica**: משיח y simiente son explícitos; la identificación plena con Yehoshua queda como lectura mesiánica.        |
+| #tehilim_18_1-7   | Eric compara el salmo con Shemuel Bet 22, conserva el rescate de David y observa que la angustia y los verbos futuros abren un alcance que supera un relato pasado.                       | **Apoyo textual y calificación**: se mantiene el marco histórico y se registra el horizonte mesiánico como inferencia.                              |
+| #tehilim_18_8-20  | La clase lee humo, fuego, aguas y tribunal celestial como intervención de יהוה; explica אף como participación y las muchas aguas como una amenaza de muertos o potestades.                | **Aclaración léxica y cualificación**: se confirma la teofanía poética y se marca «potestades» y «participación» como lecturas pedagógicas.         |
+| #tehilim_18_21-30 | Eric sostiene que la justicia y pureza del hablante no encajan completamente con David histórico y ve en la luz y el muro una figura del Mesías en tinieblas.                             | **Inferencia cualificada**: se conserva la tensión biográfica, pero el salmo no identifica por nombre al Mesías en esta sección.                    |
+| #tehilim_18_31-37 | La instrucción para la guerra, los pies firmes y los tobillos se relacionan con la guerra espiritual y con la perforación de los talones en la crucifixión.                               | **Apoyo textual parcial y pendiente**: guerra, escudo y tobillos están en el texto; la crucifixión y Tehilim 89 requieren verificación externa.     |
+| #tehilim_18_38-46 | Eric interpreta la derrota, la cabeza de pueblos y los hijos de lo extraño dentro del conflicto entre el Mesías y las potestades, distinguiendo al extranjero de un discípulo de Satanás. | **Aclaración léxica y calificación**: se conserva su observación sobre נכר, pero no se convierte la interpretación espiritual en definición hebrea. |
+| #tehilim_18_47-51 | El cierre es leído como confesión profética: el rey, el ungido y la simiente apuntan hacia una esperanza mesiánica entre las naciones.                                                    | **Apoyo textual y extensión tipológica**: משיח y simiente son explícitos; la identificación plena con Yehoshua queda como lectura mesiánica.        |
 
 ## Referencias judías y fuentes externas
 

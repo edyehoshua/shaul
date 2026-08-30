@@ -8,9 +8,9 @@ tags:
   - votos
   - riqueza
 references:
-  - "#eclesiastes_5_1-7"
-  - "#eclesiastes_5_8-17"
-  - "#eclesiastes_5_18-19"
+  - "#qohelet_5_1-7"
+  - "#qohelet_5_8-17"
+  - "#qohelet_5_18-19"
 sources:
   - "https://www.youtube.com/watch?v=v0jX4HtFjf0"
   - "docs/scriptures/oe/json/ecclesiastes/5.json"
@@ -35,7 +35,7 @@ Esta nota desarrolla el capítulo con el texto hebreo local OE, sin nikud ni seg
 | 5:8-17  | **אהב כסף לא ישבע כסף ומי אהב בהמון לא תבואה גם זה הבל**                                                   | La riqueza no satisface y puede convertirse en aflicción. |
 | 5:18-19 | **הנה אשר ראיתי אני טוב אשר יפה לאכול ולשתות ולראות טובה בכל עמלו**                                        | El disfrute sobrio del trabajo es una dádiva de Elohim.   |
 
-## 5:1-7: acercarse, hablar poco y cumplir votos #eclesiastes_5_1-7
+## 5:1-7: acercarse, hablar poco y cumplir votos #qohelet_5_1-7
 
 El capítulo comienza con una postura ante Elohim, no con una técnica para obtener prosperidad: **אל תבהל על פיך** («no te apresures con tu boca») y **יהיו דבריך מעטים** («sean pocas tus palabras»). La razón es relacional y vertical: «Elohim está en los cielos y tú sobre la tierra». La forma **דבר** (_davar_) significa palabra, asunto o acto; aquí su fuerza es la palabra pronunciada delante de Elohim. La relación con la observación pública de una palabra reverente es directa en el texto, mientras convertir «pocas palabras» en una regla de silencio absoluto sería una aplicación excesiva.
 
@@ -43,7 +43,7 @@ Qohélet enlaza sueños, muchas ocupaciones y la voz del necio con la advertenci
 
 El cierre de la primera unidad vuelve a la reverencia: **כי את האלהים ירא** («teme a Elohim»). **ירא** (_yare_) tiene el sentido normal de temer, reverenciar o respetar; aquí su fuerza contextual es la actitud que corrige el hablar religioso vacío. La enseñanza atribuible a Eric queda probada en este eje: Qohélet no contrapone espiritualidad y obediencia, sino palabras, promesa y temor de Elohim.
 
-## 5:8-17: opresión, riqueza y pérdida #eclesiastes_5_8-17
+## 5:8-17: opresión, riqueza y pérdida #qohelet_5_8-17
 
 El texto cambia del culto a la administración de la tierra: si se ve opresión del pobre y perversión del derecho, no debe sorprender, porque hay autoridades que vigilan a otras autoridades. **עשק** (_osheq_) significa opresión o explotación; **משפט** (_mishpat_) significa juicio o justicia. La relación con una lectura social del capítulo es directa como observación del versículo 7, pero el texto no ofrece una teoría completa de gobierno.
 
@@ -51,7 +51,7 @@ Luego Qohélet desmonta la promesa de suficiencia de la riqueza: **אהב כסף
 
 La escena llega a la riqueza guardada para daño y perdida en un mal negocio. El rico sale desnudo como vino del vientre y no lleva nada de su trabajo. **הבל** (_hevel_) significa vapor, aliento o vanidad; en Qohélet describe lo inasible y frustrante, no que cada bien creado carezca de todo valor. Esta precisión protege la lectura de Eric contra dos extremos: el dinero no salva ni satisface, pero el capítulo tampoco llama malo al disfrute agradecido.
 
-## 5:18-19: la porción recibida como don #eclesiastes_5_18-19
+## 5:18-19: la porción recibida como don #qohelet_5_18-19
 
 Después de la pérdida, Qohélet dice: **טוב אשר יפה לאכול ולשתות ולראות טובה בכל עמלו**: es bueno y apropiado comer, beber y ver el bien en el trabajo. **חלק** (_jelek_) significa porción, parte o participación; el bien disfrutado es «su porción». **מתת אלהים** (_mattat Elohim_) significa don de Elohim. La secuencia importa: el contentamiento no nace de controlar la riqueza, sino de recibir el trabajo y sus frutos como don dentro de los días limitados.
 

@@ -1,0 +1,46 @@
+---
+title: "Apocalipsis 8: silencio, tefilot y terceras partes"
+description: "Apuntes sobre Apocalipsis 8 en torno al séptimo sello, el silencio y el juicio desatado desde las tefilot de los kedoshim"
+date: 2026-05-16
+tags:
+  - apocalipsis
+  - apocalipsis_8
+references:
+  - "#apocalipsis_8_1"
+  - "#apocalipsis_8_3"
+  - "#apocalipsis_8_5"
+  - "#tehilim_28_1"
+  - "#yejezkel_5_1"
+  - "#mateo_3_10"
+sources: []
+---
+
+# Tesis
+
+Sodot 8 presenta el séptimo sello como una nueva apertura narrativa donde el silencio y las tefilot de los kedoshim anteceden juicios simbólicos sobre Israel y las naciones.
+
+## Texto base
+
+- #apocalipsis_8_1
+- #apocalipsis_8_3
+- #apocalipsis_8_5
+
+## Texto TTH disponible
+
+| Referencia | Texto                                                                                                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #apocalipsis_8_1 | "Y cuando abrió el séptimo sello, hubo silencio en los cielos como media hora."                                                                                                                                 |
+| #apocalipsis_8_3 | "Y otro mensajero vino y se paró ante el altar, y tenía un incensario de oro; y le fue dado mucho incienso para dar a las tefilot de todos los santos sobre el altar de oro, el cual estaba delante del trono." |
+| #apocalipsis_8_5 | "Y tomó el mensajero el incensario y lo llenó con el fuego del altar, y lo envió sobre la tierra, y hubo voces, truenos, relámpagos y temblor."                                                                 |
+
+## Observaciones
+
+- La media hora se entiende como período breve y no como medición literal.
+- El silencio se relaciona con #tehilim_28_1: cuando יהוה guarda silencio, el hombre queda como los que descienden al Sheol.
+- Las tefilot de los kedoshim aparecen como antecedente del juicio.
+- La tercera parte se interpreta con ayuda de #yejezkel_5_1-12 como lenguaje simbólico sobre porciones de Israel.
+- Árboles, mar, barcos y aguas no se toman aquí literalmente: representan personas, multitudes, comercio y corrientes doctrinales.
+
+## Pendiente de verificar
+
+- [ ] Decidir si conviene separar en otra nota las preguntas abiertas sobre la tercera parte y la luna de noche.

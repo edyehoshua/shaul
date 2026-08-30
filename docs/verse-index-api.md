@@ -36,7 +36,7 @@ source_ids:
 Rules:
 
 - `references` is the authoritative Scripture address list for API discovery.
-- Verse tags use lowercase ASCII Spanish book slugs (`#juan_1_29`, `#genesis_1_1`, `#isaias_53_5`) so references and generated URLs have one stable naming convention.
+- Verse tags use lowercase ASCII slugs based on the cited corpus: Spanish Besorah names (`#juan_1_29`) and Hebrew Tanaj transliterations (`#bereshit_1_1`, `#yeshayahu_53_5`). This keeps each corpus stable while allowing cross-corpus references.
 - Use `#book_chapter_verse` for a verse and `#book_chapter_start-end` only for an inclusive range in one chapter.
 - Use `#book_chapter` only when the whole chapter is the actual anchor. It generates a chapter endpoint, not a false verse-level claim.
 - Do not put Talmud, midrash, Zohar, or commentator shorthand in new `references`. Keep their precise citations in `Referencias judías y fuentes externas`, and use a dedicated field later only if a real bibliographic schema is needed.
@@ -60,12 +60,12 @@ One verse document is deliberately small:
   },
   "notes": [
     {
-      "id": "content/besorah/yojanan_1_testigo_cordero",
-      "path": "content/besorah/yojanan_1_testigo_cordero.md",
-      "url": "/content/besorah/yojanan_1_testigo_cordero/",
-      "title": "Yojanán 1: el testigo que presenta al Cordero",
+      "id": "content/besorah/juan_1_testigo_cordero",
+      "path": "content/besorah/juan_1_testigo_cordero.md",
+      "url": "/content/besorah/juan_1_testigo_cordero/",
+      "title": "Juan 1: el testigo que presenta al Cordero",
       "description": "...",
-      "tags": ["yojanan", "testimonio"],
+      "tags": ["juan", "testimonio"],
       "sources": ["https://www.youtube.com/watch?v=2C6YJnz5fKs"],
       "source_ids": ["youtube:2C6YJnz5fKs"]
     }

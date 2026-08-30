@@ -77,8 +77,8 @@ Los versículos 13-15 describen al labrador alcanzando al segador, al que pisa l
 ## Conexiones principales
 
 - [Hechos 15:15-17](../besorah/maasei_15.md) — la cita apostólica de la tienda restaurada.
-- [Yojanán 10:28-29](../besorah/yojanan_10_puerta_pastor_abba.md) — conexión propuesta por Eric sobre la mano que guarda.
-- #oseas_1_10 y #oseas_2_23 — juicio, “no pueblo” y restauración de la relación.
+- [Yojanán 10:28-29](../besorah/juan_10_puerta_pastor_abba.md) — conexión propuesta por Eric sobre la mano que guarda.
+- #hoshea_1_10 y #hoshea_2_23 — juicio, “no pueblo” y restauración de la relación.
 - #amos_8_11-12 — hambre de oír la palabra antes del juicio de Amós 9.
 
 ## Conclusión

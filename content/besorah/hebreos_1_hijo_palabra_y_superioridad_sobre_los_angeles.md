@@ -87,8 +87,8 @@ Finalmente, 1:13 pregunta a cuál de los ángeles se dijo: “Siéntate a mi die
 
 ## Conexiones principales
 
-- Hebreos 1:1-4 ↔ #genesis_1_1: la clase relaciona la palabra, el orden de los mundos y la obra del Hijo; la conexión debe distinguir texto citado de aplicación doctrinal.
-- Hebreos 1:5-14 ↔ #salmos_2_7 y #salmos_45_7: las citas del Tanaj construyen el contraste entre herencia, realeza, justicia y servicio.
+- Hebreos 1:1-4 ↔ #bereshit_1_1: la clase relaciona la palabra, el orden de los mundos y la obra del Hijo; la conexión debe distinguir texto citado de aplicación doctrinal.
+- Hebreos 1:5-14 ↔ #tehilim_2_7 y #tehilim_45_7: las citas del Tanaj construyen el contraste entre herencia, realeza, justicia y servicio.
 - Hebreos 1:3 ↔ Hebreos 11:1: **(ὑπόστασις)** aparece en ambos argumentos; la relación es útil para estudiar, no una equivalencia automática de todos sus sentidos.
 
 ## Conclusión

@@ -103,7 +103,7 @@ La gracia no es una recompensa por obras, y por eso nadie puede gloriarse delant
 
 - [[efesios_2_lejania_paz_y_un_solo_pueblo|Efesios 2: lejanía, paz y un solo pueblo]]
 - [[efesios_1_voluntad_reconciliacion_y_santidad|Efesios 1: voluntad, reconciliación y santidad]]
-- [[galatim_6_restauracion_siembra_y_nueva_creacion|Galatim 6: restauración, siembra y nueva creación]]
+- [[galatas_6_restauracion_siembra_y_nueva_creacion|Galatim 6: restauración, siembra y nueva creación]]
 
 ## Créditos
 

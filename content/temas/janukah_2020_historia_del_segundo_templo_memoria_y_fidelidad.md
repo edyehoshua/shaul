@@ -14,7 +14,7 @@ references:
   - "#maccabeos_1_41-64"
   - "#maccabeos_4_36-59"
   - "#juan_10_22-30"
-  - "#deuteronomio_6_4-9"
+  - "#devarim_6_4-9"
 sources:
   - "https://www.youtube.com/watch?v=6xs3BWuATN4"
   - "docs/scriptures/tth/json/daniel.json"

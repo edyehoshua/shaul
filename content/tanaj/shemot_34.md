@@ -7,7 +7,7 @@ tags:
   - tamé
   - shemot_34
 references:
-  - "#exodo_34_7"
+  - "#shemot_34_7"
 sources:
   - "docs/scriptures/tth/json/shemot.json"
   - "docs/scriptures/oe/json/exodus/34.json"
@@ -20,19 +20,19 @@ Shemot 34 concentra un léxico clave sobre pecado e iniquidad, y esta nota lo co
 
 ## Alcance de la nota
 
-- Apunte léxico centrado en #exodo_34_7 y términos relacionados de pureza.
+- Apunte léxico centrado en #shemot_34_7 y términos relacionados de pureza.
 - No desarrolla el contexto completo de la renovación del pacto en el capítulo.
 - Las observaciones sobre Yeshúa y pesha son aplicación breve de la nota.
 
 ## Texto base
 
-- #exodo_34_7
+- #shemot_34_7
 
 ## Hoja de comparación
 
 | Referencia | Hebreo (OE, sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #exodo_34_7 | נצר חסד לאלפים נשא עון ופשע וחטאה ונקה לא ינקה פקד עון אבות על בנים ועל בני בנים על שלשים ועל רבעים | Guarda bondad a miles, soporta la iniquidad, la transgresión y el pecado; y absolviendo, no absuelve. Recuerda la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos sobre las terceras y sobre las cuartas generaciones. | Triada עון, פשע, חטאה; נקה לא ינקה marca límite al perdón. |
+| #shemot_34_7 | נצר חסד לאלפים נשא עון ופשע וחטאה ונקה לא ינקה פקד עון אבות על בנים ועל בני בנים על שלשים ועל רבעים | Guarda bondad a miles, soporta la iniquidad, la transgresión y el pecado; y absolviendo, no absuelve. Recuerda la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos sobre las terceras y sobre las cuartas generaciones. | Triada עון, פשע, חטאה; נקה לא ינקה marca límite al perdón. |
 
 ## Léxico base
 
@@ -58,7 +58,7 @@ Shemot 34 concentra un léxico clave sobre pecado e iniquidad, y esta nota lo co
 
 | Fuente | Referencia | Uso en la nota | Estado |
 | --- | --- | --- | --- |
-| Tanaj (TTH/OE) | #exodo_34_7 | Atributos de יהוה y léxico del pecado | Cotejado |
+| Tanaj (TTH/OE) | #shemot_34_7 | Atributos de יהוה y léxico del pecado | Cotejado |
 | BDB | חטא, עון, פשע, טמא, טהור | Raíces y matices léxicos | Pendiente de verificar |
 | Midrash | — | Interpretación rabínica de “hasta tercera y cuarta generación” | Pendiente de verificar |
 
@@ -68,6 +68,6 @@ Shemot 34 concentra un léxico clave sobre pecado e iniquidad, y esta nota lo co
 
 ## Ver también
 
-- [Vaikra 16](./vaikra_16.md) — expiación y pureza delante de יהוה.
+- [Vaikra 16](./vayikra_16.md) — expiación y pureza delante de יהוה.
 - [Bereshit 1](./bereshit_1.md) — atributos de Elohim en la creación.
 - [Temas: tzaraat](../temas/tzaraat.md) — estados de pureza e impureza.

@@ -25,8 +25,8 @@ references:
   - "#romanos_1_21"
   - "#romanos_1_22"
   - "#romanos_1_23"
-  - "#isaias_61_1"
-  - "#habacuc_2_4"
+  - "#yeshayahu_61_1"
+  - "#habakuk_2_4"
 sources:
   - "https://www.youtube.com/watch?v=irpXnhj4cMI"
   - "docs/scriptures/tth/json/romanos.json"

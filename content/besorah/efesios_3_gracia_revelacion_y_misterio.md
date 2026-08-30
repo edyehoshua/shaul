@@ -36,8 +36,8 @@ references:
   - "#1_corintios_2_10"
   - "#1_corintios_2_16"
   - "#2_corintios_5_20"
-  - "#zacarias_9_11"
-  - "#zacarias_9_12"
+  - "#zejariah_9_11"
+  - "#zejariah_9_12"
 sources:
   - "https://www.youtube.com/watch?v=bG4SqOvNolQ"
   - "https://www.youtube.com/watch?v=GulS21GtPP8"
@@ -89,13 +89,13 @@ La prueba decisiva aparece en 3:6-7. **συγκληρονόμος**, _synklēron
 | #1_corintios_2_10-16 | **ולנו גלה האלהים ברוחו כי הרוח חוקר את־הכל גם את־מעמקי האלהים׃**; **ואנחנו הנה יש־לנו רוח המשיח׃**                                                                                                                                                                                                         | La clase lo invoca al proponer una relación entre Rúaj, conocimiento y la mente del Mesías.                                                               |
 | #2_corintios_5_20    | **ובכן מליצי המשיח אנחנו והאלהים מזהיר אתכם על־ידנו נבקש מכם בעד המשיח התכפרו־נא לאלהים׃**                                                                                                                                                                                                                  | La clase lo relaciona con el lenguaje de representación o embajada y con el llamado a la reconciliación.                                                  |
 | #efesios_6_20       | **למען אדבר בה כאשר מטל עלי לדבר ולא אחת׃**                                                                                                                                                                                                                                                                 | El cierre de la carta vuelve a situar el hablar de Pablo dentro de su responsabilidad por el mensaje.                                                     |
-| #zacarias_9_11-12    | **גם את בדם בריתך שלחתי אסיריך מבור אין מים בו**; **שובו לבצרון אסירי התקוה גם היום מגיד משנה אשיב לך**                                                                                                                                                                                                     | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                                         |
+| #zejariah_9_11-12    | **גם את בדם בריתך שלחתי אסיריך מבור אין מים בו**; **שובו לבצרון אסירי התקוה גם היום מגיד משנה אשיב לך**                                                                                                                                                                                                     | La clase usa la imagen de los prisioneros y la esperanza como conexión interpretativa con el lenguaje de Efesios.                                         |
 
 ## El prisionero del Mesías y el encargo a favor de los gentiles
 
 La sesión comienza enlazando el final de Efesios 2 con «por esta causa» de #efesios_3_1 (00:07:47–00:15:19). El versículo sitúa a Pablo como **אסיר המשיח**, prisionero del Mesías, «a favor de vosotros, los gentiles». La clase subraya tanto el hecho de las cadenas como el motivo de su testimonio. La afirmación segura es que Pablo interpreta su condición desde su pertenencia al Mesías y desde su servicio a los gentiles; convertir cada padecimiento contemporáneo en persecución por el Mesías requeriría un discernimiento que el versículo no ofrece por sí solo.
 
-El expositor compara la figura con #zacarias_9_11-12 y llama a los destinatarios «prisioneros de la esperanza» (00:15:08–00:20:29). Zacarías habla de prisioneros sacados del foso y convocados a volver a la fortaleza; Efesios, en cambio, presenta a Pablo como prisionero del Mesías. La semejanza puede iluminar una meditación sobre esperanza y fidelidad, pero no prueba una cita directa ni permite igualar automáticamente ambos contextos.
+El expositor compara la figura con #zejariah_9_11-12 y llama a los destinatarios «prisioneros de la esperanza» (00:15:08–00:20:29). Zacarías habla de prisioneros sacados del foso y convocados a volver a la fortaleza; Efesios, en cambio, presenta a Pablo como prisionero del Mesías. La semejanza puede iluminar una meditación sobre esperanza y fidelidad, pero no prueba una cita directa ni permite igualar automáticamente ambos contextos.
 
 La clase también propone que una variante manuscrita complete el versículo 1 con la idea de representación o embajada (00:25:25–00:35:13). #2_corintios_5_20 sí emplea el lenguaje de representantes del Mesías, y el final de Efesios retoma el deber de hablar con valentía en #efesios_6_20. Sin embargo, el texto local de #efesios_3_1-2 no contiene ese verbo: la reconstrucción y la relación entre los pasajes deben comprobarse en ediciones críticas y en el griego.
 
@@ -309,7 +309,7 @@ En 3:14-21 la oración muestra el propósito de la administración: **κρατα
 - [ ] Examinar _oikonomía_ en #efesios_1_10 y #efesios_3_2 con léxicos y usos paulinos antes de tratar «sustentabilidad» como traducción definitiva.
 - [ ] Verificar las relaciones etimológicas propuestas entre _oikonomía_, términos hebreos de sostén y los relatos de José; la conexión de la clase es pedagógica y requiere fuentes lingüísticas precisas.
 - [ ] Revisar la presentación de la clase sobre la prisión de Pablo, el culto imperial y las causas históricas de sus padecimientos con fuentes primarias y estudios históricos.
-- [ ] Estudiar la relación entre #zacarias_9_11-12 y #efesios_3_1 antes de describirla como cita, alusión directa o cumplimiento textual.
+- [ ] Estudiar la relación entre #zejariah_9_11-12 y #efesios_3_1 antes de describirla como cita, alusión directa o cumplimiento textual.
 - [ ] Examinar el alcance de «otras generaciones» y la revelación a apóstoles y profetas en #efesios_3_5 sin convertir la explicación de la clase sobre Israel y las naciones en la única lectura posible.
 - [ ] Cotejar _synklēronoma_, _syssōma_ y _symmetocha_ en #efesios_3_6 con el texto griego, léxicos y el argumento de Efesios 2–3 antes de convertir las glosas pedagógicas de la clase en definiciones exhaustivas.
 - [ ] Examinar la propuesta de sustituir «espíritu» por «mente», «incorruptiblemente» o «acción» en #efesios_3_5 y #1_corintios_2_10-16; las formas hebreas y griegas, la sintaxis y los contextos deben conservarse y estudiarse antes de adoptar una equivalencia definitiva.

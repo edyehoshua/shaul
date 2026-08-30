@@ -12,10 +12,10 @@ tags:
   - yehoshua
 references:
   - "#romanos_8_18-27"
-  - "#genesis_3_15"
+  - "#bereshit_3_15"
   - "#2_corintios_5_1-5"
   - "#hebreos_11_1"
-  - "#proverbios_28_9"
+  - "#mishlei_28_9"
 sources:
   - "https://www.youtube.com/watch?v=63CvF5FE__4"
   - "docs/scriptures/tth/json/romanos.json"

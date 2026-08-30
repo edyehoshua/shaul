@@ -10,8 +10,8 @@ tags:
   - educacion
 references:
   - "#juan_10_22-30"
-  - "#salmos_30_titulo"
-  - "#salmos_30_2-4"
+  - "#tehilim_30_titulo"
+  - "#tehilim_30_2-4"
   - "#2_timoteo_3_14-17"
   - "#1_timoteo_3_15"
 sources:
@@ -38,7 +38,7 @@ En `youtube:qzr_u89uzUk`, Eric explica aproximadamente entre 00:00:48 y 00:02:43
 | Referencia      | Texto local                                                                  | Función en el argumento                                                        |
 | --------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | #juan_10_22  | «Y era Janucá en Yerushaláim, y era invierno» (Delitzsch).                   | La fiesta sitúa a Yehoshua en el templo y abre la evaluación de la dedicación. |
-| #salmos_30_2   | «יהוה, mi Elohim, grité por ayuda a ti y me sanaste» (TTH).                  | La memoria de la casa dedicada se expresa como clamor y restauración recibida. |
+| #tehilim_30_2   | «יהוה, mi Elohim, grité por ayuda a ti y me sanaste» (TTH).                  | La memoria de la casa dedicada se expresa como clamor y restauración recibida. |
 | #2_timoteo_3_16 | «Toda Escritura es inspirada por Elohim y útil para enseñar...» (Delitzsch). | La formación se mide por enseñanza, corrección y buena obra, no por recinto.   |
 
 ## Mapa de la enseñanza de Eric
@@ -61,7 +61,7 @@ La dedicación de una casa, por tanto, no sustituye la escucha. Yehoshua promete
 
 El título hebreo del Salmo 30 vincula el canto con la dedicación de la casa. **חֲנֻכַּת**, _chanukkat_, significa dedicación o consagración; su sentido ordinario es poner algo aparte para un uso determinado, y su fuerza en el título orienta el canto hacia la acción agradecida de Elohim. La transliteración y la glosa son **aproximadas y pedagógicas** porque el título no explica por sí solo todo el contexto histórico del salmo.
 
-El salmista clama, afirma que Elohim lo levantó y declara que la ira es momentánea mientras la vida acompaña el favor (#salmos_30_2-6). **(רוּם)**, _rum_, significa levantar, elevar o exaltar; en el salmo su fuerza contextual es rescate y restauración, no autoexaltación. «Levantó» es **directo** como traducción básica, pero convertirlo en una promesa de que toda dedicación elimina definitivamente la aflicción sería **aproximado**. La casa dedicada se vuelve lugar de memoria: la comunidad recuerda quién restauró, no quién presume controlar el santuario.
+El salmista clama, afirma que Elohim lo levantó y declara que la ira es momentánea mientras la vida acompaña el favor (#tehilim_30_2-6). **(רוּם)**, _rum_, significa levantar, elevar o exaltar; en el salmo su fuerza contextual es rescate y restauración, no autoexaltación. «Levantó» es **directo** como traducción básica, pero convertirlo en una promesa de que toda dedicación elimina definitivamente la aflicción sería **aproximado**. La casa dedicada se vuelve lugar de memoria: la comunidad recuerda quién restauró, no quién presume controlar el santuario.
 
 ## 2 Timoteo 3:14-17 y 1 Timoteo 3:15: formación comunitaria #2_timoteo_3_14-17 #1_timoteo_3_15
 
@@ -81,7 +81,7 @@ La observación de Eric sobre el templo como lugar de consulta y formación pued
 
 En Juan 10:28, **(ἁρπάζω)**, _harpazō_, significa arrebatar, apoderarse o quitar por la fuerza; su fuerza contextual aparece en la negación de que alguien pueda arrebatar las ovejas de la mano del Pastor. «Arrebatar» es **directo**, pero extender esa promesa a una organización visible sin la previa descripción de las ovejas que oyen y siguen sería **inferencial**. En Juan 10:30, **(ἕν)**, _hen_, significa uno o una unidad; aquí es una forma neutra cuyo contexto habla de unidad, no de borrar toda distinción entre el Padre y el Hijo. «Uno» es **directo**, mientras convertirlo en una afirmación ajena al argumento del pasaje sería **ilegítimo**.
 
-El Salmo 30 mantiene la gratitud en el lugar correcto. **(רָפָא)**, _rapha_, significa sanar, restaurar o remediar; en #salmos_30_3 describe la ayuda de Elohim al salmista. «Sanaste» es **directo**, pero no promete que toda crisis termine al ritmo de una conmemoración. La dedicación recuerda quién levantó al afligido; no convierte al celebrante en dueño de la casa ni le permite reclamar inmunidad frente a la disciplina.
+El Salmo 30 mantiene la gratitud en el lugar correcto. **(רָפָא)**, _rapha_, significa sanar, restaurar o remediar; en #tehilim_30_3 describe la ayuda de Elohim al salmista. «Sanaste» es **directo**, pero no promete que toda crisis termine al ritmo de una conmemoración. La dedicación recuerda quién levantó al afligido; no convierte al celebrante en dueño de la casa ni le permite reclamar inmunidad frente a la disciplina.
 
 La formación comunitaria también requiere distinguir términos y funciones. En 2 Timoteo 3:16, **(ὠφέλιμος)**, _ōphelimos_, significa útil, provechoso o beneficioso; su fuerza contextual califica a la Escritura por lo que produce en enseñanza, reprensión, corrección y educación justa. «Útil» es **directo**, mientras afirmar que cualquier lectura o tradición educativa comparte automáticamente esa autoridad sería **ilegítimo**. En 1 Timoteo 3:15, **(ἐκκλησία)**, _ekklēsia_, significa asamblea o congregación; su fuerza contextual es la comunidad reunida como casa de Elohim, no una piedra consagrada. «Iglesia» puede ser una glosa **tradicional y aproximada**, pero «edificio» sería **ilegítimo** como sustituto del sujeto del versículo.
 

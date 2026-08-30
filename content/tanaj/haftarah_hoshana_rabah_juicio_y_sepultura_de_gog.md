@@ -12,33 +12,33 @@ tags:
   - juicio
   - sepultura
 references:
-  - "#ezequiel_38_16"
-  - "#ezequiel_38_17"
-  - "#ezequiel_38_18"
-  - "#ezequiel_38_19"
-  - "#ezequiel_38_20"
-  - "#ezequiel_38_21"
-  - "#ezequiel_38_22"
-  - "#ezequiel_38_23"
-  - "#ezequiel_39_1"
-  - "#ezequiel_39_2"
-  - "#ezequiel_39_3"
-  - "#ezequiel_39_4"
-  - "#ezequiel_39_5"
-  - "#ezequiel_39_6"
-  - "#ezequiel_39_7"
-  - "#ezequiel_39_9"
-  - "#ezequiel_39_10"
-  - "#ezequiel_39_11"
-  - "#ezequiel_39_12"
-  - "#ezequiel_39_13"
-  - "#ezequiel_39_14"
-  - "#ezequiel_39_15"
-  - "#ezequiel_39_16"
-  - "#ezequiel_39_17"
-  - "#ezequiel_39_18"
-  - "#ezequiel_39_19"
-  - "#ezequiel_39_20"
+  - "#yejezkel_38_16"
+  - "#yejezkel_38_17"
+  - "#yejezkel_38_18"
+  - "#yejezkel_38_19"
+  - "#yejezkel_38_20"
+  - "#yejezkel_38_21"
+  - "#yejezkel_38_22"
+  - "#yejezkel_38_23"
+  - "#yejezkel_39_1"
+  - "#yejezkel_39_2"
+  - "#yejezkel_39_3"
+  - "#yejezkel_39_4"
+  - "#yejezkel_39_5"
+  - "#yejezkel_39_6"
+  - "#yejezkel_39_7"
+  - "#yejezkel_39_9"
+  - "#yejezkel_39_10"
+  - "#yejezkel_39_11"
+  - "#yejezkel_39_12"
+  - "#yejezkel_39_13"
+  - "#yejezkel_39_14"
+  - "#yejezkel_39_15"
+  - "#yejezkel_39_16"
+  - "#yejezkel_39_17"
+  - "#yejezkel_39_18"
+  - "#yejezkel_39_19"
+  - "#yejezkel_39_20"
 sources:
   - "https://www.youtube.com/watch?v=h84ocNkUd0I"
 source_ids:
@@ -52,7 +52,7 @@ La haftaráh de Hosha'ná Rabáh no se lee como un mapa militar del Medio Orient
 
 ## Alcance de la nota
 
-Esta nota organiza la clase **Haftaráh de Hosha'na' Rabah (2018) El Juicio y sepultura de Gog**. Eric sitúa primero el calendario de Sukot (día séptimo / octavo), recuerda el marco ceremonial antiguo asociado a Hosha'ná y entra en #ezequiel_38_16ss y el capítulo 39. Se conservan sus observaciones atribuibles sobre **(אחרית הימים)**, **(אדמת ישראל)**, la lectura retórica de peces/aves/bestias como naciones, el norte como ámbito oculto, el desarme del arco, la sepultura en **(גיא המון גוג)** y la limpieza con **(טהר)**. Las identificaciones geopolíticas modernas, catálogos exhaustivos de pueblos de Bereshit 10 y lecturas de corrientes culturales contemporáneas se marcan como marco de clase o quedan pendientes. La transcripción automática no se usa como cita literal.
+Esta nota organiza la clase **Haftaráh de Hosha'na' Rabah (2018) El Juicio y sepultura de Gog**. Eric sitúa primero el calendario de Sukot (día séptimo / octavo), recuerda el marco ceremonial antiguo asociado a Hosha'ná y entra en #yejezkel_38_16ss y el capítulo 39. Se conservan sus observaciones atribuibles sobre **(אחרית הימים)**, **(אדמת ישראל)**, la lectura retórica de peces/aves/bestias como naciones, el norte como ámbito oculto, el desarme del arco, la sepultura en **(גיא המון גוג)** y la limpieza con **(טהר)**. Las identificaciones geopolíticas modernas, catálogos exhaustivos de pueblos de Bereshit 10 y lecturas de corrientes culturales contemporáneas se marcan como marco de clase o quedan pendientes. La transcripción automática no se usa como cita literal.
 
 ## Contexto de lectura: séptimo día, Hosha'ná y la excepción litúrgica
 
@@ -62,50 +62,50 @@ Eric abre recordando la secuencia de Sukot: tras los días previos se llega al s
 
 | Referencia         | Hebreo (OE, sin nikud)                                                                                             | TTH (ES)                                                                                                                                                                       | Función en el desarrollo                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| #ezequiel_38_16    | ועלית על עמי ישראל כענן לכסות הארץ באחרית הימים תהיה והבאותיך על ארצי למען דעת הגוים אתי בהקדשי בך לעיניהם גוג     | Y subirás sobre mi pueblo Israel como nube para cubrir la tierra. En la posteridad de los días será... a fin de conocerme las naciones cuando Yo sea santificado en ti... Gog. | Traída de Gog y propósito: santificación de יהוה ante las naciones.                     |
-| #ezequiel_38_17    | כה אמר אדני יהוה האתה הוא אשר דברתי בימים קדמונים ביד עבדי נביאי ישראל ... להביא אתך עליהם                         | ¿Eres tú del que hablé en días antiguos por mano de mis siervos los profetas de Israel...?                                                                                     | Gog no es sorpresa: estaba anunciado por los profetas.                                  |
-| #ezequiel_38_18    | והיה ביום ההוא ביום בוא גוג על אדמת ישראל ... תעלה חמתי באפי                                                       | ...en el día de venir Gog sobre la tierra de Israel... subirá mi calor en mi nariz.                                                                                            | Foco en **(אדמת ישראל)** e indignación personal de יהוה.                                |
-| #ezequiel_38_20    | ורעשו מפני דגי הים ועוף השמים וחית השדה וכל הרמש הרמש על האדמה וכל האדם ... ונהרסו ההרים ...                       | Temblarán... los peces del mar, el ave de los cielos, el animal del campo, todo lo que se arrastra... y todo hombre...; se derrumbarán los montes...                           | Temblor cósmico; la clase lee animales como figura de naciones y montes como doctrinas. |
-| #ezequiel_38_22-23 | ונשפטתי אתו בדבר ובדם ... אש וגפרית ... והתגדלתי והתקדשתי ונודעתי לעיני גוים רבים וידעו כי אני יהוה                | Entraré en juicio con él con peste y con sangre... fuego y azufre... me engrandeceré y me santificaré... y sabrán que Yo soy יהוה.                                             | Juicio y conocimiento del Nombre.                                                       |
-| #ezequiel_39_1-3   | הנני אליך גוג נשיא ראש משך ותבל ... והעליתיך מירכתי צפון ... והכיתי קשתך מיד שמאולך וחציך מיד ימינך אפיל           | Heme aquí hacia ti, Gog, príncipe de Rosh, Méshej y Tubal... te haré subir de los extremos del norte... golpearé tu arco... y las flechas... haré caer.                        | Identidad del príncipe, origen “norte” y desarme a distancia.                           |
-| #ezequiel_39_4-7   | על הרי ישראל תפול ... ושלחתי אש במגוג ... ואת שם קדשי אודיע בתוך עמי ישראל ... וידעו הגוים כי אני יהוה קדוש בישראל | Sobre los montes de Israel caerás... enviaré fuego en Magog... el Nombre de mi santidad haré conocer en medio de mi pueblo Israel... Kadosh en Israel.                         | Caída sobre los montes; Nombre santo _en_ Israel.                                       |
-| #ezequiel_39_9-10  | ויצאו ישבי ערי ישראל ובערו ... בנשק ... שבע שנים ... ושללו את שלליהם                                               | Saldrán los habitantes... y encenderán fuego con el armamento... siete años... despojarán a sus despojadores.                                                                  | Reversión: el botín del agresor sostiene al pueblo.                                     |
-| #ezequiel_39_11-16 | אתן לגוג מקום שם קבר בישראל גי העברים קדמת הים ... וקראו גיא המון גוג ... לטהר את הארץ שבעה חדשים ... וטהרו הארץ   | Daré a Gog un lugar... para sepultura en Israel... Guei Hamón Gog... limpiar la tierra por siete meses... y limpiarán la tierra.                                               | Sepultura pública y limpieza prolongada del suelo.                                      |
-| #ezequiel_39_17-20 | אמר לצפור כל כנף ולכל חית השדה ... זבח גדול על הרי ישראל ... בשר גבורים תאכלו ... מריאי בשן ... על שלחני           | Di al ave... y al animal del campo... gran sacrificio sobre los montes de Israel... carne de poderosos... engordados de Bashán... se saciarán sobre mi mesa.                   | Banquete de las aves; la clase lo acerca al banquete apocalíptico de los poderosos.     |
+| #yejezkel_38_16    | ועלית על עמי ישראל כענן לכסות הארץ באחרית הימים תהיה והבאותיך על ארצי למען דעת הגוים אתי בהקדשי בך לעיניהם גוג     | Y subirás sobre mi pueblo Israel como nube para cubrir la tierra. En la posteridad de los días será... a fin de conocerme las naciones cuando Yo sea santificado en ti... Gog. | Traída de Gog y propósito: santificación de יהוה ante las naciones.                     |
+| #yejezkel_38_17    | כה אמר אדני יהוה האתה הוא אשר דברתי בימים קדמונים ביד עבדי נביאי ישראל ... להביא אתך עליהם                         | ¿Eres tú del que hablé en días antiguos por mano de mis siervos los profetas de Israel...?                                                                                     | Gog no es sorpresa: estaba anunciado por los profetas.                                  |
+| #yejezkel_38_18    | והיה ביום ההוא ביום בוא גוג על אדמת ישראל ... תעלה חמתי באפי                                                       | ...en el día de venir Gog sobre la tierra de Israel... subirá mi calor en mi nariz.                                                                                            | Foco en **(אדמת ישראל)** e indignación personal de יהוה.                                |
+| #yejezkel_38_20    | ורעשו מפני דגי הים ועוף השמים וחית השדה וכל הרמש הרמש על האדמה וכל האדם ... ונהרסו ההרים ...                       | Temblarán... los peces del mar, el ave de los cielos, el animal del campo, todo lo que se arrastra... y todo hombre...; se derrumbarán los montes...                           | Temblor cósmico; la clase lee animales como figura de naciones y montes como doctrinas. |
+| #yejezkel_38_22-23 | ונשפטתי אתו בדבר ובדם ... אש וגפרית ... והתגדלתי והתקדשתי ונודעתי לעיני גוים רבים וידעו כי אני יהוה                | Entraré en juicio con él con peste y con sangre... fuego y azufre... me engrandeceré y me santificaré... y sabrán que Yo soy יהוה.                                             | Juicio y conocimiento del Nombre.                                                       |
+| #yejezkel_39_1-3   | הנני אליך גוג נשיא ראש משך ותבל ... והעליתיך מירכתי צפון ... והכיתי קשתך מיד שמאולך וחציך מיד ימינך אפיל           | Heme aquí hacia ti, Gog, príncipe de Rosh, Méshej y Tubal... te haré subir de los extremos del norte... golpearé tu arco... y las flechas... haré caer.                        | Identidad del príncipe, origen “norte” y desarme a distancia.                           |
+| #yejezkel_39_4-7   | על הרי ישראל תפול ... ושלחתי אש במגוג ... ואת שם קדשי אודיע בתוך עמי ישראל ... וידעו הגוים כי אני יהוה קדוש בישראל | Sobre los montes de Israel caerás... enviaré fuego en Magog... el Nombre de mi santidad haré conocer en medio de mi pueblo Israel... Kadosh en Israel.                         | Caída sobre los montes; Nombre santo _en_ Israel.                                       |
+| #yejezkel_39_9-10  | ויצאו ישבי ערי ישראל ובערו ... בנשק ... שבע שנים ... ושללו את שלליהם                                               | Saldrán los habitantes... y encenderán fuego con el armamento... siete años... despojarán a sus despojadores.                                                                  | Reversión: el botín del agresor sostiene al pueblo.                                     |
+| #yejezkel_39_11-16 | אתן לגוג מקום שם קבר בישראל גי העברים קדמת הים ... וקראו גיא המון גוג ... לטהר את הארץ שבעה חדשים ... וטהרו הארץ   | Daré a Gog un lugar... para sepultura en Israel... Guei Hamón Gog... limpiar la tierra por siete meses... y limpiarán la tierra.                                               | Sepultura pública y limpieza prolongada del suelo.                                      |
+| #yejezkel_39_17-20 | אמר לצפור כל כנף ולכל חית השדה ... זבח גדול על הרי ישראל ... בשר גבורים תאכלו ... מריאי בשן ... על שלחני           | Di al ave... y al animal del campo... gran sacrificio sobre los montes de Israel... carne de poderosos... engordados de Bashán... se saciarán sobre mi mesa.                   | Banquete de las aves; la clase lo acerca al banquete apocalíptico de los poderosos.     |
 
-## Yejezkel 38:16-17: posteridad de los días y memoria profética #ezequiel_38_16-17
+## Yejezkel 38:16-17: posteridad de los días y memoria profética #yejezkel_38_16-17
 
-Eric insiste en la clave temporal de #ezequiel_38_16: **(באחרית הימים)**. No es un “final abstracto” desconectado de la historia de la fe, sino el tramo que la clase describe desde la primera venida del Mesías hasta la consumación, el tiempo en el que la embestida de Gog se vuelve legible. El texto local dice que Gog sube “como nube para cubrir la tierra” y que יהוה lo trae sobre su tierra _para_ que las naciones lo conozcan al santificarse en él. El propósito no es la gloria de Gog, sino el conocimiento de יהוה.
+Eric insiste en la clave temporal de #yejezkel_38_16: **(באחרית הימים)**. No es un “final abstracto” desconectado de la historia de la fe, sino el tramo que la clase describe desde la primera venida del Mesías hasta la consumación, el tiempo en el que la embestida de Gog se vuelve legible. El texto local dice que Gog sube “como nube para cubrir la tierra” y que יהוה lo trae sobre su tierra _para_ que las naciones lo conozcan al santificarse en él. El propósito no es la gloria de Gog, sino el conocimiento de יהוה.
 
-#ezequiel_38_17 refuerza esa lectura: “¿Eres tú del que hablé en días antiguos por mano de mis siervos los profetas?”. Eric oye aquí que los profetas ya sabían que el pueblo sería objeto de una persecución siniestro-anunciada. La clase identifica a Gog con el adversario que recorre el relato apocalíptico; esa identificación es el marco teológico de la enseñanza y debe presentarse como tal, no como si el solo nombre “Gog” bastara para cerrar todos los debates de identidad. Lo que el versículo sí sostiene sin forzar es la continuidad: el ataque no cae fuera de la palabra ya hablada.
+#yejezkel_38_17 refuerza esa lectura: “¿Eres tú del que hablé en días antiguos por mano de mis siervos los profetas?”. Eric oye aquí que los profetas ya sabían que el pueblo sería objeto de una persecución siniestro-anunciada. La clase identifica a Gog con el adversario que recorre el relato apocalíptico; esa identificación es el marco teológico de la enseñanza y debe presentarse como tal, no como si el solo nombre “Gog” bastara para cerrar todos los debates de identidad. Lo que el versículo sí sostiene sin forzar es la continuidad: el ataque no cae fuera de la palabra ya hablada.
 
 ## אדמת ישראל: suelo, no solo país
 
-En #ezequiel_38_18 el hebreo no dice solo “tierra-país” de modo plano: habla del día en que Gog viene sobre **(אדמת ישראל)** y sube el calor de יהוה en su nariz. Eric detiene la lectura en **(אדמה)**. La clase la diferencia del mero mapa político: adamah evoca el suelo fértil, la porción seleccionada —con eco pedagógico del jardín en Bereshit— y, por extensión, el pueblo mismo como territorio donde יהוה se santifica. Por eso más adelante #ezequiel_39_7 puede decir “Kadosh en Israel”: el Nombre santo no se exhibe como turismo de fronteras, sino en medio del pueblo.
+En #yejezkel_38_18 el hebreo no dice solo “tierra-país” de modo plano: habla del día en que Gog viene sobre **(אדמת ישראל)** y sube el calor de יהוה en su nariz. Eric detiene la lectura en **(אדמה)**. La clase la diferencia del mero mapa político: adamah evoca el suelo fértil, la porción seleccionada —con eco pedagógico del jardín en Bereshit— y, por extensión, el pueblo mismo como territorio donde יהוה se santifica. Por eso más adelante #yejezkel_39_7 puede decir “Kadosh en Israel”: el Nombre santo no se exhibe como turismo de fronteras, sino en medio del pueblo.
 
 La indignación “en la nariz” la glosa Eric como presencia personal no delegada. Esa es lectura homilética sobre la antropomorfía del texto; el hebreo de **(אף)** y **(חמה)** sostiene al menos el ardor del juicio inmediato. La nota retiene ambas capas: el lexema del suelo y la cercanía del juicio.
 
-## Yejezkel 38:19-23: temblor, animales-naciones y montes que caen #ezequiel_38_19-23
+## Yejezkel 38:19-23: temblor, animales-naciones y montes que caen #yejezkel_38_19-23
 
-#ezequiel_38_19-20 describe un gran temblor sobre adamah Israel. Tiemblan peces del mar, ave de los cielos, animal del campo, todo **(רמש)** que se mueve sobre la tierra y todo hombre; se derrumban montes, lugares empinados y muros. Eric propone una lectura retórica de los animales: peces como naciones marítimas, aves como potencias con alcance “transcontinental”, bestias del campo como quienes habitan o invaden el suelo local. Advierte además contra traducciones que convierten **(רמש)** / el ganado en “serpientes” de modo que la imagen se vuelve zoológica y se pierde la figura de las naciones. El texto local TTH ya habla de “todo reptil que se arrastra” y de “todo hombre”; la clase empuja a oír el conjunto como temblor de _órdenes humanos_, no solo de fauna.
+#yejezkel_38_19-20 describe un gran temblor sobre adamah Israel. Tiemblan peces del mar, ave de los cielos, animal del campo, todo **(רמש)** que se mueve sobre la tierra y todo hombre; se derrumban montes, lugares empinados y muros. Eric propone una lectura retórica de los animales: peces como naciones marítimas, aves como potencias con alcance “transcontinental”, bestias del campo como quienes habitan o invaden el suelo local. Advierte además contra traducciones que convierten **(רמש)** / el ganado en “serpientes” de modo que la imagen se vuelve zoológica y se pierde la figura de las naciones. El texto local TTH ya habla de “todo reptil que se arrastra” y de “todo hombre”; la clase empuja a oír el conjunto como temblor de _órdenes humanos_, no solo de fauna.
 
-Sobre los montes, Eric apela al simbolismo hebreo de la montaña como lugar de doctrina (con el eco del Sinaí en el imaginario bíblico). Derrumbar montes sería entonces derribar sistemas de culto e ideología que se alzan frente a יהוה; las “escalinatas” y muros completan la imagen de religiones que construyen su propia subida al cielo. Esa lectura es coherente con el juicio de #ezequiel_38_21-22 —espada de hermano contra hermano, peste, sangre, granizo, fuego y azufre— y desemboca en #ezequiel_38_23: “me engrandeceré y me santificaré... y sabrán que Yo soy יהוה”. La nota conserva el hilo: el temblor no es espectáculo geológico gratuito; es el escenario del conocimiento del Nombre. La tipología completa de cada animal y de cada “montaña = denominación moderna” queda como mapa de clase, no como glosa obligatoria de cada sustantivo.
+Sobre los montes, Eric apela al simbolismo hebreo de la montaña como lugar de doctrina (con el eco del Sinaí en el imaginario bíblico). Derrumbar montes sería entonces derribar sistemas de culto e ideología que se alzan frente a יהוה; las “escalinatas” y muros completan la imagen de religiones que construyen su propia subida al cielo. Esa lectura es coherente con el juicio de #yejezkel_38_21-22 —espada de hermano contra hermano, peste, sangre, granizo, fuego y azufre— y desemboca en #yejezkel_38_23: “me engrandeceré y me santificaré... y sabrán que Yo soy יהוה”. La nota conserva el hilo: el temblor no es espectáculo geológico gratuito; es el escenario del conocimiento del Nombre. La tipología completa de cada animal y de cada “montaña = denominación moderna” queda como mapa de clase, no como glosa obligatoria de cada sustantivo.
 
-## Yejezkel 39:1-7: norte oculto, arco quebrado y Nombre en Israel #ezequiel_39_1-7
+## Yejezkel 39:1-7: norte oculto, arco quebrado y Nombre en Israel #yejezkel_39_1-7
 
-El capítulo 39 reabre el oráculo: “Heme aquí hacia ti, Gog, príncipe de Rosh, Méshej y Tubal” (#ezequiel_39_1). Eric remite el catálogo a la mesa de naciones de Bereshit 10 y subraya el movimiento de #ezequiel_39_2: subir desde los extremos del **norte**. En la clase, el norte no se agota en una brújula moderna; funciona también como figura de lo oculto, de la guarida no visible. Por eso la embestida se describe como un atraer al delincuente con carnada: se le saca de donde acecha y se le hace entrar al terreno donde ya no controla la distancia.
+El capítulo 39 reabre el oráculo: “Heme aquí hacia ti, Gog, príncipe de Rosh, Méshej y Tubal” (#yejezkel_39_1). Eric remite el catálogo a la mesa de naciones de Bereshit 10 y subraya el movimiento de #yejezkel_39_2: subir desde los extremos del **norte**. En la clase, el norte no se agota en una brújula moderna; funciona también como figura de lo oculto, de la guarida no visible. Por eso la embestida se describe como un atraer al delincuente con carnada: se le saca de donde acecha y se le hace entrar al terreno donde ya no controla la distancia.
 
-#ezequiel_39_3 es decisivo en la exposición: יהוה golpea el arco de la mano izquierda y hace caer las flechas de la derecha. Eric contrasta el arma a distancia —capacidad de herir y escapar— con la espada del cuerpo a cuerpo. Desarmar el arco es quitar la ventaja del agresor que amenaza desde lejos. Luego #ezequiel_39_4-5 anuncia la caída sobre los montes de Israel y la entrega como comida al ave y al animal del campo; #ezequiel_39_6 extiende fuego a Magog y a islas confiadas; #ezequiel_39_7 centra el resultado: el Nombre de su santidad se da a conocer _en medio_ de su pueblo y las naciones sabrán que יהוה es santo en Israel. La clase insiste: “nuestro Dios no es santo en la India o en Grecia _en lugar de_ Israel”; el eje de la santificación pública pasa por este pueblo-suelo. Esa afirmación debe leerse como énfasis de la perícopa, no como negación de la soberanía universal de יהוה.
+#yejezkel_39_3 es decisivo en la exposición: יהוה golpea el arco de la mano izquierda y hace caer las flechas de la derecha. Eric contrasta el arma a distancia —capacidad de herir y escapar— con la espada del cuerpo a cuerpo. Desarmar el arco es quitar la ventaja del agresor que amenaza desde lejos. Luego #yejezkel_39_4-5 anuncia la caída sobre los montes de Israel y la entrega como comida al ave y al animal del campo; #yejezkel_39_6 extiende fuego a Magog y a islas confiadas; #yejezkel_39_7 centra el resultado: el Nombre de su santidad se da a conocer _en medio_ de su pueblo y las naciones sabrán que יהוה es santo en Israel. La clase insiste: “nuestro Dios no es santo en la India o en Grecia _en lugar de_ Israel”; el eje de la santificación pública pasa por este pueblo-suelo. Esa afirmación debe leerse como énfasis de la perícopa, no como negación de la soberanía universal de יהוה.
 
 ## Siete años, sepultura y limpieza: Israel como testigo y carnada
 
-#ezequiel_39_9-10 describe a los habitantes de las ciudades saliendo a quemar armamento durante siete años y despojando a sus despojadores. Eric lee aquí una reivindicación: lo que el enemigo trajo para destruir termina sosteniendo al pueblo. Inmediatamente desarrolla la imagen pastoral de la **carnada**: יהוה atrae al agresor; el pueblo ha sido advertido —“felices cuando los persigan”— y no debe aterrorizarse como si la hostilidad desmintiera el llamado. El texto no usa la palabra “carnada”; es metáfora de la clase para unir #ezequiel_38_16 (“te haré venir”) con la ética de la perseverancia. Se presenta como tal.
+#yejezkel_39_9-10 describe a los habitantes de las ciudades saliendo a quemar armamento durante siete años y despojando a sus despojadores. Eric lee aquí una reivindicación: lo que el enemigo trajo para destruir termina sosteniendo al pueblo. Inmediatamente desarrolla la imagen pastoral de la **carnada**: יהוה atrae al agresor; el pueblo ha sido advertido —“felices cuando los persigan”— y no debe aterrorizarse como si la hostilidad desmintiera el llamado. El texto no usa la palabra “carnada”; es metáfora de la clase para unir #yejezkel_38_16 (“te haré venir”) con la ética de la perseverancia. Se presenta como tal.
 
-#ezequiel_39_11-16 da a Gog un sepulcro en Israel: el valle de los que pasan, al oriente del mar, llamado **(גיא המון גוג)**. Casa de Israel entierra siete meses para **(טהר)** la tierra; hay hombres asignados, señales junto a los huesos, y hasta un topónimo **(המונה)**. Eric subraya dos cosas: (1) la sepultura es pública y humillante para el adversario —todo Israel es testigo de que fue destruido—; (2) la geografía del valle/mar funciona como maqueta, no necesariamente como itinerario turístico literal. La limpieza no es un barrido superficial: el verbo de purificar y el plazo de meses muestran un trabajo paciente hasta que el suelo quede apto. La clase llega a decir que no quedará en el contorno del pueblo nada que pertenezca a esa potestad. El texto sostiene la limpieza de la tierra; el grado de “extinción cósmica” es amplificación homilética y se califica.
+#yejezkel_39_11-16 da a Gog un sepulcro en Israel: el valle de los que pasan, al oriente del mar, llamado **(גיא המון גוג)**. Casa de Israel entierra siete meses para **(טהר)** la tierra; hay hombres asignados, señales junto a los huesos, y hasta un topónimo **(המונה)**. Eric subraya dos cosas: (1) la sepultura es pública y humillante para el adversario —todo Israel es testigo de que fue destruido—; (2) la geografía del valle/mar funciona como maqueta, no necesariamente como itinerario turístico literal. La limpieza no es un barrido superficial: el verbo de purificar y el plazo de meses muestran un trabajo paciente hasta que el suelo quede apto. La clase llega a decir que no quedará en el contorno del pueblo nada que pertenezca a esa potestad. El texto sostiene la limpieza de la tierra; el grado de “extinción cósmica” es amplificación homilética y se califica.
 
 ## El gran sacrificio sobre los montes y Bashán
 
-#ezequiel_39_17-20 convoca al ave y al animal del campo al “gran sacrificio” de יהוה sobre los montes de Israel: carne de poderosos, sangre de príncipes, engordados de Bashán, caballos y carros en la mesa de יהוה. Eric conecta esta escena con el banquete de las aves sobre los poderosos en el lenguaje apocalíptico. También oye en Bashán y en los catálogos del norte un eco de potestades antiguas —incluida la figura de la serpiente/veneno en el juego de nombres que la clase despliega—. Aquí la nota es prudente: el banquete de las aves está en el texto; la equivalencia punto por punto con cada potestad nombrada en otras épocas es el tejido interpretativo de Eric y requiere más control léxico del que una sola clase cierra. Se retiene el núcleo: el juicio de Gog termina en un sacrificio público donde los “fuertes” son consumidos y יהוה pone mesa sobre los montes de Israel.
+#yejezkel_39_17-20 convoca al ave y al animal del campo al “gran sacrificio” de יהוה sobre los montes de Israel: carne de poderosos, sangre de príncipes, engordados de Bashán, caballos y carros en la mesa de יהוה. Eric conecta esta escena con el banquete de las aves sobre los poderosos en el lenguaje apocalíptico. También oye en Bashán y en los catálogos del norte un eco de potestades antiguas —incluida la figura de la serpiente/veneno en el juego de nombres que la clase despliega—. Aquí la nota es prudente: el banquete de las aves está en el texto; la equivalencia punto por punto con cada potestad nombrada en otras épocas es el tejido interpretativo de Eric y requiere más control léxico del que una sola clase cierra. Se retiene el núcleo: el juicio de Gog termina en un sacrificio público donde los “fuertes” son consumidos y יהוה pone mesa sobre los montes de Israel.
 
 ## Hoja léxica
 
@@ -127,18 +127,18 @@ El capítulo 39 reabre el oráculo: “Heme aquí hacia ti, Gog, príncipe de Ro
 | Unidad textual         | Observación concreta de la clase                                                                                                  | Tratamiento en esta nota                                                                                                                         |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Sukot 7º–8º / Hosha'ná | El séptimo día y la excepción litúrgica preparan la lectura de Gog; Hosha'ná y memorias del Templo enmarcan el “salva ahora”.     | Contexto de lectura: se retiene la función pedagógica del calendario; detalles ceremoniales quedan abiertos a verificación histórica.            |
-| #ezequiel_38_16-17     | Acharit hayamim cubre el tramo hasta la consumación; Gog es el anunciado por los profetas, no un accidente.                       | Apoyo textual del propósito de santificación y de la pregunta “¿eres tú...?”; la identidad satánica plena se marca como marco de clase.          |
-| #ezequiel_38_18-20     | Adamah es suelo/pueblo; animales figuran naciones; montes figuran doctrinas; hay que corregir lecturas que “serpentean” el rémes. | Apoyo textual + léxico: se explica adamah, el temblor y la cautela traductológica; tipologías exhaustivas se califican.                          |
-| #ezequiel_39_1-7       | Del norte oculto se atrae al agresor; se le quiebra el arco; el Nombre se santifica en medio de Israel.                           | Desarrollo ordenado del desarme y del “Kadosh en Israel”; geopolítica moderna no se canoniza.                                                    |
-| #ezequiel_39_9-16      | Israel es carnada consciente y sepulturero: quema armas siete años y limpia la tierra siete meses en Guei Hamón Gog.              | Metáfora de carnada como lectura pastoral atribuible; sepultura y **(טהר)** con apoyo textual directo.                                           |
-| #ezequiel_39_17-20     | El banquete de las aves sobre poderosos y Bashán proyecta el juicio a escala apocalíptica.                                        | Se cita el gran sacrificio y se enlaza con el lenguaje de banquete de poderosos; equivalencias onomásticas finas quedan pendientes de verificar. |
+| #yejezkel_38_16-17     | Acharit hayamim cubre el tramo hasta la consumación; Gog es el anunciado por los profetas, no un accidente.                       | Apoyo textual del propósito de santificación y de la pregunta “¿eres tú...?”; la identidad satánica plena se marca como marco de clase.          |
+| #yejezkel_38_18-20     | Adamah es suelo/pueblo; animales figuran naciones; montes figuran doctrinas; hay que corregir lecturas que “serpentean” el rémes. | Apoyo textual + léxico: se explica adamah, el temblor y la cautela traductológica; tipologías exhaustivas se califican.                          |
+| #yejezkel_39_1-7       | Del norte oculto se atrae al agresor; se le quiebra el arco; el Nombre se santifica en medio de Israel.                           | Desarrollo ordenado del desarme y del “Kadosh en Israel”; geopolítica moderna no se canoniza.                                                    |
+| #yejezkel_39_9-16      | Israel es carnada consciente y sepulturero: quema armas siete años y limpia la tierra siete meses en Guei Hamón Gog.              | Metáfora de carnada como lectura pastoral atribuible; sepultura y **(טהר)** con apoyo textual directo.                                           |
+| #yejezkel_39_17-20     | El banquete de las aves sobre poderosos y Bashán proyecta el juicio a escala apocalíptica.                                        | Se cita el gran sacrificio y se enlaza con el lenguaje de banquete de poderosos; equivalencias onomásticas finas quedan pendientes de verificar. |
 
 ## Conexiones principales
 
-- #ezequiel_38_16 con #ezequiel_38_23 y #ezequiel_39_7: el fin del ciclo no es la biografía de Gog, sino que las naciones sepan que יהוה es santo en Israel.
-- #ezequiel_38_20-23 con #ezequiel_39_4-6: el temblor y el fuego preparan la caída sobre los montes y el juicio que alcanza también a Magog y a las islas confiadas.
-- #ezequiel_39_9-10 con #ezequiel_39_17-20: el pueblo quema armas y las aves comen a los poderosos; dos imágenes de reversión del poder agresor.
-- #ezequiel_39_11-16 con la ética de la clase: sepultar no es solo higiene; es testimonio público de que el adversario tiene fin contado.
+- #yejezkel_38_16 con #yejezkel_38_23 y #yejezkel_39_7: el fin del ciclo no es la biografía de Gog, sino que las naciones sepan que יהוה es santo en Israel.
+- #yejezkel_38_20-23 con #yejezkel_39_4-6: el temblor y el fuego preparan la caída sobre los montes y el juicio que alcanza también a Magog y a las islas confiadas.
+- #yejezkel_39_9-10 con #yejezkel_39_17-20: el pueblo quema armas y las aves comen a los poderosos; dos imágenes de reversión del poder agresor.
+- #yejezkel_39_11-16 con la ética de la clase: sepultar no es solo higiene; es testimonio público de que el adversario tiene fin contado.
 
 ## Pendiente de verificar
 
@@ -154,7 +154,7 @@ Hosha'ná Rabáh, en esta exposición, entrena la vista para el final del confli
 ## Ver también
 
 - [Shabat Zajor: memoria de Amalek y obediencia](./haftarah_shabat_zajor_amalek_memoria_y_obediencia.md)
-- [Haftaráh de Vayishlaj: Efraín y misericordia](./haftarah_vayishlaj_oseas_11_reino_dividido_y_misericordia.md)
+- [Haftaráh de Vayishlaj: Efraín y misericordia](./haftarah_vayishlaj_hoshea_11_reino_dividido_y_misericordia.md)
 
 ## Créditos
 

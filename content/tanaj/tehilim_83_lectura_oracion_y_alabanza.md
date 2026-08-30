@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_83_1"
-  - "#salmos_83_19"
+  - "#tehilim_83_1"
+  - "#tehilim_83_19"
 sources:
   - "https://www.youtube.com/watch?v=mhWdmbOieNA"
   - "docs/scriptures/oe/json/psalms/83.json"
@@ -30,10 +30,10 @@ Esta nota canónica reúne la fuente disponible para Tehilim 83. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                     | Observación de lectura                                               |
 | -------------- | ------------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_83_1  | שיר מזמור לאסף                              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_83_19 | וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ | El verso final permite observar el cierre de la composición.         |
+| #tehilim_83_1  | שיר מזמור לאסף                              | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_83_19 | וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ | El verso final permite observar el cierre de la composición.         |
 
-## Súplica ante una conspiración — Tehilim 83:1-9 #salmos_83_1-9
+## Súplica ante una conspiración — Tehilim 83:1-9 #tehilim_83_1-9
 
 El salmo no comienza con una explicación abstracta del conflicto, sino con tres imperativos acumulados: «אלהים אל דמי לך אל תחרש ואל תשקט אל» (v. 2), «Elohim, no guardes silencio; no calles ni permanezcas quieto». Eric detiene la lectura en esa insistencia y presenta el silencio divino como el problema que la oración lleva delante de יהוה, no como prueba de que יהוה haya abandonado a su pueblo. La repetición verbal hace visible la urgencia antes de enumerar a los enemigos.
 
@@ -41,7 +41,7 @@ Los vv. 3-6 explican la urgencia: «כי הנה אויביך יהמיון ומש
 
 La lista de vv. 7-9 —אדום, ישמעאלים, מואב, הגרים, גבל, עמון, עמלק, פלשת, צור y אשור— muestra una coalición presentada desde la perspectiva del orante. «ברית יכרתו» (v. 6) da forma de pacto a la conjura. La enumeración funciona como acumulación poética: el peligro parece rodear a Israel. Es una observación atribuible a la clase y comprobable en el orden del salmo, no una afirmación de que todos los detalles históricos del episodio puedan reconstruirse desde este poema.
 
-## Memoria judicial y petición de reconocimiento — Tehilim 83:10-19 #salmos_83_10-19
+## Memoria judicial y petición de reconocimiento — Tehilim 83:10-19 #tehilim_83_10-19
 
 Eric enlaza la petición presente con las derrotas antiguas: «עשה להם כמדין כסיסרא כיבין בנחל קישון» (v. 10). El salmo recuerda a Madián, Sísara y Jabín, y después a Oreb, Zeeb, Zebaj y Zalmuna (vv. 12-13). La comparación con Ju 4–8 es una relación canónica exacta en los nombres y una ayuda de contexto; no reemplaza el sentido del salmo, que pide a יהוה actuar otra vez frente a una alianza que pretende apropiarse de «נאות אלהים», las moradas de Elohim (v. 13).
 
@@ -61,10 +61,10 @@ El propósito final es teológico y público: «ויבקשו שמך יהוה» (
 
 | Unidad textual    | Observación concreta de Eric                                                                                            | Prueba y límite en el texto local                                                                                                         |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| #salmos_83_1-6   | Eric lee la urgencia desde el triple llamado a que Elohim no calle y desde el plan de borrar el nombre de Israel.       | Los imperativos del v. 2 y la intención del v. 5 aparecen antes de la lista; no se inventa una causa externa al poema.                    |
-| #salmos_83_7-9   | La enumeración de pueblos muestra una presión conjunta contra el pueblo de יהוה.                                        | El texto presenta una coalición y nombra sus miembros; no resuelve por sí solo toda su cronología histórica.                              |
-| #salmos_83_10-16 | Eric trae a la memoria Madián y Sísara para leer el clamor presente a la luz de actos judiciales anteriores.            | Los nombres y la petición están en vv. 10-13; la conexión con Jueces es canónica y exacta, no una transcripción del salmo.                |
-| #salmos_83_17-19 | La meta del juicio es que los adversarios busquen el nombre de יהוה y sepan que él es el Altísimo sobre toda la tierra. | Los vv. 17-19 expresan esa finalidad; la nota conserva la dureza de la súplica y no la convierte en una promesa automática de conversión. |
+| #tehilim_83_1-6   | Eric lee la urgencia desde el triple llamado a que Elohim no calle y desde el plan de borrar el nombre de Israel.       | Los imperativos del v. 2 y la intención del v. 5 aparecen antes de la lista; no se inventa una causa externa al poema.                    |
+| #tehilim_83_7-9   | La enumeración de pueblos muestra una presión conjunta contra el pueblo de יהוה.                                        | El texto presenta una coalición y nombra sus miembros; no resuelve por sí solo toda su cronología histórica.                              |
+| #tehilim_83_10-16 | Eric trae a la memoria Madián y Sísara para leer el clamor presente a la luz de actos judiciales anteriores.            | Los nombres y la petición están en vv. 10-13; la conexión con Jueces es canónica y exacta, no una transcripción del salmo.                |
+| #tehilim_83_17-19 | La meta del juicio es que los adversarios busquen el nombre de יהוה y sepan que él es el Altísimo sobre toda la tierra. | Los vv. 17-19 expresan esa finalidad; la nota conserva la dureza de la súplica y no la convierte en una promesa automática de conversión. |
 
 ## Conclusión
 

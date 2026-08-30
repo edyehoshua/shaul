@@ -111,7 +111,7 @@ Apocalipsis 1 enseña a recibir, guardar y testificar antes de pretender dominar
 ## Ver también
 
 - [[apocalipsis_4_trono_redencion_y_adoracion|Apocalipsis 4: trono, redención y adoración]]
-- [[markos_9_transfiguracion_mesias|Marcos 9: transfiguración del Mesías]]
+- [[marcos_9_transfiguracion_mesias|Marcos 9: transfiguración del Mesías]]
 
 ## Créditos
 

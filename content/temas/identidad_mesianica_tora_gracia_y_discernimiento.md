@@ -17,8 +17,8 @@ references:
   - "#romanos_11_17"
   - "#romanos_11_20"
   - "#romanos_15_5"
-  - "#levitico_19_2"
-  - "#levitico_23_3"
+  - "#vayikra_19_2"
+  - "#vayikra_23_3"
   - "#hebreos_11_1"
 sources:
   - "https://www.youtube.com/watch?v=b4StIF_mR0A"
@@ -44,8 +44,8 @@ Esta nota reorganiza un conversatorio histórico-teológico de Eric de Jesús Ro
 | #hechos_15_19-21  | El concilio no impone una carga mayor y recuerda que Moisés se lee cada Shabbat | La conclusión incluye una secuencia pastoral: apartarse de idolatría, inmoralidad y sangre, y seguir oyendo la instrucción.                       |
 | #romanos_11_17-22 | Pablo advierte a los gentiles injertados que no se jacten contra las ramas      | Sostiene la denuncia de la teología de reemplazo, aunque la historia posterior necesita investigación independiente.                              |
 | #romanos_15_5     | Dios concede paciencia y consolación para vivir en armonía                      | Corrige cualquier identidad que convierta la obediencia en orgullo o tropiezo.                                                                    |
-| #levitico_19_2     | “Sean santos, porque yo, יהוה, soy santo”                                       | La santidad se evalúa por el mandato bíblico, no por el catálogo de una denominación.                                                             |
-| #levitico_23_3     | Shabbat como convocación santa                                                  | La clase usa el texto para cuestionar reducir el día a asistir a una reunión; la extensión exacta de las obligaciones debe tratarse con contexto. |
+| #vayikra_19_2     | “Sean santos, porque yo, יהוה, soy santo”                                       | La santidad se evalúa por el mandato bíblico, no por el catálogo de una denominación.                                                             |
+| #vayikra_23_3     | Shabbat como convocación santa                                                  | La clase usa el texto para cuestionar reducir el día a asistir a una reunión; la extensión exacta de las obligaciones debe tratarse con contexto. |
 
 ## Léxico clave
 

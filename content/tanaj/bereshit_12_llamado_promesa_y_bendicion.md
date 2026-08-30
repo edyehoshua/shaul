@@ -9,9 +9,9 @@ tags:
   - "promesa"
   - "bendicion"
 references:
-  - "#genesis_12_1"
-  - "#genesis_12_2-3"
-  - "#genesis_12_7"
+  - "#bereshit_12_1"
+  - "#bereshit_12_2-3"
+  - "#bereshit_12_7"
 sources:
   - "https://www.youtube.com/watch?v=FK5RxbplFK0"
   - "docs/scriptures/oe/json/genesis/12.json"
@@ -33,17 +33,17 @@ Esta es la nota canónica de Bereshit 12 y organiza la clase sobre Lej-lejá en 
 
 | Referencia         | Texto local (hebreo)                                                                                                     | Observación                                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #genesis_12_1     | ויאמר יהוה אל אברם לך לך מארצך וממולדתך ומבית אביך אל הארץ אשר אראך                                                      | יהוה llama a Abram a dejar tierra, parentesco y casa paterna para ir a una tierra todavía descrita como la que él mostrará.                        |
-| #genesis_12_2-3   | ואעשך לגוי גדול ואברכך ואגדלה שמך והיה ברכה. ואברכה מברכיך ומקללך אאר ונברכו בך כל משפחת האדמה                           | La promesa alcanza a Abram y se extiende a las familias de la tierra.                                                                              |
-| #genesis_12_7     | וירא יהוה אל אברם ויאמר לזרעך את הארץ הזאת ויבן שם מזבח ליהוה הנראה אליו                                                 | «Y apareció יהוה a Abram… a tu simiente daré esta tierra»; Abram responde con un altar.                                                            |
-| #genesis_12_8-9   | ויעתק משם ההרה מקדם לבית אל ויט אהלה בית אל מים והעי מקדם ויבן שם מזבח ליהוה ויקרא בשם יהוה / ויסע אברם הלוך ונסוע הנגבה | El altar y la invocación del Nombre acompañan un desplazamiento continuo; el capítulo no presenta una instalación inmediata.                       |
-| #genesis_12_10-20 | ויהי רעב בארץ וירד אברם מצרימה לגור שם / וינגע יהוה את פרעה נגעים גדלים                                                  | El hambre conduce a Abram a residir en Egipto y la crisis posterior muestra que la promesa no elimina la vulnerabilidad ni la necesidad de juicio. |
+| #bereshit_12_1     | ויאמר יהוה אל אברם לך לך מארצך וממולדתך ומבית אביך אל הארץ אשר אראך                                                      | יהוה llama a Abram a dejar tierra, parentesco y casa paterna para ir a una tierra todavía descrita como la que él mostrará.                        |
+| #bereshit_12_2-3   | ואעשך לגוי גדול ואברכך ואגדלה שמך והיה ברכה. ואברכה מברכיך ומקללך אאר ונברכו בך כל משפחת האדמה                           | La promesa alcanza a Abram y se extiende a las familias de la tierra.                                                                              |
+| #bereshit_12_7     | וירא יהוה אל אברם ויאמר לזרעך את הארץ הזאת ויבן שם מזבח ליהוה הנראה אליו                                                 | «Y apareció יהוה a Abram… a tu simiente daré esta tierra»; Abram responde con un altar.                                                            |
+| #bereshit_12_8-9   | ויעתק משם ההרה מקדם לבית אל ויט אהלה בית אל מים והעי מקדם ויבן שם מזבח ליהוה ויקרא בשם יהוה / ויסע אברם הלוך ונסוע הנגבה | El altar y la invocación del Nombre acompañan un desplazamiento continuo; el capítulo no presenta una instalación inmediata.                       |
+| #bereshit_12_10-20 | ויהי רעב בארץ וירד אברם מצרימה לגור שם / וינגע יהוה את פרעה נגעים גדלים                                                  | El hambre conduce a Abram a residir en Egipto y la crisis posterior muestra que la promesa no elimina la vulnerabilidad ni la necesidad de juicio. |
 
 El TTH confirma el movimiento sin borrar sus tensiones: «Y dijo יהוה a Abram: Ve para ti de tu tierra… hacia la tierra que Yo te mostraré» (12:1); «Y se fue Abram, como le había hablado יהוה» (12:4); y «Y había hambre en la tierra, y descendió Abram a Mitzráim para residir allí» (12:10). En 12:7, «A tu simiente daré esta tierra» mantiene la promesa en el registro de la palabra de יהוה, mientras el altar registra la respuesta de Abram. Estas son citas locales del TTH; no se presentan como traducción propia.
 
 ## Salir hacia la tierra que יהוה mostrará
 
-La orden «לך לך» inicia un camino sin que el verso entregue a Abram un mapa completo. El texto sí identifica lo que deja —tierra, parentesco y casa paterna— y afirma que יהוה le mostrará la tierra. Su respuesta posterior confirma que el llamado no queda en una idea: Abram va como יהוה le había dicho (#genesis_12_4).
+La orden «לך לך» inicia un camino sin que el verso entregue a Abram un mapa completo. El texto sí identifica lo que deja —tierra, parentesco y casa paterna— y afirma que יהוה le mostrará la tierra. Su respuesta posterior confirma que el llamado no queda en una idea: Abram va como יהוה le había dicho (#bereshit_12_4).
 
 La clase se detiene en el futuro de «la tierra que te mostraré» y lo conecta con una expectativa de retorno y descanso. Esa lectura puede dialogar con desarrollos posteriores de la Escritura, pero Bereshit 12 no identifica todavía esa tierra con una realidad celestial ni define el alcance final de la promesa. Conviene no convertir una conexión canónica en el significado único del versículo.
 
@@ -73,13 +73,13 @@ El hambre de 12:10 impide una lectura triunfalista. Abram desciende para residir
 
 | Unidad textual    | Observación atribuible a la enseñanza pública                                                                                               | Tratamiento en esta nota                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #genesis_12_1-3  | El eje de _Lej-lejá_ se presenta como una salida hacia la tierra que יהוה mostrará y como una promesa que mira al retorno y a la bendición. | Apoyo textual con calificación: se conserva la salida, la tierra y las familias bendecidas; la conexión con el retorno queda como lectura canónica pendiente de cotejo. |
-| #genesis_12_4-8  | La respuesta de Abram se reconoce en caminar, levantar altar e invocar el Nombre durante el tránsito.                                       | Apoyo textual y léxico: se recorre la secuencia en orden y se distingue «caminar» como aplicación pedagógica, no como definición exclusiva de obediencia.               |
-| #genesis_12_9-20 | La exposición incorpora el desplazamiento hacia el Néguev y Egipto dentro del mismo camino de la promesa.                                   | Clarificación textual: el hambre, el temor y el reproche de Faraón impiden convertir la peregrinación en una promesa de ausencia de crisis.                             |
+| #bereshit_12_1-3  | El eje de _Lej-lejá_ se presenta como una salida hacia la tierra que יהוה mostrará y como una promesa que mira al retorno y a la bendición. | Apoyo textual con calificación: se conserva la salida, la tierra y las familias bendecidas; la conexión con el retorno queda como lectura canónica pendiente de cotejo. |
+| #bereshit_12_4-8  | La respuesta de Abram se reconoce en caminar, levantar altar e invocar el Nombre durante el tránsito.                                       | Apoyo textual y léxico: se recorre la secuencia en orden y se distingue «caminar» como aplicación pedagógica, no como definición exclusiva de obediencia.               |
+| #bereshit_12_9-20 | La exposición incorpora el desplazamiento hacia el Néguev y Egipto dentro del mismo camino de la promesa.                                   | Clarificación textual: el hambre, el temor y el reproche de Faraón impiden convertir la peregrinación en una promesa de ausencia de crisis.                             |
 
 ## La promesa se oye antes de que el camino sea visible
 
-La orden inicial combina una salida inmediata con una tierra todavía no mostrada. **(ראה)**, _raah_, significa ver, mirar o aparecer según la forma; en **אשר אראך**, _asher arekha_, la forma causativa «te mostraré» deja a יהוה como quien hará visible el destino. «Dios te dará un mapa» es una paráfrasis pedagógica y no una traducción exacta. Eric vincula esta falta de mapa con la confianza: el texto permite la aplicación porque Abram parte «como habló יהוה» (#genesis_12_4), pero no presenta la fe como ausencia de información. Abram conoce la palabra y la dirección general de salida; no controla todavía el desenlace.
+La orden inicial combina una salida inmediata con una tierra todavía no mostrada. **(ראה)**, _raah_, significa ver, mirar o aparecer según la forma; en **אשר אראך**, _asher arekha_, la forma causativa «te mostraré» deja a יהוה como quien hará visible el destino. «Dios te dará un mapa» es una paráfrasis pedagógica y no una traducción exacta. Eric vincula esta falta de mapa con la confianza: el texto permite la aplicación porque Abram parte «como habló יהוה» (#bereshit_12_4), pero no presenta la fe como ausencia de información. Abram conoce la palabra y la dirección general de salida; no controla todavía el desenlace.
 
 La repetición **לך לך**, _lekh lekha_, combina el imperativo de **(הלך)**, _halakh_, ir o caminar, con el pronombre que puede conservar el matiz «para ti». La equivalencia «vete» es funcional, pero pierde la resonancia de una salida que afecta identidad y pertenencia. Eric lee el llamado como dejar una configuración anterior para entrar en la promesa. Esa lectura es pedagógica; el texto especifica tres ámbitos abandonados: tierra, nacimiento y casa del padre. No autoriza a despreciar familia o pueblo en general, porque la narración sigue tratando a Abram como miembro de una historia y una genealogía concretas.
 
@@ -99,15 +99,15 @@ La relación entre promesa y altar debe mantenerse en su orden. Primero יהוה
 
 ## Altar y peregrinación
 
-Abram atraviesa la tierra, recibe la palabra acerca de su descendencia y edifica un altar a יהוה (#genesis_12_5-8). El altar no es un detalle decorativo: señala una respuesta de culto al que se le apareció. A la vez, el capítulo narra desplazamiento, hambre y la bajada a Egipto; no presenta la peregrinación como un camino sin vulnerabilidad ni convierte cada decisión de Abram en modelo sin examen.
+Abram atraviesa la tierra, recibe la palabra acerca de su descendencia y edifica un altar a יהוה (#bereshit_12_5-8). El altar no es un detalle decorativo: señala una respuesta de culto al que se le apareció. A la vez, el capítulo narra desplazamiento, hambre y la bajada a Egipto; no presenta la peregrinación como un camino sin vulnerabilidad ni convierte cada decisión de Abram en modelo sin examen.
 
 ## La palabra recibida bajo presión
 
-La secuencia de 12:4–10 impide separar la obediencia de las condiciones concretas del camino. El OE dice: «Y fue Abram, como habló a él יהוה» (#genesis_12_4), mientras el TTH conserva «y se fue Abram, como le había hablado יהוה». **הלך**, _halakh_, es una forma verbal de ir, caminar o conducirse; aquí su fuerza contextual es la partida efectiva de Abram con su casa, no una metáfora de progreso interior. «Caminar en fe» es una aplicación pedagógica legítima, pero no reemplaza el dato narrativo de que el trayecto incluye estaciones, altar y hambre.
+La secuencia de 12:4–10 impide separar la obediencia de las condiciones concretas del camino. El OE dice: «Y fue Abram, como habló a él יהוה» (#bereshit_12_4), mientras el TTH conserva «y se fue Abram, como le había hablado יהוה». **הלך**, _halakh_, es una forma verbal de ir, caminar o conducirse; aquí su fuerza contextual es la partida efectiva de Abram con su casa, no una metáfora de progreso interior. «Caminar en fe» es una aplicación pedagógica legítima, pero no reemplaza el dato narrativo de que el trayecto incluye estaciones, altar y hambre.
 
 En 12:7 el TTH lee: «A tu simiente daré esta tierra», y el OE mantiene la aparición de יהוה y la construcción del altar. **ראה**, _ra'ah_, significa ver, aparecer o percibir según la forma y el contexto; en **וירא יהוה**, _vayera YHWH_, el sujeto divino se manifiesta a Abram, no es Abram quien produce la visión. **בנה**, _banah_, significa construir o edificar; su fuerza aquí es una respuesta cultual visible. Eric acierta al unir promesa y altar, pero «activar la promesa» sería una equivalencia inexacta: la palabra «daré» precede al altar.
 
-El descenso confirma el límite de una lectura triunfalista. El OE dice: «Y hubo hambre en la tierra, y descendió Abram a Mitzráim para residir allí» (#genesis_12_10); el TTH conserva la misma razón y el mismo movimiento. **גור**, _gur_, significa residir como forastero o peregrinar; aquí presenta una estancia motivada por el hambre, no la pérdida automática de la promesa. **ירד**, _yarad_, significa bajar o descender; su fuerza geográfica describe el movimiento hacia Egipto. La exposición puede llamar a Abram portador de bendición, pero el texto obliga a evaluar su temor por Sarai y muestra que bendición no equivale a ausencia de decisiones ambiguas.
+El descenso confirma el límite de una lectura triunfalista. El OE dice: «Y hubo hambre en la tierra, y descendió Abram a Mitzráim para residir allí» (#bereshit_12_10); el TTH conserva la misma razón y el mismo movimiento. **גור**, _gur_, significa residir como forastero o peregrinar; aquí presenta una estancia motivada por el hambre, no la pérdida automática de la promesa. **ירד**, _yarad_, significa bajar o descender; su fuerza geográfica describe el movimiento hacia Egipto. La exposición puede llamar a Abram portador de bendición, pero el texto obliga a evaluar su temor por Sarai y muestra que bendición no equivale a ausencia de decisiones ambiguas.
 
 Por eso, la promesa de 12:2–3 debe leerse en dos direcciones: יהוה hace grande a Abram y, por medio de él, alcanza a «todas las familias de la tierra» (TTH). **משפחה**, _mishpajah_, normalmente significa familia, clan o grupo de parentesco; en **כל משפחת האדמה**, _kol mishpajot ha-adamah_, amplía el horizonte más allá de la casa de Abram. «Todas las naciones» puede ser una equivalencia canónica aproximada en traducciones posteriores, pero la forma local dice familias de la tierra. Eric preserva correctamente la orientación universal; esta nota mantiene la precisión de la expresión hebrea.
 
@@ -131,7 +131,7 @@ Bereshit 12 sitúa la obediencia de Abram dentro de la iniciativa de יהוה: �
 
 - [[bereshit_1|Bereshit 1: el re'shit y la plenitud de la deidad]]
 - [[tehilim_67_bendicion_naciones_y_justicia|Tehilim 67: bendición, naciones y justicia]]
-- [[yojanan_14_moradas_camino_retorno|Yojanan 14: moradas, camino y retorno]]
+- [[juan_14_moradas_camino_retorno|Yojanan 14: moradas, camino y retorno]]
 
 ## Créditos
 

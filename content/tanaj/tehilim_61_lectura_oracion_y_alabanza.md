@@ -9,18 +9,18 @@ tags:
   - votos
   - mesias
 references:
-  - "#salmos_61_1"
-  - "#salmos_61_2"
-  - "#salmos_61_3"
-  - "#salmos_61_4"
-  - "#salmos_61_5"
-  - "#salmos_61_6"
-  - "#salmos_61_7"
-  - "#salmos_61_8"
-  - "#salmos_61_9"
-  - "#exodo_20_24"
-  - "#numeros_21_8-9"
-  - "#isaias_11_10"
+  - "#tehilim_61_1"
+  - "#tehilim_61_2"
+  - "#tehilim_61_3"
+  - "#tehilim_61_4"
+  - "#tehilim_61_5"
+  - "#tehilim_61_6"
+  - "#tehilim_61_7"
+  - "#tehilim_61_8"
+  - "#tehilim_61_9"
+  - "#shemot_20_24"
+  - "#bamidbar_21_8-9"
+  - "#yeshayahu_11_10"
 sources:
   - "https://www.youtube.com/watch?v=2-74NCu54ek"
   - "docs/scriptures/oe/json/psalms/61.json"
@@ -47,7 +47,7 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 | 61:7-8 | **ימים על ימי מלך תוסיף שנותיו כמו דר ודר**; **ישב עולם לפני אלהים חסד ואמת מן ינצרהו**                         | La oración por el rey se extiende por generaciones, guardada por bondad y verdad.                                        |
 | 61:9   | **כן אזמרה שמך לעד לשלמי נדרי יום יום**                                                                         | La respuesta final es cantar para siempre y cumplir los votos día tras día.                                              |
 
-## 61:1-3: escuchar el clamor desde el extremo de la tierra #salmos_61_1-3
+## 61:1-3: escuchar el clamor desde el extremo de la tierra #tehilim_61_1-3
 
 Eric empieza con la estructura de la serie musical y observa una anomalía formal en **נגינת**, «melodía o ejecución instrumental»: la forma singular no debe forzarse a un estado constructo solo porque termine en _tav_. El sentido normal es una composición acompañada por instrumentos; la explicación gramatical de Eric es una advertencia contra construir doctrinas desde una terminación. La nota conserva el encabezado sin insertar segmentaciones morfológicas.
 
@@ -55,7 +55,7 @@ El cuerpo pide: **שמע אלהים רנתי הקשיבה תפלתי**, «oye, E
 
 La distancia es explícita: **מקצה הארץ אליך אקרא**, «desde el extremo de la tierra clamaré a ti». El corazón está envuelto o abatido: **בעטף לבי**. La salida no es fingir fortaleza, sino pedir **בצור ירום ממני תנחני**, «guíame a una roca más alta que yo». **צור**, _tsur_, significa roca; **רום**, _rum_, elevarse o estar alto. Eric imagina al David histórico lejos de Jerusalén, conducido hacia la altura del templo, y después ve en esa escena un testimonio de la conducción del rey mesiánico. La geografía ilustra el movimiento del verso, pero el texto no dice literalmente «templo».
 
-## 61:4-5: roca, refugio, torre, tienda y alas #salmos_61_4-5
+## 61:4-5: roca, refugio, torre, tienda y alas #tehilim_61_4-5
 
 El salmista no inventa un refugio futuro: confiesa, **כי היית מחסה לי**, «porque tú has sido refugio para mí». **מחסה**, _majsé_, es un refugio o lugar de protección; **מגדל עז**, _migdal oz_, es una torre fuerte. Eric observa que roca, refugio y torre apuntan a una misma realidad de seguridad y los relaciona con el templo visto desde la montaña de Jerusalén. La correspondencia es exacta en el campo semántico de protección; la identificación de las tres imágenes con el templo es la lectura de la clase.
 
@@ -65,7 +65,7 @@ Luego aparece **אגורה באהלך עולמים**, «habitaré en tu tienda p
 
 La conexión con Shemot 20:24 —el lugar donde Elohim hace recordar su Nombre— sirve a Eric para sostener que la distancia de David no cancela la presencia divina. El texto local de Shemot dice: **מזבח אדמה תעשה לי וזבחת עליו את עלתיך ואת שלמיך את צאנך ואת בקרך בכל המקום אשר אזכיר את שמי אבוא אליך וברכתיך**, «altar de tierra me harás... en todo lugar donde haga recordar mi Nombre vendré a ti y te bendeciré». Es una conexión real de presencia y Nombre, pero no convierte cada «alas» de Tehilim 61 en una descripción arquitectónica.
 
-## 61:6: votos escuchados y herencia de los temerosos #salmos_61_6
+## 61:6: votos escuchados y herencia de los temerosos #tehilim_61_6
 
 El verso cambia a la razón de la confianza: **כי אתה אלהים שמעת לנדרי**, «porque tú, Elohim, has escuchado mis votos», y **נתתה ירשת יראי שמך**, «has dado la herencia de los que temen tu Nombre». Eric insiste en que «escuchar» incluye respuesta y aceptación: el voto no es una fórmula para obligar a Elohim, sino una promesa de apartar y dedicar algo que debe producir fruto. La palabra **נדר**, _neder_, significa voto; su fuerza contextual es una obligación prometida que el cierre llama a cumplir.
 
@@ -73,7 +73,7 @@ La clase relaciona los votos con dedicación de una casa, animal o persona segú
 
 **ירשה**, _yerushah_, normalmente herencia o posesión; **יראי שמך**, _yirei shemja_, «los que temen tu Nombre». La relación con una comunidad que recibe herencia es exacta en el verso; la clase añade que, en la era mesiánica, el temor del Nombre debe leerse bajo el Nombre revelado de Yehoshúa. Esa es una afirmación doctrinal de Eric, no una sustitución gramatical del Nombre hebreo del salmo.
 
-## 61:7-8: los días del rey y la lectura mesiánica #salmos_61_7-8
+## 61:7-8: los días del rey y la lectura mesiánica #tehilim_61_7-8
 
 **ימים על ימי מלך תוסיף**, «añade días a los días del rey», y **שנותיו כמו דר ודר**, «sus años como generación y generación». Eric sostiene que la expresión no debe reducirse a una cuenta cuantitativa de veinticinco años por generación. **דור**, _dor_, normalmente generación, puede describir una sucesión o época; aquí la repetición comunica continuidad de reinado. La relación con la eternidad es aproximada: el salmo ora por prolongación generacional, no usa por sí solo la palabra «inmortalidad».
 
@@ -81,7 +81,7 @@ Eric pasa del rey histórico al rey mesiánico y usa el comentario arameo como a
 
 El verso 8 pide: **ישב עולם לפני אלהים**, «que se siente o permanezca para siempre delante de Elohim», y añade **חסד ואמת מן ינצרהו**, «que la bondad y la verdad lo guarden». **חסד**, _jesed_, es lealtad bondadosa o favor pactual; **אמת**, _emet_, verdad, firmeza o fidelidad. Eric enfatiza que la permanencia del rey no depende solo de duración, sino de ser guardado por esos dos atributos. La relación es exacta en el texto; la aplicación al Mesías es cristológica y atribuida.
 
-## 61:9: cantar y cumplir cada día #salmos_61_9
+## 61:9: cantar y cumplir cada día #tehilim_61_9
 
 El cierre responde al clamor: **כן אזמרה שמך לעד**, «así cantaré tu Nombre para siempre», y **לשלמי נדרי יום יום**, «para cumplir mis votos día tras día». **זמר**, _zamar_, cantar o tocar música, une adoración con práctica; **שלם**, _shalam_, completar, pagar o cumplir, impide que el voto quede en intención. Eric vuelve aquí al fruto de una vida apartada: la escucha aceptada se verifica en obediencia repetida, no solamente en emoción musical.
 

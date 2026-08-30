@@ -9,13 +9,13 @@ tags:
   - ruaj-hakodesh
   - hechos
 references:
-  - "#levitico_23_15"
-  - "#levitico_23_16"
-  - "#levitico_23_17"
-  - "#deuteronomio_16_9"
-  - "#deuteronomio_16_11"
-  - "#joel_2_28"
-  - "#joel_2_32"
+  - "#vayikra_23_15"
+  - "#vayikra_23_16"
+  - "#vayikra_23_17"
+  - "#devarim_16_9"
+  - "#devarim_16_11"
+  - "#yoel_2_28"
+  - "#yoel_2_32"
   - "#hechos_2_1"
   - "#hechos_2_4"
   - "#hechos_2_16"
@@ -43,8 +43,8 @@ Este estudio usa una fuente exclusiva de la lane colosenses y no duplica `source
 
 | Unidad                    | Texto local                                                                                                        | Evaluación                                                                                           |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| #levitico_23_15-17       | Se cuentan siete semanas completas, cincuenta días, y se presentan una ofrenda nueva y panes de primicias.         | Base textual para hablar de conteo, cosecha y entrega; no prueba por sí sola cada detalle mesiánico. |
-| #joel_2_28-32             | יהוה promete derramar su Ruaj sobre toda carne; quien invoque su Nombre será librado y queda un remanente llamado. | Marco profético que Pedro aplica; la aplicación debe seguir el discurso de Hechos.                   |
+| #vayikra_23_15-17       | Se cuentan siete semanas completas, cincuenta días, y se presentan una ofrenda nueva y panes de primicias.         | Base textual para hablar de conteo, cosecha y entrega; no prueba por sí sola cada detalle mesiánico. |
+| #yoel_2_28-32             | יהוה promete derramar su Ruaj sobre toda carne; quien invoque su Nombre será librado y queda un remanente llamado. | Marco profético que Pedro aplica; la aplicación debe seguir el discurso de Hechos.                   |
 | #hechos_2_1-4               | Al cumplirse las semanas, todos están reunidos y reciben capacidad de hablar por el Ruaj.                          | Acontecimiento narrado en el día de la fiesta, no una técnica de experiencia religiosa.              |
 | #hechos_2_16-21, #hechos_2_39 | Pedro identifica el acontecimiento con Yoel y extiende la promesa a quienes Elohim llama.                          | Apoyo textual para promesa y llamamiento; no resuelve por sí solo toda escatología.                  |
 
@@ -56,15 +56,15 @@ Este estudio usa una fuente exclusiva de la lane colosenses y no duplica `source
 
 ## Levítico 23: la promesa no comienza sin el conteo
 
-Levítico manda contar desde la presentación del ómer hasta siete semanas completas y cincuenta días (#levitico_23_15-16). **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza es una espera obediente que se desarrolla día tras día. **שָׁבֻעַ**, _shavua_, significa semana o unidad de siete; su relación con la fiesta es directa en el marco del conteo, pero no autoriza a convertir la palabra en una clave automática para toda cronología profética.
+Levítico manda contar desde la presentación del ómer hasta siete semanas completas y cincuenta días (#vayikra_23_15-16). **סָפַר**, _safar_, significa contar, enumerar o relatar; aquí su fuerza es una espera obediente que se desarrolla día tras día. **שָׁבֻעַ**, _shavua_, significa semana o unidad de siete; su relación con la fiesta es directa en el marco del conteo, pero no autoriza a convertir la palabra en una clave automática para toda cronología profética.
 
-La ofrenda nueva incluye dos panes fermentados como primicias (#levitico_23_16-17). **חָמֵץ**, _chamets_, significa fermentado o leudado; en este rito describe los panes presentados y no permite, por sí solo, una alegoría moral sobre el pecado. **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; nombra lo primero de la cosecha ofrecido a יהוה. Las glosas son directas; la conexión entre primicias y resurrección puede ser canónica en otros pasajes, pero es pedagógica si se la presenta como significado exhaustivo de Levítico.
+La ofrenda nueva incluye dos panes fermentados como primicias (#vayikra_23_16-17). **חָמֵץ**, _chamets_, significa fermentado o leudado; en este rito describe los panes presentados y no permite, por sí solo, una alegoría moral sobre el pecado. **בִּכּוּרִים**, _bikkurim_, significa primicias o primeros frutos; nombra lo primero de la cosecha ofrecido a יהוה. Las glosas son directas; la conexión entre primicias y resurrección puede ser canónica en otros pasajes, pero es pedagógica si se la presenta como significado exhaustivo de Levítico.
 
 ## Yoel: derramamiento y llamamiento
 
-Yoel anuncia que יהוה derramará su Ruaj sobre hijos, hijas, siervos y siervas, y que habrá señales antes del día de יהוה (#joel_2_28-31). **שָׁפַךְ**, _shafakh_, significa derramar o verter; la forma expresa una acción abundante de יהוה, no una energía que el ser humano administra. **רוּחַ**, _ruach_, significa viento, aliento o espíritu; en el contexto profético designa el don divino que habilita la palabra profética. La equivalencia con **πνεῦμα**, _pneuma_, «espíritu, viento o aliento», es aproximada y pedagógica: los campos se corresponden, pero las formas no son la misma lengua.
+Yoel anuncia que יהוה derramará su Ruaj sobre hijos, hijas, siervos y siervas, y que habrá señales antes del día de יהוה (#yoel_2_28-31). **שָׁפַךְ**, _shafakh_, significa derramar o verter; la forma expresa una acción abundante de יהוה, no una energía que el ser humano administra. **רוּחַ**, _ruach_, significa viento, aliento o espíritu; en el contexto profético designa el don divino que habilita la palabra profética. La equivalencia con **πνεῦμα**, _pneuma_, «espíritu, viento o aliento», es aproximada y pedagógica: los campos se corresponden, pero las formas no son la misma lengua.
 
-Yoel concluye con la promesa de liberación para quien invoque el Nombre de יהוה y con el remanente «a quien יהוה llame» (#joel_2_32). **קָרָא**, _qara_, significa llamar, proclamar o invocar según su construcción. En una cláusula describe la invocación humana y en la otra el llamamiento atribuido a יהוה; la semejanza verbal no crea una identidad sintáctica. **ἐπικαλέω**, _epikaleō_, significa invocar o apelar; en Hechos 2:21, al citar a Yoel, conserva la acción de invocar. La relación es aproximada y contextual, no una prueba autónoma de una teoría completa de elección.
+Yoel concluye con la promesa de liberación para quien invoque el Nombre de יהוה y con el remanente «a quien יהוה llame» (#yoel_2_32). **קָרָא**, _qara_, significa llamar, proclamar o invocar según su construcción. En una cláusula describe la invocación humana y en la otra el llamamiento atribuido a יהוה; la semejanza verbal no crea una identidad sintáctica. **ἐπικαλέω**, _epikaleō_, significa invocar o apelar; en Hechos 2:21, al citar a Yoel, conserva la acción de invocar. La relación es aproximada y contextual, no una prueba autónoma de una teoría completa de elección.
 
 ## Hechos 2: el cumplimiento interpretado por Pedro
 
@@ -76,7 +76,7 @@ Pedro no deja el acontecimiento sin interpretación. Cita a Yoel y explica que l
 
 El título de la sesión conecta Shavu’ot con Mashíaj y el comienzo de una era mesiánica. El texto local permite evaluar esa conexión en dos niveles. Es textual que Pedro anuncia a Yehoshua resucitado como Señor y Mesías dentro del discurso de Hechos 2, y es textual que interpreta el derramamiento del Ruaj por Yoel. También es canónico relacionar la imagen de primicias con la resurrección en otros escritos apostólicos. Pero no es exacto afirmar que cada detalle de los panes, del conteo o de la cosecha sea una profecía explícita de cada etapa posterior. La correspondencia es temática y pedagógica salvo donde el texto citado hace la conexión.
 
-La promesa tampoco convierte la fiesta en una experiencia individual sin comunidad. Levítico llama a una convocación y Deuteronomio incluye al levita, extranjero, huérfano y viuda (#deuteronomio_16_10-12). **מִקְרָא**, _miqra_, significa convocación o reunión proclamada; su fuerza es una asamblea santa. La glosa «convocación» es directa. La lectura mesiánica de Eric recibe apoyo cualificado cuando mantiene promesa, reunión y testimonio juntos; queda pendiente cualquier cronología escatológica no demostrada por estos pasajes.
+La promesa tampoco convierte la fiesta en una experiencia individual sin comunidad. Levítico llama a una convocación y Deuteronomio incluye al levita, extranjero, huérfano y viuda (#devarim_16_10-12). **מִקְרָא**, _miqra_, significa convocación o reunión proclamada; su fuerza es una asamblea santa. La glosa «convocación» es directa. La lectura mesiánica de Eric recibe apoyo cualificado cuando mantiene promesa, reunión y testimonio juntos; queda pendiente cualquier cronología escatológica no demostrada por estos pasajes.
 
 ## Conclusión
 
@@ -91,7 +91,7 @@ La entrega de la promesa no reemplaza el conteo: lo interpreta y lo lleva hacia 
 ## Ver también
 
 - [[shavuot_convocacion_primicias_y_promesa|Shavu’ot: convocación, primicias y promesa]]
-- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
+- [[vayikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
 
 ## Créditos
 

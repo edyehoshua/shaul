@@ -4,12 +4,12 @@ description: "Estudio de Mishlei 18:1-4 sobre el indisciplinado, el aislamiento,
 date: 2026-08-05
 tags: [mishlei, mishlei_18, deseo, aislamiento, sabiduria, disciplina]
 references:
-  - "#proverbios_18_1"
-  - "#proverbios_18_2"
-  - "#proverbios_18_3"
-  - "#proverbios_18_4"
-  - "#genesis_3_6"
-  - "#genesis_13_10"
+  - "#mishlei_18_1"
+  - "#mishlei_18_2"
+  - "#mishlei_18_3"
+  - "#mishlei_18_4"
+  - "#bereshit_3_6"
+  - "#bereshit_13_10"
   - "#romanos_12_2"
   - "#1_corintios_2_7"
 sources:
@@ -33,10 +33,10 @@ Esta nota organiza la clase pública sobre Mishlei 18:1-4 y sigue el orden de lo
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_18_1 | לתאוה יבקש נפרד בכל תושיה יתגלע | El aislado busca su deseo, en toda obra de sabiduría quedará al descubierto. |
-| #proverbios_18_2 | לא יחפץ כסיל בתבונה כי אם בהתגלות לבו | El indisciplinado no se deleita en el entendimiento, sino en dejar al descubierto su corazón. |
-| #proverbios_18_3 | בבוא רשע בא גם בוז ועם קלון חרפה | Cuando entra el condenado, entra también el desprecio; y con la vergüenza, afrenta. |
-| #proverbios_18_4 | מים עמקים דברי פי איש נחל נבע מקור חכמה | Aguas profundas son las palabras de la boca del hombre, torrente que fluye, fuente de sabiduría. |
+| #mishlei_18_1 | לתאוה יבקש נפרד בכל תושיה יתגלע | El aislado busca su deseo, en toda obra de sabiduría quedará al descubierto. |
+| #mishlei_18_2 | לא יחפץ כסיל בתבונה כי אם בהתגלות לבו | El indisciplinado no se deleita en el entendimiento, sino en dejar al descubierto su corazón. |
+| #mishlei_18_3 | בבוא רשע בא גם בוז ועם קלון חרפה | Cuando entra el condenado, entra también el desprecio; y con la vergüenza, afrenta. |
+| #mishlei_18_4 | מים עמקים דברי פי איש נחל נבע מקור חכמה | Aguas profundas son las palabras de la boca del hombre, torrente que fluye, fuente de sabiduría. |
 
 ## El deseo fabrica aislamiento
 
@@ -82,10 +82,10 @@ La clase relaciona estas aguas con la Torah y con la obra del Ruaj en el corazó
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_18_1 | El _kesil_ busca su deseo aislándose del pueblo; la fe no debe convertirse en individualismo. | Sentido del deseo y aislamiento apoyado; aplicación comunitaria calificada. |
-| #proverbios_18_1-2 | La disciplina descubre el corazón; el rebelde se deleita en mostrar su propia voluntad, no en recibir entendimiento. | Secuencia textual apoyada; diferenciación técnica de _kesil_ y _evil_ pendiente. |
-| #proverbios_18_3 | El malvado trae desprecio, deshonra y afrenta a la comunidad; la clase lo relaciona con el oprobio del exilio. | Consecuencia textual apoyada; extensión escatológica calificada. |
-| #proverbios_18_4 | Las palabras profundas se vuelven torrente y fuente de sabiduría en el hombre. | Metáfora textual apoyada; conexión con Torah, Ruaj y Mishlei 20:5 tratada como lectura teológica. |
+| #mishlei_18_1 | El _kesil_ busca su deseo aislándose del pueblo; la fe no debe convertirse en individualismo. | Sentido del deseo y aislamiento apoyado; aplicación comunitaria calificada. |
+| #mishlei_18_1-2 | La disciplina descubre el corazón; el rebelde se deleita en mostrar su propia voluntad, no en recibir entendimiento. | Secuencia textual apoyada; diferenciación técnica de _kesil_ y _evil_ pendiente. |
+| #mishlei_18_3 | El malvado trae desprecio, deshonra y afrenta a la comunidad; la clase lo relaciona con el oprobio del exilio. | Consecuencia textual apoyada; extensión escatológica calificada. |
+| #mishlei_18_4 | Las palabras profundas se vuelven torrente y fuente de sabiduría en el hombre. | Metáfora textual apoyada; conexión con Torah, Ruaj y Mishlei 20:5 tratada como lectura teológica. |
 
 ## Pendiente de verificar
 

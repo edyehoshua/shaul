@@ -26,7 +26,7 @@ references:
   - "#galatas_4_16"
   - "#galatas_4_17"
   - "#galatas_4_19"
-  - "#jeremias_31_33"
+  - "#yirmeyahu_31_33"
 sources:
   - "https://www.youtube.com/watch?v=mgFEQpvBHvg"
   - "docs/scriptures/delitzsch/json/galatians.json"

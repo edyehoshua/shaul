@@ -10,16 +10,16 @@ tags:
   - templo
   - reparacion
 references:
-  - "#2_reyes_11_1"
-  - "#2_reyes_11_3"
-  - "#2_reyes_11_12"
-  - "#2_reyes_11_17"
-  - "#2_reyes_12_2"
-  - "#2_reyes_12_3"
-  - "#2_reyes_12_5"
-  - "#2_reyes_12_15"
-  - "#2_cronicas_24_7"
-  - "#2_cronicas_24_17"
+  - "#melajim_bet_11_1"
+  - "#melajim_bet_11_3"
+  - "#melajim_bet_11_12"
+  - "#melajim_bet_11_17"
+  - "#melajim_bet_12_2"
+  - "#melajim_bet_12_3"
+  - "#melajim_bet_12_5"
+  - "#melajim_bet_12_15"
+  - "#divrei_hayamim_bet_24_7"
+  - "#divrei_hayamim_bet_24_17"
 sources:
   - "https://www.youtube.com/watch?v=w-93HjMCAZA"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -41,11 +41,11 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local | Función en el estudio |
 | --- | --- | --- |
-| #2_reyes_11_1-3 | «Y Ataliáh, madre de Ajazyáhu, vio que había muerto su hijo, y se levantó e hizo perecer a toda la simiente del reino»; Yehoásh fue escondido seis años en la casa de יהוה. | La usurpación es real, pero no logra borrar al heredero. |
-| #2_reyes_11_12, 17 | «Puso sobre él la corona y el testimonio; y lo hicieron rey»; Yehoiada hizo un pacto entre יהוה, el rey y el pueblo. | La restauración tiene proclamación, testimonio y compromiso comunitario. |
-| #2_reyes_12_2-3 | «E hizo Yehoásh lo recto en los ojos de יהוה todos sus días que le instruyó Yehoiada»; los lugares altos permanecían. | La instrucción es decisiva, pero el relato registra una reforma incompleta. |
-| #2_reyes_12_5-12, 15 | El dinero debía reforzar las grietas de la casa; finalmente se entregaba a los obreros, «porque con fidelidad ellos hacían». | El servicio espiritual incluye administración y trabajo fiel. |
-| #2_cronicas_24_7, 17-19 | «Ataliáh la malvada» había quebrado la casa de Elohim; después de la muerte de Yehoiada los príncipes abandonaron la casa de יהוה. | Crónicas amplía la dimensión idolátrica y muestra que la reforma dependía de una fidelidad que debía continuar. |
+| #melajim_bet_11_1-3 | «Y Ataliáh, madre de Ajazyáhu, vio que había muerto su hijo, y se levantó e hizo perecer a toda la simiente del reino»; Yehoásh fue escondido seis años en la casa de יהוה. | La usurpación es real, pero no logra borrar al heredero. |
+| #melajim_bet_11_12, 17 | «Puso sobre él la corona y el testimonio; y lo hicieron rey»; Yehoiada hizo un pacto entre יהוה, el rey y el pueblo. | La restauración tiene proclamación, testimonio y compromiso comunitario. |
+| #melajim_bet_12_2-3 | «E hizo Yehoásh lo recto en los ojos de יהוה todos sus días que le instruyó Yehoiada»; los lugares altos permanecían. | La instrucción es decisiva, pero el relato registra una reforma incompleta. |
+| #melajim_bet_12_5-12, 15 | El dinero debía reforzar las grietas de la casa; finalmente se entregaba a los obreros, «porque con fidelidad ellos hacían». | El servicio espiritual incluye administración y trabajo fiel. |
+| #divrei_hayamim_bet_24_7, 17-19 | «Ataliáh la malvada» había quebrado la casa de Elohim; después de la muerte de Yehoiada los príncipes abandonaron la casa de יהוה. | Crónicas amplía la dimensión idolátrica y muestra que la reforma dependía de una fidelidad que debía continuar. |
 
 ## Una casa usurpada, pero no abandonada
 
@@ -78,11 +78,11 @@ Esta observación corrige dos reducciones. La casa de יהוה no es sólo una m
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2_reyes_11 | Ataliáh usurpa el trono, pero Yehoásh es preservado en la casa de יהוה. | Apoyo textual; la aplicación generacional queda cualificada. |
-| #2_reyes_11_17 | Yehoiada hace pacto entre יהוה, el rey y el pueblo. | Apoyo textual; se explica la restauración como responsabilidad pública. |
-| #2_reyes_12_2-3 | Yehoásh anda rectamente mientras Yehoiada lo instruye, pero quedan lugares altos. | Apoyo textual; se marca la reforma incompleta. |
-| #2_reyes_12_5-15 | La casa se repara mediante administración transparente y obreros fieles. | Apoyo textual y aplicación comunitaria prudente. |
-| #2_cronicas_24 | Tras la muerte de Yehoiada, la casa abandona a יהוה. | Ampliación local; muestra el límite de una obediencia dependiente. |
+| #melajim_bet_11 | Ataliáh usurpa el trono, pero Yehoásh es preservado en la casa de יהוה. | Apoyo textual; la aplicación generacional queda cualificada. |
+| #melajim_bet_11_17 | Yehoiada hace pacto entre יהוה, el rey y el pueblo. | Apoyo textual; se explica la restauración como responsabilidad pública. |
+| #melajim_bet_12_2-3 | Yehoásh anda rectamente mientras Yehoiada lo instruye, pero quedan lugares altos. | Apoyo textual; se marca la reforma incompleta. |
+| #melajim_bet_12_5-15 | La casa se repara mediante administración transparente y obreros fieles. | Apoyo textual y aplicación comunitaria prudente. |
+| #divrei_hayamim_bet_24 | Tras la muerte de Yehoiada, la casa abandona a יהוה. | Ampliación local; muestra el límite de una obediencia dependiente. |
 
 ## Pendiente de verificar
 

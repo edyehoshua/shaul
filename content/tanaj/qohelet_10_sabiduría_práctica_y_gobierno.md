@@ -6,9 +6,9 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#eclesiastes_10_1"
-  - "#eclesiastes_10_12-13"
-  - "#eclesiastes_10_20"
+  - "#qohelet_10_1"
+  - "#qohelet_10_12-13"
+  - "#qohelet_10_20"
 sources:
   - "https://www.youtube.com/watch?v=6HgU6a_cf7E"
   - "https://www.youtube.com/watch?v=UMnek0zzbZU"
@@ -37,9 +37,9 @@ Qohélet 10 considera máximas sobre necedad, respuesta ante la autoridad, traba
 
 | Referencia             | Texto local (OE, sin nikud)                                                                                       | Observación                                                            |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| #eclesiastes_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מחכמה מכבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
-| #eclesiastes_10_12-13 | **דברי פי חכם חן ושפתות כסיל תבלענו; תחלת דברי פיהו סכלות ואחרית פיהו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
-| #eclesiastes_10_20    | **גם במדעך מלך אל תקלל ובחדרי משכבך אל תקלל עשיר כי עוף השמים יוליך את הקול ובעל הכנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
+| #qohelet_10_1     | **זבובי מות יבאיש יביע שמן רוקח יקר מחכמה מכבוד סכלות מעט**                                                     | Texto local OE; ancla la lectura de la sesión.                         |
+| #qohelet_10_12-13 | **דברי פי חכם חן ושפתות כסיל תבלענו; תחלת דברי פיהו סכלות ואחרית פיהו הוללות רעה**                           | El contraste entre la boca sabia y la necia orienta la sesión añadida. |
+| #qohelet_10_20    | **גם במדעך מלך אל תקלל ובחדרי משכבך אל תקלל עשיר כי עוף השמים יוליך את הקול ובעל הכנפים כנפים יגיד דבר** | Texto local OE; ancla la lectura de la sesión.                         |
 
 ## Lectura del capítulo
 

@@ -7,14 +7,14 @@ tags:
   - devarim_23
   - pureza
 references:
-  - "#deuteronomio_23_1"
-  - "#deuteronomio_23_2"
-  - "#deuteronomio_23_3"
-  - "#deuteronomio_23_9"
-  - "#deuteronomio_23_14"
-  - "#deuteronomio_23_19"
-  - "#deuteronomio_23_21"
-  - "#nehemias_7_63"
+  - "#devarim_23_1"
+  - "#devarim_23_2"
+  - "#devarim_23_3"
+  - "#devarim_23_9"
+  - "#devarim_23_14"
+  - "#devarim_23_19"
+  - "#devarim_23_21"
+  - "#nejemiah_7_63"
 sources: []
 ---
 
@@ -24,20 +24,20 @@ Devarim 23 se lee aquí como una instrucción sobre quién puede representar la 
 
 ## Texto base
 
-- #deuteronomio_23_1
-- #deuteronomio_23_2
-- #deuteronomio_23_3
-- #deuteronomio_23_9
-- #deuteronomio_23_14
-- #deuteronomio_23_19
-- #deuteronomio_23_21
+- #devarim_23_1
+- #devarim_23_2
+- #devarim_23_3
+- #devarim_23_9
+- #devarim_23_14
+- #devarim_23_19
+- #devarim_23_21
 
 ## Kahal y representación sacerdotal
 
 - La nota entiende la kahal de יהוה en este contexto como un lenguaje de representación sacerdotal.
 - El sacerdocio debe ejecutarse por quienes representen la perfección de Adonai.
 - La exclusión de ciertos casos no se lee como capricho o rencor, sino como antecedente judicial dentro de la santidad del pueblo.
-- Mamzer se resume como fruto de relación prohibida, y la nota lo vincula con #nehemias_7_63.
+- Mamzer se resume como fruto de relación prohibida, y la nota lo vincula con #nejemiah_7_63.
 
 ## Moab, bendición y amor
 

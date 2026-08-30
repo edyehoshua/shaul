@@ -9,23 +9,23 @@ tags:
   - oracion
   - refugio
 references:
-  - "#salmos_34_1"
-  - "#salmos_34_4"
-  - "#salmos_34_5"
-  - "#salmos_34_6"
-  - "#salmos_34_7"
-  - "#salmos_34_8"
-  - "#salmos_34_10"
-  - "#salmos_34_11"
-  - "#salmos_34_12"
-  - "#salmos_34_14"
-  - "#salmos_34_15"
-  - "#salmos_34_18"
-  - "#salmos_34_19"
-  - "#salmos_34_20"
-  - "#salmos_34_21"
-  - "#salmos_34_22"
-  - "#salmos_34_23"
+  - "#tehilim_34_1"
+  - "#tehilim_34_4"
+  - "#tehilim_34_5"
+  - "#tehilim_34_6"
+  - "#tehilim_34_7"
+  - "#tehilim_34_8"
+  - "#tehilim_34_10"
+  - "#tehilim_34_11"
+  - "#tehilim_34_12"
+  - "#tehilim_34_14"
+  - "#tehilim_34_15"
+  - "#tehilim_34_18"
+  - "#tehilim_34_19"
+  - "#tehilim_34_20"
+  - "#tehilim_34_21"
+  - "#tehilim_34_22"
+  - "#tehilim_34_23"
 sources:
   - "https://www.youtube.com/watch?v=f0eWr7mvVQ0"
   - "docs/scriptures/oe/json/psalms/34.json"
@@ -46,17 +46,17 @@ El salmo es acróstico en su cuerpo poético y lleva un encabezado histórico. S
 
 | Unidad         | Texto hebreo local (OE, sin segmentación)    | Función en la lectura                                                    |
 | -------------- | -------------------------------------------- | ------------------------------------------------------------------------ |
-| #salmos_34_1  | לדוד בשנותו את טעמו לפני אבימלך ויגרשהו וילך | El encabezado sitúa el salmo en la huida de David ante Abimélec.         |
-| #salmos_34_4  | גדלו ליהוה אתי ונרוממה שמו יחדו              | La experiencia individual se vuelve invitación comunitaria.              |
-| #salmos_34_5  | דרשתי את יהוה וענני ומכל מגורותי הצילני      | Buscar y ser respondido se expresa como liberación de temores.           |
-| #salmos_34_6  | הביטו אליו ונהרו ופניהם אל יחפרו             | Mirar hacia יהוה produce “iluminación” y ausencia de vergüenza.          |
-| #salmos_34_7  | זה עני קרא ויהוה שמע ומכל צרותיו הושיעו      | El pobre que clama recibe escucha y salvación.                           |
-| #salmos_34_8  | חנה מלאך יהוה סביב ליראיו ויחלצם             | El mensajero de יהוה acampa alrededor de los que le temen y los libra.   |
-| #salmos_34_12 | לכו בנים שמעו לי יראת יהוה אלמדכם            | El salmista pasa al tono de maestro que instruye a los hijos.            |
-| #salmos_34_14 | נצר לשונך מרע ושפתיך מדבר מרמה               | Temer a יהוה toma forma de disciplina del habla.                         |
-| #salmos_34_15 | סור מרע ועשה טוב בקש שלום ורדפהו             | La vida fiel incluye apartarse, hacer, buscar y perseguir shalom.        |
-| #salmos_34_19 | קרוב יהוה לנשברי לב ואת דכאי רוח יושיע       | La cercanía divina se declara para los quebrantados.                     |
-| #salmos_34_23 | פודה יהוה נפש עבדיו ולא יאשמו כל החסים בו    | El cierre promete rescate de la vida de los siervos y refugio sin culpa. |
+| #tehilim_34_1  | לדוד בשנותו את טעמו לפני אבימלך ויגרשהו וילך | El encabezado sitúa el salmo en la huida de David ante Abimélec.         |
+| #tehilim_34_4  | גדלו ליהוה אתי ונרוממה שמו יחדו              | La experiencia individual se vuelve invitación comunitaria.              |
+| #tehilim_34_5  | דרשתי את יהוה וענני ומכל מגורותי הצילני      | Buscar y ser respondido se expresa como liberación de temores.           |
+| #tehilim_34_6  | הביטו אליו ונהרו ופניהם אל יחפרו             | Mirar hacia יהוה produce “iluminación” y ausencia de vergüenza.          |
+| #tehilim_34_7  | זה עני קרא ויהוה שמע ומכל צרותיו הושיעו      | El pobre que clama recibe escucha y salvación.                           |
+| #tehilim_34_8  | חנה מלאך יהוה סביב ליראיו ויחלצם             | El mensajero de יהוה acampa alrededor de los que le temen y los libra.   |
+| #tehilim_34_12 | לכו בנים שמעו לי יראת יהוה אלמדכם            | El salmista pasa al tono de maestro que instruye a los hijos.            |
+| #tehilim_34_14 | נצר לשונך מרע ושפתיך מדבר מרמה               | Temer a יהוה toma forma de disciplina del habla.                         |
+| #tehilim_34_15 | סור מרע ועשה טוב בקש שלום ורדפהו             | La vida fiel incluye apartarse, hacer, buscar y perseguir shalom.        |
+| #tehilim_34_19 | קרוב יהוה לנשברי לב ואת דכאי רוח יושיע       | La cercanía divina se declara para los quebrantados.                     |
+| #tehilim_34_23 | פודה יהוה נפש עבדיו ולא יאשמו כל החסים בו    | El cierre promete rescate de la vida de los siervos y refugio sin culpa. |
 
 ## Léxico clave
 
@@ -71,7 +71,7 @@ El salmo es acróstico en su cuerpo poético y lleva un encabezado histórico. S
 | **(מרמה)**             | mirmah          | engaño, falsedad, fraude                                         | En v. 14 califica los labios que deben ser guardados. La distinción de Eric entre franqueza y engaño conserva el contraste textual; no convierte toda franqueza en virtud automática.                                                                                                                                  |
 | **(טוב)** y **(שלום)** | tov y shalom    | bueno, bienestar; integridad, paz                                | En vv. 11 y 15 “bien” no equivale a riqueza y shalom implica más que ausencia de conflicto. Son aproximaciones contextuales que el desarrollo ético del salmo confirma.                                                                                                                                                |
 
-## 34:1-7 — Del “sabor” cambiado al testimonio de la liberación #salmos_34_1-7
+## 34:1-7 — Del “sabor” cambiado al testimonio de la liberación #tehilim_34_1-7
 
 El encabezado recuerda que David cambió su טעם delante de Abimélec y fue expulsado. Eric relaciona ese “sabor” con 1 Samuel 21:10-15, donde el rey se llama Aquis y David finge locura. La identificación del título Abimélec con una fórmula regia filistea es una observación histórica y lingüística que requiere verificación aparte; el enlace narrativo con 1 Samuel sí es explícito en la tradición del encabezado y en la clase.
 
@@ -81,7 +81,7 @@ En vv. 2-4 la voz pasa de “yo” a “conmigo”: “גדלו ליהוה את�
 
 El v. 6 dice que quienes miran hacia יהוה “נהרו”, una forma que puede evocar iluminarse o irradiar, y que sus rostros no serán avergonzados. Eric conecta esa mirada con Hebreos 12:2 y con la idea de argumentos no socavados. El salmo sí afirma la transformación de rostro y ausencia de vergüenza; la extensión a una defensa intelectual frente a opositores es una aplicación intertextual, no el sentido necesario de נהרו.
 
-## 34:8-11 — Mensajero, gusto y provisión sin promesa de lujo #salmos_34_8-11
+## 34:8-11 — Mensajero, gusto y provisión sin promesa de lujo #tehilim_34_8-11
 
 El v. 8 presenta al מלאך יהוה acampando alrededor de los que le temen y librándolos. Eric pide no leer automáticamente “el ángel de Adonay” como si el artículo castellano identificara un individuo divino especial. La observación lingüística es importante: מלאך significa enviado o mensajero y el sustantivo no resuelve por sí solo su identidad ontológica. El texto asegura protección y avance de los temerosos; no identifica al mensajero con Yehoshua ni desarrolla aquí una doctrina de apariciones.
 
@@ -89,13 +89,13 @@ El v. 8 presenta al מלאך יהוה acampando alrededor de los que le temen y 
 
 Los vv. 10-11 corrigen una lectura materialista: no hay carencia para quienes temen a יהוה, y los que le buscan no carecerán de “ningún bien”. Eric insiste en que טוב no promete automóvil, lujo ni abundancia ilimitada; habla de sustento, abrigo, gozo, obediencia y lo necesario según el propósito divino. El texto apoya el contraste con los leoncillos que pasan hambre, pero no fija por sí solo una lista de bienes espirituales. La cautela no borra la enseñanza: la provisión del salmo no es una garantía de comodidad comparativa.
 
-## 34:12-17 — El temor aprendido en lengua, labios y búsqueda #salmos_34_12-17
+## 34:12-17 — El temor aprendido en lengua, labios y búsqueda #tehilim_34_12-17
 
 Con “לכו בנים שמעו לי” (v. 12), el sobreviviente se vuelve maestro. Eric explica ירא como temor reverente que debe aprenderse hasta incorporarse a la vida, y conecta el pasaje con 1 Pedro 3:10-12, que cita la misma secuencia sobre lengua, mal, bien y paz. La conexión con 1 Pedro es explícita en la exposición y el paralelo verbal es fuerte; no significa que Tehilim 34 pierda su contexto israelita.
 
 Los vv. 13-14 concretan el temor: guardar la lengua del mal y los labios del engaño. Eric hace una distinción práctica entre hablar con franqueza y destruir a otro: la clase no usa “verdad” como permiso para causar daño. En los vv. 14-15, רע puede referirse a mal o daño, y מרמה a engaño. “Apartarse del mal, hacer bien, buscar paz y perseguirla” muestra que el temor no es emoción privada. Eric conecta שלום con quedar sin cuentas pendientes, reconciliación y responsabilidad en la comunidad. “Paz” es una traducción aproximada: el campo de shalom incluye integridad y relaciones reparadas, pero la aplicación a cada procedimiento comunitario debe seguir siendo cualificada. El v. 15 añade que los ojos y oídos de יהוה están hacia quienes hacen el bien; el v. 16 contrapone su rostro contra quienes hacen el mal. El contraste es textual y ético, no una autorización para clasificar a personas con ligereza.
 
-## 34:18-23 — Quebranto, disciplina y rescate final #salmos_34_18-23
+## 34:18-23 — Quebranto, disciplina y rescate final #tehilim_34_18-23
 
 El salmo vuelve al clamor: יהוה escucha y libra (v. 18), está cerca del corazón quebrantado y salva al abatido (v. 19), y rescata al justo de muchas aflicciones (v. 20). Eric aplica esta promesa a quienes se sienten quebrados y pide que la palabra llegue como consuelo. La aplicación pastoral está claramente motivada por el versículo, pero “de todas” no debe prometer que ningún creyente sufrirá; el propio v. 20 comienza diciendo que las aflicciones son muchas.
 
@@ -126,7 +126,7 @@ Tehilim 34 no deja la liberación en una anécdota privada. El sabor cambiado de
 
 - [[tehilim_33_lectura_oracion_y_alabanza|Tehilim 33: creación, palabra y confianza]]
 - [[tehilim_56_gracia_temor_y_confianza|Tehilim 56: gracia, temor y confianza]]
-- [[yojanan_19_muerte_sepultura_y_testimonio|Yojanán 19: muerte, sepultura y testimonio]]
+- [[juan_19_muerte_sepultura_y_testimonio|Yojanán 19: muerte, sepultura y testimonio]]
 
 ## Créditos
 

@@ -6,24 +6,24 @@ tags:
   - nombre
   - mesias
   - salvacion
-  - ivrim
+  - hebreos
   - sacerdocio
   - tetragrammaton
 references:
-  - "#numeros_22_1"
-  - "#numeros_25_1"
+  - "#bamidbar_22_1"
+  - "#bamidbar_25_1"
   - "#marcos_1_24"
   - "#marcos_1_25"
   - "#marcos_1_26"
   - "#marcos_1_27"
-  - "#exodo_3_13"
-  - "#exodo_3_14"
-  - "#exodo_3_15"
-  - "#salmos_22_23"
-  - "#isaias_33_21"
-  - "#isaias_33_22"
+  - "#shemot_3_13"
+  - "#shemot_3_14"
+  - "#shemot_3_15"
+  - "#tehilim_22_23"
+  - "#yeshayahu_33_21"
+  - "#yeshayahu_33_22"
   - "#juan_8_58"
-  - "#salmos_110_4"
+  - "#tehilim_110_4"
   - "#hebreos_2_12"
   - "#hebreos_2_14"
   - "#hebreos_7_11"
@@ -60,14 +60,14 @@ Por eso Markos 1 importa. El evangelio no inicia la manifestación pública del 
 | --- | --- | --- |
 | #marcos_1_24 | אהה מהלנו ולך ישוע הנצרי להאבידנו באת ידעתיך מי אתה קדוש האלהים | El espíritu inmundo pregunta si Yeshúa vino a destruirlos; Markos presenta autoridad sobre fuerzas impuras. |
 | #marcos_1_27 | ויבהלו כלם... אשר אףלרוחות הטמאה מצוה הוא בגבורה והנה שמעות לו | La autoridad del Mesías no es solo enseñanza; aun los espíritus inmundos obedecen. |
-| #exodo_3_14 | ויאמר אלהים אל משה אהיה אשר אהיה... אהיה שלחני אליכם | El Nombre revelado a Moshéh se explica desde אהיה: presencia futura y fidelidad de Elohim con su pueblo. |
-| #exodo_3_15 | ...יהוה אלהי אבתיכם... זה שמי לעלם וזה זכרי לדר דר | יהוה queda como Nombre memorial de generación en generación. |
-| #salmos_22_23 | אספרה שמך לאחי בתוך קהל אהללך | Ivrim aplica este verso al Mesías: él declara el Nombre a sus hermanos. |
+| #shemot_3_14 | ויאמר אלהים אל משה אהיה אשר אהיה... אהיה שלחני אליכם | El Nombre revelado a Moshéh se explica desde אהיה: presencia futura y fidelidad de Elohim con su pueblo. |
+| #shemot_3_15 | ...יהוה אלהי אבתיכם... זה שמי לעלם וזה זכרי לדר דר | יהוה queda como Nombre memorial de generación en generación. |
+| #tehilim_22_23 | אספרה שמך לאחי בתוך קהל אהללך | Ivrim aplica este verso al Mesías: él declara el Nombre a sus hermanos. |
 | #hebreos_2_12 | לאמר אספרה שמך לאחי בתוך קהל אהלל | Delitzsch conserva la cita de Tehilim 22 en la carta a los Ivrim. |
 | #hebreos_2_14 | ...למען אשר יבטל עלידי המות את אשרלו ממשלת המות הוא השטן | El objetivo de la encarnación y muerte: anular al que tenía el dominio de la muerte. |
-| #isaias_33_22 | כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | La clase insiste: יהוה mismo salva; si el Mesías salva, no puede ser reducido a criatura. |
+| #yeshayahu_33_22 | כי יהוה שפטנו יהוה מחקקנו יהוה מלכנו הוא יושיענו | La clase insiste: יהוה mismo salva; si el Mesías salva, no puede ser reducido a criatura. |
 | #juan_8_58 | ...אני הייתי עוד עד לאהיה אברהם | La preexistencia del Mesías se conecta con la revelación del Nombre y con su superioridad a los patriarcas. |
-| #salmos_110_4 | נשבע יהוה ולא ינחם אתה כהן לעולם על דברתי מלכי צדק | Base del sacerdocio eterno según Malqui Tzédek. |
+| #tehilim_110_4 | נשבע יהוה ולא ינחם אתה כהן לעולם על דברתי מלכי צדק | Base del sacerdocio eterno según Malqui Tzédek. |
 | #hebreos_7_16 | ...עלפי כח חיים שאין להם הפסק | El sacerdocio del Mesías no depende de descendencia carnal, sino de vida indestructible. |
 | #hebreos_7_25 | ...יוכל להושיע בכל וכל אתהנגשים עלידו לאלהים כי חיהוא תמיד להפגיע בעדם | El Mesías salva perpetuamente porque vive para interceder. |
 
@@ -100,13 +100,13 @@ Esto prepara #hebreos_2_14. La destrucción principal no se limita a expulsar de
 
 En Shemot 3, Moshéh pregunta qué debe responder si Israel pregunta por el Nombre del Elohim que lo envió. La clase enfatiza que אהיה está en forma futura: "seré / estaré". La idea no es una abstracción filosófica, sino fidelidad: Elohim estará con su pueblo y no lo abandonará.
 
-Después, #exodo_3_15 sintetiza el memorial en יהוה. La clase evita afirmar una pronunciación segura del Tetragrammaton. El punto doctrinal no depende de decir "Yahvé", "Jehová" u otra reconstrucción; depende de reconocer el Nombre que יהוה reveló y el modo en que lo manifestó para salvar.
+Después, #shemot_3_15 sintetiza el memorial en יהוה. La clase evita afirmar una pronunciación segura del Tetragrammaton. El punto doctrinal no depende de decir "Yahvé", "Jehová" u otra reconstrucción; depende de reconocer el Nombre que יהוה reveló y el modo en que lo manifestó para salvar.
 
 ## El Mesías declara el Nombre
 
-#salmos_22_23 dice: "contaré tu Nombre a mis hermanos". Ivrim 2 aplica esta línea al Mesías. La clase lee esto como parte de su obra: Yeshúa viene a declarar el Nombre, no meramente a pronunciar cuatro consonantes, sino a revelar la presencia salvadora de יהוה en medio de sus hermanos.
+#tehilim_22_23 dice: "contaré tu Nombre a mis hermanos". Ivrim 2 aplica esta línea al Mesías. La clase lee esto como parte de su obra: Yeshúa viene a declarar el Nombre, no meramente a pronunciar cuatro consonantes, sino a revelar la presencia salvadora de יהוה en medio de sus hermanos.
 
-Por eso el Nombre de Yeshúa se vuelve central. La enseñanza conecta Yeshúa con salvación y con el Nombre revelado. Esa relación debe manejarse con cuidado: la base bíblica fuerte es que יהוה salva (#isaias_33_22) y que el Mesías salva por su muerte e intercesión (#hebreos_2_14, #hebreos_7_25). Las explicaciones sobre composición exacta del Nombre requieren cotejo lexical aparte.
+Por eso el Nombre de Yeshúa se vuelve central. La enseñanza conecta Yeshúa con salvación y con el Nombre revelado. Esa relación debe manejarse con cuidado: la base bíblica fuerte es que יהוה salva (#yeshayahu_33_22) y que el Mesías salva por su muerte e intercesión (#hebreos_2_14, #hebreos_7_25). Las explicaciones sobre composición exacta del Nombre requieren cotejo lexical aparte.
 
 ## יהוה mismo salvará
 
@@ -123,14 +123,14 @@ El sacerdocio de Yeshúa no se apoya en genealogía arónica, sino en "vida inde
 ## Conexiones principales
 
 - #marcos_1_24 con #hebreos_2_14: el Mesías viene a destruir la obra de muerte y lo impuro.
-- #exodo_3_14-15 con #salmos_22_23 y #hebreos_2_12: el Nombre revelado a Moshéh es declarado por el Mesías a sus hermanos.
-- #isaias_33_22 con #hebreos_7_25: יהוה salva, y el Mesías salva perpetuamente.
-- #salmos_110_4 con #hebreos_7_16-17: el sacerdocio eterno se entiende por vida indestructible, no por descendencia levítica.
+- #shemot_3_14-15 con #tehilim_22_23 y #hebreos_2_12: el Nombre revelado a Moshéh es declarado por el Mesías a sus hermanos.
+- #yeshayahu_33_22 con #hebreos_7_25: יהוה salva, y el Mesías salva perpetuamente.
+- #tehilim_110_4 con #hebreos_7_16-17: el sacerdocio eterno se entiende por vida indestructible, no por descendencia levítica.
 - #hebreos_7_11-12 con #hebreos_7_28: el cambio sacerdotal apunta al Hijo perfeccionado para siempre.
 
 ## Pendiente de verificar
 
-- [ ] Cotejar con gramáticas hebreas el alcance de אהיה en #exodo_3_14 y la mejor forma española: "seré", "estaré", o una fórmula más amplia.
+- [ ] Cotejar con gramáticas hebreas el alcance de אהיה en #shemot_3_14 y la mejor forma española: "seré", "estaré", o una fórmula más amplia.
 - [ ] Verificar las referencias precisas a Rashi y Ramban sobre אהיה אשר אהיה, si se quieren citar en una versión ampliada.
 - [ ] Revisar con fuentes léxicas la explicación de Yeshúa como Nombre que incorpora letras del Tetragrammaton y sufijo de salvación.
 - [ ] Cotejar la historia de la pérdida de pronunciación del Tetragrammaton y las fechas asociadas a transmisión sacerdotal.
@@ -145,5 +145,5 @@ La clase presenta una línea unificada: el enemigo busca muerte mediante pecado;
 
 - [Ben, Adam y el Hijo dado al Mesías](./ben_hijo_titulos_mesias)
 - [Elohim y Abba](./elohim_aba)
-- [Yojanán 10: vida indestructible y mandamiento de Abba](../besorah/yojanan_10_17_28_vida_indestructible)
-- [Yojanán 14: Abba, el Nombre y el Menajem](../besorah/yojanan_14_abba_menajem_nombre)
+- [Yojanán 10: vida indestructible y mandamiento de Abba](../besorah/juan_10_17_28_vida_indestructible)
+- [Yojanán 14: Abba, el Nombre y el Menajem](../besorah/juan_14_abba_menajem_nombre)

@@ -1,18 +1,18 @@
 ---
 title: "Vayerá: aparición, prueba y justicia"
-description: "Génesis 18–22 recorre la visita a Abraham, el juicio de Sedom y la prueba de la obediencia sin separar promesa, justicia y misericordia."
+description: "Bereshit 18–22 recorre la visita a Abraham, el juicio de Sedom y la prueba de la obediencia sin separar promesa, justicia y misericordia."
 date: 2026-07-28
 tags: [tanaj, bereshit, vayera, abraham, justicia, emunah]
 references:
   [
-    "#genesis_18_1",
-    "#genesis_18_14",
-    "#genesis_18_19",
-    "#genesis_18_22",
-    "#genesis_19_19",
-    "#genesis_22_1",
-    "#genesis_22_14",
-    "#genesis_22_18",
+    "#bereshit_18_1",
+    "#bereshit_18_14",
+    "#bereshit_18_19",
+    "#bereshit_18_22",
+    "#bereshit_19_19",
+    "#bereshit_22_1",
+    "#bereshit_22_14",
+    "#bereshit_22_18",
   ]
 sources:
   - "https://www.youtube.com/watch?v=iw2v71qC7lk"
@@ -31,7 +31,7 @@ Génesis 18–22 presenta a Abraham como alguien que recibe una aparición, inte
 
 La fuente `youtube:iw2v71qC7lk` figura como clase sobre Génesis 18:1–22:24. La transcripción no está disponible en el corpus local, de modo que el crédito y el título se conservan, pero las observaciones específicamente habladas quedan marcadas como pendientes. Lo desarrollado abajo es una lectura textual de OE y TTH, no una transcripción reconstruida.
 
-## Aparición que produce respuesta: Génesis 18:1–15 #genesis_18_1-15
+## Aparición que produce respuesta: Génesis 18:1–15 #bereshit_18_1-15
 
 OE registra en 18:1 **(וירא)**, _vayerá_, forma verbal de la raíz ראה, «aparecerse» o «ser visto»; aquí describe que יהוה se hace presente a Abraham. Es una equivalencia aproximada traducirlo simplemente «vio»: la forma puede señalar aparición divina, mientras el contexto muestra a Abraham viendo a tres hombres y corriendo a recibirlos. TTH conserva: «Y apareció a él יהוה en los robles de Mamré».
 
@@ -39,7 +39,7 @@ En 18:2 aparecen **(אנשים)**, _anashim_, «hombres» en sentido normal. El 
 
 Cuando llega la pregunta «¿Es maravillosa para יהוה cualquier cosa?» (18:14), el término **(יפלא)**, _yipale_, viene de פלא, «ser extraordinario, maravilloso o demasiado difícil». La equivalencia «imposible» sería pedagógica pero demasiado estrecha. El argumento contextual es que la esterilidad de Sarah no limita la palabra de יהוה. La risa de Sarah es confrontada, pero la promesa no depende de una emoción perfecta.
 
-## Promesa, justicia e intercesión: Génesis 18:16–33 #genesis_18_16-33
+## Promesa, justicia e intercesión: Génesis 18:16–33 #bereshit_18_16-33
 
 El TTH dice que Abraham fue conocido para que ordenara a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (18:19). OE emplea **(צדקה)**, _tsedaqá_, «justicia» o conducta recta, y **(משפט)**, _mishpat_, «juicio» o administración justa. No son equivalentes exactos: _tsedaqá_ señala rectitud relacional y _mishpat_ el ejercicio discernido del derecho. Juntos explican por qué la promesa no autoriza favoritismo ciego.
 
@@ -47,7 +47,7 @@ Abraham permanece delante de יהוה y pregunta si el Juez de toda la tierra no
 
 En 19:19 Lot habla de **(חסד)**, _jesed_, «misericordia, bondad leal o acto fiel». TTH traduce «has engrandecido tu misericordia». «Gracia» puede ser una equivalencia pedagógica, pero no agota la idea de lealtad activa. El rescate de Lot muestra misericordia en medio de juicio, sin convertir la salida de la ciudad en aprobación de su corrupción.
 
-## Juicio, rescate y nacimiento de la promesa: Génesis 19:1–21:34 #genesis_19_1 #genesis_21_34
+## Juicio, rescate y nacimiento de la promesa: Génesis 19:1–21:34 #bereshit_19_1 #bereshit_21_34
 
 Los capítulos intermedios impiden que la intercesión de Abraham se convierta en una teoría abstracta. En 19:16 el narrador dice que los mensajeros tomaron a Lot, a su mujer y a sus hijas «por la mano», porque יהוה tuvo misericordia de él. El verbo **(חמל)**, _jamal_, significa compadecerse, perdonar o apiadarse; su fuerza aquí es una acción que saca al vulnerable, no una aprobación de Sedom. En 19:17 ordenan **(המלט)**, _himalet_, «escapa» o «pon a salvo tu vida». «Huir de todo conflicto» sería una equivalencia pedagógica ilegítima: el contexto es escapar de un juicio anunciado.
 
@@ -55,7 +55,7 @@ En 20:6 Elohim explica a Avimelej: «Yo también te detuve de pecar contra mí»
 
 El nacimiento de Isaac vuelve a la palabra inicial. En 21:1 OE y TTH afirman que יהוה «visitó» a Sarah; **(פקד)**, _paqad_, puede significar visitar, atender o intervenir, y aquí expresa la intervención eficaz de יהוה conforme a su palabra. En 21:6 Sarah dice que Elohim le ha dado risa: **(צחק)**, _tsajaq_, «reír»; el mismo campo verbal que antes expresaba incredulidad ahora nombra gozo compartido. La equivalencia «risa de burla» sería demasiado estrecha. Luego Avraham planta un tamarisco e invoca el nombre de יהוה en Beer Sheva (21:33): la promesa se encarna en memoria y culto dentro de una historia todavía marcada por conflictos familiares.
 
-## La prueba y el ver de יהוה: Génesis 22:1–19 #genesis_22_1-19
+## La prueba y el ver de יהוה: Génesis 22:1–19 #bereshit_22_1-19
 
 El capítulo finaliza con **(נסה)**, _nasá_, «probar, poner a prueba» (22:1). «Tentar» es una equivalencia aproximada que puede inducir a pensar en seducción al mal; aquí la narración presenta una prueba de obediencia y confianza. Abraham responde **(הנני)**, _hineni_, «heme aquí», fórmula de disponibilidad, no una confesión abstracta.
 
@@ -63,7 +63,7 @@ En 22:14 el nombre **(יראה)**, _yir’eh_, está relacionado con ראה, «v
 
 ## Sedom: justicia que escucha la intercesión sin negar el juicio
 
-Entre la aparición y la prueba, el relato de Sedom muestra cómo la presencia recibida se convierte en responsabilidad. יהוה declara que ha escogido a Abraham para que ordene a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (#genesis_18_19). **(דרך)**, _derekh_, significa camino, senda o manera de proceder; aquí su fuerza contextual es una conducta estable que puede enseñarse. «Método religioso» sería una equivalencia pedagógica demasiado estrecha. **(שמר)**, _shamar_, significa guardar, vigilar o custodiar, y en la frase expresa una obediencia transmitida a la casa, no una emoción privada.
+Entre la aparición y la prueba, el relato de Sedom muestra cómo la presencia recibida se convierte en responsabilidad. יהוה declara que ha escogido a Abraham para que ordene a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (#bereshit_18_19). **(דרך)**, _derekh_, significa camino, senda o manera de proceder; aquí su fuerza contextual es una conducta estable que puede enseñarse. «Método religioso» sería una equivalencia pedagógica demasiado estrecha. **(שמר)**, _shamar_, significa guardar, vigilar o custodiar, y en la frase expresa una obediencia transmitida a la casa, no una emoción privada.
 
 La pregunta de Abraham —«¿El Juez de toda la tierra no hará justicia?»— no convierte al patriarca en tribunal superior. **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; el sustantivo **(משפט)**, _mishpat_, reúne el ejercicio de ese juicio y el orden justo que Abraham espera de יהוה. La intercesión reduce el número de justos, pero el narrador no anuncia que la ciudad sea inocente por la sola existencia de una negociación. La observación que el título de Eric permite conservar es la centralidad de la aparición y la justicia; cualquier reconstrucción de su explicación oral debe quedar pendiente, porque la transcripción no está disponible.
 
@@ -101,10 +101,10 @@ Finalmente, Génesis 22 impide que «ver» se convierta en una consigna de provi
 
 | Referencia      | Hebreo (sin nikud)        | TTH (OE/TTH)               | Observación                                            |
 | --------------- | ------------------------- | -------------------------- | ------------------------------------------------------ |
-| #genesis_18_1  | וירא אליו יהוה באלני ממרא | «Y apareció a él יהוה…»    | La aparición inicia una respuesta hospitalaria.        |
-| #genesis_18_19 | לעשות צדקה ומשפט          | «hacer justicia y juicio»  | Promesa y responsabilidad no se separan.               |
-| #genesis_22_1  | והאלהים נסה את אברהם      | «Elohim examinó a Abraham» | «Probar» es más preciso que «tentar» aquí.             |
-| #genesis_22_14 | יהוה יראה                 | «יהוה verá»                | «Proveerá» explica el contexto, no reemplaza el verbo. |
+| #bereshit_18_1  | וירא אליו יהוה באלני ממרא | «Y apareció a él יהוה…»    | La aparición inicia una respuesta hospitalaria.        |
+| #bereshit_18_19 | לעשות צדקה ומשפט          | «hacer justicia y juicio»  | Promesa y responsabilidad no se separan.               |
+| #bereshit_22_1  | והאלהים נסה את אברהם      | «Elohim examinó a Abraham» | «Probar» es más preciso que «tentar» aquí.             |
+| #bereshit_22_14 | יהוה יראה                 | «יהוה verá»                | «Proveerá» explica el contexto, no reemplaza el verbo. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -117,11 +117,11 @@ Finalmente, Génesis 22 impide que «ver» se convierta en una consigna de provi
 
 ## Evaluación ordenada de la fuente «Y fue visible»
 
-El título público de `youtube:iw2v71qC7lk` permite atribuir a Eric el foco temático de una clase sobre Bereshit 18:1–22:24, pero no frases concretas del audio. La perícopa local sí explica por qué «visible» no debe quedarse en una experiencia aislada. OE abre con «Y se apareció יהוה a él en los robles de Mamré» (#genesis_18_1), y TTH conserva «Y apareció a él יהוה». **(ראה)**, _raah_, significa ver, mirar o aparecer; en la forma **(וירא)**, _vayerá_, la fuerza contextual es una aparición que se hace perceptible a Abraham. «Vio» es una equivalencia **aproximada**; «se manifestó» es **pedagógica**, porque interpreta el acontecimiento sin reemplazar el verbo.
+El título público de `youtube:iw2v71qC7lk` permite atribuir a Eric el foco temático de una clase sobre Bereshit 18:1–22:24, pero no frases concretas del audio. La perícopa local sí explica por qué «visible» no debe quedarse en una experiencia aislada. OE abre con «Y se apareció יהוה a él en los robles de Mamré» (#bereshit_18_1), y TTH conserva «Y apareció a él יהוה». **(ראה)**, _raah_, significa ver, mirar o aparecer; en la forma **(וירא)**, _vayerá_, la fuerza contextual es una aparición que se hace perceptible a Abraham. «Vio» es una equivalencia **aproximada**; «se manifestó» es **pedagógica**, porque interpreta el acontecimiento sin reemplazar el verbo.
 
 El primer efecto visible de la aparición es hospitalidad. Abraham corre, se inclina y ofrece agua, descanso y alimento a los tres **(אנשים)**, _anashim_, «hombres» o personas. La forma tiene ese sentido normal; «ángeles» sería una equivalencia **inexacta** si se impusiera antes de seguir la narración. El texto mantiene la tensión: el v. 1 nombra la aparición de יהוה, mientras el v. 2 presenta hombres. La observación temática de la clase queda apoyada si significa que la presencia recibida exige una respuesta concreta; sería excesivo convertirla en una regla para identificar divinidad en todo visitante.
 
-La promesa vuelve a aparecer en 18:10–14. «¿Hay cosa maravillosa para יהוה?» traduce el campo de **(פלא)**, _pala_, que significa ser extraordinario, maravilloso o difícil. «Imposible» es **pedagógica**, pero estrecha el término. La pregunta no enseña que Abraham pueda producir el milagro: afirma que la edad de Sarah no limita la palabra de יהוה. El mismo relato pasa luego de la promesa a la responsabilidad pública. יהוה dice que Abraham debe mandar a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (#genesis_18_19). **(דרך)**, _derekh_, significa camino o manera de proceder; aquí su fuerza es una conducta enseñable. **(שמר)**, _shamar_, significa guardar, custodiar o vigilar; «recordar» es **inexacta** en este contexto. **(צדקה)**, _tsedaqah_, significa justicia o rectitud, y **(משפט)**, _mishpat_, juicio, decisión o derecho administrado. «Justicia» y «juicio» son equivalencias **cercanas**, pero no idénticas: la primera señala rectitud relacional y la segunda el discernimiento del caso.
+La promesa vuelve a aparecer en 18:10–14. «¿Hay cosa maravillosa para יהוה?» traduce el campo de **(פלא)**, _pala_, que significa ser extraordinario, maravilloso o difícil. «Imposible» es **pedagógica**, pero estrecha el término. La pregunta no enseña que Abraham pueda producir el milagro: afirma que la edad de Sarah no limita la palabra de יהוה. El mismo relato pasa luego de la promesa a la responsabilidad pública. יהוה dice que Abraham debe mandar a su casa «guardar el camino de יהוה, para hacer justicia y juicio» (#bereshit_18_19). **(דרך)**, _derekh_, significa camino o manera de proceder; aquí su fuerza es una conducta enseñable. **(שמר)**, _shamar_, significa guardar, custodiar o vigilar; «recordar» es **inexacta** en este contexto. **(צדקה)**, _tsedaqah_, significa justicia o rectitud, y **(משפט)**, _mishpat_, juicio, decisión o derecho administrado. «Justicia» y «juicio» son equivalencias **cercanas**, pero no idénticas: la primera señala rectitud relacional y la segunda el discernimiento del caso.
 
 La intercesión de 18:22–33 prueba esa enseñanza. Abraham pregunta: «¿El Juez de toda la tierra no hará juicio?» (TTH; OE: **השפט כל הארץ לא יעשה משפט**). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; en la frase sostiene la apelación al carácter del Juez, no una pretensión de que Abraham lo corrija. «Defender» es **pedagógica**, mientras «hacer juicio» conserva mejor la acción expresada. El descenso de cincuenta a diez justos muestra misericordia solicitada dentro de un juicio que no se cancela por una negociación retórica. La atribución a Eric debe limitarse a este eje textual razonable: el título y el pasaje permiten hablar de aparición y justicia, pero no inventar sus formulaciones orales.
 
@@ -151,9 +151,9 @@ En Vayerá, ver y ser visto desemboca en caminar delante de יהוה. Abraham ve
 
 El recorrido final permite evaluar con más precisión la observación de Eric sobre una aparición que exige respuesta. En 18:19 el TTH dice que Abraham fue conocido para ordenar a su casa «guardar el camino de יהוה, para hacer justicia y juicio»; en 22:18 vuelve a decir que las naciones serán benditas «porque escuchaste mi voz». **(שמע)**, _shama_, significa oír, escuchar y obedecer; su fuerza en estos dos extremos no es recepción pasiva, sino una respuesta que organiza la casa y atraviesa la prueba. «Entender» es una equivalencia pedagógica demasiado débil.
 
-Entre ambos extremos, la intercesión muestra que la justicia no es una abstracción. El OE pregunta: **השפט כל הארץ לא יעשה משפט**, «¿el Juez de toda la tierra no hará juicio?» (#genesis_18_25). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; aquí sostiene el argumento de Abraham ante יהוה, no una pretensión de superioridad del patriarca. El TTH conserva «hacer juicio», mientras «hacer justicia» es una equivalencia contextual válida pero no borra el sustantivo **(משפט)**, _mishpat_. La lectura de Eric sobre justicia y misericordia queda apoyada cuando mantiene juntas la pregunta por el carácter del Juez y la realidad del juicio.
+Entre ambos extremos, la intercesión muestra que la justicia no es una abstracción. El OE pregunta: **השפט כל הארץ לא יעשה משפט**, «¿el Juez de toda la tierra no hará juicio?» (#bereshit_18_25). **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; aquí sostiene el argumento de Abraham ante יהוה, no una pretensión de superioridad del patriarca. El TTH conserva «hacer juicio», mientras «hacer justicia» es una equivalencia contextual válida pero no borra el sustantivo **(משפט)**, _mishpat_. La lectura de Eric sobre justicia y misericordia queda apoyada cuando mantiene juntas la pregunta por el carácter del Juez y la realidad del juicio.
 
-En Moriah, la frase de Abraham «Elohim verá para sí el cordero» (#genesis_22_8) recibe su respuesta narrativa cuando el carnero queda atrapado y la mano se detiene. **(אחז)**, _ajaz_, significa agarrar, asir o quedar prendido; su fuerza contextual en 22:13 describe el modo concreto en que aparece el sustituto, no una metáfora abstracta de que todo deseo será provisto. «Provisión automática» sería inexacta. La secuencia confirma la lectura prudente de Eric: la fe no niega la orden difícil ni fabrica un desenlace; espera que la visión de יהוה se manifieste dentro del texto.
+En Moriah, la frase de Abraham «Elohim verá para sí el cordero» (#bereshit_22_8) recibe su respuesta narrativa cuando el carnero queda atrapado y la mano se detiene. **(אחז)**, _ajaz_, significa agarrar, asir o quedar prendido; su fuerza contextual en 22:13 describe el modo concreto en que aparece el sustituto, no una metáfora abstracta de que todo deseo será provisto. «Provisión automática» sería inexacta. La secuencia confirma la lectura prudente de Eric: la fe no niega la orden difícil ni fabrica un desenlace; espera que la visión de יהוה se manifieste dentro del texto.
 
 Por eso la aparición de 18:1 no puede reducirse a una experiencia extraordinaria. El verbo **(וירא)**, _vayerá_, «apareció» o «se dejó ver», abre una cadena de hospitalidad, enseñanza de justicia, intercesión, rescate y obediencia. «Visión espiritual» puede servir como resumen pedagógico, pero es más amplio que la forma verbal. La nota conserva la intuición pública de Eric y la somete al orden de la perícopa: יהוה se hace visible, Abraham escucha, actúa y vuelve a recibir la promesa bajo responsabilidad.
 

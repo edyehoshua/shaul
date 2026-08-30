@@ -6,8 +6,8 @@ tags:
   - qohelet
   - sabiduria
 references:
-  - "#eclesiastes_4_1"
-  - "#eclesiastes_4_17"
+  - "#qohelet_4_1"
+  - "#qohelet_4_17"
 sources:
   - "https://www.youtube.com/watch?v=U_4B3FIUJzs"
   - "https://www.youtube.com/watch?v=zchS6Q0D5SM"
@@ -32,8 +32,8 @@ Qohélet 4 considera la opresión, la rivalidad y el valor de la ayuda mutua fre
 
 | Referencia         | Texto local (OE, sin nikud)                                                                                                  | Observación                                    |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| #eclesiastes_4_1  | **ושבתי אני ואראה את כל העשקים אשר נעשים תחת השמש והנה דמעת העשקים ואין להם מנחם ומיד עשקיהם כח ואין להם מנחם** | Texto local OE; ancla la lectura de la sesión. |
-| #eclesiastes_4_17 | **שמר רגליך רגלך כאשר תלך אל בית האלהים וקרוב לשמע מתת הכסילים זבח כי אינם יודעים לעשות רע**                       | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_4_1  | **ושבתי אני ואראה את כל העשקים אשר נעשים תחת השמש והנה דמעת העשקים ואין להם מנחם ומיד עשקיהם כח ואין להם מנחם** | Texto local OE; ancla la lectura de la sesión. |
+| #qohelet_4_17 | **שמר רגליך רגלך כאשר תלך אל בית האלהים וקרוב לשמע מתת הכסילים זבח כי אינם יודעים לעשות רע**                       | Texto local OE; ancla la lectura de la sesión. |
 
 ## Lectura del capítulo
 

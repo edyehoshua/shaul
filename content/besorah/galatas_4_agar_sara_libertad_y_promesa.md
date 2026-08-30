@@ -22,8 +22,8 @@ references:
   - "#galatas_4_29"
   - "#galatas_4_30"
   - "#galatas_4_31"
-  - "#genesis_21_10"
-  - "#isaias_54_1"
+  - "#bereshit_21_10"
+  - "#yeshayahu_54_1"
   - "#juan_8_31"
 sources:
   - "https://www.youtube.com/watch?v=CUvmLWZVfps"
@@ -111,8 +111,8 @@ Gálatas 4:21-31 anuncia que la comunidad del Mesías no debe vivir como hereder
 
 ## Ver también
 
-- [[galatim_4_libertad_filiacion_y_promesa|Libertad, filiación y promesa en Galatim 4]]
-- [[galatim_5|Libertad, amor y fruto del Ruaj en Galatim 5]]
+- [[galatas_4_libertad_filiacion_y_promesa|Libertad, filiación y promesa en Galatim 4]]
+- [[galatas_5|Libertad, amor y fruto del Ruaj en Galatim 5]]
 - [[galatas_5_ruaj_carne_fruto_y_torah|Gálatas 5: caminar en el Ruaj frente a la carne]]
 - [[efesios_1_adopcion_redencion_y_reunion_bajo_el_mesias|Efesios 1: adopción, redención y reunión bajo el Mesías]]
 

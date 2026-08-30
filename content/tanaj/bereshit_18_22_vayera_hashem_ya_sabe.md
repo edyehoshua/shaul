@@ -10,11 +10,11 @@ tags:
   - prueba
   - misericordia
 references:
-  - "#genesis_18_1-15"
-  - "#genesis_18_16-33"
-  - "#genesis_19_1-29"
-  - "#genesis_21_1-21"
-  - "#genesis_22_1-19"
+  - "#bereshit_18_1-15"
+  - "#bereshit_18_16-33"
+  - "#bereshit_19_1-29"
+  - "#bereshit_21_1-21"
+  - "#bereshit_22_1-19"
 sources:
   - "https://www.youtube.com/watch?v=ytk79FxpTY4"
   - "docs/scriptures/oe/json/raw/genesis.json"
@@ -35,41 +35,41 @@ Esta nota estudia el recorrido narrativo de Vayera en su orden principal: la vis
 
 | Unidad            | Movimiento del texto                                                                 | Evaluación                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| #genesis_18_1-15  | La visita, la hospitalidad y el anuncio del hijo se encuentran con la risa de Sarah. | La promesa no depende de la capacidad humana, pero sí llama a recibir la palabra con reverencia.            |
-| #genesis_18_16-33 | Abraham intercede preguntando si el Juez de toda la tierra hará justicia.            | La intercesión no corrige a Elohim; participa reverentemente en la pregunta por la justicia.                |
-| #genesis_19_1-29  | El juicio de Sodoma contrasta con la salvación de Lot y con la seriedad del mal.     | La misericordia no vuelve indiferente la violencia ni permite leer el juicio como espectáculo.              |
-| #genesis_21_1-21  | Yitsjaq nace; Hagar e Yishmael son enviados y reciben una promesa de cuidado.        | La elección de la línea de la promesa no elimina la compasión ni el futuro de quienes quedan fuera de ella. |
-| #genesis_22_1-19  | Abraham es probado y recibe la orden de no extender su mano contra el muchacho.      | «Elohim ya sabe» no cancela el acto visible de obediencia ni convierte la prueba en permiso para dañar.     |
+| #bereshit_18_1-15  | La visita, la hospitalidad y el anuncio del hijo se encuentran con la risa de Sarah. | La promesa no depende de la capacidad humana, pero sí llama a recibir la palabra con reverencia.            |
+| #bereshit_18_16-33 | Abraham intercede preguntando si el Juez de toda la tierra hará justicia.            | La intercesión no corrige a Elohim; participa reverentemente en la pregunta por la justicia.                |
+| #bereshit_19_1-29  | El juicio de Sodoma contrasta con la salvación de Lot y con la seriedad del mal.     | La misericordia no vuelve indiferente la violencia ni permite leer el juicio como espectáculo.              |
+| #bereshit_21_1-21  | Yitsjaq nace; Hagar e Yishmael son enviados y reciben una promesa de cuidado.        | La elección de la línea de la promesa no elimina la compasión ni el futuro de quienes quedan fuera de ella. |
+| #bereshit_22_1-19  | Abraham es probado y recibe la orden de no extender su mano contra el muchacho.      | «Elohim ya sabe» no cancela el acto visible de obediencia ni convierte la prueba en permiso para dañar.     |
 
 ## La visita y la promesa recibida
 
-En #genesis_18_1-15 Abraham recibe a los visitantes, ofrece agua, descanso y alimento, y escucha de nuevo la promesa de un hijo. La hospitalidad aparece como acción concreta antes de que la narración explique todos los misterios de la visita. La risa de Sarah no queda presentada como una refutación de la promesa: el texto confronta la limitación humana con la pregunta «¿hay algo demasiado difícil para יהוה?». La promesa depende de la fidelidad de Elohim, pero la respuesta humana sigue siendo significativa: Sarah oye, teme y es llamada a reconocer que la palabra no se mide por sus posibilidades biológicas.
+En #bereshit_18_1-15 Abraham recibe a los visitantes, ofrece agua, descanso y alimento, y escucha de nuevo la promesa de un hijo. La hospitalidad aparece como acción concreta antes de que la narración explique todos los misterios de la visita. La risa de Sarah no queda presentada como una refutación de la promesa: el texto confronta la limitación humana con la pregunta «¿hay algo demasiado difícil para יהוה?». La promesa depende de la fidelidad de Elohim, pero la respuesta humana sigue siendo significativa: Sarah oye, teme y es llamada a reconocer que la palabra no se mide por sus posibilidades biológicas.
 
-**(פקד)**, _paqad_, tiene como sentido ordinario visitar, atender, encargar o intervenir; en la narración del nacimiento su fuerza contextual es que Elohim visita a Sarah para cumplir la palabra anunciada. «Visitó» es una traducción **aproximada y contextual**, porque el verbo hebreo puede abarcar más que una visita social. **(צחק)**, _tsajaq_, significa reír; en #genesis_18_12-15 relaciona la risa de Sarah con la incredulidad, el temor y luego el nombre de Yitsjaq. La glosa «reír» es **directa**; afirmar que cada risa humana tiene el mismo valor moral sería una aplicación **ilegítima**.
+**(פקד)**, _paqad_, tiene como sentido ordinario visitar, atender, encargar o intervenir; en la narración del nacimiento su fuerza contextual es que Elohim visita a Sarah para cumplir la palabra anunciada. «Visitó» es una traducción **aproximada y contextual**, porque el verbo hebreo puede abarcar más que una visita social. **(צחק)**, _tsajaq_, significa reír; en #bereshit_18_12-15 relaciona la risa de Sarah con la incredulidad, el temor y luego el nombre de Yitsjaq. La glosa «reír» es **directa**; afirmar que cada risa humana tiene el mismo valor moral sería una aplicación **ilegítima**.
 
 ## Intercesión y justicia
 
-En #genesis_18_16-33 Abraham permanece delante de יהוה y pregunta si el Juez de toda la tierra no hará justicia. Su cadena de preguntas desciende de cincuenta a diez justos. El pasaje no presenta a Abraham como alguien que conoce el tribunal mejor que Elohim; muestra una relación de reverencia en la que la misericordia y la justicia son invocadas juntas. La oración no es una negociación comercial: Abraham reconoce que habla siendo polvo y ceniza, pero no abandona la responsabilidad de interceder.
+En #bereshit_18_16-33 Abraham permanece delante de יהוה y pregunta si el Juez de toda la tierra no hará justicia. Su cadena de preguntas desciende de cincuenta a diez justos. El pasaje no presenta a Abraham como alguien que conoce el tribunal mejor que Elohim; muestra una relación de reverencia en la que la misericordia y la justicia son invocadas juntas. La oración no es una negociación comercial: Abraham reconoce que habla siendo polvo y ceniza, pero no abandona la responsabilidad de interceder.
 
-**(צדק)**, _tsedeq_, significa justicia, rectitud o conformidad con un orden justo; en #genesis_18_19 y #genesis_18_25 su fuerza contextual incluye enseñar el camino y actuar justamente. «Justicia» es una glosa **directa**, aunque no resuelve por sí sola cada cuestión filosófica sobre el juicio. **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; «juez» es **directo** como título, mientras trasladar la escena a un modelo moderno de tribunal sería **pedagógico y aproximado**.
+**(צדק)**, _tsedeq_, significa justicia, rectitud o conformidad con un orden justo; en #bereshit_18_19 y #bereshit_18_25 su fuerza contextual incluye enseñar el camino y actuar justamente. «Justicia» es una glosa **directa**, aunque no resuelve por sí sola cada cuestión filosófica sobre el juicio. **(שפט)**, _shafat_, significa juzgar, gobernar o administrar justicia; «juez» es **directo** como título, mientras trasladar la escena a un modelo moderno de tribunal sería **pedagógico y aproximado**.
 
 ## Juicio, rescate y misericordia no selectiva
 
-La sección de Sodoma debe conservarse después de la intercesión. La violencia de la ciudad no es un detalle secundario, y la salida de Lot no convierte a Lot en un héroe sin ambigüedad. #genesis_19_1-29 mantiene juntas la gravedad del juicio y la acción misericordiosa que saca a una familia del peligro. La narración tampoco permite usar la destrucción para alimentar desprecio contra ciudades o personas contemporáneas: el texto juzga una historia concreta y exige temor ante el mal.
+La sección de Sodoma debe conservarse después de la intercesión. La violencia de la ciudad no es un detalle secundario, y la salida de Lot no convierte a Lot en un héroe sin ambigüedad. #bereshit_19_1-29 mantiene juntas la gravedad del juicio y la acción misericordiosa que saca a una familia del peligro. La narración tampoco permite usar la destrucción para alimentar desprecio contra ciudades o personas contemporáneas: el texto juzga una historia concreta y exige temor ante el mal.
 
-**(מלט)**, _malat_, significa escapar, librar o rescatar; en #genesis_19 su fuerza contextual es la salida de Lot del juicio inminente. «Librar» es **directo**, pero convertirlo en una fórmula automática para cada crisis es una extensión **aproximada**. **(חסד)**, _jesed_, significa bondad leal, misericordia o amor firme; cuando Lot habla de la bondad recibida, la glosa es **contextual**: expresa favor inmerecido en la escena, sin agotar todos los usos bíblicos del término.
+**(מלט)**, _malat_, significa escapar, librar o rescatar; en #bereshit_19 su fuerza contextual es la salida de Lot del juicio inminente. «Librar» es **directo**, pero convertirlo en una fórmula automática para cada crisis es una extensión **aproximada**. **(חסד)**, _jesed_, significa bondad leal, misericordia o amor firme; cuando Lot habla de la bondad recibida, la glosa es **contextual**: expresa favor inmerecido en la escena, sin agotar todos los usos bíblicos del término.
 
 ## Yitsjaq, Hagar y la amplitud de la compasión
 
-En #genesis_21_1-21 el nacimiento de Yitsjaq confirma la palabra y da contenido al nombre que recuerda la risa. La expulsión de Hagar e Yishmael es dolorosa y no debe narrarse como si sus vidas carecieran de valor. Elohim oye el clamor del muchacho, abre los ojos de Hagar al pozo y promete hacer de él una nación. La línea de la promesa pasa por Yitsjaq, pero la atención divina alcanza también a quienes viven la separación.
+En #bereshit_21_1-21 el nacimiento de Yitsjaq confirma la palabra y da contenido al nombre que recuerda la risa. La expulsión de Hagar e Yishmael es dolorosa y no debe narrarse como si sus vidas carecieran de valor. Elohim oye el clamor del muchacho, abre los ojos de Hagar al pozo y promete hacer de él una nación. La línea de la promesa pasa por Yitsjaq, pero la atención divina alcanza también a quienes viven la separación.
 
-**(שמע)**, _shama_, significa oír, escuchar y atender; en #genesis_21_17 su fuerza contextual es la atención misericordiosa de Elohim al clamor. «Oyó» es **directo**, mientras afirmar que el verbo prueba una teoría exhaustiva de elección sería **inferencial**. **(זרע)**, _zera_, significa semilla, descendencia o simiente; en #genesis_21_12-13 distingue la línea de la promesa y la bendición concedida a Yishmael. «Descendencia» es **aproximada y contextual**, porque el campo puede ser colectivo o singular según la escena.
+**(שמע)**, _shama_, significa oír, escuchar y atender; en #bereshit_21_17 su fuerza contextual es la atención misericordiosa de Elohim al clamor. «Oyó» es **directo**, mientras afirmar que el verbo prueba una teoría exhaustiva de elección sería **inferencial**. **(זרע)**, _zera_, significa semilla, descendencia o simiente; en #bereshit_21_12-13 distingue la línea de la promesa y la bendición concedida a Yishmael. «Descendencia» es **aproximada y contextual**, porque el campo puede ser colectivo o singular según la escena.
 
 ## «Hashem ya sabe» y la prueba del monte
 
-El título público `youtube:ytk79FxpTY4` puede conservarse como pregunta: si Elohim ya sabe, ¿qué añade la prueba de Abraham? #genesis_22_1-19 responde mediante el acontecimiento visible. Elohim prueba a Abraham, Abraham escucha y camina, y la orden final detiene la mano antes de que el muchacho sea herido. La prueba no descubre una ignorancia divina ni autoriza sacrificios humanos; manifiesta la obediencia en la historia y confirma que Elohim provee el carnero.
+El título público `youtube:ytk79FxpTY4` puede conservarse como pregunta: si Elohim ya sabe, ¿qué añade la prueba de Abraham? #bereshit_22_1-19 responde mediante el acontecimiento visible. Elohim prueba a Abraham, Abraham escucha y camina, y la orden final detiene la mano antes de que el muchacho sea herido. La prueba no descubre una ignorancia divina ni autoriza sacrificios humanos; manifiesta la obediencia en la historia y confirma que Elohim provee el carnero.
 
-**(נסה)**, _nasah_, significa probar, examinar o poner a prueba; en #genesis_22_1 su fuerza contextual es colocar a Abraham ante una obediencia extrema, no inducirlo al mal. «Probó» es una glosa **directa**, pero explicar el verbo como si Elohim necesitara adquirir información sería una inferencia **ilegítima**. **(ירא)**, _yare_, significa temer, reverenciar o considerar con temor; en #genesis_22_12 la expresión «temes a Elohim» describe una reverencia demostrada en la respuesta, no solo una emoción interior. **(יראה)**, _yirah_, se relaciona pedagógicamente con ese campo de temor reverente; la relación es **aproximada**, no una afirmación de que sustantivo y verbo sean intercambiables en toda frase.
+**(נסה)**, _nasah_, significa probar, examinar o poner a prueba; en #bereshit_22_1 su fuerza contextual es colocar a Abraham ante una obediencia extrema, no inducirlo al mal. «Probó» es una glosa **directa**, pero explicar el verbo como si Elohim necesitara adquirir información sería una inferencia **ilegítima**. **(ירא)**, _yare_, significa temer, reverenciar o considerar con temor; en #bereshit_22_12 la expresión «temes a Elohim» describe una reverencia demostrada en la respuesta, no solo una emoción interior. **(יראה)**, _yirah_, se relaciona pedagógicamente con ese campo de temor reverente; la relación es **aproximada**, no una afirmación de que sustantivo y verbo sean intercambiables en toda frase.
 
 La frase «Elohim proveerá» debe permanecer en la escena y no convertirse en una promesa de comodidad. **(ראה)**, _raah_, significa ver, mirar o considerar; en el nombre del lugar, «יהוה verá» o «proveerá» es una traducción **aproximada y contextual** que reúne visión y provisión. El texto sí afirma que el carnero aparece y que la mano no debe extenderse contra Yitsjaq. Por eso la obediencia de Abraham no demuestra que toda prueba moderna tenga un desenlace idéntico.
 
@@ -77,9 +77,9 @@ La frase «Elohim proveerá» debe permanecer en la escena y no convertirse en u
 
 | Unidad                                  | Observación atribuible de Eric                                                                                    | Evaluación frente a Bereshit                                                                                    |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #genesis_18_1-15; `youtube:ytk79FxpTY4` | El título público «Hashem ya sabe...» orienta la pregunta por el conocimiento divino ante la historia de Abraham. | Pregunta **cualificada**: el texto afirma conocimiento y promesa, pero también narra una respuesta humana real. |
-| #genesis_18_16-33                       | La enseñanza se evalúa en el marco de Vayera, donde Abraham pregunta por la justicia y la misericordia.           | Apoyo **textual**: la intercesión conserva reverencia y no sustituye el juicio de Elohim.                       |
-| #genesis_21_1-22_19                     | La promesa, el cuidado de Hagar y la prueba de Yitsjaq impiden reducir la elección a fatalismo.                   | Apoyo **cualificado**: la línea de la promesa y la compasión hacia Yishmael aparecen juntas.                    |
+| #bereshit_18_1-15; `youtube:ytk79FxpTY4` | El título público «Hashem ya sabe...» orienta la pregunta por el conocimiento divino ante la historia de Abraham. | Pregunta **cualificada**: el texto afirma conocimiento y promesa, pero también narra una respuesta humana real. |
+| #bereshit_18_16-33                       | La enseñanza se evalúa en el marco de Vayera, donde Abraham pregunta por la justicia y la misericordia.           | Apoyo **textual**: la intercesión conserva reverencia y no sustituye el juicio de Elohim.                       |
+| #bereshit_21_1-22_19                     | La promesa, el cuidado de Hagar y la prueba de Yitsjaq impiden reducir la elección a fatalismo.                   | Apoyo **cualificado**: la línea de la promesa y la compasión hacia Yishmael aparecen juntas.                    |
 
 ## Reparación desarrollada: saber, probar y responder en la historia
 

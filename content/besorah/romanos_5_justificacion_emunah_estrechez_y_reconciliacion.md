@@ -12,10 +12,10 @@ tags:
 references:
   - "#romanos_5_1-5"
   - "#romanos_5_6-11"
-  - "#ezequiel_36_26-27"
-  - "#josue_2_21"
-  - "#salmos_139_23-24"
-  - "#salmos_4_8"
+  - "#yejezkel_36_26-27"
+  - "#yehoshua_2_21"
+  - "#tehilim_139_23-24"
+  - "#tehilim_4_8"
 sources:
   - "https://www.youtube.com/watch?v=RO5uLeDXq20"
   - "docs/scriptures/tth/json/romanos.json"

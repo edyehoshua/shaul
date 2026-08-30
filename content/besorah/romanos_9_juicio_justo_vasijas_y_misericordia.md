@@ -14,11 +14,11 @@ references:
   - "#romanos_9_19-24"
   - "#romanos_9_25-29"
   - "#romanos_9_30-33"
-  - "#exodo_33_19"
-  - "#isaias_45_9"
-  - "#oseas_2_23"
-  - "#isaias_10_22-23"
-  - "#isaias_8_14"
+  - "#shemot_33_19"
+  - "#yeshayahu_45_9"
+  - "#hoshea_2_23"
+  - "#yeshayahu_10_22-23"
+  - "#yeshayahu_8_14"
 sources:
   - "https://www.youtube.com/watch?v=TbQpVGePujI"
   - "docs/scriptures/tth/json/romanos.json"
@@ -62,7 +62,7 @@ La paciencia también forma parte del argumento. Elohim soporta con mucha “lar
 
 Pablo cita a Oseas para hablar de quienes no eran pueblo y serían llamados pueblo, y a Isaías para insistir en que solo un remanente volverá. La clase observa que Oseas puede hablar de Israel disperso entre las naciones, de modo que “no mi pueblo” no debe identificarse automáticamente con todos los gentiles paganos. El propio Romanos 9, sin embargo, aplica el lenguaje a judíos y gentiles dentro de su argumento; la lectura responsable mantiene ambas capas y no sustituye el texto profético por una consigna étnica.
 
-El remanente evita dos extremos: afirmar que toda la descendencia física queda automáticamente justificada o afirmar que la promesa quedó anulada. Finalmente, los gentiles alcanzan justicia por emunah, mientras Israel tropieza al perseguir una Torah de justicia como si fuera un logro de obras. La piedra de #isaias_8_14 queda vinculada al Mesías en la lectura apostólica. “Emunah” aquí significa más que una opinión mental, pero su relación con **(πίστις)** _pistis_ es aproximada y debe leerse en el conjunto de la carta.
+El remanente evita dos extremos: afirmar que toda la descendencia física queda automáticamente justificada o afirmar que la promesa quedó anulada. Finalmente, los gentiles alcanzan justicia por emunah, mientras Israel tropieza al perseguir una Torah de justicia como si fuera un logro de obras. La piedra de #yeshayahu_8_14 queda vinculada al Mesías en la lectura apostólica. “Emunah” aquí significa más que una opinión mental, pero su relación con **(πίστις)** _pistis_ es aproximada y debe leerse en el conjunto de la carta.
 
 ## Hoja léxica
 
@@ -99,7 +99,7 @@ Romanos 9:14-33 afirma la libertad misericordiosa de Elohim y humilla toda prete
 
 - [Romanos 9: elección, promesa y el llamamiento de la simiente](./romanos_9_eleccion_promesa_y_llamamiento.md)
 - [Romanos 10: las dos justicias y la palabra cercana](./romanos_10_dos_justicias_palabra_cercana.md)
-- [Romanos 11: misterio, remanente y misericordia](./romanim_11.md)
+- [Romanos 11: misterio, remanente y misericordia](./romanos_11.md)
 
 ## Créditos
 

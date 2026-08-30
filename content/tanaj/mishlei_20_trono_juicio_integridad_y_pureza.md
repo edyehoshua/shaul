@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 20:1-9 sobre el desenfreno, la cosecha, el cons
 date: 2026-08-05
 tags: [mishlei, mishlei_20, juicio, integridad, consejo, pureza]
 references:
-  - "#proverbios_20_1"
-  - "#proverbios_20_2"
-  - "#proverbios_20_3"
-  - "#proverbios_20_4"
-  - "#proverbios_20_5"
-  - "#proverbios_20_6"
-  - "#proverbios_20_7"
-  - "#proverbios_20_8"
-  - "#proverbios_20_9"
-  - "#proverbios_19_12"
-  - "#job_32_8"
+  - "#mishlei_20_1"
+  - "#mishlei_20_2"
+  - "#mishlei_20_3"
+  - "#mishlei_20_4"
+  - "#mishlei_20_5"
+  - "#mishlei_20_6"
+  - "#mishlei_20_7"
+  - "#mishlei_20_8"
+  - "#mishlei_20_9"
+  - "#mishlei_19_12"
+  - "#iyov_32_8"
 sources:
   - "https://www.youtube.com/watch?v=-7BuRc1nBDU"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -36,15 +36,15 @@ Esta nota organiza la enseñanza pública de Eric sobre Mishlei 20:1-9. Las obse
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_20_1 | לץ היין המה שכר וכל שגה בו לא יחכם | Burlador es el vino, ruidoso el licor, y todo el que se desvíe en ello, no será sabio. |
-| #proverbios_20_2 | נהם ככפיר אימת מלך מתעברו חוטא נפשו | Como león rugiente es el terror del Rey, el que lo hace desbordar, pecador es su ser. |
-| #proverbios_20_3 | כבוד לאיש שבת מריב וכל אויל יתגלע | Honra para el hombre es cesar de la riña, pero todo tonto estallará (o quedará revelado). |
-| #proverbios_20_4 | מחרף עצל לא יחרש ישאל ושאל בקציר ואין | Desde el invierno, el perezoso no ara; pide en la cosecha, y no hay nada. |
-| #proverbios_20_5 | מים עמקים עצה בלב איש ואיש תבונה ידלנה | Aguas profundas es el consejo en el corazón del hombre, y el hombre de entendimiento lo sacará. |
-| #proverbios_20_6 | רב אדם יקרא איש חסדו ואיש אמונים מי ימצא | Muchos hombres proclaman ser “hombre de su bondad”, pero el hombre de fidelidades, ¿quién lo hallará? |
-| #proverbios_20_7 | מתהלך בתמו צדיק אשרי בניו אחריו | Camina en su integridad el justo, ¡felices son sus hijos después de él! |
-| #proverbios_20_8 | מלך יושב על כסא דין מזרה בעיניו כל רע | El Rey se sentará sobre el trono del juicio, esparcirá —o tamizará— con sus ojos todo mal. |
-| #proverbios_20_9 | מי יאמר זכיתי לבי טהרתי מחטאתי | ¿Quién dirá: “He limpiado mi corazón, estoy purificado de mi pecado”? |
+| #mishlei_20_1 | לץ היין המה שכר וכל שגה בו לא יחכם | Burlador es el vino, ruidoso el licor, y todo el que se desvíe en ello, no será sabio. |
+| #mishlei_20_2 | נהם ככפיר אימת מלך מתעברו חוטא נפשו | Como león rugiente es el terror del Rey, el que lo hace desbordar, pecador es su ser. |
+| #mishlei_20_3 | כבוד לאיש שבת מריב וכל אויל יתגלע | Honra para el hombre es cesar de la riña, pero todo tonto estallará (o quedará revelado). |
+| #mishlei_20_4 | מחרף עצל לא יחרש ישאל ושאל בקציר ואין | Desde el invierno, el perezoso no ara; pide en la cosecha, y no hay nada. |
+| #mishlei_20_5 | מים עמקים עצה בלב איש ואיש תבונה ידלנה | Aguas profundas es el consejo en el corazón del hombre, y el hombre de entendimiento lo sacará. |
+| #mishlei_20_6 | רב אדם יקרא איש חסדו ואיש אמונים מי ימצא | Muchos hombres proclaman ser “hombre de su bondad”, pero el hombre de fidelidades, ¿quién lo hallará? |
+| #mishlei_20_7 | מתהלך בתמו צדיק אשרי בניו אחריו | Camina en su integridad el justo, ¡felices son sus hijos después de él! |
+| #mishlei_20_8 | מלך יושב על כסא דין מזרה בעיניו כל רע | El Rey se sentará sobre el trono del juicio, esparcirá —o tamizará— con sus ojos todo mal. |
+| #mishlei_20_9 | מי יאמר זכיתי לבי טהרתי מחטאתי | ¿Quién dirá: “He limpiado mi corazón, estoy purificado de mi pecado”? |
 
 ## Del desenfreno a la cosecha vacía
 
@@ -83,9 +83,9 @@ El verso 9 formula la pregunta que cierra la unidad: nadie puede decir honestame
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_20_1-4; `youtube:-7BuRc1nBDU` | El desenfreno vuelve burlador al consumidor, el terror del Rey advierte del juicio y el perezoso llega a una cosecha vacía. | Efectos del exceso y cosecha apoyados; Babel y escatología, cualificadas. |
-| #proverbios_20_5-7; `youtube:-7BuRc1nBDU` | El consejo está en aguas profundas, el fiel es difícil de hallar y la integridad del justo beneficia a sus hijos. | Lectura textual apoyada; formación mesiánica y alcance de la bendición, cualificados. |
-| #proverbios_20_8-9; `youtube:-7BuRc1nBDU` | El Rey tamiza el mal y nadie puede declarar que limpió su propio corazón. | Juicio y límite humano apoyados; conexión con justificación y Yehoshua, aplicación mesiánica. |
+| #mishlei_20_1-4; `youtube:-7BuRc1nBDU` | El desenfreno vuelve burlador al consumidor, el terror del Rey advierte del juicio y el perezoso llega a una cosecha vacía. | Efectos del exceso y cosecha apoyados; Babel y escatología, cualificadas. |
+| #mishlei_20_5-7; `youtube:-7BuRc1nBDU` | El consejo está en aguas profundas, el fiel es difícil de hallar y la integridad del justo beneficia a sus hijos. | Lectura textual apoyada; formación mesiánica y alcance de la bendición, cualificados. |
+| #mishlei_20_8-9; `youtube:-7BuRc1nBDU` | El Rey tamiza el mal y nadie puede declarar que limpió su propio corazón. | Juicio y límite humano apoyados; conexión con justificación y Yehoshua, aplicación mesiánica. |
 
 ## Pendiente de verificar
 

@@ -9,11 +9,11 @@ tags:
   - descanso
   - hijos
 references:
-  - "#salmos_127_1-5"
-  - "#1_reyes_8_17-19"
-  - "#exodo_25_8"
-  - "#salmos_20_7-8"
-  - "#proverbios_14_12"
+  - "#tehilim_127_1-5"
+  - "#melajim_alef_8_17-19"
+  - "#shemot_25_8"
+  - "#tehilim_20_7-8"
+  - "#mishlei_14_12"
   - "#marcos_12_10-11"
   - "#hebreos_3_4"
 sources:
@@ -36,9 +36,9 @@ Se recorre el salmo completo en orden textual. Se distinguen las observaciones c
 
 | Referencia       | Texto hebreo local                                                                                                                   | Función en el argumento                                     |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| #salmos_127_1   | **שיר המעלות לשלמה אם יהוה לא יבנה בית שוא עמלו בוניו בו אם יהוה לא ישמר עיר שוא שקד שומר**                                          | Casa y ciudad dependen de quien edifica y guarda.           |
-| #salmos_127_2   | **שוא לכם משכימי קום מאחרי שבת אכלי לחם העצבים כן יתן לידידו שנא**                                                                   | Trabajo ansioso, pan de angustias y don del sueño al amado. |
-| #salmos_127_3-5 | **הנה נחלת יהוה בנים שכר פרי הבטן / כחצים ביד גבור כן בני הנעורים / אשרי הגבר אשר מלא את אשפתו מהם לא יבשו כי ידברו את אויבים בשער** | Hijos como herencia, flechas y defensa pública.             |
+| #tehilim_127_1   | **שיר המעלות לשלמה אם יהוה לא יבנה בית שוא עמלו בוניו בו אם יהוה לא ישמר עיר שוא שקד שומר**                                          | Casa y ciudad dependen de quien edifica y guarda.           |
+| #tehilim_127_2   | **שוא לכם משכימי קום מאחרי שבת אכלי לחם העצבים כן יתן לידידו שנא**                                                                   | Trabajo ansioso, pan de angustias y don del sueño al amado. |
+| #tehilim_127_3-5 | **הנה נחלת יהוה בנים שכר פרי הבטן / כחצים ביד גבור כן בני הנעורים / אשרי הגבר אשר מלא את אשפתו מהם לא יבשו כי ידברו את אויבים בשער** | Hijos como herencia, flechas y defensa pública.             |
 
 ## Mapa de la enseñanza de Eric
 
@@ -52,7 +52,7 @@ Se recorre el salmo completo en orden textual. Se distinguen las observaciones c
 
 El primer verso repite **אם יהוה לא** (“si יהוה no…”), primero para la casa y luego para la ciudad. La estructura no dice que el trabajo humano sea inútil en sí mismo. Salomón realmente edificó una casa, y Melajim Alef 8:17-19 conserva el proyecto de David y la elección del hijo para realizarlo; pero también recuerda que la iniciativa y el propósito vienen de יהוה. Eric usa ese punto para criticar la megaobra que intenta ocultar corrupción: una arquitectura impresionante no demuestra una casa espiritual sana.
 
-La palabra **בית** (_bayit_) significa casa, edificio o casa familiar según contexto. Eric extiende la casa física a la edificación espiritual y a la comunidad. Esa extensión es aproximada, aunque #exodo_25_8 confirma que el santuario tiene como finalidad que יהוה habite en medio del pueblo. Hebreos 3:4 permite una conexión mesiánica sobre el constructor de toda casa, pero no reemplaza la escena concreta de Salomón y Jerusalén.
+La palabra **בית** (_bayit_) significa casa, edificio o casa familiar según contexto. Eric extiende la casa física a la edificación espiritual y a la comunidad. Esa extensión es aproximada, aunque #shemot_25_8 confirma que el santuario tiene como finalidad que יהוה habite en medio del pueblo. Hebreos 3:4 permite una conexión mesiánica sobre el constructor de toda casa, pero no reemplaza la escena concreta de Salomón y Jerusalén.
 
 La segunda mitad habla de **עיר** (_ir_, ciudad) y de **שמר** (_shamar_, guardar/vigilar). Eric rechaza la falsa inversión “si יהוה guarda, no hagamos nada”. El texto no elimina al vigilante; llama “sin sentido” a su vigilancia cuando se vuelve autosuficiente. Tehilim 20:7-8 ofrece el contraste: unos confían en carros y caballos, pero el pueblo recuerda el nombre de יהוה. Dependencia no equivale a negligencia.
 
@@ -82,9 +82,9 @@ La puerta del versículo 5 era el espacio público de juicio y negociación. Eri
 
 ## Conexiones principales
 
-- #1_reyes_8_17-19 prueba la relación entre Salomón, la casa y el propósito recibido.
-- #exodo_25_8 explica que el santuario busca la presencia de יהוה, no el prestigio arquitectónico.
-- #salmos_20_7-8 contrasta dependencia de יהוה con confianza en recursos militares.
+- #melajim_alef_8_17-19 prueba la relación entre Salomón, la casa y el propósito recibido.
+- #shemot_25_8 explica que el santuario busca la presencia de יהוה, no el prestigio arquitectónico.
+- #tehilim_20_7-8 contrasta dependencia de יהוה con confianza en recursos militares.
 - #marcos_12_10-11 permite una conexión mesiánica con la piedra rechazada por edificadores; es aplicación canónica, no glosa de 127.
 - #hebreos_3_4 amplía pedagógicamente el motivo del constructor, sin borrar la ciudad del salmo.
 

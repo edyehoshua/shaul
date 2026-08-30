@@ -85,9 +85,9 @@ El mapa registra las líneas concretas incorporadas; no afirma haber cubierto ca
 
 ## Conexiones principales
 
-- #genesis_37_28 ilustra la venta de José que Eric usa como patrón comparativo; la conexión se mantiene como analogía y no como identificación directa de Amós 2.
-- #deuteronomio_6_4-5 y #levitico_19_18 ayudan a expresar la responsabilidad de amar al prójimo, pero no sustituyen la acusación específica de Amós.
-- El vínculo entre culto y justicia en #malaquias_1 se consulta como conexión temática, no como prueba de que todos los detalles de ambos libros tengan el mismo contexto histórico.
+- #bereshit_37_28 ilustra la venta de José que Eric usa como patrón comparativo; la conexión se mantiene como analogía y no como identificación directa de Amós 2.
+- #devarim_6_4-5 y #vayikra_19_18 ayudan a expresar la responsabilidad de amar al prójimo, pero no sustituyen la acusación específica de Amós.
+- El vínculo entre culto y justicia en #malaji_1 se consulta como conexión temática, no como prueba de que todos los detalles de ambos libros tengan el mismo contexto histórico.
 
 ## Conclusión
 

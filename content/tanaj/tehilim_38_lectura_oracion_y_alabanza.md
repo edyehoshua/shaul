@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_38_1"
-  - "#salmos_38_23"
+  - "#tehilim_38_1"
+  - "#tehilim_38_23"
 sources:
   - "https://www.youtube.com/watch?v=68bPmhhpX8Y"
   - "docs/scriptures/oe/json/psalms/38.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 38. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)      | Observación de lectura                                               |
 | -------------- | ---------------------------- | -------------------------------------------------------------------- |
-| #salmos_38_1  | מזמור לדוד להזכיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_38_23 | חושה לעזרתי אדני תשועתי | El verso final permite observar el cierre de la composición.         |
+| #tehilim_38_1  | מזמור לדוד להזכיר          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_38_23 | חושה לעזרתי אדני תשועתי | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

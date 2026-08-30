@@ -9,12 +9,12 @@ tags:
   - fidelidad
   - roca
 references:
-  - "#deuteronomio_31_29"
-  - "#deuteronomio_32_1-4"
-  - "#deuteronomio_32_7-14"
-  - "#deuteronomio_32_15-21"
-  - "#deuteronomio_32_35-43"
-  - "#deuteronomio_32_44-47"
+  - "#devarim_31_29"
+  - "#devarim_32_1-4"
+  - "#devarim_32_7-14"
+  - "#devarim_32_15-21"
+  - "#devarim_32_35-43"
+  - "#devarim_32_44-47"
 sources:
   - "https://www.youtube.com/watch?v=e54Boaj8Z_8"
   - "https://www.youtube.com/watch?v=86QJBg5Aw5E"
@@ -36,11 +36,11 @@ Ha'azinu es un testimonio poético que llama a cielos y tierra para que escuchen
 
 | Referencia     | Hebreo local OE (sin nikud)                                               | TTH local                                                                                                                                                    | Función en el canto                                                  |
 | -------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #deuteronomio_32_1  | **האזינו השמים ואדברה ותשמע הארץ אמרי פי**                                | «Den oído los cielos, y déjenme hablar; y escuche la tierra los dichos de mi boca.»                                                                          | Convoca testigos celestiales y terrestres antes de la acusación.     |
-| #deuteronomio_32_4  | **הצור תמים פעלו כי כל דרכיו משפט אל אמונה ואין עול צדיק וישר הוא**       | «La Roca, completa es su acción, porque todos sus caminos son juicio; Él es emunah y sin injusticia, justo y recto es Él.»                                   | Define la Roca por obra completa, juicio, firmeza y rectitud.        |
-| #deuteronomio_32_15 | **וישמן ישרון ויבעט שמנת עבית כשית ויטש אלוה עשהו וינבל צור ישעתו**       | «Pero engordó Ieshurún y pateó; engordaste, engrosaste, te saciaste; y abandonó a Eloha que lo hizo, y despreció a la Roca de su salvación.»                 | Muestra que el problema es abandonar al dador, no recibir provisión. |
-| #deuteronomio_32_39 | **ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא** | «Vean ahora que Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano.»                                                       | La soberanía de יהוה sostiene juicio y restauración.                 |
-| #deuteronomio_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו**       | «Griten de alegría, gentiles, su pueblo, porque la sangre de sus siervos vengará, y venganza regresará a sus enemigos, y reconciliará su tierra, su pueblo.» | El cierre reúne venganza, alegría de las naciones y reconciliación.  |
+| #devarim_32_1  | **האזינו השמים ואדברה ותשמע הארץ אמרי פי**                                | «Den oído los cielos, y déjenme hablar; y escuche la tierra los dichos de mi boca.»                                                                          | Convoca testigos celestiales y terrestres antes de la acusación.     |
+| #devarim_32_4  | **הצור תמים פעלו כי כל דרכיו משפט אל אמונה ואין עול צדיק וישר הוא**       | «La Roca, completa es su acción, porque todos sus caminos son juicio; Él es emunah y sin injusticia, justo y recto es Él.»                                   | Define la Roca por obra completa, juicio, firmeza y rectitud.        |
+| #devarim_32_15 | **וישמן ישרון ויבעט שמנת עבית כשית ויטש אלוה עשהו וינבל צור ישעתו**       | «Pero engordó Ieshurún y pateó; engordaste, engrosaste, te saciaste; y abandonó a Eloha que lo hizo, y despreció a la Roca de su salvación.»                 | Muestra que el problema es abandonar al dador, no recibir provisión. |
+| #devarim_32_39 | **ראו עתה כי אני אני הוא ואין אלהים עמדי אני אמית ואחיה מחצתי ואני ארפא** | «Vean ahora que Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano.»                                                       | La soberanía de יהוה sostiene juicio y restauración.                 |
+| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו**       | «Griten de alegría, gentiles, su pueblo, porque la sangre de sus siervos vengará, y venganza regresará a sus enemigos, y reconciliará su tierra, su pueblo.» | El cierre reúne venganza, alegría de las naciones y reconciliación.  |
 
 ## Recorrido textual
 
@@ -66,15 +66,15 @@ El pueblo provoca a celos con lo que no es Elohim y cambia la Roca por vanidades
 
 El poema anuncia que יהוה esconderá su rostro y verá el final de una generación sin fidelidad. Luego, en 32:39, declara: «Yo, Yo soy Él, y no hay dios conmigo; Yo hago morir y hago vivir, Yo hiero y Yo sano». **אני הוא**, _ani hu_, es una fórmula de autoafirmación: «Yo soy Él». «Yo soy» es **aproximada**, porque el contexto recalca exclusividad y poder soberano. **רפא**, _rapha_, significa sanar; aquí aparece junto a herir y hacer vivir para afirmar que el juicio no escapa a su autoridad.
 
-Entre la corrupción de Jeshurún y la promesa de restauración, el canto expone la respuesta de יהוה. «Yo esconderé mi rostro» y «amontonaré males sobre ellos» (#deuteronomio_32_20-23, TTH) no describe un capricho divino, sino el juicio del pacto contra una generación que provoca al Elohim viviente. **אסתירה**, _astir_, es una forma de סתר, «ocultar»; aquí comunica retirada de favor manifiesto. **קנא**, _qana_, vuelve a aparecer en «me provocaron a celos»: el verbo conserva la imagen relacional de una lealtad quebrantada, no una emoción humana descontrolada.
+Entre la corrupción de Jeshurún y la promesa de restauración, el canto expone la respuesta de יהוה. «Yo esconderé mi rostro» y «amontonaré males sobre ellos» (#devarim_32_20-23, TTH) no describe un capricho divino, sino el juicio del pacto contra una generación que provoca al Elohim viviente. **אסתירה**, _astir_, es una forma de סתר, «ocultar»; aquí comunica retirada de favor manifiesto. **קנא**, _qana_, vuelve a aparecer en «me provocaron a celos»: el verbo conserva la imagen relacional de una lealtad quebrantada, no una emoción humana descontrolada.
 
 Los vv. 24-27 acumulan hambre, peste, bestias y espada, pero también muestran que יהוה limita la destrucción para que el enemigo no diga: «nuestra mano es alta». **אשביתה**, _ashbitah_, es una forma de שבת, «hacer cesar, cortar o poner fin»; aquí expresa la posibilidad de que יהוה borre la memoria del pueblo. La equivalencia «proteger la reputación» es pedagógica: el argumento textual es que las naciones no deben atribuirse una victoria que pertenece al juicio de יהוה.
 
-Los vv. 28-34 diagnostican a las naciones: «son un pueblo sin consejo, y no hay en ellos entendimiento»; la sabiduría sería reconocer que uno persigue a mil solo porque su Roca los vendió. **בינה**, _binah_, es entendimiento o discernimiento; en el pasaje señala la incapacidad de leer la historia bajo la soberanía de יהוה. La vid de Sodoma y los racimos amargos (#deuteronomio_32_32) convierten la conducta enemiga en imagen de corrupción. No es una licencia para etiquetar a cualquier adversario contemporáneo: el poema habla de los enemigos y del juicio que יהוה mismo ejecuta.
+Los vv. 28-34 diagnostican a las naciones: «son un pueblo sin consejo, y no hay en ellos entendimiento»; la sabiduría sería reconocer que uno persigue a mil solo porque su Roca los vendió. **בינה**, _binah_, es entendimiento o discernimiento; en el pasaje señala la incapacidad de leer la historia bajo la soberanía de יהוה. La vid de Sodoma y los racimos amargos (#devarim_32_32) convierten la conducta enemiga en imagen de corrupción. No es una licencia para etiquetar a cualquier adversario contemporáneo: el poema habla de los enemigos y del juicio que יהוה mismo ejecuta.
 
 El cierre (32:43) llama a las naciones a alegrarse con el pueblo de יהוה: la sangre de sus siervos será vengada, los enemigos recibirán retribución y יהוה reconciliará su tierra y su pueblo. **כפר**, _kafar_, puede significar cubrir, expiar o hacer reconciliación según el contexto. «Reconciliará» es una equivalencia **aproximada**, pero la fuerza final es restauradora y no borra la justicia anunciada. El v. 44 añade que Moshéh vino y habló «todas las palabras de este canto a oídos del pueblo» junto con Hoshea. La recepción final del poema es pública y completa: «aplicad vuestro corazón a todas las palabras» (32:46, TTH), porque no es una opinión privada, sino la palabra que forma la vida del pacto. **שימו**, _simu_, de שום, «poner», es un imperativo plural: «pongan». Su fuerza contextual es tomar en serio el canto como instrucción, no admirarlo a distancia.
 
-## El encargo final y el límite de Moshe: 32:48-52 #deuteronomio_32_48-52
+## El encargo final y el límite de Moshe: 32:48-52 #devarim_32_48-52
 
 El capítulo no termina en la exhortación del v. 47. יהוה dice: **ויאמר יהוה אל משה בעצם היום הזה לאמר עלה אל הר העברים הזה הר נבו... וראה את ארץ כנען אשר אני נתן לבני ישראל לאחזה**; TTH: «Y habló יהוה a Moshéh en aquel mismo día, diciendo: sube a este monte de los Avarim, el monte Nebo… y mira la tierra de Kenáan que Yo doy a los hijos de Israel como posesión». Ese mismo día יהוה manda a Moshe subir al monte Nebo y mirar la tierra, pero le anuncia que no entrará en ella. **(עלה)**, _alah_, significa subir o ascender; aquí describe un movimiento real hacia el monte, no una metáfora automática de “subir al cielo”. **(ראה)**, _raah_, significa ver o mirar; su fuerza contextual es contemplar la herencia desde lejos, no poseerla por el hecho de verla.
 

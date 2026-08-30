@@ -10,20 +10,20 @@ tags:
   - profetas
   - llamado
 references:
-  - "#1_reyes_19_3"
-  - "#1_reyes_19_4"
-  - "#1_reyes_19_7"
-  - "#1_reyes_19_8"
-  - "#1_reyes_19_9"
-  - "#1_reyes_19_10"
-  - "#1_reyes_19_11"
-  - "#1_reyes_19_12"
-  - "#1_reyes_19_13"
-  - "#1_reyes_19_15"
-  - "#1_reyes_19_16"
-  - "#1_reyes_19_18"
-  - "#1_reyes_19_19"
-  - "#malaquias_4_5"
+  - "#melajim_alef_19_3"
+  - "#melajim_alef_19_4"
+  - "#melajim_alef_19_7"
+  - "#melajim_alef_19_8"
+  - "#melajim_alef_19_9"
+  - "#melajim_alef_19_10"
+  - "#melajim_alef_19_11"
+  - "#melajim_alef_19_12"
+  - "#melajim_alef_19_13"
+  - "#melajim_alef_19_15"
+  - "#melajim_alef_19_16"
+  - "#melajim_alef_19_18"
+  - "#melajim_alef_19_19"
+  - "#malaji_4_5"
   - "#mateo_11_14"
   - "#lucas_1_17"
 sources:
@@ -49,12 +49,12 @@ Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza titula
 
 | Referencia | Texto local TTH | Función en la enseñanza |
 | --- | --- | --- |
-| #1_reyes_19_3-4 | «Se fue por su vida»; en el desierto pidió morir y dijo: «¡Suficiente!, ahora, יהוה, toma mi vida, porque no soy más bueno yo que mis padres». | La huida y la queja muestran la aflicción del profeta y su reconocimiento de no ser superior a quienes lo precedieron. |
-| #1_reyes_19_7-8 | «Levántate, come, porque mucho para ti es el camino»; anduvo cuarenta días y cuarenta noches hasta Joreb. | La respuesta divina no empieza con una reprimenda, sino con sustento y una ruta hacia el monte de Elohim. |
-| #1_reyes_19_9-10 | «¿Qué hay para ti aquí, Eliyáhu?»; él responde que Israel abandonó el pacto, derribó altares y mató profetas. | La pregunta abre la exposición de la causa: la idolatría es presentada como ruptura del pacto y violencia contra los testigos. |
-| #1_reyes_19_11-13 | El viento, el temblor y el fuego pasan; «no estaba» יהוה en ellos, y después viene «una voz de un pequeño susurro». | La clase contrasta las manifestaciones grandes con la forma sobria de la respuesta escuchada por Eliyáhu. |
-| #1_reyes_19_15-19 | יהוה ordena regresar, encargar acciones sobre Aram e Israel y ungir a Elishá «por profeta en tu lugar»; luego Eliyáhu arroja su manto hacia él. | La restauración se vuelve misión: el profeta no queda detenido en la cueva y el servicio continúa mediante un sucesor. |
-| #1_reyes_19_18 | «He dejado en Israel siete mil» que no se inclinaron a Baal ni lo besaron. | La percepción «sólo yo» es corregida por la existencia de un remanente que יהוה conserva. |
+| #melajim_alef_19_3-4 | «Se fue por su vida»; en el desierto pidió morir y dijo: «¡Suficiente!, ahora, יהוה, toma mi vida, porque no soy más bueno yo que mis padres». | La huida y la queja muestran la aflicción del profeta y su reconocimiento de no ser superior a quienes lo precedieron. |
+| #melajim_alef_19_7-8 | «Levántate, come, porque mucho para ti es el camino»; anduvo cuarenta días y cuarenta noches hasta Joreb. | La respuesta divina no empieza con una reprimenda, sino con sustento y una ruta hacia el monte de Elohim. |
+| #melajim_alef_19_9-10 | «¿Qué hay para ti aquí, Eliyáhu?»; él responde que Israel abandonó el pacto, derribó altares y mató profetas. | La pregunta abre la exposición de la causa: la idolatría es presentada como ruptura del pacto y violencia contra los testigos. |
+| #melajim_alef_19_11-13 | El viento, el temblor y el fuego pasan; «no estaba» יהוה en ellos, y después viene «una voz de un pequeño susurro». | La clase contrasta las manifestaciones grandes con la forma sobria de la respuesta escuchada por Eliyáhu. |
+| #melajim_alef_19_15-19 | יהוה ordena regresar, encargar acciones sobre Aram e Israel y ungir a Elishá «por profeta en tu lugar»; luego Eliyáhu arroja su manto hacia él. | La restauración se vuelve misión: el profeta no queda detenido en la cueva y el servicio continúa mediante un sucesor. |
+| #melajim_alef_19_18 | «He dejado en Israel siete mil» que no se inclinaron a Baal ni lo besaron. | La percepción «sólo yo» es corregida por la existencia de un remanente que יהוה conserva. |
 
 ## Del Carmelo al desierto: el profeta también necesita ser sostenido
 

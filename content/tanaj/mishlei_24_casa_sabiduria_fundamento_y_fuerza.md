@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 24:1-6 sobre no envidiar la violencia, edificar
 date: 2026-08-05
 tags: [mishlei, mishlei_24, sabiduria, casa, discernimiento, guerra]
 references:
-  - "#proverbios_24_1"
-  - "#proverbios_24_2"
-  - "#proverbios_24_3"
-  - "#proverbios_24_4"
-  - "#proverbios_24_5"
-  - "#proverbios_24_6"
-  - "#proverbios_9_1"
+  - "#mishlei_24_1"
+  - "#mishlei_24_2"
+  - "#mishlei_24_3"
+  - "#mishlei_24_4"
+  - "#mishlei_24_5"
+  - "#mishlei_24_6"
+  - "#mishlei_9_1"
   - "#hebreos_3_6"
-  - "#salmos_46_1"
+  - "#tehilim_46_1"
 sources:
   - "https://www.youtube.com/watch?v=iPhYAYYJYaI"
   - "docs/scriptures/oe/json/proverbs/24.json"
@@ -34,12 +34,12 @@ Esta nota organiza la clase sobre los primeros seis versículos de Mishlei 24. S
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_24_1 | אל תקנא באנשי רעה ואל תתאו תתאיו להיות אתם | No envidies a los hombres del mal, ni desees estar con ellos; |
-| #proverbios_24_2 | כי שד יהגה לבם ועמל שפתיהם תדברנה | porque su corazón medita devastación, y sus labios hablan <em>de imponer</em> trabajo duro. |
-| #proverbios_24_3 | בחכמה יבנה בית ובתבונה יתכונן | Con sabiduría se edificará la casa, y con entendimiento se fundamentará, |
-| #proverbios_24_4 | ובדעת חדרים ימלאו כל הון יקר ונעים | con conocimiento se llenarán sus cámaras, toda riqueza preciosa y <em>cosas</em> agradables. |
-| #proverbios_24_5 | גבר חכם בעוז ואיש דעת מאמץ כח | El hombre sabio es con poder, y el hombre de conocimiento fortalece la fuerza. |
-| #proverbios_24_6 | כי בתחבלות תעשה לך מלחמה ותשועה ברב יועץ | Porque con tácticas harás para ti guerra, y la liberación es en la grandeza del consejero. |
+| #mishlei_24_1 | אל תקנא באנשי רעה ואל תתאו תתאיו להיות אתם | No envidies a los hombres del mal, ni desees estar con ellos; |
+| #mishlei_24_2 | כי שד יהגה לבם ועמל שפתיהם תדברנה | porque su corazón medita devastación, y sus labios hablan <em>de imponer</em> trabajo duro. |
+| #mishlei_24_3 | בחכמה יבנה בית ובתבונה יתכונן | Con sabiduría se edificará la casa, y con entendimiento se fundamentará, |
+| #mishlei_24_4 | ובדעת חדרים ימלאו כל הון יקר ונעים | con conocimiento se llenarán sus cámaras, toda riqueza preciosa y <em>cosas</em> agradables. |
+| #mishlei_24_5 | גבר חכם בעוז ואיש דעת מאמץ כח | El hombre sabio es con poder, y el hombre de conocimiento fortalece la fuerza. |
+| #mishlei_24_6 | כי בתחבלות תעשה לך מלחמה ותשועה ברב יועץ | Porque con tácticas harás para ti guerra, y la liberación es en la grandeza del consejero. |
 
 ## No envidiar a quienes edifican mediante la devastación
 
@@ -74,10 +74,10 @@ Mishlei 24:6 concluye con **(תחבולות)**, _tajbulot_, tácticas o estrateg
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_24_1-2 | Los hombres del mal meditan devastación y hablan para imponer trabajo duro; no se debe envidiar su poder. | Apoyo textual; aplicación a autoridades calificada. |
-| #proverbios_24_3-4 | La casa se edifica con sabiduría, se afirma con entendimiento y se llena con conocimiento. | Apoyo textual y conexión pedagógica con la comunidad. |
-| #proverbios_24_5-6 | La fuerza necesita conocimiento, tácticas y consejo; la liberación procede del consejero. | Apoyo textual; aplicación mesiánica calificada. |
-| #proverbios_9_1 / #hebreos_3_6 | La Sabiduría edifica una casa y la casa de Elohim se relaciona con el pueblo. | Conexión intertextual; no se presenta como equivalencia literal. |
+| #mishlei_24_1-2 | Los hombres del mal meditan devastación y hablan para imponer trabajo duro; no se debe envidiar su poder. | Apoyo textual; aplicación a autoridades calificada. |
+| #mishlei_24_3-4 | La casa se edifica con sabiduría, se afirma con entendimiento y se llena con conocimiento. | Apoyo textual y conexión pedagógica con la comunidad. |
+| #mishlei_24_5-6 | La fuerza necesita conocimiento, tácticas y consejo; la liberación procede del consejero. | Apoyo textual; aplicación mesiánica calificada. |
+| #mishlei_9_1 / #hebreos_3_6 | La Sabiduría edifica una casa y la casa de Elohim se relaciona con el pueblo. | Conexión intertextual; no se presenta como equivalencia literal. |
 
 ## Pendiente de verificar
 
@@ -88,9 +88,9 @@ Mishlei 24:6 concluye con **(תחבולות)**, _tajbulot_, tácticas o estrateg
 
 ## Conexiones principales
 
-- #proverbios_9_1: la Sabiduría edifica su casa; conexión literaria con la imagen de Mishlei 24.
-- #salmos_1_2: meditar en la Torah contrasta con meditar devastación en Mishlei 24:2.
-- #salmos_46_1: יהוה como refugio y fuerza ilumina la aplicación del verso 5.
+- #mishlei_9_1: la Sabiduría edifica su casa; conexión literaria con la imagen de Mishlei 24.
+- #tehilim_1_2: meditar en la Torah contrasta con meditar devastación en Mishlei 24:2.
+- #tehilim_46_1: יהוה como refugio y fuerza ilumina la aplicación del verso 5.
 - #hebreos_3_6: la casa de Elohim y la perseverancia del pueblo forman una conexión mesiánica propuesta por la clase.
 
 ## Conclusión

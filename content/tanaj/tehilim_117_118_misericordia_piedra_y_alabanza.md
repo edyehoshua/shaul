@@ -10,11 +10,11 @@ tags:
   - mesiánico
   - naciones
 references:
-  - "#salmos_117_1-2"
-  - "#salmos_118_1-4"
-  - "#salmos_118_5-13"
-  - "#salmos_118_14-21"
-  - "#salmos_118_22-29"
+  - "#tehilim_117_1-2"
+  - "#tehilim_118_1-4"
+  - "#tehilim_118_5-13"
+  - "#tehilim_118_14-21"
+  - "#tehilim_118_22-29"
 sources:
   - "https://www.youtube.com/watch?v=ntYffcwEoHw"
   - "docs/scriptures/oe/json/psalms/117.json"
@@ -36,11 +36,11 @@ La nota sigue los dos versos de Tehilim 117 y los veintinueve de Tehilim 118 en 
 
 | Unidad textual     | Texto hebreo local normalizado                                                                                | Movimiento del argumento                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| #salmos_117_1-2   | הללו את יהוה כל גוים שבחו הו כל האמים; כי גבר עלינו חסדו ואמת יהוה לעולם הללו יה                              | Las naciones reciben la invitación porque el חסד y la verdad de יהוה permanecen.                         |
-| #salmos_118_1-4   | הודו ליהוה כי טוב כי לעולם חסדו; יאמר נא ישראל; יאמרו נא בית אהרן; יאמרו נא יראי יהוה                         | Israel, la casa de Aarón y los que temen a יהוה confiesan la misericordia permanente.                    |
-| #salmos_118_5-13  | מן המצר קראתי יה ענני במרחב יה; יהוה לי לא אירא; טוב לחסות ביהוה; כל גוים סבבוני; דחה דחיתני לנפל ויהוה עזרני | El clamor desde la estrechez se convierte en confianza y victoria sobre el cerco.                        |
-| #salmos_118_14-21 | עזי וזמרת יה ויהי לי לישועה; לא אמות כי אחיה; פתחו לי שערי צדק; זה השער ליהוה צדיקים יבאו בו                  | El rescatado anuncia las obras de יה y entra por la puerta de justicia.                                  |
-| #salmos_118_22-29 | אבן מאסו הבונים היתה לראש פנה; זה היום עשה יהוה; ברוך הבא בשם יהוה; הודו ליהוה כי טוב                         | La piedra rechazada, el día de יהוה, la bendición del que viene y la acción de gracias cierran el salmo. |
+| #tehilim_117_1-2   | הללו את יהוה כל גוים שבחו הו כל האמים; כי גבר עלינו חסדו ואמת יהוה לעולם הללו יה                              | Las naciones reciben la invitación porque el חסד y la verdad de יהוה permanecen.                         |
+| #tehilim_118_1-4   | הודו ליהוה כי טוב כי לעולם חסדו; יאמר נא ישראל; יאמרו נא בית אהרן; יאמרו נא יראי יהוה                         | Israel, la casa de Aarón y los que temen a יהוה confiesan la misericordia permanente.                    |
+| #tehilim_118_5-13  | מן המצר קראתי יה ענני במרחב יה; יהוה לי לא אירא; טוב לחסות ביהוה; כל גוים סבבוני; דחה דחיתני לנפל ויהוה עזרני | El clamor desde la estrechez se convierte en confianza y victoria sobre el cerco.                        |
+| #tehilim_118_14-21 | עזי וזמרת יה ויהי לי לישועה; לא אמות כי אחיה; פתחו לי שערי צדק; זה השער ליהוה צדיקים יבאו בו                  | El rescatado anuncia las obras de יה y entra por la puerta de justicia.                                  |
+| #tehilim_118_22-29 | אבן מאסו הבונים היתה לראש פנה; זה היום עשה יהוה; ברוך הבא בשם יהוה; הודו ליהוה כי טוב                         | La piedra rechazada, el día de יהוה, la bendición del que viene y la acción de gracias cierran el salmo. |
 
 ## Tehilim 117: una invitación sin discriminación
 
@@ -56,7 +56,7 @@ Los cuatro primeros versos repiten «porque para siempre es su חסד». Israel,
 
 **חסד** (_jesed_) tiene el sentido normal de bondad leal, misericordia o amor fiel. En estos versos su fuerza contextual es la fidelidad activa de יהוה que sostiene al pueblo a través del tiempo. La equivalencia con «gracia» es aproximada y pedagógica: puede comunicar el favor inmerecido, pero no agota la lealtad relacional del término. **הודו** (_hodu_) significa «den gracias» o «confiesen», y hace de la alabanza una respuesta verbal a una realidad recibida.
 
-## 118:5-13: estrechez, refugio y auxilio #salmos_118_5-13
+## 118:5-13: estrechez, refugio y auxilio #tehilim_118_5-13
 
 El orante dice: «Desde la estrechez llamé a יה; יה me respondió en el espacio abierto». Eric lee el contraste entre **המצר** (_hametsar_, «la estrechez») y **מרחב** (_merjav_, «espacio amplio») como el paso de una condición que aprieta a una liberación que permite respirar. El texto afirma el clamor y la respuesta; la aplicación a toda crisis concreta requiere discernimiento.
 
@@ -64,7 +64,7 @@ La confianza se formula tres veces: «יהוה está conmigo; no temeré; ¿qué
 
 Los pueblos rodean al orante como abejas y como fuego de espinos, pero son apagados en el nombre de יהוה. El salmo no niega que el cerco sea real: dice que el enemigo empuja para hacer caer, y que יהוה ayuda. **סבב** (_sovav_) significa «rodear» y **דחה** (_dajah_) «empujar o rechazar». Sus sentidos son exactos en la escena; convertir cada adversario en una categoría étnica sería contrario al alcance universal del conjunto.
 
-## 118:14-21: vida, justicia y entrada #salmos_118_14-21
+## 118:14-21: vida, justicia y entrada #tehilim_118_14-21
 
 «Mi fuerza y mi cántico es יה, y llegó a ser para mí salvación». Eric relaciona esta confesión con una vida que no es consumida por el golpe recibido: «no moriré, sino que viviré y contaré las obras de יה». El verso no promete que ningún creyente muera físicamente; en el contexto afirma que el orante ha sido preservado para testificar. **ישועה** (_yeshuah_) significa «salvación, liberación o victoria»; la relación con la obra salvadora del Mesías es canónica y pedagógica, mientras el rescate del orante es el sentido inmediato.
 

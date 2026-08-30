@@ -4,20 +4,20 @@ description: "Estudio de Mishlei 17:15-27 sobre el juicio, el compañero en la e
 date: 2026-08-05
 tags: [mishlei, mishlei_17, companero, sabiduria, lengua, disciplina]
 references:
-  - "#proverbios_17_15"
-  - "#proverbios_17_16"
-  - "#proverbios_17_17"
-  - "#proverbios_17_18"
-  - "#proverbios_17_19"
-  - "#proverbios_17_20"
-  - "#proverbios_17_21"
-  - "#proverbios_17_22"
-  - "#proverbios_17_23"
-  - "#proverbios_17_24"
-  - "#proverbios_17_25"
-  - "#proverbios_17_26"
-  - "#proverbios_17_27"
-  - "#deuteronomio_30_11"
+  - "#mishlei_17_15"
+  - "#mishlei_17_16"
+  - "#mishlei_17_17"
+  - "#mishlei_17_18"
+  - "#mishlei_17_19"
+  - "#mishlei_17_20"
+  - "#mishlei_17_21"
+  - "#mishlei_17_22"
+  - "#mishlei_17_23"
+  - "#mishlei_17_24"
+  - "#mishlei_17_25"
+  - "#mishlei_17_26"
+  - "#mishlei_17_27"
+  - "#devarim_30_11"
   - "#hebreos_4_15"
 sources:
   - "https://www.youtube.com/watch?v=V9-bmavZImQ"
@@ -40,19 +40,19 @@ Esta nota organiza la clase del hermano Eric de Jesús Rodríguez Mendoza sobre 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_17_15 | מצדיק רשע ומרשיע צדיק תועבת יהוה גם שניהם | El que justifica al condenado, y el que condena al justificado, abominación de יהוה son aun los dos. |
-| #proverbios_17_16 | למה זה מחיר ביד כסיל לקנות חכמה ולב אין | ¿Por qué hay un precio en la mano del indisciplinado para comprar sabiduría cuando no tiene corazón? |
-| #proverbios_17_17 | בכל עת אהב הרע ואח לצרה יולד | En todo tiempo ama el compañero, y el hermano, para el tiempo de la estrechez nació. |
-| #proverbios_17_18 | אדם חסר לב תוקע כף ערב ערבה לפני רעהו | El hombre falto de corazón golpea la palma, y se había comprometido en un convenio delante de su compañero. |
-| #proverbios_17_19 | אהב פשע אהב מצה מגביה פתחו מבקש שבר | El que ama la transgresión, ama la pelea; el que levanta su abertura, busca rotura. |
-| #proverbios_17_20 | עקש לב לא ימצא טוב ונהפך בלשונו יפול ברעה | El perverso de corazón no hallará el bien, y el distorsionado en su lengua caerá en el mal. |
-| #proverbios_17_21 | ילד כסיל לתוגה לו ולא ישמח אבי נבל | El que engendra un indisciplinado, es para tristeza suya; y no se alegrará el padre del marchito. |
-| #proverbios_17_22 | לב שמח ייטב גהה ורוח נכאה תיבש גרם | El corazón alegre causará buena curación, pero el espíritu herido secará el hueso. |
-| #proverbios_17_23 | שחד מחיק רשע יקח להטות ארחות משפט | Soborno del seno tomará el condenado, para pervertir las sendas del juicio. |
-| #proverbios_17_24 | את פני מבין חכמה ועיני כסיל בקצה ארץ | Ante el rostro del entendido hay sabiduría, pero los ojos de los indisciplinados están en el confín de la tierra. |
-| #proverbios_17_25 | כעס לאביו בן כסיל וממר ליולדתו | Dolor de su padre es el hijo indisciplinado, y amargura para la que lo parió. |
-| #proverbios_17_26 | גם ענוש לצדיק לא טוב להכות נדיבים על ישר | Además, multar al justificado no es bueno, ni golpear a los dadivosos por rectitud. |
-| #proverbios_17_27 | חושך אמריו יודע דעת וקר יקר רוח איש תבונה | El que retiene sus dichos sabe conocimiento, y el fresco de espíritu es un hombre de entendimiento. |
+| #mishlei_17_15 | מצדיק רשע ומרשיע צדיק תועבת יהוה גם שניהם | El que justifica al condenado, y el que condena al justificado, abominación de יהוה son aun los dos. |
+| #mishlei_17_16 | למה זה מחיר ביד כסיל לקנות חכמה ולב אין | ¿Por qué hay un precio en la mano del indisciplinado para comprar sabiduría cuando no tiene corazón? |
+| #mishlei_17_17 | בכל עת אהב הרע ואח לצרה יולד | En todo tiempo ama el compañero, y el hermano, para el tiempo de la estrechez nació. |
+| #mishlei_17_18 | אדם חסר לב תוקע כף ערב ערבה לפני רעהו | El hombre falto de corazón golpea la palma, y se había comprometido en un convenio delante de su compañero. |
+| #mishlei_17_19 | אהב פשע אהב מצה מגביה פתחו מבקש שבר | El que ama la transgresión, ama la pelea; el que levanta su abertura, busca rotura. |
+| #mishlei_17_20 | עקש לב לא ימצא טוב ונהפך בלשונו יפול ברעה | El perverso de corazón no hallará el bien, y el distorsionado en su lengua caerá en el mal. |
+| #mishlei_17_21 | ילד כסיל לתוגה לו ולא ישמח אבי נבל | El que engendra un indisciplinado, es para tristeza suya; y no se alegrará el padre del marchito. |
+| #mishlei_17_22 | לב שמח ייטב גהה ורוח נכאה תיבש גרם | El corazón alegre causará buena curación, pero el espíritu herido secará el hueso. |
+| #mishlei_17_23 | שחד מחיק רשע יקח להטות ארחות משפט | Soborno del seno tomará el condenado, para pervertir las sendas del juicio. |
+| #mishlei_17_24 | את פני מבין חכמה ועיני כסיל בקצה ארץ | Ante el rostro del entendido hay sabiduría, pero los ojos de los indisciplinados están en el confín de la tierra. |
+| #mishlei_17_25 | כעס לאביו בן כסיל וממר ליולדתו | Dolor de su padre es el hijo indisciplinado, y amargura para la que lo parió. |
+| #mishlei_17_26 | גם ענוש לצדיק לא טוב להכות נדיבים על ישר | Además, multar al justificado no es bueno, ni golpear a los dadivosos por rectitud. |
+| #mishlei_17_27 | חושך אמריו יודע דעת וקר יקר רוח איש תבונה | El que retiene sus dichos sabe conocimiento, y el fresco de espíritu es un hombre de entendimiento. |
 
 ## Juzgar una causa no es usurpar el lugar del Juez
 
@@ -101,10 +101,10 @@ Los versos 25-27 cierran con el dolor que produce un hijo indisciplinado y con e
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_17_15 | No se debe justificar al condenado ni condenar al justificado; juzgar una causa no equivale a usurpar el lugar de יהוה. | Principio textual apoyado; aplicación comunitaria exige proceso. |
-| #proverbios_17_16-18 | La sabiduría no se compra sin corazón; el compañero ama en la estrechez y el compromiso con el extraño atrapa. | Secuencia textual apoyada; lectura mesiánica del compañero calificada. |
-| #proverbios_17_19-23 | La rebelión abre contienda, la boca busca rotura y el soborno pervierte el juicio. | Contraste textual apoyado; expresión idiomática y consecuencias espirituales pendientes. |
-| #proverbios_17_24-27 | El entendido tiene la sabiduría delante y aprende a retener sus dichos. | Aplicación a obediencia, madurez y dominio propio apoyada como exhortación. |
+| #mishlei_17_15 | No se debe justificar al condenado ni condenar al justificado; juzgar una causa no equivale a usurpar el lugar de יהוה. | Principio textual apoyado; aplicación comunitaria exige proceso. |
+| #mishlei_17_16-18 | La sabiduría no se compra sin corazón; el compañero ama en la estrechez y el compromiso con el extraño atrapa. | Secuencia textual apoyada; lectura mesiánica del compañero calificada. |
+| #mishlei_17_19-23 | La rebelión abre contienda, la boca busca rotura y el soborno pervierte el juicio. | Contraste textual apoyado; expresión idiomática y consecuencias espirituales pendientes. |
+| #mishlei_17_24-27 | El entendido tiene la sabiduría delante y aprende a retener sus dichos. | Aplicación a obediencia, madurez y dominio propio apoyada como exhortación. |
 
 ## Pendiente de verificar
 

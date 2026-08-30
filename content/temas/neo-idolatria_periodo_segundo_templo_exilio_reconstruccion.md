@@ -9,16 +9,16 @@ tags:
   - idolatria
   - autoridad
 references:
-  - "#jeremias_25_11"
-  - "#isaias_44_28"
-  - "#isaias_45_1"
-  - "#isaias_45_4"
-  - "#hageo_1_2"
-  - "#hageo_1_5"
-  - "#hageo_1_8"
-  - "#hageo_2_9"
-  - "#zacarias_3_8"
-  - "#zacarias_6_12"
+  - "#yirmeyahu_25_11"
+  - "#yeshayahu_44_28"
+  - "#yeshayahu_45_1"
+  - "#yeshayahu_45_4"
+  - "#jaggai_1_2"
+  - "#jaggai_1_5"
+  - "#jaggai_1_8"
+  - "#jaggai_2_9"
+  - "#zejariah_3_8"
+  - "#zejariah_6_12"
   - "#mateo_23_8"
   - "#mateo_23_13"
   - "#mateo_24_1"
@@ -47,11 +47,11 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre el p
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #jeremias_25_11-12 | «Y será toda esta tierra para desolación, para horror, y servirán estas naciones al rey de Babel setenta años... cuando se completen los setenta años, visitaré sobre el rey de Babel... su iniquidad». | El exilio tiene duración y juicio; no es un accidente sin propósito. |
-| #isaias_44_28; #isaias_45_1,4 | «El que dice de Coresh: “Mi pastor es”»; «a su ungido, a Coresh»; «te he nombrado, y no me conocías». | יהוה puede usar a un gobernante pagano para cumplir un propósito histórico sin convertirlo en modelo de santidad. |
-| #hageo_1_2,5-8 | «¿Es tiempo para ustedes habitar en sus casas techadas, y esta casa está desolada?»; «Pongan su corazón sobre sus caminos»; «edifiquen la casa». | La negligencia de la casa de יהוה se discierne examinando caminos y prioridades. |
-| #hageo_2_9 | «Grande será la gloria de esta casa, la postrera más que la primera... y en este lugar daré shalom». | La gloria prometida no debe reducirse al tamaño o apariencia del edificio. |
-| #zacarias_3_8; #zacarias_6_12 | Yehoshúa y sus compañeros son «hombres de señal»; el Retoño «edificará el Hejal de יהוה». | El sacerdocio y la edificación aparecen con una dimensión simbólica que apunta más allá de la obra inmediata. |
+| #yirmeyahu_25_11-12 | «Y será toda esta tierra para desolación, para horror, y servirán estas naciones al rey de Babel setenta años... cuando se completen los setenta años, visitaré sobre el rey de Babel... su iniquidad». | El exilio tiene duración y juicio; no es un accidente sin propósito. |
+| #yeshayahu_44_28; #yeshayahu_45_1,4 | «El que dice de Coresh: “Mi pastor es”»; «a su ungido, a Coresh»; «te he nombrado, y no me conocías». | יהוה puede usar a un gobernante pagano para cumplir un propósito histórico sin convertirlo en modelo de santidad. |
+| #jaggai_1_2,5-8 | «¿Es tiempo para ustedes habitar en sus casas techadas, y esta casa está desolada?»; «Pongan su corazón sobre sus caminos»; «edifiquen la casa». | La negligencia de la casa de יהוה se discierne examinando caminos y prioridades. |
+| #jaggai_2_9 | «Grande será la gloria de esta casa, la postrera más que la primera... y en este lugar daré shalom». | La gloria prometida no debe reducirse al tamaño o apariencia del edificio. |
+| #zejariah_3_8; #zejariah_6_12 | Yehoshúa y sus compañeros son «hombres de señal»; el Retoño «edificará el Hejal de יהוה». | El sacerdocio y la edificación aparecen con una dimensión simbólica que apunta más allá de la obra inmediata. |
 | #mateo_24_1-2 | «No quedará aquí piedra sobre piedra que no sea derribada». | Yehoshua relativiza el edificio visible y anuncia su ruina. |
 
 ## De Babel al retorno: disciplina y providencia

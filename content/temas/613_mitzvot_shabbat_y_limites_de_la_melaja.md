@@ -9,14 +9,14 @@ tags:
   - santidad
   - discernimiento
 references:
-  - "#exodo_12_15"
-  - "#exodo_20_8"
-  - "#exodo_20_9"
-  - "#exodo_20_10"
-  - "#exodo_31_14"
-  - "#levitico_18_1"
-  - "#levitico_18_6"
-  - "#levitico_18_29"
+  - "#shemot_12_15"
+  - "#shemot_20_8"
+  - "#shemot_20_9"
+  - "#shemot_20_10"
+  - "#shemot_31_14"
+  - "#vayikra_18_1"
+  - "#vayikra_18_6"
+  - "#vayikra_18_29"
   - "#marcos_2_27"
   - "#marcos_2_28"
   - "#1_corintios_5_1"
@@ -48,10 +48,10 @@ Estas observaciones se mantienen atribuibles a Eric, no como citas literales. La
 
 | Perícopa                 | Punto de la exposición                                                                          | Evaluación canónica                                                                                                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| #exodo_20_8-11          | El séptimo día debe ser recordado y santificado.                                                | La orden incluye descanso del siervo, del residente y del animal; el ámbito social forma parte del mandamiento.        |
-| #exodo_12_15            | En los días de panes sin levadura se prohíbe la labor y se exceptúa la preparación de alimento. | La excepción es textual y está limitada a la comida; no convierte cualquier actividad en indiferente.                  |
-| #exodo_31_14            | La profanación del Shabat recibe una advertencia severa dentro del pacto.                       | La pena pertenece al orden jurídico de Israel; no autoriza a comunidades actuales a ejecutar castigos.                 |
-| #levitico_18_6-23       | La sesión enlaza las prohibiciones sexuales con la santidad de la Torah.                        | Levítico regula parentescos y desnudez en su propio capítulo; no debe mezclarse sin cuidado con las mitzvot de Shabat. |
+| #shemot_20_8-11          | El séptimo día debe ser recordado y santificado.                                                | La orden incluye descanso del siervo, del residente y del animal; el ámbito social forma parte del mandamiento.        |
+| #shemot_12_15            | En los días de panes sin levadura se prohíbe la labor y se exceptúa la preparación de alimento. | La excepción es textual y está limitada a la comida; no convierte cualquier actividad en indiferente.                  |
+| #shemot_31_14            | La profanación del Shabat recibe una advertencia severa dentro del pacto.                       | La pena pertenece al orden jurídico de Israel; no autoriza a comunidades actuales a ejecutar castigos.                 |
+| #vayikra_18_6-23       | La sesión enlaza las prohibiciones sexuales con la santidad de la Torah.                        | Levítico regula parentescos y desnudez en su propio capítulo; no debe mezclarse sin cuidado con las mitzvot de Shabat. |
 | #marcos_2_27-28            | Yehoshua resume la finalidad humana del Shabat.                                                 | La afirmación interpreta el propósito del día, no elimina la llamada a recibirlo como don de Elohim.                   |
 | #1_corintios_5_1-5 | Eric contrasta expulsión comunitaria con ejecución física.                                      | Pablo ordena una medida comunitaria y no apedreamiento; el texto debe leerse en su contexto apostólico.                |
 
@@ -81,11 +81,11 @@ La conclusión de Eric sobre la desaparición del templo, el sacerdocio levític
 
 ## Recorrido canónico y límites de la aplicación
 
-El orden de los textos impide fundir todas las afirmaciones de la clase en una sola regla. #exodo_12_15 trata la labor en los días de panes sin levadura y conserva la necesidad de comer; #exodo_20_8-11 ordena recordar y santificar el séptimo día, incluyendo el descanso de siervos, residentes y animales; y #exodo_31_14-15 expresa la gravedad de profanarlo dentro del pacto. **(מַעֲשֶׂה)**, _ma‘aseh_, significa obra, hecho o acción; su fuerza normal es amplia y **aproximada** para el argumento, por lo que no puede sustituir a **(מְלָאכָה)**, _melajá_, ni establecer por sí solo una lista de actividades prohibidas.
+El orden de los textos impide fundir todas las afirmaciones de la clase en una sola regla. #shemot_12_15 trata la labor en los días de panes sin levadura y conserva la necesidad de comer; #shemot_20_8-11 ordena recordar y santificar el séptimo día, incluyendo el descanso de siervos, residentes y animales; y #shemot_31_14-15 expresa la gravedad de profanarlo dentro del pacto. **(מַעֲשֶׂה)**, _ma‘aseh_, significa obra, hecho o acción; su fuerza normal es amplia y **aproximada** para el argumento, por lo que no puede sustituir a **(מְלָאכָה)**, _melajá_, ni establecer por sí solo una lista de actividades prohibidas.
 
 La observación de Eric sobre la persona y el Shabat encuentra su prueba más cercana en #marcos_2_27-28. **(γίνομαι)**, _ginomai_, significa llegar a ser, suceder o hacerse; en «el Shabat fue hecho» su fuerza contextual es la finalidad ordenada del día, una glosa **directa** en el marco de la frase. **(ἄνθρωπος)**, _anthrōpos_, significa ser humano o persona; su referencia es **directa** para el destinatario humano, pero no autoriza una oposición absoluta entre humanidad y mandamiento. Yehoshua interpreta el propósito del Shabat; no declara que toda restricción sea indiferente.
 
-Después, #levitico_18_6-23 cambia de perícopa y de asunto: regula relaciones prohibidas, no la lista de labores del Shabat. La forma textual relevante es **(גָּלָה)**, _galá_, «descubrir, revelar o exponer»; su fuerza en «descubrir la desnudez» es **directa** para el eufemismo legal. Mantener esta precisión evita que la crítica de Eric a la fragmentación de mitzvot borre las fronteras literarias de Levítico.
+Después, #vayikra_18_6-23 cambia de perícopa y de asunto: regula relaciones prohibidas, no la lista de labores del Shabat. La forma textual relevante es **(גָּלָה)**, _galá_, «descubrir, revelar o exponer»; su fuerza en «descubrir la desnudez» es **directa** para el eufemismo legal. Mantener esta precisión evita que la crítica de Eric a la fragmentación de mitzvot borre las fronteras literarias de Levítico.
 
 Por último, #1_corintios_5_1-5 muestra una respuesta comunitaria apostólica ante un caso sexual grave. **(παραδίδωμι)**, _paradidōmi_, significa «entregar» o «poner en manos de»; su fuerza es **contextual**, porque la medida tiene finalidad correctiva y no transfiere a la comunidad actual la pena de Éxodo 31 ni una autoridad civil para ejecutar. Llamarla «disciplina» es una glosa **pedagógica** que resume el propósito de la acción, no una autorización para reproducir la sanción del pacto.
 
@@ -101,9 +101,9 @@ Eric habla de consecuencias severas como _caret_ para transgresiones intencional
 
 | Unidad                                                                                | Observación atribuible                                                                                                | Tratamiento frente a la Escritura                                                                                        |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Mitzvot 326–329; #exodo_20_8-11; `youtube:XQjMnOoXJMY`                               | Varias prohibiciones de labor pueden ser desgloses de una misma instrucción; el Shabat no debe aplastar a la persona. | La estructura de Éxodo confirma el descanso social; la crítica a la numeración es una evaluación histórica y pedagógica. |
-| Mitzvá 330 y siguientes; #levitico_18_6-23; `youtube:XQjMnOoXJMY`                    | Las prohibiciones sexuales protegen límites familiares que la narración patriarcal no debe convertir en permiso.      | Apoyo textual directo para la perícopa; las aplicaciones actuales deben evitar humillación y violencia.                  |
-| Sanciones y comunidad; #exodo_31_14; #1_corintios_5_1-5; `youtube:XQjMnOoXJMY` | El presente no debe reproducir ejecuciones cultuales; la comunidad debe disciplinar según el evangelio.               | La diferencia entre sanción del pacto y disciplina apostólica es textual; la historia posterior queda cualificada.       |
+| Mitzvot 326–329; #shemot_20_8-11; `youtube:XQjMnOoXJMY`                               | Varias prohibiciones de labor pueden ser desgloses de una misma instrucción; el Shabat no debe aplastar a la persona. | La estructura de Éxodo confirma el descanso social; la crítica a la numeración es una evaluación histórica y pedagógica. |
+| Mitzvá 330 y siguientes; #vayikra_18_6-23; `youtube:XQjMnOoXJMY`                    | Las prohibiciones sexuales protegen límites familiares que la narración patriarcal no debe convertir en permiso.      | Apoyo textual directo para la perícopa; las aplicaciones actuales deben evitar humillación y violencia.                  |
+| Sanciones y comunidad; #shemot_31_14; #1_corintios_5_1-5; `youtube:XQjMnOoXJMY` | El presente no debe reproducir ejecuciones cultuales; la comunidad debe disciplinar según el evangelio.               | La diferencia entre sanción del pacto y disciplina apostólica es textual; la historia posterior queda cualificada.       |
 
 ## Pendiente de verificar
 

@@ -4,12 +4,12 @@ description: "Estudio de Mishlei 12:1-4 sobre disciplina, fruto, fundamento y la
 date: 2026-08-06
 tags: [mishlei, mishlei_12, musar, raiz_de_los_justos, eshet_jail, justicia]
 references:
-  - "#proverbios_12_1"
-  - "#proverbios_12_2"
-  - "#proverbios_12_3"
-  - "#proverbios_12_4"
-  - "#isaias_11_10"
-  - "#isaias_53_5"
+  - "#mishlei_12_1"
+  - "#mishlei_12_2"
+  - "#mishlei_12_3"
+  - "#mishlei_12_4"
+  - "#yeshayahu_11_10"
+  - "#yeshayahu_53_5"
 sources:
   - "https://www.youtube.com/watch?v=LBvQoB62HAQ"
   - "docs/scriptures/oe/json/proverbs/12.json"
@@ -34,12 +34,12 @@ Esta nota organiza la segunda clase del capítulo 12 y sigue el movimiento de lo
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_12_1 | אהב מוסר אהב דעת ושנא תוכחת בער | El que ama la disciplina, ama el conocimiento, y el que odia la reprensión es estúpido. |
-| #proverbios_12_2 | טוב יפיק רצון מיהוה ואיש מזמות ירשיע | El bien producirá favor de יהוה, pero Él condenará al hombre de planes condenados. |
-| #proverbios_12_3 | לא יכון אדם ברשע ושרש צדיקים בל ימוט | No se establecerá el hombre en la maldad, pero la raíz de los justos no será sacudida. |
-| #proverbios_12_4 | אשת חיל עטרת בעלה וכרקב בעצמותיו מבישה | La mujer de valor es corona de su señor, pero como podredumbre en sus huesos es la que lo deshonra (Lit.: la que marchita). |
-| #isaias_11_10 | והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד | Y sucederá en aquel día: la raíz de Isaí, que estará en pie como estandarte de pueblos; a él buscarán naciones, y su lugar de descanso será honra. |
-| #isaias_53_5 | והוא מחלל מפשעינו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו | Mas Él fue traspasado por nuestras transgresiones, aplastado por nuestras iniquidades. La disciplina de nuestro shalom fue sobre Él, y por sus heridas trajo sanación a nosotros. |
+| #mishlei_12_1 | אהב מוסר אהב דעת ושנא תוכחת בער | El que ama la disciplina, ama el conocimiento, y el que odia la reprensión es estúpido. |
+| #mishlei_12_2 | טוב יפיק רצון מיהוה ואיש מזמות ירשיע | El bien producirá favor de יהוה, pero Él condenará al hombre de planes condenados. |
+| #mishlei_12_3 | לא יכון אדם ברשע ושרש צדיקים בל ימוט | No se establecerá el hombre en la maldad, pero la raíz de los justos no será sacudida. |
+| #mishlei_12_4 | אשת חיל עטרת בעלה וכרקב בעצמותיו מבישה | La mujer de valor es corona de su señor, pero como podredumbre en sus huesos es la que lo deshonra (Lit.: la que marchita). |
+| #yeshayahu_11_10 | והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד | Y sucederá en aquel día: la raíz de Isaí, que estará en pie como estandarte de pueblos; a él buscarán naciones, y su lugar de descanso será honra. |
+| #yeshayahu_53_5 | והוא מחלל מפשעינו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו | Mas Él fue traspasado por nuestras transgresiones, aplastado por nuestras iniquidades. La disciplina de nuestro shalom fue sobre Él, y por sus heridas trajo sanación a nosotros. |
 
 ## La raíz no es una obra autónoma del humano
 
@@ -68,10 +68,10 @@ La segunda mitad del verso invierte la imagen. Así como la mujer de valor es co
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_12_2 | El bien produce el favor y la restauración de יהוה; los planes humanos malvados llevan a condenación. | Contraste textual apoyado; explicación de “producir” y aplicación doctrinal calificadas. |
-| #proverbios_12_3 | La raíz de los justos no es una construcción del individuo, sino una raíz establecida por יהוה y relacionada con Yehoshua. | Permanencia textual apoyada; conexión con la raíz mesiánica atribuida. |
-| #isaias_11_10 y #isaias_53_5 | La raíz de Isaí y el siervo sufriente ayudan a explicar la raíz que sostiene al pueblo y la disciplina recibida. | Conexión temática de la clase; no se presenta como prueba aislada concluyente. |
-| #proverbios_12_4 | La mujer de valor es leída como Israel, una fuerza corporativa que corona a su señor; la deshonra marchita. | “Corona” y contraste apoyados; lectura corporativa y simbología comunitaria calificadas. |
+| #mishlei_12_2 | El bien produce el favor y la restauración de יהוה; los planes humanos malvados llevan a condenación. | Contraste textual apoyado; explicación de “producir” y aplicación doctrinal calificadas. |
+| #mishlei_12_3 | La raíz de los justos no es una construcción del individuo, sino una raíz establecida por יהוה y relacionada con Yehoshua. | Permanencia textual apoyada; conexión con la raíz mesiánica atribuida. |
+| #yeshayahu_11_10 y #yeshayahu_53_5 | La raíz de Isaí y el siervo sufriente ayudan a explicar la raíz que sostiene al pueblo y la disciplina recibida. | Conexión temática de la clase; no se presenta como prueba aislada concluyente. |
+| #mishlei_12_4 | La mujer de valor es leída como Israel, una fuerza corporativa que corona a su señor; la deshonra marchita. | “Corona” y contraste apoyados; lectura corporativa y simbología comunitaria calificadas. |
 
 ## Pendiente de verificar
 

@@ -1,9 +1,9 @@
 ---
 title: "Consuelo frente al temor"
-description: "Isaías 51 consuela a Sion y pregunta quién puede intimidar a quien יהוה sostiene."
+description: "Yeshayahu 51 consuela a Sion y pregunta quién puede intimidar a quien יהוה sostiene."
 date: 2026-07-27
 tags: [tanaj, yeshayahu, haftarah, shoftim]
-references: ["#isaias_51_12"]
+references: ["#yeshayahu_51_12"]
 sources:
   [
     "https://www.youtube.com/watch?v=u0xlyaA5Jb4",
@@ -20,7 +20,7 @@ Isaías 51 confronta el temor humano con la identidad de יהוה como consolado
 
 | Referencia       | Texto local              | Observación                                                      |
 | ---------------- | ------------------------ | ---------------------------------------------------------------- |
-| #isaias_51_12 | Texto local de Isaías 51 | El consuelo de יהוה cuestiona el miedo que domina al ser humano. |
+| #yeshayahu_51_12 | Texto local de Isaías 51 | El consuelo de יהוה cuestiona el miedo que domina al ser humano. |
 
 ## Lectura
 

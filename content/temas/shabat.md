@@ -8,19 +8,19 @@ tags:
   - descanso
   - santidad
   - tradicion
-  - yojanan
+  - juan
 references:
-  - "#genesis_2_2"
-  - "#genesis_2_3"
-  - "#exodo_20_8"
-  - "#exodo_20_10"
-  - "#deuteronomio_5_12"
-  - "#deuteronomio_5_14"
-  - "#deuteronomio_5_15"
-  - "#jeremias_17_21"
-  - "#jeremias_17_22"
-  - "#isaias_58_13"
-  - "#isaias_58_14"
+  - "#bereshit_2_2"
+  - "#bereshit_2_3"
+  - "#shemot_20_8"
+  - "#shemot_20_10"
+  - "#devarim_5_12"
+  - "#devarim_5_14"
+  - "#devarim_5_15"
+  - "#yirmeyahu_17_21"
+  - "#yirmeyahu_17_22"
+  - "#yeshayahu_58_13"
+  - "#yeshayahu_58_14"
   - "#juan_5_8"
   - "#juan_5_9"
   - "#juan_5_10"
@@ -65,25 +65,25 @@ Esta nota reúne cuatro conversatorios del hermano Eric de Jesús Rodríguez Men
 
 | Referencia          | Texto local                                                                                                                                                                        | Observación                                                                                                                          |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #genesis_2_2-3     | ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה. ויברך אלהים את יום השביעי ויקדש אתו כי בו שבת מכל מלאכתו אשר ברא אלהים לעשות                           | El séptimo día queda ligado al cese de la obra, a la bendición y a la santificación.                                                 |
-| #exodo_20_8-11     | זכור את יום השבת לקדשו… ויום השביעי שבת ליהוה אלהיך לא תעשה כל מלאכה…                                                                                                              | Recordar y santificar el día incluye el cese del trabajo para la casa, los siervos, los animales y el extranjero.                    |
-| #deuteronomio_5_12-15    | שמור את יום השבת לקדשו… למען ינוח עבדך ואמתך כמוך. וזכרת כי עבד היית בארץ מצרים                                                                                                    | La versión de Devarim asocia el Shabat con el descanso del dependiente y con la memoria de la liberación de Egipto.                  |
-| #jeremias_17_21-22  | השמרו בנפשותיכם ואל תשאו משא ביום השבת והבאתם בשערי ירושלם. ולא תוציאו משא מבתיכם… וקדשתם את יום השבת                                                                              | El profeta vincula carga, puertas de Yerushaláim, trabajo y consagración; el alcance preciso de «carga» debe leerse en ese contexto. |
-| #isaias_58_13-14 | אם תשיב משבת רגלך עשות חפציך ביום קדשי וקראת לשבת ענג לקדוש יהוה מכבד… אז תתענג על יהוה                                                                                            | El día santo se contrapone a perseguir los propios asuntos y se describe como delicia para יהוה.                                     |
+| #bereshit_2_2-3     | ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה. ויברך אלהים את יום השביעי ויקדש אתו כי בו שבת מכל מלאכתו אשר ברא אלהים לעשות                           | El séptimo día queda ligado al cese de la obra, a la bendición y a la santificación.                                                 |
+| #shemot_20_8-11     | זכור את יום השבת לקדשו… ויום השביעי שבת ליהוה אלהיך לא תעשה כל מלאכה…                                                                                                              | Recordar y santificar el día incluye el cese del trabajo para la casa, los siervos, los animales y el extranjero.                    |
+| #devarim_5_12-15    | שמור את יום השבת לקדשו… למען ינוח עבדך ואמתך כמוך. וזכרת כי עבד היית בארץ מצרים                                                                                                    | La versión de Devarim asocia el Shabat con el descanso del dependiente y con la memoria de la liberación de Egipto.                  |
+| #yirmeyahu_17_21-22  | השמרו בנפשותיכם ואל תשאו משא ביום השבת והבאתם בשערי ירושלם. ולא תוציאו משא מבתיכם… וקדשתם את יום השבת                                                                              | El profeta vincula carga, puertas de Yerushaláim, trabajo y consagración; el alcance preciso de «carga» debe leerse en ese contexto. |
+| #yeshayahu_58_13-14 | אם תשיב משבת רגלך עשות חפציך ביום קדשי וקראת לשבת ענג לקדוש יהוה מכבד… אז תתענג על יהוה                                                                                            | El día santo se contrapone a perseguir los propios asuntos y se describe como delicia para יהוה.                                     |
 | #juan_5_8-10     | Y le dijo Yeshúa: Levántate y toma tu camilla, y anda… y era Shabat en aquel día. Y dijeron los yehudim al que había sido sanado: Es Shabat, no te es permitido cargar la camilla. | La sanidad y la camilla abren una controversia concreta sobre la carga en Shabat.                                                    |
 | #juan_5_16-17    | Y por eso, persiguieron los yehudim a Yeshúa… porque hizo estas cosas en el Shabat. Y Yeshúa les respondió: Mi Padre hasta ahora obra, y Yo obro.                                  | El relato conserva la acusación y la respuesta; su alcance teológico requiere leer el capítulo completo.                             |
 
 ## Cese, memoria y santidad
 
-La primera clase parte de **(שבת)** y del verbo **(שבת)** como lenguaje de cese o suspensión. La propuesta de que el sustantivo funcione como «instrumento» gramatical y la comparación con **(מנוחה)** son líneas de la exposición que conviene cotejar con léxicos especializados. Lo textual permanece firme: #genesis_2_2-3 presenta el cese de Elohim y la santificación del séptimo día; #exodo_20_8 ordena recordarlo y consagrarlo.
+La primera clase parte de **(שבת)** y del verbo **(שבת)** como lenguaje de cese o suspensión. La propuesta de que el sustantivo funcione como «instrumento» gramatical y la comparación con **(מנוחה)** son líneas de la exposición que conviene cotejar con léxicos especializados. Lo textual permanece firme: #bereshit_2_2-3 presenta el cese de Elohim y la santificación del séptimo día; #shemot_20_8 ordena recordarlo y consagrarlo.
 
-#deuteronomio_5_14-15 impide reducir el día a una experiencia individual: el descanso alcanza a quienes dependen de la casa y recuerda que Israel fue esclavo en Egipto. Así, el cese no equivale necesariamente a inmovilidad; es una interrupción del trabajo ordinario para reconocer a יהוה, recibir descanso y no reproducir la servidumbre.
+#devarim_5_14-15 impide reducir el día a una experiencia individual: el descanso alcanza a quienes dependen de la casa y recuerda que Israel fue esclavo en Egipto. Así, el cese no equivale necesariamente a inmovilidad; es una interrupción del trabajo ordinario para reconocer a יהוה, recibir descanso y no reproducir la servidumbre.
 
 ## Trabajo, provecho y preparación
 
-Las clases proponen leer la prohibición de labor desde sus contextos: el maná en #exodo_16, la actividad y las puertas en #jeremias_17_21-24, y la vida de la casa en la Torá. Esa lectura llama a preparar lo necesario antes del día y a no convertir el Shabat en una extensión del negocio, la producción o la búsqueda de ganancia.
+Las clases proponen leer la prohibición de labor desde sus contextos: el maná en #shemot_16, la actividad y las puertas en #yirmeyahu_17_21-24, y la vida de la casa en la Torá. Esa lectura llama a preparar lo necesario antes del día y a no convertir el Shabat en una extensión del negocio, la producción o la búsqueda de ganancia.
 
-La aplicación de que toda cocina contemporánea está permitida, o de que toda actividad doméstica específica queda prohibida, no puede deducirse sin más de un solo pasaje. #exodo_16 debe ser leído en su relato del maná, y cada caso práctico requiere distinguir entre el texto, una costumbre recibida y una decisión prudencial. La necesidad, el cuidado de personas y la preservación de la vida no deben ser tratados como cargas ajenas al propósito de יהוה.
+La aplicación de que toda cocina contemporánea está permitida, o de que toda actividad doméstica específica queda prohibida, no puede deducirse sin más de un solo pasaje. #shemot_16 debe ser leído en su relato del maná, y cada caso práctico requiere distinguir entre el texto, una costumbre recibida y una decisión prudencial. La necesidad, el cuidado de personas y la preservación de la vida no deben ser tratados como cargas ajenas al propósito de יהוה.
 
 ## Tradición judía, historia y evangelios
 
@@ -95,17 +95,17 @@ También debe evitarse el anacronismo: categorías, títulos, costumbres y compi
 
 ## Delicia, discernimiento y práctica local
 
-#isaias_58_13-14 presenta el Shabat como día santo de יהוה y llama a no orientarlo hacia los propios asuntos. La cuarta clase lo aplica a una práctica preparada, sobria y local: ordenar la semana, reducir las actividades de provecho y no convertir la observancia en competencia, gasto forzado o carga para quien tiene pocos recursos.
+#yeshayahu_58_13-14 presenta el Shabat como día santo de יהוה y llama a no orientarlo hacia los propios asuntos. La cuarta clase lo aplica a una práctica preparada, sobria y local: ordenar la semana, reducir las actividades de provecho y no convertir la observancia en competencia, gasto forzado o carga para quien tiene pocos recursos.
 
 Las velas, comidas, vino, horarios comunitarios y otras formas de recepción pueden servir como señales pedagógicas o culturales, pero no deben confundirse con el núcleo explícito del mandamiento. Del mismo modo, congregarse, viajar o resolver una necesidad real demanda discernimiento comunitario y responsabilidad; la nota no los resuelve mediante una regla universal no expresada por el texto.
 
 ## Conexiones principales
 
-- #genesis_2_2-3 con #exodo_20_8-11: creación, bendición, memoria y santificación del séptimo día.
-- #deuteronomio_5_14-15 con #exodo_20_10: el descanso incluye a la casa y recuerda la liberación de la esclavitud.
-- #jeremias_17_21-24 con #juan_5_8-10: carga, espacio público y controversia en torno a la camilla.
-- #isaias_58_13-14 con #exodo_20_8: el día apartado se orienta hacia la honra de יהוה, no hacia los propios asuntos.
-- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/yojanan_5_bet_jesda_shabat) — estudio puntual de la sanidad y la acusación por cargar.
+- #bereshit_2_2-3 con #shemot_20_8-11: creación, bendición, memoria y santificación del séptimo día.
+- #devarim_5_14-15 con #shemot_20_10: el descanso incluye a la casa y recuerda la liberación de la esclavitud.
+- #yirmeyahu_17_21-24 con #juan_5_8-10: carga, espacio público y controversia en torno a la camilla.
+- #yeshayahu_58_13-14 con #shemot_20_8: el día apartado se orienta hacia la honra de יהוה, no hacia los propios asuntos.
+- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/juan_5_bet_jesda_shabat) — estudio puntual de la sanidad y la acusación por cargar.
 
 ## Pendiente de verificar
 
@@ -120,8 +120,8 @@ Guardar Shabat no consiste en añadir ansiedad al cese ni en volver indiferente 
 
 ## Ver también
 
-- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/yojanan_5_bet_jesda_shabat)
-- [Yojanan 5: el Hijo, juicio y vida](../besorah/yojanan_5_hijo_juicio_vida)
+- [Yojanan 5: Bet Jesda, sanidad y Shabat](../besorah/juan_5_bet_jesda_shabat)
+- [Yojanan 5: el Hijo, juicio y vida](../besorah/juan_5_hijo_juicio_vida)
 - [Yom Kippur: humillación y dependencia](yom_kippur_humillacion_y_dependencia)
 - [Janucá](janukah)
 

@@ -4,24 +4,24 @@ description: "Jueces 17 muestra cómo la idolatría puede presentarse como devoc
 date: 2026-08-06
 tags:
   - neoidolatria
-  - jueces
+  - shoftim
   - micaia
   - idolatria
   - culto
   - torah
 references:
-  - "#jueces_17_1"
-  - "#jueces_17_2"
-  - "#jueces_17_3"
-  - "#jueces_17_5"
-  - "#jueces_17_6"
-  - "#jueces_17_7"
-  - "#jueces_17_12"
-  - "#jueces_17_13"
-  - "#levitico_18_24"
-  - "#levitico_18_30"
-  - "#deuteronomio_5_7"
-  - "#deuteronomio_5_8"
+  - "#shoftim_17_1"
+  - "#shoftim_17_2"
+  - "#shoftim_17_3"
+  - "#shoftim_17_5"
+  - "#shoftim_17_6"
+  - "#shoftim_17_7"
+  - "#shoftim_17_12"
+  - "#shoftim_17_13"
+  - "#vayikra_18_24"
+  - "#vayikra_18_30"
+  - "#devarim_5_7"
+  - "#devarim_5_8"
 sources:
   - "https://www.youtube.com/watch?v=cI_mesN7GEQ"
   - "docs/scriptures/oe/json/raw/judges.json"
@@ -44,11 +44,11 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local de OE | Función en el estudio |
 | --- | --- | --- |
-| #jueces_17_1-3 | «ויהי איש מהר אפרים ושמו מיכיהו»… «הקדש הקדשתי את הכסף ליהוה מידי לבני לעשות פסל ומסכה» | La historia une robo, devolución y una consagración dirigida a fabricar una imagen. |
-| #jueces_17_5-6 | «והאיש מיכה לו בית אלהים ויעש אפוד ותרפים… בימים ההם אין מלך בישראל איש הישר בעיניו יעשה» | Casa de dioses, objetos cultuales y criterio personal forman el diagnóstico narrativo. |
-| #jueces_17_7-13 | «והוא לוי»… «עתה ידעתי כי ייטיב יהוה לי כי היה לי הלוי לכהן» | La presencia de un levita es usada por Micaía como garantía de favor, aunque el culto ya está desviado. |
-| #levitico_18_24-30 | «אל תטמאו בכל אלה… ולא תטמאו בהם אני יהוה אלהיכם» | La separación de las prácticas de las naciones debe regirse por mandamientos, no por etiquetas religiosas. |
-| #deuteronomio_5_7-8 | «לא יהיה לך אלהים אחרים על פני»; «לא תעשה לך פסל כל תמונה» | El límite explícito impide llamar obediencia a una imagen fabricada. |
+| #shoftim_17_1-3 | «ויהי איש מהר אפרים ושמו מיכיהו»… «הקדש הקדשתי את הכסף ליהוה מידי לבני לעשות פסל ומסכה» | La historia une robo, devolución y una consagración dirigida a fabricar una imagen. |
+| #shoftim_17_5-6 | «והאיש מיכה לו בית אלהים ויעש אפוד ותרפים… בימים ההם אין מלך בישראל איש הישר בעיניו יעשה» | Casa de dioses, objetos cultuales y criterio personal forman el diagnóstico narrativo. |
+| #shoftim_17_7-13 | «והוא לוי»… «עתה ידעתי כי ייטיב יהוה לי כי היה לי הלוי לכהן» | La presencia de un levita es usada por Micaía como garantía de favor, aunque el culto ya está desviado. |
+| #vayikra_18_24-30 | «אל תטמאו בכל אלה… ולא תטמאו בהם אני יהוה אלהיכם» | La separación de las prácticas de las naciones debe regirse por mandamientos, no por etiquetas religiosas. |
+| #devarim_5_7-8 | «לא יהיה לך אלהים אחרים על פני»; «לא תעשה לך פסל כל תמונה» | El límite explícito impide llamar obediencia a una imagen fabricada. |
 
 ## Dinero devuelto, bendición confundida y una estatua consagrada
 

@@ -6,7 +6,7 @@ tags:
   - parashot
   - bereshit
 references:
-  - "#genesis_37_1"
+  - "#bereshit_37_1"
 sources:
   - "https://www.youtube.com/watch?v=Zwe5V_-F5_w"
   - "docs/scriptures/oe/json/genesis/37.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Bereshit 37 dentro de esta incorporación. La tra
 
 | Referencia     | Hebreo local (OE, sin nikud)                | Observación                                                                                           |
 | -------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #genesis_37_1 | **וישב יעקב בארץ מגורי אביו בארץ כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #bereshit_37_1 | **וישב יעקב בארץ מגורי אביו בארץ כנען** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

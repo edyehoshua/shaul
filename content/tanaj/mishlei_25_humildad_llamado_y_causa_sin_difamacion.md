@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 25:5-10 sobre no buscar el primer lugar, recibi
 date: 2026-08-05
 tags: [mishlei, mishlei_25, humildad, llamado, justicia, lengua]
 references:
-  - "#proverbios_25_5"
-  - "#proverbios_25_6"
-  - "#proverbios_25_7"
-  - "#proverbios_25_8"
-  - "#proverbios_25_9"
-  - "#proverbios_25_10"
+  - "#mishlei_25_5"
+  - "#mishlei_25_6"
+  - "#mishlei_25_7"
+  - "#mishlei_25_8"
+  - "#mishlei_25_9"
+  - "#mishlei_25_10"
   - "#lucas_14_7"
   - "#santiago_2_1"
-  - "#proverbios_16_18"
+  - "#mishlei_16_18"
 sources:
   - "https://www.youtube.com/watch?v=9jEVm3l5o-M"
   - "docs/scriptures/oe/json/proverbs/25.json"
@@ -34,12 +34,12 @@ Esta nota organiza la clase sobre Mishlei 25:5-10, que retoma la limpieza del tr
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_25_5 | הגו רשע לפני מלך ויכון בצדק כסאו | Remueve al condenado del rostro del Rey, y se afirmará en justicia su trono. |
-| #proverbios_25_6 | אל תתהדר לפני מלך ובמקום גדלים אל תעמד | No te gloríes delante del Rey, y en el lugar de los grandes no te posiciones. |
-| #proverbios_25_7 | כי טוב אמר לך עלה הנה מהשפילך לפני נדיב אשר ראו עיניך | Es mejor que te diga: “Sube acá”, que se te haga bajar del rostro del dadivoso, al cual han visto tus ojos. |
-| #proverbios_25_8 | אל תצא לרב מהר פן מה תעשה באחריתה בכלים אתך רעך | No salgas a contender rápidamente, no sea que no sepas qué harás en su final cuando te humille tu compañero. |
-| #proverbios_25_9 | ריבך ריב את רעך וסוד אחר אל תגלה | Contiende tu causa con tu compañero, pero el secreto de otro no reveles. |
-| #proverbios_25_10 | פן יחסדך שמע ודבתך לא תשוב | No sea que te avergüence el que escuche, y la difamación tuya no se vuelva. |
+| #mishlei_25_5 | הגו רשע לפני מלך ויכון בצדק כסאו | Remueve al condenado del rostro del Rey, y se afirmará en justicia su trono. |
+| #mishlei_25_6 | אל תתהדר לפני מלך ובמקום גדלים אל תעמד | No te gloríes delante del Rey, y en el lugar de los grandes no te posiciones. |
+| #mishlei_25_7 | כי טוב אמר לך עלה הנה מהשפילך לפני נדיב אשר ראו עיניך | Es mejor que te diga: “Sube acá”, que se te haga bajar del rostro del dadivoso, al cual han visto tus ojos. |
+| #mishlei_25_8 | אל תצא לרב מהר פן מה תעשה באחריתה בכלים אתך רעך | No salgas a contender rápidamente, no sea que no sepas qué harás en su final cuando te humille tu compañero. |
+| #mishlei_25_9 | ריבך ריב את רעך וסוד אחר אל תגלה | Contiende tu causa con tu compañero, pero el secreto de otro no reveles. |
+| #mishlei_25_10 | פן יחסדך שמע ודבתך לא תשוב | No sea que te avergüence el que escuche, y la difamación tuya no se vuelva. |
 
 ## El trono se afirma cuando se quita la maldad
 
@@ -49,7 +49,7 @@ La enseñanza evita convertir el honor en una conquista personal. Si la autorida
 
 ## No adornarse ni ocupar el lugar de los grandes
 
-En #proverbios_25_6, **(תתהדר)**, _tithadar_, se traduce “no te gloríes” o “no te adornes a ti mismo”. Eric distingue esta autoexaltación de la honra que יהוה concede, y conecta la escena con Lucas 14:7-11: los invitados que escogen los primeros asientos se colocan en el lugar de los grandes. La correspondencia temática es clara, pero la nota no afirma que Lucas sea una cita explícita del proverbio; registra la lectura de la clase.
+En #mishlei_25_6, **(תתהדר)**, _tithadar_, se traduce “no te gloríes” o “no te adornes a ti mismo”. Eric distingue esta autoexaltación de la honra que יהוה concede, y conecta la escena con Lucas 14:7-11: los invitados que escogen los primeros asientos se colocan en el lugar de los grandes. La correspondencia temática es clara, pero la nota no afirma que Lucas sea una cita explícita del proverbio; registra la lectura de la clase.
 
 El verso 7 presenta la alternativa: es mejor recibir del anfitrión la invitación “sube acá” que ser humillado y removido delante del **(נדיב)**, _nadiv_, el dadivoso o noble. Eric aplica al pueblo reunido en la boda del Reino: todos participan, pero no todos deben fabricarse el mismo rango. El texto no niega que existan responsabilidades distintas; niega que la persona pueda adjudicárselas por orgullo. La humildad espera el llamado y permite que la honra sea recibida, no usurpada.
 
@@ -63,7 +63,7 @@ La diferencia importa. La humildad bíblica no es una excusa para negar toda fun
 
 Los versos 8-10 equilibran la exhortación. “No salgas a contender rápidamente” no significa que toda causa deba ocultarse. El verso 9 permite presentar la propia causa ante el compañero, pero prohíbe revelar el secreto de otro. Eric explica **(ריב)**, _riv_, como contienda o causa judicial y subraya que la prisa puede llevar a acusar sin pruebas. Si al final el oyente descubre la difamación, la mala fama puede continuar cuando ya no haya vuelta atrás.
 
-Esta secuencia protege dos bienes: la justicia de la causa y la dignidad del prójimo. Presentar una denuncia exige verdad, oportunidad y dominio de la lengua. El proverbio no convierte el secreto ajeno en munición. La conexión con #proverbios_16_18 sobre la altivez es temática: el orgullo precipita una caída, pero no debe usarse para borrar las diferencias de contexto entre ambos proverbios.
+Esta secuencia protege dos bienes: la justicia de la causa y la dignidad del prójimo. Presentar una denuncia exige verdad, oportunidad y dominio de la lengua. El proverbio no convierte el secreto ajeno en munición. La conexión con #mishlei_16_18 sobre la altivez es temática: el orgullo precipita una caída, pero no debe usarse para borrar las diferencias de contexto entre ambos proverbios.
 
 ## Hoja léxica
 
@@ -81,10 +81,10 @@ Esta secuencia protege dos bienes: la justicia de la causa y la dignidad del pr�
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_25_5 | Quitar al malvado delante del Rey permite que el trono se afirme en justicia. | Marco textual apoyado; lectura del corazón como aplicación. |
-| #proverbios_25_6-7 | No autoelevarse; el que llama es quien dice “sube acá”, como en Lucas 14. | Exhortación textual apoyada; conexión mesiánica calificada. |
-| #proverbios_25_8 | La contienda precipitada puede terminar en humillación y juicio. | Apoyo textual directo; alcance escatológico atribuido. |
-| #proverbios_25_9-10 | La causa puede exponerse, pero el secreto y la difamación no deben divulgarse. | Apoyo textual directo; aplicación comunitaria. |
+| #mishlei_25_5 | Quitar al malvado delante del Rey permite que el trono se afirme en justicia. | Marco textual apoyado; lectura del corazón como aplicación. |
+| #mishlei_25_6-7 | No autoelevarse; el que llama es quien dice “sube acá”, como en Lucas 14. | Exhortación textual apoyada; conexión mesiánica calificada. |
+| #mishlei_25_8 | La contienda precipitada puede terminar en humillación y juicio. | Apoyo textual directo; alcance escatológico atribuido. |
+| #mishlei_25_9-10 | La causa puede exponerse, pero el secreto y la difamación no deben divulgarse. | Apoyo textual directo; aplicación comunitaria. |
 | #santiago_2_1-9 | Levantar el rostro del rico contradice la justicia que mira el corazón. | Conexión intertextual propuesta y útil; no sustitución del contexto. |
 
 ## Pendiente de verificar
@@ -92,14 +92,14 @@ Esta secuencia protege dos bienes: la justicia de la causa y la dignidad del pr�
 - [ ] Cotejar el rango semántico de **(תתהדר)** y su relación exacta con “adornarse” frente a “gloriarse”.
 - [ ] Verificar la identificación de **(נדיב)** con יהוה en los comentarios y no presentarla como traducción necesaria.
 - [ ] Revisar la explicación de **(ריב)** como causa judicial y sus límites respecto de una disputa común.
-- [ ] Cotejar la relación literaria entre #proverbios_25_6-7 y #lucas_14_7-11; por ahora se conserva como conexión de la clase.
-- [ ] Revisar la afirmación de que el juicio final está explícitamente en #proverbios_25_8-10; el pasaje puede sostener una consecuencia futura, pero la clase la desarrolla alegóricamente.
+- [ ] Cotejar la relación literaria entre #mishlei_25_6-7 y #lucas_14_7-11; por ahora se conserva como conexión de la clase.
+- [ ] Revisar la afirmación de que el juicio final está explícitamente en #mishlei_25_8-10; el pasaje puede sostener una consecuencia futura, pero la clase la desarrolla alegóricamente.
 
 ## Conexiones principales
 
 - #lucas_14_7: Yehoshua usa la escena del asiento para enseñar humildad; la conexión ilumina, pero no borra el lenguaje propio de Mishlei.
 - #santiago_2_1: la acepción de personas expone un juicio comunitario contrario a la justicia.
-- #proverbios_16_18: la altivez y la caída forman una conexión temática, no una cita de #proverbios_25.
+- #mishlei_16_18: la altivez y la caída forman una conexión temática, no una cita de #mishlei_25.
 
 ## Conclusión
 

@@ -7,9 +7,9 @@ tags:
   - yosef
   - bereshit_45
 references:
-  - "#genesis_45_9"
-  - "#miqueas_5_2"
-  - "#salmos_22_28"
+  - "#bereshit_45_9"
+  - "#mijah_5_2"
+  - "#tehilim_22_28"
 sources: []
 translation: "[BTX4]"
 ---
@@ -20,21 +20,21 @@ Bereshit 45:9 se toma aquí para destacar a Yosef como moshel y conectarlo con o
 
 ## Texto base
 
-- #genesis_45_9
+- #bereshit_45_9
 
 ## Hoja de comparación
 
 | Referencia     | Hebreo                                                                                                                                            | TTH local                                                                                                                                               | Observación                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| #genesis_45_9 | **(מַהֲרוּ וַעֲלוּ אֶל אָבִי וַאֲמַרְתֶּם אֵלָיו כֹּה אָמַר בִּנְךָ יוֹסֵף שָׂמַנִי אֱלֹהִים לְאָדוֹן לְכָל מִצְרַיִם רְדָה אֵלַי אַל תַּעֲמֹד)** | Dense prisa, y suban a mi padre, y díganle: “Así dice tu hijo Yosef: ‘Me ha puesto Elohim por amo a todo Mitzráim; desciende a mí, no te quedes parado. | La nota vincula el gobierno de Yosef con el campo semántico de moshel aunque el TTH local use adón. |
+| #bereshit_45_9 | **(מַהֲרוּ וַעֲלוּ אֶל אָבִי וַאֲמַרְתֶּם אֵלָיו כֹּה אָמַר בִּנְךָ יוֹסֵף שָׂמַנִי אֱלֹהִים לְאָדוֹן לְכָל מִצְרַיִם רְדָה אֵלַי אַל תַּעֲמֹד)** | Dense prisa, y suban a mi padre, y díganle: “Así dice tu hijo Yosef: ‘Me ha puesto Elohim por amo a todo Mitzráim; desciende a mí, no te quedes parado. | La nota vincula el gobierno de Yosef con el campo semántico de moshel aunque el TTH local use adón. |
 
 ## Léxico base
 
 | Hebreo       | Transliteración (es) | Significado                 | Raíz | Sentido de la raíz | Observación                                         |
 | ------------ | -------------------- | --------------------------- | ---- | ------------------ | --------------------------------------------------- |
-| **(מֹשֵׁל)** | moshel               | gobernador, el que gobierna | משל  | gobernar, regir    | La nota lo conecta con #miqueas_5_2 y #salmos_22_28. |
+| **(מֹשֵׁל)** | moshel               | gobernador, el que gobierna | משל  | gobernar, regir    | La nota lo conecta con #mijah_5_2 y #tehilim_22_28. |
 
 ## Conexiones
 
-- #miqueas_5_2
-- #salmos_22_28
+- #mijah_5_2
+- #tehilim_22_28

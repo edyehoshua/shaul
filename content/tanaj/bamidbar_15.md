@@ -6,9 +6,9 @@ tags:
   - tzitzit
   - tzitziot
 references:
-  - "#numeros_15_38"
-  - "#numeros_15_39"
-  - "#deuteronomio_22_12"
+  - "#bamidbar_15_38"
+  - "#bamidbar_15_39"
+  - "#devarim_22_12"
   - "#hechos_4_13"
   - "#juan_16_8"
 sources: []
@@ -38,18 +38,18 @@ Persona común, no erudita; el pueblo llano, no experto.
 
 ## Texto base
 
-- #numeros_15_38
-- #numeros_15_39
+- #bamidbar_15_38
+- #bamidbar_15_39
 
 ## Observaciones por pasaje
 
-### #numeros_15_38
+### #bamidbar_15_38
 
 - El mandamiento ordena flecos en los bordes del vestido, con cordón azul, por generaciones.
-- Referencias relacionadas sobre vestiduras: #exodo_28_2, #exodo_28_3, #exodo_28_4, #genesis_27_15 y #genesis_41_42.
-- Referencia cruzada directa para tzitzit: #deuteronomio_22_12.
+- Referencias relacionadas sobre vestiduras: #shemot_28_2, #shemot_28_3, #shemot_28_4, #bereshit_27_15 y #bereshit_41_42.
+- Referencia cruzada directa para tzitzit: #devarim_22_12.
 
-### #numeros_15_39
+### #bamidbar_15_39
 
 - Los tzitzit sirven para recordar los mandamientos de יהוה y no seguir el corazón ni los ojos.
 - La nota conecta esta función de convicción con la obra del Ruaj haKodesh en #juan_16_8.
@@ -63,4 +63,4 @@ Persona común, no erudita; el pueblo llano, no experto.
 ## Pendiente de verificar
 
 - [ ] Revisar ortografía de citas y nombres propios en este apunte.
-- [ ] Añadir cita textual hebrea de #numeros_15_38-39 en hoja de comparación cuando se extraiga desde la fuente local.
+- [ ] Añadir cita textual hebrea de #bamidbar_15_38-39 en hoja de comparación cuando se extraiga desde la fuente local.

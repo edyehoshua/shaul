@@ -10,12 +10,12 @@ tags:
   - shalom
   - musica
 references:
-  - "#salmos_4_1"
-  - "#salmos_4_3"
-  - "#salmos_4_4"
-  - "#salmos_4_5"
-  - "#salmos_4_6"
-  - "#salmos_4_8"
+  - "#tehilim_4_1"
+  - "#tehilim_4_3"
+  - "#tehilim_4_4"
+  - "#tehilim_4_5"
+  - "#tehilim_4_6"
+  - "#tehilim_4_8"
 sources:
   - "https://www.youtube.com/watch?v=QAWwIiRmBps"
   - "https://www.youtube.com/watch?v=LoqCLaoMlp8"
@@ -42,21 +42,21 @@ Tehilim 4 transforma la estrechez en oración, llama a una respuesta de justicia
 | Referencia     | Hebreo (OE, sin nikud)                                                     | TTH (ES)                                                                                                                            | Observación                                                                                     |
 | -------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Encabezado     | למנצח בנגינות מזמור לדוד                                                   | «Para el vencedor; con las flautas. Cántico de David.»                                                                              | El título vincula el salmo con una instrucción o marco musical.                                 |
-| #salmos_4_1   | בקראי ענני אלהי צדקי בצר הרחבת לי חנני ושמע תפלתי                          | «En mi llamar, respóndeme, Elohim de mi justicia. En la estrechez has sido amplio para mí; compadécete de mí y escucha mi tefilah.» | La súplica nombra a Elohim como quien hace justicia y recuerda un alivio anterior.              |
-| #salmos_4_3   | ודעו כי הפלה יהוה חסיד לו יהוה ישמע בקראי אליו                             | «Sepan que ha apartado יהוה al bondadoso para sí. יהוה escuchará cuando clame a Él.»                                                | La certeza de ser oído se funda en יהוה.                                                        |
-| #salmos_4_4-5 | רגזו ואל תחטאו אמרו בלבבכם על משכבכם ודמו סלה; זבחו זבחי צדק ובטחו אל יהוה | «Tiemblen, y no pequen; hablen en su corazón sobre su cama, y callen… Sacrifiquen sacrificios de justicia, y confíen en יהוה.»      | La agitación recibe un límite ético: no pecar; el movimiento siguiente es justicia y confianza. |
-| #salmos_4_6   | רבים אמרים מי יראנו טוב נסה עלינו אור פניך יהוה                            | «Muchos dicen: ¿Quién nos mostrará el bien? ¡Alza sobre nosotros la luz de tu rostro, יהוה!»                                        | Frente a la demanda por el bien, la oración pide la luz del rostro de יהוה.                     |
-| #salmos_4_8   | בשלום יחדו אשכבה ואישן כי אתה יהוה לבדד לבטח תושיבני                       | «En shalom juntamente me acostaré y dormiré, porque solo Tú, יהוה, en confianza me harás habitar.»                                  | El final no niega la estrechez inicial: confiesa descanso seguro en medio de ella.              |
+| #tehilim_4_1   | בקראי ענני אלהי צדקי בצר הרחבת לי חנני ושמע תפלתי                          | «En mi llamar, respóndeme, Elohim de mi justicia. En la estrechez has sido amplio para mí; compadécete de mí y escucha mi tefilah.» | La súplica nombra a Elohim como quien hace justicia y recuerda un alivio anterior.              |
+| #tehilim_4_3   | ודעו כי הפלה יהוה חסיד לו יהוה ישמע בקראי אליו                             | «Sepan que ha apartado יהוה al bondadoso para sí. יהוה escuchará cuando clame a Él.»                                                | La certeza de ser oído se funda en יהוה.                                                        |
+| #tehilim_4_4-5 | רגזו ואל תחטאו אמרו בלבבכם על משכבכם ודמו סלה; זבחו זבחי צדק ובטחו אל יהוה | «Tiemblen, y no pequen; hablen en su corazón sobre su cama, y callen… Sacrifiquen sacrificios de justicia, y confíen en יהוה.»      | La agitación recibe un límite ético: no pecar; el movimiento siguiente es justicia y confianza. |
+| #tehilim_4_6   | רבים אמרים מי יראנו טוב נסה עלינו אור פניך יהוה                            | «Muchos dicen: ¿Quién nos mostrará el bien? ¡Alza sobre nosotros la luz de tu rostro, יהוה!»                                        | Frente a la demanda por el bien, la oración pide la luz del rostro de יהוה.                     |
+| #tehilim_4_8   | בשלום יחדו אשכבה ואישן כי אתה יהוה לבדד לבטח תושיבני                       | «En shalom juntamente me acostaré y dormiré, porque solo Tú, יהוה, en confianza me harás habitar.»                                  | El final no niega la estrechez inicial: confiesa descanso seguro en medio de ella.              |
 
 ## Oración que recuerda la amplitud
 
-El salmista no comienza con una teoría sobre el sufrimiento, sino con una apelación: «respóndeme». La frase sobre haber sido ensanchado en la estrechez (#salmos_4_1) recuerda una liberación recibida y da base a la petición presente. El salmo no promete que toda aflicción desaparezca de inmediato; muestra que la oración se dirige al Elohim de la justicia.
+El salmista no comienza con una teoría sobre el sufrimiento, sino con una apelación: «respóndeme». La frase sobre haber sido ensanchado en la estrechez (#tehilim_4_1) recuerda una liberación recibida y da base a la petición presente. El salmo no promete que toda aflicción desaparezca de inmediato; muestra que la oración se dirige al Elohim de la justicia.
 
 La segunda parte de la exposición retoma esta apelación y entiende «Elohim de mi justicia» como una súplica por el orden recto de יהוה respecto del orante, no como la posesión humana de la justicia. Esa es una explicación pastoral de la clase; el texto permite afirmar con claridad que el orante llama a Elohim en relación con su justicia y recuerda que fue ensanchado en la estrechez. Conviene no convertir la paráfrasis «estado ideal» en una definición léxica cerrada de **צדק**.
 
 ## Agitación, justicia y confianza
 
-#salmos_4_4-5 reúne tres respuestas: no convertir la conmoción en pecado, considerar el asunto en el corazón y ofrecer sacrificios de justicia mientras se confía en יהוה. Por ello, el descanso del verso final no es pasividad ni evasión: está ligado a una vida que busca justicia y dependencia de יהוה.
+#tehilim_4_4-5 reúne tres respuestas: no convertir la conmoción en pecado, considerar el asunto en el corazón y ofrecer sacrificios de justicia mientras se confía en יהוה. Por ello, el descanso del verso final no es pasividad ni evasión: está ligado a una vida que busca justicia y dependencia de יהוה.
 
 ## El encabezado y la cuestión musical
 
@@ -68,18 +68,18 @@ La clase también sostiene que la instrumentación bíblica para la alabanza exc
 
 | Unidad                   | Observación concreta de la clase                                                                                                                           | Prueba y límite en el texto                                                                                                                                                  |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Encabezado; #salmos_4_1 | Eric usa _neginot_ para introducir la dimensión musical y relaciona la melodía con la forma en que la oración atraviesa la estrechez.                      | **נגינות** sí es una indicación musical, pero el encabezado no basta para reconstruir una técnica moderna ni una prohibición instrumental.                                   |
-| #salmos_4_1-3           | La exposición lee «Elohim de mi justicia» como una apelación al orden recto de יהוה y subraya que él escucha al que clama.                                 | El verso recuerda que יהוה ensanchó al orante en la estrechez y promete oír; «estado ideal» o una definición cerrada de **צדק** serían ampliaciones pedagógicas.             |
-| #salmos_4_4-6           | Eric conecta la agitación con el mandato de no pecar, examinar el asunto en el corazón, ofrecer sacrificios de justicia y pedir la luz del rostro de יהוה. | La secuencia verbal está en el salmo: temblor, silencio reflexivo, justicia, confianza y luz. La aplicación a una regla musical congregacional no se deriva de estos versos. |
-| #salmos_4_8             | La clase presenta el descanso como resultado de confiar en יהוה, no como evasión de la estrechez inicial.                                                  | El cierre une acostarse, dormir, shalom y seguridad recibida de יהוה; no promete que toda angustia desaparezca de inmediato.                                                 |
+| Encabezado; #tehilim_4_1 | Eric usa _neginot_ para introducir la dimensión musical y relaciona la melodía con la forma en que la oración atraviesa la estrechez.                      | **נגינות** sí es una indicación musical, pero el encabezado no basta para reconstruir una técnica moderna ni una prohibición instrumental.                                   |
+| #tehilim_4_1-3           | La exposición lee «Elohim de mi justicia» como una apelación al orden recto de יהוה y subraya que él escucha al que clama.                                 | El verso recuerda que יהוה ensanchó al orante en la estrechez y promete oír; «estado ideal» o una definición cerrada de **צדק** serían ampliaciones pedagógicas.             |
+| #tehilim_4_4-6           | Eric conecta la agitación con el mandato de no pecar, examinar el asunto en el corazón, ofrecer sacrificios de justicia y pedir la luz del rostro de יהוה. | La secuencia verbal está en el salmo: temblor, silencio reflexivo, justicia, confianza y luz. La aplicación a una regla musical congregacional no se deriva de estos versos. |
+| #tehilim_4_8             | La clase presenta el descanso como resultado de confiar en יהוה, no como evasión de la estrechez inicial.                                                  | El cierre une acostarse, dormir, shalom y seguridad recibida de יהוה; no promete que toda angustia desaparezca de inmediato.                                                 |
 
 ## Hoja léxica
 
 | Forma        | Transliteración | Sentido en la nota                | Observación                                                                                                   |
 | ------------ | --------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | **(נגינות)** | neginot         | indicación musical del encabezado | Aproximación: puede aludir a música instrumental; no basta por sí sola para reconstruir una técnica concreta. |
-| **(צדק)**    | tsedeq          | justicia                          | En #salmos_4_1 y #salmos_4_5, une el llamado a Elohim con los «sacrificios de justicia».                    |
-| **(שלום)**   | shalom          | paz, integridad                   | En #salmos_4_8 no se reduce a ausencia de ruido: enmarca el descanso que יהוה hace posible.                  |
+| **(צדק)**    | tsedeq          | justicia                          | En #tehilim_4_1 y #tehilim_4_5, une el llamado a Elohim con los «sacrificios de justicia».                    |
+| **(שלום)**   | shalom          | paz, integridad                   | En #tehilim_4_8 no se reduce a ausencia de ruido: enmarca el descanso que יהוה hace posible.                  |
 
 ## Pendiente de verificar
 

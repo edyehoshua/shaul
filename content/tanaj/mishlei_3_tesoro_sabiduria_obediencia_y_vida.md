@@ -4,11 +4,11 @@ description: "Estudio de Mishlei 3:14-35 sobre el valor de la sabiduría, la con
 date: 2026-08-06
 tags: [mishlei, mishlei_3, sabiduria, obediencia, torah, misericordia]
 references:
-  - "#proverbios_3_14"
-  - "#proverbios_3_18"
-  - "#proverbios_3_19"
-  - "#proverbios_3_27"
-  - "#proverbios_3_32"
+  - "#mishlei_3_14"
+  - "#mishlei_3_18"
+  - "#mishlei_3_19"
+  - "#mishlei_3_27"
+  - "#mishlei_3_32"
 sources:
   - "https://www.youtube.com/watch?v=IW6JKvvkJtA"
   - "docs/scriptures/oe/json/proverbs/3.json"
@@ -29,28 +29,28 @@ Esta nota organiza la enseñanza pública sobre Mishlei 3:14-35. Conserva el ord
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_3_14 | כי טוב סחרה מסחר כסף ומחרוץ תבואתה | Porque mejor es su ganancia que la ganancia de la plata, y más que el oro su producto. |
-| #proverbios_3_15 | יקרה היא מפניים מפנינים וכל חפציך לא ישוו בה | Valiosa es, más que los corales; y todos tus deseos no se comparan a ella. |
-| #proverbios_3_16 | ארך ימים בימינה בשמאולה עשר וכבוד | Largura de días en su diestra; en su siniestra, riqueza y honra. |
-| #proverbios_3_17 | דרכיה דרכי נעם וכל נתיבותיה שלום | Sus caminos, caminos de deleite; y todas sus sendas, shalom. |
-| #proverbios_3_18 | עץ חיים היא למחזיקים בה ותמכיה מאשר | Árbol de vida es a los que se aferran a ella, y los que se apoyan en ella son felices. |
-| #proverbios_3_19 | יהוה בחכמה יסד ארץ כונן שמים בתבונה | יהוה en sabiduría fundó la tierra, estableció los cielos en entendimiento. |
-| #proverbios_3_20 | בדעתו תהומות נבקעו ושחקים ירעפו טל | En su conocimiento, los abismos fueron hendidos y las nubes gotean rocío. |
-| #proverbios_3_21 | בני אל ילזו מעיניך נצר תשיה ומזמה | Hijo mío, no las apartes de tus ojos; vigila la obra de sabiduría y el pensamiento de consejo. |
-| #proverbios_3_22 | ויהיו חיים לנפשך וחן לגרגרתיך | Y serán vida para tu garganta (O, tu ser), y favor para tu cuello. |
-| #proverbios_3_23 | אז תלך לבטח דרכך ורגלך לא תגוף | Entonces caminarás en seguridad tu camino, y tu pie no se golpeará. |
-| #proverbios_3_24 | אם תשכב לא תפחד ושכבת וערבה שנתך | Si te acuestas, no temerás; y dormirás, y será agradable tu sueño. |
-| #proverbios_3_25 | אל תירא מפחד פתאם ומשאת רשעים כי תבא | No tendrás temor del terror repentino, ni del levantamiento de los condenados cuando venga. |
-| #proverbios_3_26 | כי יהוה יהיה בכסלך ושמר רגלך מלכד | Porque יהוה será en tu torpeza (otra lectura posible: en tu confianza), y guardará tu pie de ser atrapado. |
-| #proverbios_3_27 | אל תמנע טוב מבעליו בהיות לאל ידיך ידך לעשות | No retengas el bien a sus dueños, cuando tengas poder en tu mano para hacerlo. |
-| #proverbios_3_28 | אל תאמר לרעיך לרעך לך ושוב ומחר אתן ויש אתך | No digas a tu compañero: “Ve y vuelve, y mañana te lo daré”, y hay contigo. |
-| #proverbios_3_29 | אל תחרש על רעך רעה והוא יושב לבטח אתך | No trames mal sobre tu compañero, y él habita en seguridad contigo. |
-| #proverbios_3_30 | אל תרוב תריב עם אדם חנם אם לא גמלך רעה | No contiendas con un hombre por nada, si no te ha pagado mal. |
-| #proverbios_3_31 | אל תקנא באיש חמס ואל תבחר בכל דרכיו | No envidies al hombre de violencia, y no escojas ninguno de sus caminos. |
-| #proverbios_3_32 | כי תועבת יהוה נלוז ואת ישרים סודו | Porque abominación de יהוה es el perverso, y con los rectos es su consejo secreto. |
-| #proverbios_3_33 | מארת יהוה בבית רשע ונוה צדיקים יברך | El desprecio de יהוה está en la casa del condenado, pero la morada de los justos bendecirá. |
-| #proverbios_3_34 | אם ללצים הוא יליץ ולעניים ולענוים יתן חן | Si uno va a los burladores, él será burlador; pero si va a los humildes, Él le dará favor. |
-| #proverbios_3_35 | כבוד חכמים ינחלו וכסילים מרים קלון | Honor heredarán los sabios, pero los indisciplinados elevan la vergüenza. |
+| #mishlei_3_14 | כי טוב סחרה מסחר כסף ומחרוץ תבואתה | Porque mejor es su ganancia que la ganancia de la plata, y más que el oro su producto. |
+| #mishlei_3_15 | יקרה היא מפניים מפנינים וכל חפציך לא ישוו בה | Valiosa es, más que los corales; y todos tus deseos no se comparan a ella. |
+| #mishlei_3_16 | ארך ימים בימינה בשמאולה עשר וכבוד | Largura de días en su diestra; en su siniestra, riqueza y honra. |
+| #mishlei_3_17 | דרכיה דרכי נעם וכל נתיבותיה שלום | Sus caminos, caminos de deleite; y todas sus sendas, shalom. |
+| #mishlei_3_18 | עץ חיים היא למחזיקים בה ותמכיה מאשר | Árbol de vida es a los que se aferran a ella, y los que se apoyan en ella son felices. |
+| #mishlei_3_19 | יהוה בחכמה יסד ארץ כונן שמים בתבונה | יהוה en sabiduría fundó la tierra, estableció los cielos en entendimiento. |
+| #mishlei_3_20 | בדעתו תהומות נבקעו ושחקים ירעפו טל | En su conocimiento, los abismos fueron hendidos y las nubes gotean rocío. |
+| #mishlei_3_21 | בני אל ילזו מעיניך נצר תשיה ומזמה | Hijo mío, no las apartes de tus ojos; vigila la obra de sabiduría y el pensamiento de consejo. |
+| #mishlei_3_22 | ויהיו חיים לנפשך וחן לגרגרתיך | Y serán vida para tu garganta (O, tu ser), y favor para tu cuello. |
+| #mishlei_3_23 | אז תלך לבטח דרכך ורגלך לא תגוף | Entonces caminarás en seguridad tu camino, y tu pie no se golpeará. |
+| #mishlei_3_24 | אם תשכב לא תפחד ושכבת וערבה שנתך | Si te acuestas, no temerás; y dormirás, y será agradable tu sueño. |
+| #mishlei_3_25 | אל תירא מפחד פתאם ומשאת רשעים כי תבא | No tendrás temor del terror repentino, ni del levantamiento de los condenados cuando venga. |
+| #mishlei_3_26 | כי יהוה יהיה בכסלך ושמר רגלך מלכד | Porque יהוה será en tu torpeza (otra lectura posible: en tu confianza), y guardará tu pie de ser atrapado. |
+| #mishlei_3_27 | אל תמנע טוב מבעליו בהיות לאל ידיך ידך לעשות | No retengas el bien a sus dueños, cuando tengas poder en tu mano para hacerlo. |
+| #mishlei_3_28 | אל תאמר לרעיך לרעך לך ושוב ומחר אתן ויש אתך | No digas a tu compañero: “Ve y vuelve, y mañana te lo daré”, y hay contigo. |
+| #mishlei_3_29 | אל תחרש על רעך רעה והוא יושב לבטח אתך | No trames mal sobre tu compañero, y él habita en seguridad contigo. |
+| #mishlei_3_30 | אל תרוב תריב עם אדם חנם אם לא גמלך רעה | No contiendas con un hombre por nada, si no te ha pagado mal. |
+| #mishlei_3_31 | אל תקנא באיש חמס ואל תבחר בכל דרכיו | No envidies al hombre de violencia, y no escojas ninguno de sus caminos. |
+| #mishlei_3_32 | כי תועבת יהוה נלוז ואת ישרים סודו | Porque abominación de יהוה es el perverso, y con los rectos es su consejo secreto. |
+| #mishlei_3_33 | מארת יהוה בבית רשע ונוה צדיקים יברך | El desprecio de יהוה está en la casa del condenado, pero la morada de los justos bendecirá. |
+| #mishlei_3_34 | אם ללצים הוא יליץ ולעניים ולענוים יתן חן | Si uno va a los burladores, él será burlador; pero si va a los humildes, Él le dará favor. |
+| #mishlei_3_35 | כבוד חכמים ינחלו וכסילים מרים קלון | Honor heredarán los sabios, pero los indisciplinados elevan la vergüenza. |
 
 ## La sabiduría vale más que la ganancia
 
@@ -84,10 +84,10 @@ Los versos 31-35 contrastan violencia, perversidad y burla con rectitud, humilda
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_3_14-18 | La sabiduría vale más que riqueza, deseo y objetos preciosos; es árbol de vida. | Apoyado por el texto; aplicación al tesoro celestial calificada. |
-| #proverbios_3_19-26 | La sabiduría de יהוה sostiene la creación y debe volverse experiencia, seguridad y vida. | Creación y confianza apoyadas; conexiones mesiánicas calificadas. |
-| #proverbios_3_27-30 | El que tiene capacidad de hacer el bien no debe postergarlo ni tramar daño. | Apoyado textualmente; aplicación a restitución y deudas razonada. |
-| #proverbios_3_31-35 | Violencia y burla no son modelos; יהוה da consejo y favor a rectos y humildes. | Contraste textual apoyado; “revelación privada” no se afirma. |
+| #mishlei_3_14-18 | La sabiduría vale más que riqueza, deseo y objetos preciosos; es árbol de vida. | Apoyado por el texto; aplicación al tesoro celestial calificada. |
+| #mishlei_3_19-26 | La sabiduría de יהוה sostiene la creación y debe volverse experiencia, seguridad y vida. | Creación y confianza apoyadas; conexiones mesiánicas calificadas. |
+| #mishlei_3_27-30 | El que tiene capacidad de hacer el bien no debe postergarlo ni tramar daño. | Apoyado textualmente; aplicación a restitución y deudas razonada. |
+| #mishlei_3_31-35 | Violencia y burla no son modelos; יהוה da consejo y favor a rectos y humildes. | Contraste textual apoyado; “revelación privada” no se afirma. |
 
 ## Pendiente de verificar
 

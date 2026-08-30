@@ -26,12 +26,12 @@
           "title": "Elohim y Aba como amor manifiesto y fuente"
         },
         {
-          "path": "besorah/markos_abba_ruaj_mente_mashiaj",
+          "path": "besorah/marcos_abba_ruaj_mente_mashiaj",
           "title": "Marcos: Abba, ruaj y la mente del Mesías"
         },
         {
-          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
-          "title": "Dos tronos, Abba instituido y emunah: continuación de Yojanán 11"
+          "path": "besorah/juan_oracion_dos_tronos_emunah",
+          "title": "Dos tronos, Abba instituido y emunah: continuación de Juan 11"
         }
       ],
       "label": "Abá · Padre"
@@ -62,7 +62,7 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_ben_adam_metamorfosis_glosario",
+          "path": "besorah/marcos_ben_adam_metamorfosis_glosario",
           "title": "Marcos: Ben Adam, metamorfosis y glosario mesiánico"
         }
       ],
@@ -92,7 +92,7 @@
           "title": "Bat Kol: Hijo, Siervo y Testimonio"
         },
         {
-          "path": "besorah/markos_9_gloria_servicio_sal_paz",
+          "path": "besorah/marcos_9_gloria_servicio_sal_paz",
           "title": "Marcos 9: gloria revelada, servicio y sal de paz"
         }
       ],
@@ -118,8 +118,8 @@
           "title": "Ben, Adam y el Hijo dado al Mesías"
         },
         {
-          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
-          "title": "Yojanán 11: Eleazar, resurrección y vida"
+          "path": "besorah/juan_11_eleazar_resurreccion_vida",
+          "title": "Juan 11: Eleazar, resurrección y vida"
         }
       ],
       "label": "Corporeidad"
@@ -144,7 +144,7 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "path": "besorah/marcos_14_pesaj_pacto_getsemani_juicio",
           "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
         },
         {
@@ -215,8 +215,8 @@
           "title": "Elohim y Aba como amor manifiesto y fuente"
         },
         {
-          "path": "besorah/yojanan_conceptos_deidad",
-          "title": "Conceptos clave de deidad en el evangelio de Yojanán"
+          "path": "besorah/juan_conceptos_deidad",
+          "title": "Conceptos clave de deidad en el evangelio de Juan"
         }
       ],
       "label": "Elohim"
@@ -250,8 +250,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
-          "title": "Dos tronos, Abba instituido y emunah: continuación de Yojanán 11"
+          "path": "besorah/juan_oracion_dos_tronos_emunah",
+          "title": "Dos tronos, Abba instituido y emunah: continuación de Juan 11"
         },
         {
           "path": "tanaj/devarim_7_recordar_pacto_y_dependencia",
@@ -280,8 +280,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
-          "title": "Yojanán 17: gloria, autoridad y vida"
+          "path": "besorah/juan_17_gloria_autoridad_y_vida",
+          "title": "Juan 17: gloria, autoridad y vida"
         },
         {
           "path": "tanaj/shemot_33_34_santuario_presencia_y_santidad",
@@ -405,15 +405,15 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_10_pacto_reino_riqueza_servicio_camino",
+          "path": "besorah/marcos_10_pacto_reino_riqueza_servicio_camino",
           "title": "Marcos 10: pacto, reino, riqueza, servicio y camino"
         },
         {
-          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
-          "title": "Yojanán 17: gloria, autoridad y vida"
+          "path": "besorah/juan_17_gloria_autoridad_y_vida",
+          "title": "Juan 17: gloria, autoridad y vida"
         },
         {
-          "path": "besorah/markos_1_reino_autoridad_compasion",
+          "path": "besorah/marcos_1_reino_autoridad_compasion",
           "title": "Marcos 1: reino, autoridad y compasión"
         }
       ],
@@ -440,12 +440,12 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_14_abba_menajem_nombre",
-          "title": "Yojanán 14: Abba, el Nombre y el Menajem"
+          "path": "besorah/juan_14_abba_menajem_nombre",
+          "title": "Juan 14: Abba, el Nombre y el Menajem"
         },
         {
-          "path": "besorah/yojanan_14_morada_palabra_memoria",
-          "title": "Yojanán 14: morada, palabra y memoria"
+          "path": "besorah/juan_14_morada_palabra_memoria",
+          "title": "Juan 14: morada, palabra y memoria"
         }
       ],
       "label": "Menájem"
@@ -484,8 +484,8 @@
           "title": "Identidad mesiánica: Torá, gracia y discernimiento histórico"
         },
         {
-          "path": "besorah/yojanan_10_janukah_senales_mesias",
-          "title": "Yojanán 10: Janukah y las señales del Mesías"
+          "path": "besorah/juan_10_janukah_senales_mesias",
+          "title": "Juan 10: Janukah y las señales del Mesías"
         }
       ],
       "label": "Mesías"
@@ -597,11 +597,11 @@
           "title": "Pésaj: memoria de liberación y mesa ordenada"
         },
         {
-          "path": "besorah/yojanan_13_pesaj_seuda_lavado_pies",
-          "title": "Yojanán 13: Pesaj, seudá y lavado de pies"
+          "path": "besorah/juan_13_pesaj_seuda_lavado_pies",
+          "title": "Juan 13: Pesaj, seudá y lavado de pies"
         },
         {
-          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "path": "besorah/marcos_14_pesaj_pacto_getsemani_juicio",
           "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
         }
       ],
@@ -657,11 +657,11 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
-          "title": "Yojanán 11: Eleazar, resurrección y vida"
+          "path": "besorah/juan_11_eleazar_resurreccion_vida",
+          "title": "Juan 11: Eleazar, resurrección y vida"
         },
         {
-          "path": "besorah/markos_16_resurreccion_envio_y_testimonio",
+          "path": "besorah/marcos_16_resurreccion_envio_y_testimonio",
           "title": "Marcos 16: resurrección, envío y testimonio"
         },
         {
@@ -825,7 +825,7 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_12_shema_senor_david_vida_entregada",
+          "path": "besorah/marcos_12_shema_senor_david_vida_entregada",
           "title": "Marcos 12: resurrección, Shemá, Señor de David y vida entregada"
         },
         {
@@ -862,7 +862,7 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "path": "besorah/marcos_hijo_elohim_hijo_hombre_herencia",
           "title": "Marcos: Hijo de Elohim, Hijo del Hombre y herencia"
         },
         {
@@ -870,8 +870,8 @@
           "title": "Ben, Adam y el Hijo dado al Mesías"
         },
         {
-          "path": "besorah/yojanan_5_hijo_juicio_vida",
-          "title": "Yojanan 5: el Hijo, juicio y vida"
+          "path": "besorah/juan_5_hijo_juicio_vida",
+          "title": "Juan 5: el Hijo, juicio y vida"
         }
       ],
       "label": "Hijo de Elohim"
@@ -908,15 +908,15 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_ben_adam_metamorfosis_glosario",
+          "path": "besorah/marcos_ben_adam_metamorfosis_glosario",
           "title": "Marcos: Ben Adam, metamorfosis y glosario mesiánico"
         },
         {
-          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "path": "besorah/marcos_hijo_elohim_hijo_hombre_herencia",
           "title": "Marcos: Hijo de Elohim, Hijo del Hombre y herencia"
         },
         {
-          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "path": "besorah/marcos_14_pesaj_pacto_getsemani_juicio",
           "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
         },
         {
@@ -924,8 +924,8 @@
           "title": "Ben, Adam y el Hijo dado al Mesías"
         },
         {
-          "path": "besorah/yojanan_9_ben_adam_y_el_ciego",
-          "title": "Yojanan 9: Ben Adam y el ciego que se postró"
+          "path": "besorah/juan_9_ben_adam_y_el_ciego",
+          "title": "Juan 9: Ben Adam y el ciego que se postró"
         }
       ],
       "definition": {
@@ -972,7 +972,7 @@
           "title": "Ben, Adam y el Hijo dado al Mesías"
         },
         {
-          "path": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+          "path": "besorah/marcos_hijo_elohim_hijo_hombre_herencia",
           "title": "Marcos: Hijo de Elohim, Hijo del Hombre y herencia"
         }
       ],
@@ -1016,8 +1016,8 @@
           "title": "Sukot: habitar, gozo y memoria"
         },
         {
-          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
-          "title": "Yojanán 7: Sucot, agua y discernimiento"
+          "path": "besorah/juan_7_sucot_agua_y_discernimiento",
+          "title": "Juan 7: Sucot, agua y discernimiento"
         }
       ],
       "label": "Sucot"
@@ -1042,11 +1042,11 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_2_senales_celo_y_santuario",
-          "title": "Yojanán 2: señales, celo y el santuario"
+          "path": "besorah/juan_2_senales_celo_y_santuario",
+          "title": "Juan 2: señales, celo y el santuario"
         },
         {
-          "path": "besorah/markos_11_rey_higuera_casa_oracion_autoridad",
+          "path": "besorah/marcos_11_rey_higuera_casa_oracion_autoridad",
           "title": "Marcos 11: rey humilde, higuera, casa de oración y autoridad"
         }
       ],
@@ -1510,16 +1510,16 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_palabra_trono_semilla_identidad",
+          "path": "besorah/marcos_palabra_trono_semilla_identidad",
           "title": "Marcos: la Palabra entronizada, la semilla y la identidad del Mesías"
         },
         {
-          "path": "besorah/yojanan_introduccion",
-          "title": "Introducción al evangelio de Yojanan"
+          "path": "besorah/juan_introduccion",
+          "title": "Introducción al evangelio de Juan"
         },
         {
-          "path": "besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres",
-          "title": "Yojanán 8: permanecer en la palabra y ser libres"
+          "path": "besorah/juan_8_permanecer_en_la_palabra_y_ser_libres",
+          "title": "Juan 8: permanecer en la palabra y ser libres"
         }
       ],
       "label": "Palabra"
@@ -1540,16 +1540,16 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_5_hijo_juicio_vida",
-          "title": "Yojanan 5: el Hijo, juicio y vida"
+          "path": "besorah/juan_5_hijo_juicio_vida",
+          "title": "Juan 5: el Hijo, juicio y vida"
         },
         {
           "path": "besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza",
           "title": "Romanos 8: vida en el Rúaj, filiación, sufrimiento y esperanza"
         },
         {
-          "path": "besorah/yojanan_11_eleazar_resurreccion_vida",
-          "title": "Yojanán 11: Eleazar, resurrección y vida"
+          "path": "besorah/juan_11_eleazar_resurreccion_vida",
+          "title": "Juan 11: Eleazar, resurrección y vida"
         }
       ],
       "label": "Vida"
@@ -1570,8 +1570,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_8_luz_testimonio_y_abraham",
-          "title": "Yojanán 8: luz, testimonio y antes de Abraham"
+          "path": "besorah/juan_8_luz_testimonio_y_abraham",
+          "title": "Juan 8: luz, testimonio y antes de Abraham"
         },
         {
           "path": "besorah/efesios_5_amor_luz_y_sabiduria",
@@ -1596,16 +1596,16 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_6_pan_de_vida_y_palabras_de_vida",
-          "title": "Yojanán 6: el pan que da vida y la palabra que permanece"
+          "path": "besorah/juan_6_pan_de_vida_y_palabras_de_vida",
+          "title": "Juan 6: el pan que da vida y la palabra que permanece"
         },
         {
-          "path": "besorah/yojanan_6_pan_vida_senales",
-          "title": "Yojanan 6: señales, maná y pan de vida"
+          "path": "besorah/juan_6_pan_vida_senales",
+          "title": "Juan 6: señales, maná y pan de vida"
         },
         {
-          "path": "besorah/yojanan_6_pan_del_cielo_y_arbol_de_vida",
-          "title": "Yojanan 6: pan del cielo y árbol de vida"
+          "path": "besorah/juan_6_pan_del_cielo_y_arbol_de_vida",
+          "title": "Juan 6: pan del cielo y árbol de vida"
         }
       ],
       "label": "Pan de vida"
@@ -1626,12 +1626,12 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_4_estudio_canonico_agua_viva_adoracion_y_confianza",
-          "title": "Yojanán 4: estudio canónico — agua viva, adoración y confianza"
+          "path": "besorah/juan_4_estudio_canonico_agua_viva_adoracion_y_confianza",
+          "title": "Juan 4: estudio canónico — agua viva, adoración y confianza"
         },
         {
-          "path": "besorah/yojanan_7_sucot_agua_y_discernimiento",
-          "title": "Yojanán 7: Sucot, agua y discernimiento"
+          "path": "besorah/juan_7_sucot_agua_y_discernimiento",
+          "title": "Juan 7: Sucot, agua y discernimiento"
         }
       ],
       "label": "Agua viva"
@@ -1652,12 +1652,12 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_14_moradas_camino_retorno",
-          "title": "Yojanán 14: moradas, camino y retorno"
+          "path": "besorah/juan_14_moradas_camino_retorno",
+          "title": "Juan 14: moradas, camino y retorno"
         },
         {
-          "path": "besorah/yojanan_14_morada_palabra_memoria",
-          "title": "Yojanán 14: morada, palabra y memoria"
+          "path": "besorah/juan_14_morada_palabra_memoria",
+          "title": "Juan 14: morada, palabra y memoria"
         }
       ],
       "label": "Morada"
@@ -1678,12 +1678,12 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_10_puerta_pastor_abba",
-          "title": "Yojanán 10: la puerta, el buen pastor y Abba"
+          "path": "besorah/juan_10_puerta_pastor_abba",
+          "title": "Juan 10: la puerta, el buen pastor y Abba"
         },
         {
-          "path": "besorah/yojanan_9_10_ceguera_puerta_ovejas",
-          "title": "Yojanán 9–10: ceguera, juicio y la puerta de las ovejas"
+          "path": "besorah/juan_9_10_ceguera_puerta_ovejas",
+          "title": "Juan 9–10: ceguera, juicio y la puerta de las ovejas"
         }
       ],
       "label": "Puerta"
@@ -1708,8 +1708,8 @@
           "title": "Pastor y ovejas: discernimiento, cuidado y juicio del rebaño"
         },
         {
-          "path": "besorah/yojanan_10_pastor_vida_obras",
-          "title": "Yojanán 10: el pastor, la vida y las obras"
+          "path": "besorah/juan_10_pastor_vida_obras",
+          "title": "Juan 10: el pastor, la vida y las obras"
         }
       ],
       "label": "Pastor"
@@ -1730,8 +1730,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_10_emunah_obras_ovejas",
-          "title": "Yojanán 10: emunah, obras y ovejas"
+          "path": "besorah/juan_10_emunah_obras_ovejas",
+          "title": "Juan 10: emunah, obras y ovejas"
         },
         {
           "path": "temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano",
@@ -1868,11 +1868,11 @@
       },
       "articles": [
         {
-          "path": "besorah/markos_palabra_trono_semilla_identidad",
+          "path": "besorah/marcos_palabra_trono_semilla_identidad",
           "title": "Marcos: la Palabra entronizada, la semilla y la identidad del Mesías"
         },
         {
-          "path": "besorah/markos_4_palabra_tormenta_fidelidad",
+          "path": "besorah/marcos_4_palabra_tormenta_fidelidad",
           "title": "Marcos 4: palabra, reino, tormenta y fidelidad"
         },
         {
@@ -1898,8 +1898,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_15_vid_fruto_amor_discipulado",
-          "title": "Yojanán 15: vid, fruto, amor y discipulado"
+          "path": "besorah/juan_15_vid_fruto_amor_discipulado",
+          "title": "Juan 15: vid, fruto, amor y discipulado"
         },
         {
           "path": "besorah/colosenses_3_vida_renovada_amor_y_servicio",
@@ -1924,8 +1924,8 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_15_vid_labrador_poda_permanecer",
-          "title": "Yojanán 15: la vid, el labrador y permanecer"
+          "path": "besorah/juan_15_vid_labrador_poda_permanecer",
+          "title": "Juan 15: la vid, el labrador y permanecer"
         },
         {
           "path": "besorah/hebreos_12_disciplina_santidad_y_monte_tziyon",
@@ -1980,11 +1980,11 @@
           "title": "Shabat: cese, santidad y discernimiento de la práctica"
         },
         {
-          "path": "besorah/yojanan_5_bet_jesda_shabat",
-          "title": "Yojanan 5: Bet Jesda, sanidad y Shabat"
+          "path": "besorah/juan_5_bet_jesda_shabat",
+          "title": "Juan 5: Bet Jesda, sanidad y Shabat"
         },
         {
-          "path": "besorah/markos_2_torah_promesas_procedimientos",
+          "path": "besorah/marcos_2_torah_promesas_procedimientos",
           "title": "Marcos 2: perdón, nuevo pacto y Torah que permanece"
         }
       ],
@@ -2010,8 +2010,8 @@
           "title": "Janucá: memoria, libertad de conciencia y la pregunta mesiánica"
         },
         {
-          "path": "besorah/yojanan_10_janukah_senales_mesias",
-          "title": "Yojanán 10: Janukah y las señales del Mesías"
+          "path": "besorah/juan_10_janukah_senales_mesias",
+          "title": "Juan 10: Janukah y las señales del Mesías"
         }
       ],
       "label": "Janukah"
@@ -2040,8 +2040,8 @@
           "title": "El Nombre revelado, la salvación y el sacerdocio del Mesías"
         },
         {
-          "path": "besorah/yojanan_14_abba_menajem_nombre",
-          "title": "Yojanán 14: Abba, el Nombre y el Menajem"
+          "path": "besorah/juan_14_abba_menajem_nombre",
+          "title": "Juan 14: Abba, el Nombre y el Menajem"
         }
       ],
       "label": "Nombre"
@@ -2062,8 +2062,8 @@
       },
       "articles": [
         {
-          "path": "tanaj/micah_6_justicia_bondad_y_caminar",
-          "title": "Miqueas 6: pleito, memoria y caminar con יהוה"
+          "path": "tanaj/mijah_6_justicia_bondad_y_caminar",
+          "title": "Mijah 6: pleito, memoria y caminar con יהוה"
         },
         {
           "path": "besorah/romanos_12_culto_vivo_dones_amor_practico",
@@ -2085,7 +2085,7 @@
       "definition": {
         "title": "Testimonio",
         "paragraphs": [
-          "El testimonio es una palabra que responde a algo visto, oído o recibido. No es publicidad personal. En Yojanán, Iojanán testifica para que otros crean; el ciego sanado testifica; el costado abierto queda escrito para que se crea. En Apocalipsis, el testimonio puede costar.",
+          "El testimonio es una palabra que responde a algo visto, oído o recibido. No es publicidad personal. En Yojanán, Yojanán testifica para que otros crean; el ciego sanado testifica; el costado abierto queda escrito para que se crea. En Apocalipsis, el testimonio puede costar.",
           "Su fuerza no depende de que todos lo acepten de inmediato, sino de que permanezca unido a la palabra y sea sostenido con fidelidad. Las obras del Mesías ya testifican; el problema suele ser la instrucción no recibida, no la falta de señales."
         ],
         "caution": "Testificar no significa hablar sin escuchar ni presentar cada opinión personal como revelación."
@@ -2096,12 +2096,12 @@
           "title": "Apocalipsis 1: revelación, testimonio y visión del Mesías"
         },
         {
-          "path": "besorah/yojanan_1_testigo_cordero",
-          "title": "Yojanán 1: el testigo, el Cordero y los primeros discípulos"
+          "path": "besorah/juan_1_testigo_cordero",
+          "title": "Juan 1: el testigo, el Cordero y los primeros discípulos"
         },
         {
-          "path": "besorah/yojanan_19_madero_costado_y_testimonio",
-          "title": "Yojanán 19: madero, rey y testimonio"
+          "path": "besorah/juan_19_madero_costado_y_testimonio",
+          "title": "Juan 19: madero, rey y testimonio"
         }
       ],
       "label": "Testimonio"
@@ -2268,12 +2268,12 @@
           "title": "Apocalipsis 4: trono, redención y adoración"
         },
         {
-          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
-          "title": "Dos tronos, Abba instituido y emunah: continuación de Yojanán 11"
+          "path": "besorah/juan_oracion_dos_tronos_emunah",
+          "title": "Dos tronos, Abba instituido y emunah: continuación de Juan 11"
         },
         {
-          "path": "besorah/yojanan_17_gloria_autoridad_y_vida",
-          "title": "Yojanán 17: gloria, autoridad y vida"
+          "path": "besorah/juan_17_gloria_autoridad_y_vida",
+          "title": "Juan 17: gloria, autoridad y vida"
         }
       ],
       "label": "Trono"
@@ -2302,8 +2302,8 @@
           "title": "Hebreos 9: santuario, conciencia y redención"
         },
         {
-          "path": "besorah/yojanan_2_senales_celo_y_santuario",
-          "title": "Yojanán 2: señales, celo y el santuario"
+          "path": "besorah/juan_2_senales_celo_y_santuario",
+          "title": "Juan 2: señales, celo y el santuario"
         }
       ],
       "label": "Santuario"
@@ -2350,15 +2350,15 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_oracion_dos_tronos_emunah",
-          "title": "Dos tronos, Abba instituido y emunah: continuación de Yojanán 11"
+          "path": "besorah/juan_oracion_dos_tronos_emunah",
+          "title": "Dos tronos, Abba instituido y emunah: continuación de Juan 11"
         },
         {
           "path": "besorah/efesios_6_firmeza_oracion_y_servicio",
           "title": "Efesios 6: firmeza, oración y servicio"
         },
         {
-          "path": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+          "path": "besorah/marcos_14_pesaj_pacto_getsemani_juicio",
           "title": "Marcos 14: Pésaj, pacto renovado, Getsemaní y el juicio"
         }
       ],
@@ -2380,15 +2380,15 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_14_moradas_camino_retorno",
-          "title": "Yojanán 14: moradas, camino y retorno"
+          "path": "besorah/juan_14_moradas_camino_retorno",
+          "title": "Juan 14: moradas, camino y retorno"
         },
         {
-          "path": "besorah/yojanan_12_camino_hora_luz_palabra",
-          "title": "Yojanán 12: el camino de la hora, la luz y la palabra"
+          "path": "besorah/juan_12_camino_hora_luz_palabra",
+          "title": "Juan 12: el camino de la hora, la luz y la palabra"
         },
         {
-          "path": "besorah/markos_8_ciego_confesion_camino_cruz",
+          "path": "besorah/marcos_8_ciego_confesion_camino_cruz",
           "title": "Marcos 8: visión restaurada, confesión y camino de la cruz"
         }
       ],
@@ -2410,11 +2410,11 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_19_madero_costado_y_testimonio",
-          "title": "Yojanán 19: madero, rey y testimonio"
+          "path": "besorah/juan_19_madero_costado_y_testimonio",
+          "title": "Juan 19: madero, rey y testimonio"
         },
         {
-          "path": "besorah/markos_15_juicio_cruz_velo_confesion",
+          "path": "besorah/marcos_15_juicio_cruz_velo_confesion",
           "title": "Marcos 15: juicio romano, cruz, velo y confesión"
         }
       ],
@@ -2466,12 +2466,12 @@
       },
       "articles": [
         {
-          "path": "besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres",
-          "title": "Yojanán 8: permanecer en la palabra y ser libres"
+          "path": "besorah/juan_8_permanecer_en_la_palabra_y_ser_libres",
+          "title": "Juan 8: permanecer en la palabra y ser libres"
         },
         {
-          "path": "besorah/yojanan_15_vid_fruto_amor_discipulado",
-          "title": "Yojanán 15: vid, fruto, amor y discipulado"
+          "path": "besorah/juan_15_vid_fruto_amor_discipulado",
+          "title": "Juan 15: vid, fruto, amor y discipulado"
         }
       ],
       "label": "Permanecer"
@@ -2539,6 +2539,13 @@
       "source": "book:daniel",
       "target": "verse:daniel-7-14",
       "type": "contains",
+      "status": "confirmed"
+    },
+    {
+      "id": "david-associated-with-messiah",
+      "source": "person:david",
+      "target": "concept:messiah",
+      "type": "associated_with",
       "status": "confirmed"
     },
     {
@@ -2682,6 +2689,13 @@
       "status": "confirmed"
     },
     {
+      "id": "son-of-man-related-to-ancient-of-days",
+      "source": "concept:son-of-man",
+      "target": "concept:ancient-of-days",
+      "type": "related_to",
+      "status": "proposed"
+    },
+    {
       "id": "son-of-man-related-to-messiah",
       "source": "concept:son-of-man",
       "target": "concept:messiah",
@@ -2734,7 +2748,7 @@
   "mentions": [
     {
       "id": "mention-elohim-mark",
-      "note": "besorah/markos_el_eloha_elohim_adonay_yeshua",
+      "note": "besorah/marcos_el_eloha_elohim_adonay_yeshua",
       "entities": [
         "concept:elohim",
         "word:elohim-he",
@@ -2802,7 +2816,7 @@
     },
     {
       "id": "mention-son-of-man-daniel",
-      "note": "besorah/markos_ben_adam_metamorfosis_glosario",
+      "note": "besorah/marcos_ben_adam_metamorfosis_glosario",
       "entities": [
         "concept:son-of-man",
         "word:bar-enash-ar",
@@ -2817,7 +2831,7 @@
     },
     {
       "id": "mention-son-of-man-mark-14",
-      "note": "besorah/markos_14_pesaj_pacto_getsemani_juicio",
+      "note": "besorah/marcos_14_pesaj_pacto_getsemani_juicio",
       "entities": [
         "concept:son-of-man",
         "verse:mark-14-62",
@@ -2830,7 +2844,7 @@
     },
     {
       "id": "mention-son-of-man-mark",
-      "note": "besorah/markos_hijo_elohim_hijo_hombre_herencia",
+      "note": "besorah/marcos_hijo_elohim_hijo_hombre_herencia",
       "entities": [
         "concept:son-of-man",
         "word:ben-ha-adam-he",

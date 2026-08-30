@@ -10,20 +10,20 @@ tags:
   - obediencia
   - discernimiento
 references:
-  - "#2_reyes_15_5"
-  - "#2_reyes_15_32"
-  - "#2_reyes_15_34"
-  - "#2_reyes_16_1"
-  - "#2_reyes_16_2"
-  - "#2_reyes_16_3"
-  - "#2_reyes_16_7"
-  - "#2_reyes_16_10"
-  - "#2_reyes_16_14"
-  - "#isaias_7_3"
-  - "#isaias_7_12"
-  - "#isaias_7_14"
-  - "#deuteronomio_12_31"
-  - "#deuteronomio_18_10"
+  - "#melajim_bet_15_5"
+  - "#melajim_bet_15_32"
+  - "#melajim_bet_15_34"
+  - "#melajim_bet_16_1"
+  - "#melajim_bet_16_2"
+  - "#melajim_bet_16_3"
+  - "#melajim_bet_16_7"
+  - "#melajim_bet_16_10"
+  - "#melajim_bet_16_14"
+  - "#yeshayahu_7_3"
+  - "#yeshayahu_7_12"
+  - "#yeshayahu_7_14"
+  - "#devarim_12_31"
+  - "#devarim_18_10"
 sources:
   - "https://www.youtube.com/watch?v=Jc9PaSQ6zSo"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -45,12 +45,12 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre Yot
 
 | Referencia | Texto TTH local | Función en la enseñanza |
 | --- | --- | --- |
-| #2_reyes_15_5 | «Y golpeó יהוה al rey, y fue metzorá hasta el día de su muerte; y habitó en una casa de separación. Y Yotam, hijo del rey, estaba sobre la casa, juzgaba al pueblo de la tierra». | Marco para entender el gobierno práctico de Yotam mientras su padre estaba separado. |
-| #2_reyes_15_34 | «E hizo lo recto en los ojos de יהוה, conforme a todo lo que había hecho Uziyahu, su padre, él hizo». | El texto reconoce la rectitud de Yotam sin convertirla en una licencia para entrar al santuario. |
-| #2_reyes_16_2-4 | «Pero no hizo lo recto en los ojos de יהוה... y anduvo en el camino de los reyes de Israel, y aún a su hijo hizo pasar por el fuego». | Describe la elección de Ajaz y la gravedad concreta de su idolatría. |
-| #2_reyes_16_7 | «Tu siervo y tu hijo soy yo; sube y sálvame de la palma del rey de Aram y de la palma del rey de Israel». | Expone la dependencia política que Ajaz escogió frente a la confianza en יהוה. |
-| #2_reyes_16_10-14 | Ajaz manda reproducir el altar visto en Damesek y coloca el altar de cobre de יהוה a un lado. | La imitación de un modelo extranjero se vuelve visible en el centro del culto. |
-| #deuteronomio_12_31 | «No harás así a יהוה tu Elohim... porque aún a sus hijos y a sus hijas queman en el fuego para sus dioses». | El acto de Ajaz contradice explícitamente la instrucción de la Torah. |
+| #melajim_bet_15_5 | «Y golpeó יהוה al rey, y fue metzorá hasta el día de su muerte; y habitó en una casa de separación. Y Yotam, hijo del rey, estaba sobre la casa, juzgaba al pueblo de la tierra». | Marco para entender el gobierno práctico de Yotam mientras su padre estaba separado. |
+| #melajim_bet_15_34 | «E hizo lo recto en los ojos de יהוה, conforme a todo lo que había hecho Uziyahu, su padre, él hizo». | El texto reconoce la rectitud de Yotam sin convertirla en una licencia para entrar al santuario. |
+| #melajim_bet_16_2-4 | «Pero no hizo lo recto en los ojos de יהוה... y anduvo en el camino de los reyes de Israel, y aún a su hijo hizo pasar por el fuego». | Describe la elección de Ajaz y la gravedad concreta de su idolatría. |
+| #melajim_bet_16_7 | «Tu siervo y tu hijo soy yo; sube y sálvame de la palma del rey de Aram y de la palma del rey de Israel». | Expone la dependencia política que Ajaz escogió frente a la confianza en יהוה. |
+| #melajim_bet_16_10-14 | Ajaz manda reproducir el altar visto en Damesek y coloca el altar de cobre de יהוה a un lado. | La imitación de un modelo extranjero se vuelve visible en el centro del culto. |
+| #devarim_12_31 | «No harás así a יהוה tu Elohim... porque aún a sus hijos y a sus hijas queman en el fuego para sus dioses». | El acto de Ajaz contradice explícitamente la instrucción de la Torah. |
 
 ## Yotam: prudencia aprendida del fracaso
 

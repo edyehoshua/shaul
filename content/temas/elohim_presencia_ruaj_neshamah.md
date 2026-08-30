@@ -16,8 +16,8 @@ tags:
 references:
   - "#romanos_10_9"
   - "#filipenses_2_11"
-  - "#genesis_1_1"
-  - "#genesis_2_7"
+  - "#bereshit_1_1"
+  - "#bereshit_2_7"
   - "#juan_1_1"
   - "#juan_1_3"
   - "#1_juan_1_1"
@@ -26,13 +26,13 @@ references:
   - "#1_juan_4_8"
   - "#1_corintios_13_13"
   - "#1_corintios_15_45"
-  - "#exodo_13_21"
-  - "#exodo_13_22"
-  - "#exodo_14_24"
-  - "#exodo_19_9"
-  - "#exodo_19_16"
-  - "#1_reyes_8_27"
-  - "#deuteronomio_30_6"
+  - "#shemot_13_21"
+  - "#shemot_13_22"
+  - "#shemot_14_24"
+  - "#shemot_19_9"
+  - "#shemot_19_16"
+  - "#melajim_alef_8_27"
+  - "#devarim_30_6"
   - "#hebreos_9_10"
 sources:
   - "https://www.youtube.com/watch?v=4xxUgmWPEmw&list=PLw429MSY038tjaKLP1YP1-Wd5r5MpTNFd&index=11"
@@ -70,18 +70,18 @@ El argumento depende de distinguir palabras relacionadas pero no intercambiables
 
 | Referencia         | Hebreo OE (sin nikud)                                                | TTH (ES)                                                                                  | Función en la clase                                                         |
 | ------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| #exodo_13_21      | ויהוה הלך לפניהם יומם בעמוד ענן לנחתם הדרך ולילה בעמוד אש להאיר להם  | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
-| #exodo_14_24      | ויהי באשמרת הבקר וישקף יהוה אל מחנה מצרים בעמוד אש וענן              | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube».                     | La presencia protege a Israel y juzga a Mitzráim.                           |
-| #exodo_19_9       | ויאמר יהוה אל משה הנה אנכי בא אליך בעב הענן בעבור ישמע העם בדברי עמך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo».     | La voz desde la nube pertenece a יהוה.                                      |
-| #1_reyes_8_27 | כי האמנם ישב אלהים על הארץ הנה השמים ושמי השמים לא יכלכלוך           | «Los cielos y los cielos de los cielos no te pueden contener».                            | La presencia localizada no encierra ni agota a Elohim.                      |
+| #shemot_13_21      | ויהוה הלך לפניהם יומם בעמוד ענן לנחתם הדרך ולילה בעמוד אש להאיר להם  | «יהוה iba delante de ellos, de día en un pilar de nube… y de noche en un pilar de fuego». | No se presenta solamente un mensajero: יהוה guía a Israel desde la columna. |
+| #shemot_14_24      | ויהי באשמרת הבקר וישקף יהוה אל מחנה מצרים בעמוד אש וענן              | «Miró יהוה el campamento de Mitzráim desde el pilar de fuego y nube».                     | La presencia protege a Israel y juzga a Mitzráim.                           |
+| #shemot_19_9       | ויאמר יהוה אל משה הנה אנכי בא אליך בעב הענן בעבור ישמע העם בדברי עמך | «Yo vendré a ti en una gruesa nube, para que escuche el pueblo cuando hable contigo».     | La voz desde la nube pertenece a יהוה.                                      |
+| #melajim_alef_8_27 | כי האמנם ישב אלהים על הארץ הנה השמים ושמי השמים לא יכלכלוך           | «Los cielos y los cielos de los cielos no te pueden contener».                            | La presencia localizada no encierra ni agota a Elohim.                      |
 
 ### Vida recibida y corazón circuncidado
 
 | Referencia             | Hebreo OE / Delitzsch (sin nikud)                                             | TTH (ES)                                                                                                      | Función en la clase                                                                                                    |
 | ---------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| #genesis_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase.    |
+| #bereshit_2_7          | וייצר יהוה אלהים את האדם עפר מן האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה | «Formó יהוה Elohim al hombre, polvo… y soplará en su nariz aliento de vida; y fue el hombre un ser viviente». | Distingue **neshamat jaim** de **nefesh jaiá**; la lectura verbal futura de TTH sostiene el desarrollo de la clase.    |
 | #1_corintios_15_45 | וכן כתוב ויהי האדם אדם הראשון לנפש חיה אדם האחרון לרוח מחיה                   | TTH no disponible en el corpus local.                                                                         | El postrer Adam es presentado como vivificante. La identificación técnica con `neshamah` es una propuesta de la clase. |
-| #deuteronomio_30_6          | ומל יהוה אלהיך את לבבך ואת לבב זרעך לאהבה את יהוה אלהיך… למען חייך            | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas».                               | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón.                      |
+| #devarim_30_6          | ומל יהוה אלהיך את לבבך ואת לבב זרעך לאהבה את יהוה אלהיך… למען חייך            | «Circuncidará יהוה tu Elohim tu corazón… para amar a יהוה… a fin de que vivas».                               | La vida no se compra ni se garantiza por una operación en la carne; Elohim transforma el corazón.                      |
 
 ## Hoja léxica
 
@@ -91,7 +91,7 @@ El argumento depende de distinguir palabras relacionadas pero no intercambiables
 | **(κύριος)**          | kyrios                 | señor, amo                                                                 | Sustituto griego empleado donde una fuente hebrea porta יהוה | La aplicación concreta a #romanos_10_9 y #filipenses_2_11 debe cotejarse con el texto griego y sus citas del Tanaj.                      |
 | **(אלה, אלוה)**       | Eloha                  | designación singular de la deidad                                          | Base de la explicación de Elohim                             | La clase lo acerca al arameo y árabe; parentescos y matices quedan pendientes.                                                          |
 | **(אלהים)**           | Elohim                 | capacidad de actuación, funciones o atributos de la deidad                 | En esta clase prima el amor en creación y redención          | No convertir este uso pedagógico en definición única para todas las apariciones.                                                        |
-| **(ראשית)**           | reshit                 | primicia, comienzo cualitativo                                             | La clase lo identifica con la primicia mesiánica             | TTH de #juan_1_1 traduce «primicia»; la lectura de #genesis_1_1 como «por medio de la Primicia» requiere estudio sintáctico aparte. |
+| **(ראשית)**           | reshit                 | primicia, comienzo cualitativo                                             | La clase lo identifica con la primicia mesiánica             | TTH de #juan_1_1 traduce «primicia»; la lectura de #bereshit_1_1 como «por medio de la Primicia» requiere estudio sintáctico aparte. |
 | **(אהבה)**            | ahavah                 | amor que da y sostiene la promesa                                          | Atributo principal manifestado en creación y redención       | El juego `ahavah` / `yahav` / `yahad` se conserva como recurso pedagógico, no como etimología demostrada.                               |
 | **(אחד)**             | ejad                   | uno, unido, sin brechas                                                    | Continuidad e inmutabilidad de Elohim                        | La conexión con las cortinas del tabernáculo es contextual; no agota el campo semántico de אחד.                                         |
 | **(רוח הקדש)**        | ruaj ha-qodesh         | poder, voluntad o mente de la santidad                                     | Manifestación soberana y multiforme del poder de Elohim      | Aproximación teológica de la clase; no traducción palabra por palabra asentada.                                                         |
@@ -110,7 +110,7 @@ Esta conclusión debe mantenerse unida a su base textual. El argumento no descan
 
 ## Elohim: función, atributo y amor
 
-El expositor usa **Elohim** de manera funcional: el término obliga a preguntar qué capacidad, obra o atributo de la deidad se manifiesta en un pasaje. En #genesis_1_1, la clase responde que prima el amor. Elohim crea por medio de la `reshit`, y el evangelio revela que esa primicia es también el anclaje de la redención: el mundo hecho por amor será rescatado por el amor que entrega al Hijo.
+El expositor usa **Elohim** de manera funcional: el término obliga a preguntar qué capacidad, obra o atributo de la deidad se manifiesta en un pasaje. En #bereshit_1_1, la clase responde que prima el amor. Elohim crea por medio de la `reshit`, y el evangelio revela que esa primicia es también el anclaje de la redención: el mundo hecho por amor será rescatado por el amor que entrega al Hijo.
 
 La conexión se construye con #1_corintios_13_13 —el amor es el mayor—, #1_juan_4_7-8 —Elohim es amor— y #juan_1_1-3 —todo fue hecho por la Palabra presente en la primicia—. La tesis de la clase no es que justicia, fidelidad o santidad desaparezcan, sino que el amor gobierna el propósito creador y anticipa la venida salvadora del Mesías.
 
@@ -118,7 +118,7 @@ Por eso la nota conserva una diferencia importante entre texto y conclusión. Lo
 
 ## La presencia que no queda encerrada
 
-Shemot afirma que יהוה iba delante de Israel en columna de nube y de fuego, habló desde la nube y miró desde ella al campamento egipcio. La clase insiste en tomar seriamente esos verbos: allí estaba יהוה. Sin embargo, #1_reyes_8_27 impide imaginar que la columna, el tabernáculo o el templo contenían toda su realidad.
+Shemot afirma que יהוה iba delante de Israel en columna de nube y de fuego, habló desde la nube y miró desde ella al campamento egipcio. La clase insiste en tomar seriamente esos verbos: allí estaba יהוה. Sin embargo, #melajim_alef_8_27 impide imaginar que la columna, el tabernáculo o el templo contenían toda su realidad.
 
 La manifestación local no obliga a dividir a Elohim ni a vaciar los cielos. יהוה puede hacerse presente en un punto porque no existe un espacio de la creación que limite su poder. A la vez, esto no significa que la creación sea Elohim. La clase rechaza el salto panteísta: que todo dependa de él y declare su grandeza no convierte cada cosa creada ni a cada ser humano en Dios.
 
@@ -142,9 +142,9 @@ La observación sobre la _neshamah_ vivificante se prueba con cautela en Bereshi
 
 ## Nefesh, circuncisión y vida
 
-#genesis_2_7 llama al ser humano formado del polvo **nefesh jaiá**, expresión que también se aplica a otros seres vivientes. La clase usa esta base para negar que la vida del olam se obtenga simplemente por nacimiento étnico, circuncisión física o conversión institucional. Ser `nefesh` equivale a ser un viviente; recibir vida vivificante requiere la obra de Elohim.
+#bereshit_2_7 llama al ser humano formado del polvo **nefesh jaiá**, expresión que también se aplica a otros seres vivientes. La clase usa esta base para negar que la vida del olam se obtenga simplemente por nacimiento étnico, circuncisión física o conversión institucional. Ser `nefesh` equivale a ser un viviente; recibir vida vivificante requiere la obra de Elohim.
 
-#deuteronomio_30_6 desplaza el centro hacia la circuncisión del corazón: יהוה actúa sobre el interior para que su pueblo lo ame y viva. La transformación alcanza pensamientos, deseos e impulsos y se aproxima al lenguaje apostólico de nacer de nuevo. La circuncisión física puede conservar su sentido de pacto, pero no compra la vida ni sustituye la confesión del Mesías.
+#devarim_30_6 desplaza el centro hacia la circuncisión del corazón: יהוה actúa sobre el interior para que su pueblo lo ame y viva. La transformación alcanza pensamientos, deseos e impulsos y se aproxima al lenguaje apostólico de nacer de nuevo. La circuncisión física puede conservar su sentido de pacto, pero no compra la vida ni sustituye la confesión del Mesías.
 
 La clase conecta esta transformación con la `neshamah` vivificante. Esa equivalencia debe quedar abierta a examen, pero la exhortación bíblica permanece: la vida procede de יהוה, alcanza el corazón y se reconoce en fidelidad al Mesías, no en una obra humana usada como garantía automática.
 
@@ -157,11 +157,11 @@ La aplicación de la clase es que la presencia de Elohim no queda atada perpetua
 ## Conexiones principales
 
 - #romanos_10_9 ↔ #filipenses_2_11: la confesión de Yeshúa como Adón se lee a la luz del uso de **κύριος** para יהוה.
-- #genesis_1_1 ↔ #juan_1_1-3: `reshit`, Palabra y creación convergen en la lectura mesiánica de la clase.
+- #bereshit_1_1 ↔ #juan_1_1-3: `reshit`, Palabra y creación convergen en la lectura mesiánica de la clase.
 - #1_juan_4_7-8 ↔ #1_corintios_13_13: el amor como atributo que gobierna creación y redención.
-- #exodo_13_21 ↔ #exodo_19_9 ↔ #1_reyes_8_27: יהוה se manifiesta localmente sin quedar contenido.
-- #genesis_2_7 ↔ #1_corintios_15_45: del ser viviente al postrer Adam vivificante.
-- #deuteronomio_30_6 ↔ #romanos_10_9: corazón circuncidado y corazón afirmado en la obra de Elohim.
+- #shemot_13_21 ↔ #shemot_19_9 ↔ #melajim_alef_8_27: יהוה se manifiesta localmente sin quedar contenido.
+- #bereshit_2_7 ↔ #1_corintios_15_45: del ser viviente al postrer Adam vivificante.
+- #devarim_30_6 ↔ #romanos_10_9: corazón circuncidado y corazón afirmado en la obra de Elohim.
 
 ## Referencias judías y fuentes externas
 
@@ -179,7 +179,7 @@ La aplicación de la clase es que la presencia de Elohim no queda atada perpetua
 
 - [ ] Cotejar el griego de #romanos_10_9 y #filipenses_2_11, y los pasajes del Tanaj citados en su contexto, antes de formular `kyrios = יהוה` como equivalencia automática.
 - [ ] Verificar el tratamiento de **יהוה צבאות** como nombre propio indivisible y la objeción gramatical a traducirlo mediante un genitivo castellano.
-- [ ] Examinar la sintaxis de #genesis_1_1 y el rango de **בראשית** antes de cerrar «por medio de la Primicia» como traducción.
+- [ ] Examinar la sintaxis de #bereshit_1_1 y el rango de **בראשית** antes de cerrar «por medio de la Primicia» como traducción.
 - [ ] Verificar el juego léxico `ahavah` / `yahav` / `yahad`; conservarlo por ahora como asociación pedagógica.
 - [ ] Localizar la referencia precisa de Ibn Ezra y de los comentaristas que relacionan יהוה con juicio y Elohim con misericordia.
 - [ ] Cotejar **ruaj ha-qodesh**, **neshamah**, **nefesh** y el «espíritu vivificante» de #1_corintios_15_45 en hebreo, griego y fuentes judías; no asumir equivalencia exacta.
@@ -213,6 +213,6 @@ La contribución específica de la parte 11 es ordenar la presencia en tres nive
 ## Ver también
 
 - [Elohim y Aba](elohim_aba)
-- [Conceptos clave de deidad en el evangelio de Yojanán](../besorah/yojanan_conceptos_deidad)
-- [Yojanán 14: Abba, el Nombre y el Menajem](../besorah/yojanan_14_abba_menajem_nombre)
+- [Conceptos clave de deidad en el evangelio de Yojanán](../besorah/juan_conceptos_deidad)
+- [Yojanán 14: Abba, el Nombre y el Menajem](../besorah/juan_14_abba_menajem_nombre)
 - [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)

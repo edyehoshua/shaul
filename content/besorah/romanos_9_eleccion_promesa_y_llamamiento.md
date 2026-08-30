@@ -12,10 +12,10 @@ tags:
 references:
   - "#romanos_9_1-5"
   - "#romanos_9_6-13"
-  - "#genesis_18_14"
-  - "#genesis_21_12"
-  - "#genesis_25_23"
-  - "#malaquias_1_2-3"
+  - "#bereshit_18_14"
+  - "#bereshit_21_12"
+  - "#bereshit_25_23"
+  - "#malaji_1_2-3"
   - "#juan_1_12-13"
 sources:
   - "https://www.youtube.com/watch?v=70PhkCb5RUI"

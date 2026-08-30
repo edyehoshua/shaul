@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 5:13-23 sobre la fuente recibida, la fidelidad,
 date: 2026-08-06
 tags: [mishlei, mishlei_5, disciplina, torah, fidelidad, fuente]
 references:
-  - "#proverbios_5_13"
-  - "#proverbios_5_14"
-  - "#proverbios_5_15"
-  - "#proverbios_5_16"
-  - "#proverbios_5_17"
-  - "#proverbios_5_18"
-  - "#proverbios_5_19"
-  - "#proverbios_5_20"
-  - "#proverbios_5_21"
-  - "#proverbios_5_22"
-  - "#proverbios_5_23"
+  - "#mishlei_5_13"
+  - "#mishlei_5_14"
+  - "#mishlei_5_15"
+  - "#mishlei_5_16"
+  - "#mishlei_5_17"
+  - "#mishlei_5_18"
+  - "#mishlei_5_19"
+  - "#mishlei_5_20"
+  - "#mishlei_5_21"
+  - "#mishlei_5_22"
+  - "#mishlei_5_23"
 sources:
   - "https://www.youtube.com/watch?v=h6oAX0mNHMs"
   - "docs/scriptures/oe/json/proverbs/5.json"
@@ -36,12 +36,12 @@ Esta nota organiza la clase pública sobre la segunda parte de Mishlei 5. Sigue 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_5_13 | ולא שמעתי בקול מורי ולמלמדי לא הטיתי אזני | Y no he escuchado a la voz de mi Maestro, y a mi Enseñador no incliné mi oído. |
-| #proverbios_5_14 | כמעט הייתי בכל רע בתוך קהל ועדה | Casi he estado en todo mal en medio de la congregación y la asamblea. |
-| #proverbios_5_15 | שתה מים מבורך ונזלים מתוך בארך | Bebe las aguas de tu pozo, y las corrientes de en medio de tu cisterna. |
-| #proverbios_5_16-17 | יפוצו מעינתיך חוצה ברחבות פלגי מים / יהיו לך לבדך ואין לזרים אתך | Se extenderán tus fuentes hacia fuera, por las calles, los canales de aguas; serán para ti, solo tú, y no para los extraños contigo. |
-| #proverbios_5_18-20 | יהי מקורך ברוך ושמח מאשת נעורך ... ולמה תשגה בני בזרה | Será bendita tu fuente, y alegría que viene de la mujer de tu juventud... ¿Y por qué vagarás con la extraña? |
-| #proverbios_5_21-23 | כי נכח עיני יהוה דרכי איש ... הוא ימות באין מוסר | Al frente de los ojos de יהוה están los caminos del hombre... él morirá sin disciplina. |
+| #mishlei_5_13 | ולא שמעתי בקול מורי ולמלמדי לא הטיתי אזני | Y no he escuchado a la voz de mi Maestro, y a mi Enseñador no incliné mi oído. |
+| #mishlei_5_14 | כמעט הייתי בכל רע בתוך קהל ועדה | Casi he estado en todo mal en medio de la congregación y la asamblea. |
+| #mishlei_5_15 | שתה מים מבורך ונזלים מתוך בארך | Bebe las aguas de tu pozo, y las corrientes de en medio de tu cisterna. |
+| #mishlei_5_16-17 | יפוצו מעינתיך חוצה ברחבות פלגי מים / יהיו לך לבדך ואין לזרים אתך | Se extenderán tus fuentes hacia fuera, por las calles, los canales de aguas; serán para ti, solo tú, y no para los extraños contigo. |
+| #mishlei_5_18-20 | יהי מקורך ברוך ושמח מאשת נעורך ... ולמה תשגה בני בזרה | Será bendita tu fuente, y alegría que viene de la mujer de tu juventud... ¿Y por qué vagarás con la extraña? |
+| #mishlei_5_21-23 | כי נכח עיני יהוה דרכי איש ... הוא ימות באין מוסר | Al frente de los ojos de יהוה están los caminos del hombre... él morirá sin disciplina. |
 
 ## La confesión en medio del pueblo
 
@@ -75,10 +75,10 @@ El cierre contrasta dos caminos. יהוה está frente a los caminos del hombre 
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_5_13-14 | El rechazo de la disciplina deja al sujeto en mal dentro del pueblo y la asamblea. | Apoyo textual; distinción histórica entre términos pendiente. |
-| #proverbios_5_15-17 | El pozo propio representa la fuente de Torah recibida, que se extiende dentro del pueblo. | Sentido conyugal apoyado; aplicación espiritual calificada. |
-| #proverbios_5_18-20 | La mujer de la juventud representa Torah, Israel ideal y la obediencia puesta por obra. | Conexión pedagógica atribuida; no reemplaza el sentido matrimonial. |
-| #proverbios_5_21-23 | יהוה examina y nivela los caminos; la propia torcedura captura al malvado. | Apoyo textual; “círculo vicioso” tratado como imagen de la clase. |
+| #mishlei_5_13-14 | El rechazo de la disciplina deja al sujeto en mal dentro del pueblo y la asamblea. | Apoyo textual; distinción histórica entre términos pendiente. |
+| #mishlei_5_15-17 | El pozo propio representa la fuente de Torah recibida, que se extiende dentro del pueblo. | Sentido conyugal apoyado; aplicación espiritual calificada. |
+| #mishlei_5_18-20 | La mujer de la juventud representa Torah, Israel ideal y la obediencia puesta por obra. | Conexión pedagógica atribuida; no reemplaza el sentido matrimonial. |
+| #mishlei_5_21-23 | יהוה examina y nivela los caminos; la propia torcedura captura al malvado. | Apoyo textual; “círculo vicioso” tratado como imagen de la clase. |
 
 ## Pendiente de verificar
 

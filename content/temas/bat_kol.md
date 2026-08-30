@@ -12,9 +12,9 @@ references:
   - "#marcos_1_10-11"
   - "#lucas_3_21-22"
   - "#mateo_17_5"
-  - "#salmos_2_7"
-  - "#isaias_42_1"
-  - "#deuteronomio_18_15"
+  - "#tehilim_2_7"
+  - "#yeshayahu_42_1"
+  - "#devarim_18_15"
   - "#juan_1_32"
   - "#juan_1_34"
   - "#juan_12_28"
@@ -87,9 +87,9 @@ La bat kol identifica a Yeshua como Hijo, Siervo y Escogido, y los relatos de la
 
 | Referencia | Hebreo (sin nikud) | TTH (ES) | Observación |
 | --- | --- | --- | --- |
-| #salmos_2_7 | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך | Contaré el decreto: יהוה me dijo: "Mi Hijo eres tú…" | Filiación declarada. |
-| #isaias_42_1 | הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו | He aquí mi Siervo… mi escogido, en Él se complace mi ser. | Siervo, escogido y complacencia unidos. |
-| #deuteronomio_18_15 | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון | Un profeta… levantará para ti יהוה tu Elohim; a él escucharán. | Mandato de escuchar al enviado. |
+| #tehilim_2_7 | אספרה אל חק יהוה אמר אלי בני אתה אני היום ילדתיך | Contaré el decreto: יהוה me dijo: "Mi Hijo eres tú…" | Filiación declarada. |
+| #yeshayahu_42_1 | הן עבדי אתמך בו בחירי רצתה נפשי נתתי רוחי עליו | He aquí mi Siervo… mi escogido, en Él se complace mi ser. | Siervo, escogido y complacencia unidos. |
+| #devarim_18_15 | נביא מקרבך מאחיך כמני יקים לך יהוה אלהיך אליו תשמעון | Un profeta… levantará para ti יהוה tu Elohim; a él escucharán. | Mandato de escuchar al enviado. |
 
 ## Hoja léxica
 
@@ -98,7 +98,7 @@ La bat kol identifica a Yeshua como Hijo, Siervo y Escogido, y los relatos de la
 | **(בת קול)** | bat kol | Hija de la voz, eco celestial | בת + קול | Categoría rabínica posterior al periodo bíblico; usar con cautela histórica. |
 | **(בני)** | beni | Hijo mío | בן | Fórmula de filiación en tevilah y metamorfosis. |
 | **(עבדי)** | avdi | Mi siervo | עבד | Paralelo con Hijo en la síntesis de la clase. |
-| **(ידידי)** | yedidi | Mi amado, mi escogido | ידיד | Aparece en Lucas y en #isaias_42_1. |
+| **(ידידי)** | yedidi | Mi amado, mi escogido | ידיד | Aparece en Lucas y en #yeshayahu_42_1. |
 | **(רצתה נפשי)** | ratzetah nafshi | Mi ser se complace | רצה + נפש | Conecta complacencia divina y elección. |
 
 ## Conclusión
@@ -121,19 +121,19 @@ La multitud discute si fue trueno o voz de ángel; Yeshúa reorienta el sentido 
 | --- | --- | --- | --- |
 | Talmud Bavli | b. Sanhedrin / b. Yoma (bat kol) | Definición rabínica de **(בת קול)** | Pendiente de verificar |
 | Jewish Encyclopedia | Bat kol; Bible exegesis (derash) | Contexto introductorio | Mención indirecta en la clase |
-| Midrash / Tanaj | #salmos_2_7; #isaias_42_1 | Trasfondo de Hijo, Siervo y Escogido | Cotejado |
-| #deuteronomio_18_15 | Profeta a quien se escucha | Mandato «escúchenlo» en metamorfosis | Cotejado |
+| Midrash / Tanaj | #tehilim_2_7; #yeshayahu_42_1 | Trasfondo de Hijo, Siervo y Escogido | Cotejado |
+| #devarim_18_15 | Profeta a quien se escucha | Mandato «escúchenlo» en metamorfosis | Cotejado |
 
 ## Pendiente de verificar
 
 - [ ] Localizar el tratado y daf exactos donde el Talmud define **(בת קול)** con precisión.
-- [ ] Cotejar si la síntesis «Hijo = Siervo» requiere matiz adicional desde #isaias_42_1 y los relatos sinópticos.
+- [ ] Cotejar si la síntesis «Hijo = Siervo» requiere matiz adicional desde #yeshayahu_42_1 y los relatos sinópticos.
 
 ## Ver también
 
 - [Ben, hijo y títulos del Mesías](ben_hijo_titulos_mesias)
 - [Elohim y Abba](elohim_aba)
-- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/yojanan_1)
+- [Yojanan 1: meymrá, vida y tabernáculo](../besorah/juan_1)
 
 ## Créditos
 

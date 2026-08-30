@@ -8,9 +8,9 @@ tags:
   - melajim-alef
   - idolatria
 references:
-  - "#1_reyes_14_7-16"
-  - "#1_reyes_15_25-34"
-  - "#1_reyes_16_1-33"
+  - "#melajim_alef_14_7-16"
+  - "#melajim_alef_15_25-34"
+  - "#melajim_alef_16_1-33"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
 source_ids:
@@ -29,10 +29,10 @@ Esta nota organiza la clase pública «בית עמרי CASA DE OMRI» y contrast
 
 | Referencia | Texto TTH local | Función en la clase |
 | --- | --- | --- |
-| #1_reyes_14_7 | «Porque te elevé de entre el pueblo y te puse como líder sobre mi pueblo Israel» | La autoridad de Jeroboam es recibida, no autónoma. |
-| #1_reyes_16_1 | «Y fue la palabra de יהוה a Yehú, hijo de Janani, sobre Bashá» | El juicio profético interpreta la sucesión política. |
-| #1_reyes_16_21 | «Entonces se dividió el pueblo de Israel en mitades... una... detrás de Tibni... y la otra... detrás de Omri» | Omri llega en medio de una disputa interna. |
-| #1_reyes_16_29 | «Y Ajab, hijo de Omri, reinó sobre Israel... y reinó... veintidós años» | La casa de Omri continúa en Ajab. |
+| #melajim_alef_14_7 | «Porque te elevé de entre el pueblo y te puse como líder sobre mi pueblo Israel» | La autoridad de Jeroboam es recibida, no autónoma. |
+| #melajim_alef_16_1 | «Y fue la palabra de יהוה a Yehú, hijo de Janani, sobre Bashá» | El juicio profético interpreta la sucesión política. |
+| #melajim_alef_16_21 | «Entonces se dividió el pueblo de Israel en mitades... una... detrás de Tibni... y la otra... detrás de Omri» | Omri llega en medio de una disputa interna. |
+| #melajim_alef_16_29 | «Y Ajab, hijo de Omri, reinó sobre Israel... y reinó... veintidós años» | La casa de Omri continúa en Ajab. |
 
 ## Del liderazgo delegado al culto fabricado
 
@@ -57,8 +57,8 @@ Eric propone además que pueblos vecinos llamaron a Israel «casa de Omri». Est
 ## Conexiones principales
 
 - [[neo-idolatria_sincretismo_babel_israel_y_purificacion|Sincretismo, Babel, Israel y purificación]].
-- #1_reyes_12_26-33 — el culto alternativo de Jeroboam es el trasfondo inmediato.
-- #1_reyes_16_29-33 — Ajab prolonga la casa y profundiza la idolatría.
+- #melajim_alef_12_26-33 — el culto alternativo de Jeroboam es el trasfondo inmediato.
+- #melajim_alef_16_29-33 — Ajab prolonga la casa y profundiza la idolatría.
 
 ## Pendiente de verificar
 

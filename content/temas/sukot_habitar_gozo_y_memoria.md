@@ -5,10 +5,10 @@ date: 2026-07-27
 tags:
   - sukot
   - fiestas
-  - levitico
+  - vayikra
 references:
-  - "#levitico_23_39-43"
-  - "#deuteronomio_16_13-15"
+  - "#vayikra_23_39-43"
+  - "#devarim_16_13-15"
 sources:
   - "https://www.youtube.com/watch?v=mZGpW3lwf4Y"
   - "https://www.youtube.com/watch?v=xwuvQhEMMDo"
@@ -36,8 +36,8 @@ Sukot es una convocatoria de siete días para alegrarse ante יהוה y recordar
 
 | Referencia        | Texto hebreo local                                                                                                                                       | Observación                                                                         |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #levitico_23_39-43  | אך בחמשה עשר יום לחדש השביעי... וחגתם חג ליהוה שבעת ימים... בסכת תשבו שבעת ימים... למען ידעו דרתיכם כי בסכות הושבתי את בני ישראל בהוציאי אותם מארץ מצרים | La Torah nombra la cosecha, el descanso, la morada temporal y la memoria del éxodo. |
-| #deuteronomio_16_13-15 | חג הסכת תעשה לך שבעת ימים... ושמחת בחגך... והיית אך שמח                                                                                                  | El gozo se ordena y se extiende a quienes forman la casa y la comunidad.            |
+| #vayikra_23_39-43  | אך בחמשה עשר יום לחדש השביעי... וחגתם חג ליהוה שבעת ימים... בסכת תשבו שבעת ימים... למען ידעו דרתיכם כי בסכות הושבתי את בני ישראל בהוציאי אותם מארץ מצרים | La Torah nombra la cosecha, el descanso, la morada temporal y la memoria del éxodo. |
+| #devarim_16_13-15 | חג הסכת תעשה לך שבעת ימים... ושמחת בחגך... והיית אך שמח                                                                                                  | El gozo se ordena y se extiende a quienes forman la casa y la comunidad.            |
 
 ## Alcance de la nota
 
@@ -54,7 +54,7 @@ El mandato dirige la mirada hacia la vulnerabilidad de la salida y hacia la prov
 
 ## Ver también
 
-- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: omer, primicias y conteo hacia Shavuot]]
+- [[vayikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: omer, primicias y conteo hacia Shavuot]]
 
 ## Créditos
 

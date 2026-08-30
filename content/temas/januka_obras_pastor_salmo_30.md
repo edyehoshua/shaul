@@ -4,7 +4,7 @@ description: "Lectura de Yojanán 10:22-39 y Tehilim 30 a partir de una enseñan
 date: 2026-07-27
 tags:
   - januca
-  - yojanan
+  - juan
   - tehilim
   - obras
   - pastor
@@ -19,11 +19,11 @@ references:
   - "#juan_10_36"
   - "#juan_10_37"
   - "#juan_10_38"
-  - "#salmos_30_1"
-  - "#salmos_30_6"
-  - "#salmos_30_8"
-  - "#salmos_30_12"
-  - "#salmos_30_13"
+  - "#tehilim_30_1"
+  - "#tehilim_30_6"
+  - "#tehilim_30_8"
+  - "#tehilim_30_12"
+  - "#tehilim_30_13"
 sources:
   - "https://www.youtube.com/watch?v=7uBEYFbUy2A"
 source_ids:
@@ -46,10 +46,10 @@ Esta nota organiza la clase **Despedida de Janukáh (2018) Análisis de Jn 10:22
 | #juan_10_22-25 | **TTH:** «Y era Janucá en Yerushaláim, y era invierno… Si Tú eres el Mesías, dínoslo con confianza… las obras que Yo hago en nombre de mi Padre, estas testifican acerca de Mí».                          | La fiesta es el escenario; las obras responden a la exigencia de una declaración.       |
 | #juan_10_27-30 | **Delitzsch:** צאני שמעות את קולי ואני יודע אתן והנה הלכות אחרי׃ וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי׃ אבי אשר נתנן לי אדיר הוא מכל ואין איש אשר יוכל לחטף אתהן מיד האב׃ ואני והאב אחד׃ | Voz, conocimiento, seguimiento y seguridad aparecen antes de la afirmación de unidad.   |
 | #juan_10_32-38 | **TTH:** «Muchas buenas obras les he dado a conocer de mi Padre… Si no hago las obras de mi Padre, no se afirmen por Mí; pero si las hago… afírmense por las obras».                                      | Yehoshua dirige a sus oyentes al carácter verificable de sus obras y cita la Escritura. |
-| #salmos_30_1     | מזמור שיר חנכת הבית לדוד                                                                                                                                                                                  | El título vincula el salmo con la dedicación de una casa.                               |
-| #salmos_30_6     | כי רגע באפו חיים ברצונו בערב ילין בכי ולבקר רנה                                                                                                                                                           | El llanto nocturno y el júbilo matutino expresan una esperanza dependiente de יהוה.     |
-| #salmos_30_8-9   | יהוה ברצונך העמדתה להררי עז הסתרת פניך הייתי נבהל׃ אליך יהוה אקרא ואל אדני אתחנן                                                                                                                          | La firmeza del salmista procede del favor de יהוה, por eso su respuesta es clamar.      |
-| #salmos_30_12-13 | הפכת מספדי למחול לי פתחת שקי ותאזרני שמחה׃ למען יזמרך כבוד ולא ידם יהוה אלהי לעולם אודך                                                                                                                   | La restauración culmina en alabanza, no en silencio ni en autoexaltación.               |
+| #tehilim_30_1     | מזמור שיר חנכת הבית לדוד                                                                                                                                                                                  | El título vincula el salmo con la dedicación de una casa.                               |
+| #tehilim_30_6     | כי רגע באפו חיים ברצונו בערב ילין בכי ולבקר רנה                                                                                                                                                           | El llanto nocturno y el júbilo matutino expresan una esperanza dependiente de יהוה.     |
+| #tehilim_30_8-9   | יהוה ברצונך העמדתה להררי עז הסתרת פניך הייתי נבהל׃ אליך יהוה אקרא ואל אדני אתחנן                                                                                                                          | La firmeza del salmista procede del favor de יהוה, por eso su respuesta es clamar.      |
+| #tehilim_30_12-13 | הפכת מספדי למחול לי פתחת שקי ותאזרני שמחה׃ למען יזמרך כבוד ולא ידם יהוה אלהי לעולם אודך                                                                                                                   | La restauración culmina en alabanza, no en silencio ni en autoexaltación.               |
 
 ## Yojanán 10:22-25: una pregunta durante Janucá #juan_10_22-25
 
@@ -73,9 +73,9 @@ Los vv. 34-36 introducen la cita «ustedes son elohim» y el argumento sobre aqu
 
 Al concluir, Eric lee Tehilim 30 como «cántico de dedicación de la casa» y aplica la casa a una comunidad que aprende a alabar. El encabezado local sí contiene **(חנכת)**, dedicación, junto con **(הבית)**, la casa. La conexión con Janucá es lingüística y pedagógica: ambos términos pertenecen al campo de dedicar. No es necesario afirmar que el salmo fuera compuesto para la fiesta posterior; el título del salmo nombra la dedicación de una casa, mientras Yojanán sitúa la conversación en Janucá.
 
-El desarrollo del salmo frena una celebración triunfalista. En #salmos_30_8 el salmista reconoce que su firmeza depende del favor de יהוה; cuando el rostro es ocultado, queda turbado y clama. Eric retoma esa dependencia para exhortar a permanecer firmes. El texto sostiene la dependencia y el clamor; la aplicación a una comunidad es pastoral, no una sustitución del referente poético original.
+El desarrollo del salmo frena una celebración triunfalista. En #tehilim_30_8 el salmista reconoce que su firmeza depende del favor de יהוה; cuando el rostro es ocultado, queda turbado y clama. Eric retoma esa dependencia para exhortar a permanecer firmes. El texto sostiene la dependencia y el clamor; la aplicación a una comunidad es pastoral, no una sustitución del referente poético original.
 
-La última estrofa explica la dirección de la restauración. יהוה cambia el lamento en danza, suelta el saco y ciñe de alegría, «para que» la gloria cante y no calle (#salmos_30_12-13). Junto al relato de Yojanán, el resultado no es reclamar un privilegio religioso: es recibir la obra de יהוה como motivo de testimonio, seguimiento y gratitud.
+La última estrofa explica la dirección de la restauración. יהוה cambia el lamento en danza, suelta el saco y ciñe de alegría, «para que» la gloria cante y no calle (#tehilim_30_12-13). Junto al relato de Yojanán, el resultado no es reclamar un privilegio religioso: es recibir la obra de יהוה como motivo de testimonio, seguimiento y gratitud.
 
 ## La prueba visible y la respuesta de la comunidad
 
@@ -100,7 +100,7 @@ La comunidad que escucha también queda implicada. Las ovejas no son descritas c
 | #juan_10_22-25   | Janucá ya era una conmemoración conocida y la pregunta por el Mesías recibe como respuesta las obras hechas en nombre del Padre. | Apoyo textual: se mantiene el marco de la fiesta y se explica que el v. 25 remite a obras, no solo a una declaración pública.                 |
 | #juan_10_27-30   | Las ovejas oyen, son conocidas, siguen, reciben vida y no son arrebatadas; Eric une esto a la acción del Padre.                  | Apoyo textual y matiz: se conserva la secuencia de escuchar-seguir antes de la seguridad, y la inferencia se limita a lo que el texto afirma. |
 | #juan_10_32-38   | Las obras son «créditos» visibles de la identidad de Yehoshua y muestran que el Padre está en él.                                | Apoyo textual: se desarrolla la apelación explícita a las obras y se reserva el estudio de Tehilim 82 para su contexto.                       |
-| #salmos_30_1, 8-13 | El salmo es una enseñanza de la casa: la firmeza viene de יהוה y el lamento transformado termina en alabanza.                    | Apoyo textual y aclaración léxica: **(חנכת)** se explica como dedicación y la aplicación comunitaria se marca como pastoral.                  |
+| #tehilim_30_1, 8-13 | El salmo es una enseñanza de la casa: la firmeza viene de יהוה y el lamento transformado termina en alabanza.                    | Apoyo textual y aclaración léxica: **(חנכת)** se explica como dedicación y la aplicación comunitaria se marca como pastoral.                  |
 
 ## Pendiente de verificar
 
@@ -111,13 +111,13 @@ La comunidad que escucha también queda implicada. Las ovejas no son descritas c
 ## Conexiones principales
 
 - #juan_10_22-25 con #juan_10_37-38: la identidad se discierne en la coherencia entre palabra y obras.
-- #juan_10_27-29 con #salmos_30_8-9: la seguridad se describe dentro de una relación de dependencia, escucha y clamor.
-- #salmos_30_12-13 con #juan_10_32: la obra reconocida de יהוה conduce a un testimonio agradecido.
+- #juan_10_27-29 con #tehilim_30_8-9: la seguridad se describe dentro de una relación de dependencia, escucha y clamor.
+- #tehilim_30_12-13 con #juan_10_32: la obra reconocida de יהוה conduce a un testimonio agradecido.
 
 ## Ver también
 
-- [[../besorah/yojanan_10_janukah_senales_mesias|Janucá y las señales del Mesías]]
-- [[../besorah/yojanan_10_pastor_vida_obras|El pastor, la vida y las obras en Yojanán 10]]
+- [[../besorah/juan_10_janukah_senales_mesias|Janucá y las señales del Mesías]]
+- [[../besorah/juan_10_pastor_vida_obras|El pastor, la vida y las obras en Yojanán 10]]
 - [[janukah|Janucá]]
 
 ## Créditos

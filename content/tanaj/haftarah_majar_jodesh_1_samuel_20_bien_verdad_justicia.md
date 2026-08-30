@@ -11,31 +11,31 @@ tags:
   - verdad
   - justicia
 references:
-  - "#1_samuel_20_18"
-  - "#1_samuel_20_19"
-  - "#1_samuel_20_20"
-  - "#1_samuel_20_21"
-  - "#1_samuel_20_22"
-  - "#1_samuel_20_23"
-  - "#1_samuel_20_24"
-  - "#1_samuel_20_25"
-  - "#1_samuel_20_26"
-  - "#1_samuel_20_27"
-  - "#1_samuel_20_28"
-  - "#1_samuel_20_29"
-  - "#1_samuel_20_30"
-  - "#1_samuel_20_31"
-  - "#1_samuel_20_32"
-  - "#1_samuel_20_33"
-  - "#1_samuel_20_34"
-  - "#1_samuel_20_35"
-  - "#1_samuel_20_36"
-  - "#1_samuel_20_37"
-  - "#1_samuel_20_38"
-  - "#1_samuel_20_39"
-  - "#1_samuel_20_40"
-  - "#1_samuel_20_41"
-  - "#1_samuel_20_42"
+  - "#shemuel_alef_20_18"
+  - "#shemuel_alef_20_19"
+  - "#shemuel_alef_20_20"
+  - "#shemuel_alef_20_21"
+  - "#shemuel_alef_20_22"
+  - "#shemuel_alef_20_23"
+  - "#shemuel_alef_20_24"
+  - "#shemuel_alef_20_25"
+  - "#shemuel_alef_20_26"
+  - "#shemuel_alef_20_27"
+  - "#shemuel_alef_20_28"
+  - "#shemuel_alef_20_29"
+  - "#shemuel_alef_20_30"
+  - "#shemuel_alef_20_31"
+  - "#shemuel_alef_20_32"
+  - "#shemuel_alef_20_33"
+  - "#shemuel_alef_20_34"
+  - "#shemuel_alef_20_35"
+  - "#shemuel_alef_20_36"
+  - "#shemuel_alef_20_37"
+  - "#shemuel_alef_20_38"
+  - "#shemuel_alef_20_39"
+  - "#shemuel_alef_20_40"
+  - "#shemuel_alef_20_41"
+  - "#shemuel_alef_20_42"
 sources:
   - "https://www.youtube.com/watch?v=ylAeMhup8o0"
   - "docs/scriptures/oe/json/raw/isamuel.json"
@@ -56,19 +56,19 @@ Esta nota sigue el perícopa en el orden de 1 Shemuel 20:18-42. Organiza las obs
 
 | Referencia             | Hebreo local OE, normalizado sin nikud                                       | Función en el desarrollo                                                                              |
 | ---------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #1_samuel_20_18-23 | ויאמר לו יהונתן מחר חדש... והדבר אשר דברנו אני ואתה הנה יהוה בינינו עד עולם  | Yehonatán fija el tiempo, la señal y la presencia de יהוה entre ambos.                                |
-| #1_samuel_20_24-29 | ויהי החדש... ויפקד מקום דוד... וישאל נשאל דוד מעמדי                          | La ausencia de David queda dentro de una mesa real y de una explicación que será examinada.           |
-| #1_samuel_20_30-34 | ויחר אף שאול ביהונתן... ויען יהונתן... למה יומת מה עשה                       | La ira del rey intenta convertir la lealtad a David en vergüenza; Yehonatán pregunta por la justicia. |
-| #1_samuel_20_35-40 | ויהי בבקר ויצא יהונתן השדה... והנער לא ידע מאומה אך יהונתן ודוד ידעו את הדבר | Las flechas comunican lo que el muchacho no entiende: David debe huir.                                |
-| #1_samuel_20_41-42 | ויפלו לאפיו ארצה... ויאמר יהונתן לדוד לך לשלום... יהוה יהיה ביני ובינך       | El llanto y la despedida sellan una relación orientada por la paz y el nombre de יהוה.                |
+| #shemuel_alef_20_18-23 | ויאמר לו יהונתן מחר חדש... והדבר אשר דברנו אני ואתה הנה יהוה בינינו עד עולם  | Yehonatán fija el tiempo, la señal y la presencia de יהוה entre ambos.                                |
+| #shemuel_alef_20_24-29 | ויהי החדש... ויפקד מקום דוד... וישאל נשאל דוד מעמדי                          | La ausencia de David queda dentro de una mesa real y de una explicación que será examinada.           |
+| #shemuel_alef_20_30-34 | ויחר אף שאול ביהונתן... ויען יהונתן... למה יומת מה עשה                       | La ira del rey intenta convertir la lealtad a David en vergüenza; Yehonatán pregunta por la justicia. |
+| #shemuel_alef_20_35-40 | ויהי בבקר ויצא יהונתן השדה... והנער לא ידע מאומה אך יהונתן ודוד ידעו את הדבר | Las flechas comunican lo que el muchacho no entiende: David debe huir.                                |
+| #shemuel_alef_20_41-42 | ויפלו לאפיו ארצה... ויאמר יהונתן לדוד לך לשלום... יהוה יהיה ביני ובינך       | El llanto y la despedida sellan una relación orientada por la paz y el nombre de יהוה.                |
 
-## Una señal para proteger la verdad — 20:18-23 #1_samuel_20_18-23
+## Una señal para proteger la verdad — 20:18-23 #shemuel_alef_20_18-23
 
 Yehonatán no deja la seguridad de David en rumores. Anuncia que mañana es _jódesh_, luna nueva e inicio de mes, y acuerda que David se esconderá junto a la piedra. Luego prepara tres flechas y establece dos mensajes posibles: si las flechas están “de este lado”, hay paz y no hay peligro; si están “más allá”, la señal significa que יהוה ha enviado a David lejos. La clase observa que la amistad responsable necesita comunicación verificable: no basta decir “yo te aprecio” cuando el otro necesita saber si puede permanecer con vida.
 
 La frase decisiva es la que pone el asunto delante de יהוה: “el dicho que hemos hablado, entre yo y tú, he aquí יהוה entre yo y tú para siempre”. La presencia divina no convierte el pacto en una licencia para ocultar el mal; al contrario, exige que la palabra sea confiable. Eric relaciona el bien con la verdad y advierte que una justicia fundada en datos incompletos termina siendo una justicia incompleta. En el relato, la señal no reemplaza la verdad: la hace llegar a quien necesita recibirla sin exponerlo.
 
-## La mesa, la ausencia y la ira del rey — 20:24-34 #1_samuel_20_24-34
+## La mesa, la ausencia y la ira del rey — 20:24-34 #shemuel_alef_20_24-34
 
 David se esconde en el campo y la comida de luna nueva comienza. Shaúl nota su lugar vacío, primero atribuye la ausencia a una impureza ritual y después pregunta. Yehonatán presenta la explicación acordada: David pidió permiso para ir a Bet-Lejem a un sacrificio familiar. La narración deja ver cómo una ausencia puede ser interpretada de varias maneras antes de que el poder revele su intención.
 
@@ -76,13 +76,13 @@ La respuesta de Shaúl no busca aclarar un hecho: insulta a su propio hijo y pre
 
 Shaúl arroja la lanza, y Yehonatán comprende que la decisión de matar a David está tomada. Se levanta con ira y tristeza, y no come pan el segundo día. Su enojo no es capricho: está ligado a la humillación de David y a la violencia de su padre. La clase aplica aquí una distinción importante: no toda ira es justicia, pero la indignación ante una sentencia sin causa puede revelar que la verdad ha sido violentada.
 
-## Las flechas y la salida de David — 20:35-40 #1_samuel_20_35-40
+## Las flechas y la salida de David — 20:35-40 #shemuel_alef_20_35-40
 
 A la mañana, Yehonatán sale al campo con un muchacho y dispara la señal. Le grita que la flecha está más allá; después ordena al joven que se apresure y no se detenga. El muchacho no sabe nada, pero Yehonatán y David sí conocen el significado. La escena tiene dos niveles de comunicación: una instrucción pública, inocente y funcional, y un mensaje reservado que protege al perseguido. No es manipulación para beneficio egoísta; es prudencia frente a un poder homicida.
 
 Eric vincula esta secuencia con la responsabilidad de decir la verdad completa. En la clase, la reparación fracasa cuando solo se reconoce una parte del hecho o se distribuye la culpa sin nombrar al responsable. El texto no usa la terminología moderna de reparación, pero sí muestra una verdad concreta: Shaúl intentará matar a David, y Yehonatán debe actuar conforme a ese hecho, aunque hacerlo amenace su propia posición.
 
-## Llanto, paz y pacto generacional — 20:41-42 #1_samuel_20_41-42
+## Llanto, paz y pacto generacional — 20:41-42 #shemuel_alef_20_41-42
 
 Cuando el muchacho se va, David sale de su escondite y se inclina tres veces. Ambos se besan y lloran; el narrador dice que David lloró más. El afecto bíblico no elimina la separación. La amistad se vuelve sacrificio: Yehonatán no retiene a David para conservarlo cerca, sino que lo deja partir porque la vida del amigo está en peligro.
 
@@ -102,11 +102,11 @@ Yehonatán dice “ve en paz” y recuerda el juramento hecho en el nombre de י
 
 | Unidad textual         | Observación concreta de la clase                                                                                         | Tratamiento en esta nota                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| #1_samuel_20_18-23 | La señal de la luna nueva y las flechas permite que Yehonatán comunique la verdad sin poner a David en manos de Shaúl.   | Apoyo textual; se explica la prudencia de la señal sin convertirla en símbolo universal.                |
-| #1_samuel_20_24-29 | La ausencia en la mesa debe ser examinada antes de ser juzgada; una explicación puede ser manipulada por el poder.       | Desarrollo ordenado del relato y cualificación de la aplicación pastoral.                               |
-| #1_samuel_20_30-34 | Shaúl transforma su temor por el reino en insulto y condena; Yehonatán pregunta qué ha hecho David.                      | Apoyo textual; la pregunta de Yehonatán se trata como exigencia de evidencia antes del castigo.         |
-| #1_samuel_20_35-40 | El mensaje público y el mensaje entendido por los amigos muestran una comunicación que protege al inocente.              | Inferencia cualificada; se distingue el dato narrativo de la aplicación contemporánea sobre reparación. |
-| #1_samuel_20_41-42 | El bien, la verdad y la justicia se mantienen unidos en una despedida bajo el nombre de יהוה y con alcance generacional. | Síntesis textual y temática; “justicia” no se presenta como una palabra hebrea añadida al pasaje.       |
+| #shemuel_alef_20_18-23 | La señal de la luna nueva y las flechas permite que Yehonatán comunique la verdad sin poner a David en manos de Shaúl.   | Apoyo textual; se explica la prudencia de la señal sin convertirla en símbolo universal.                |
+| #shemuel_alef_20_24-29 | La ausencia en la mesa debe ser examinada antes de ser juzgada; una explicación puede ser manipulada por el poder.       | Desarrollo ordenado del relato y cualificación de la aplicación pastoral.                               |
+| #shemuel_alef_20_30-34 | Shaúl transforma su temor por el reino en insulto y condena; Yehonatán pregunta qué ha hecho David.                      | Apoyo textual; la pregunta de Yehonatán se trata como exigencia de evidencia antes del castigo.         |
+| #shemuel_alef_20_35-40 | El mensaje público y el mensaje entendido por los amigos muestran una comunicación que protege al inocente.              | Inferencia cualificada; se distingue el dato narrativo de la aplicación contemporánea sobre reparación. |
+| #shemuel_alef_20_41-42 | El bien, la verdad y la justicia se mantienen unidos en una despedida bajo el nombre de יהוה y con alcance generacional. | Síntesis textual y temática; “justicia” no se presenta como una palabra hebrea añadida al pasaje.       |
 
 ## Pendiente de verificar
 
@@ -120,7 +120,7 @@ Yehonatán dice “ve en paz” y recuerda el juramento hecho en el nombre de י
 
 ## Ver también
 
-- [[haftarah_vayishlaj_oseas_11_reino_dividido_y_misericordia|Haftaráh de Vayishlaj: Efraín, reino dividido y misericordia]]
+- [[haftarah_vayishlaj_hoshea_11_reino_dividido_y_misericordia|Haftaráh de Vayishlaj: Efraín, reino dividido y misericordia]]
 - [[haftarah_shabat_zajor_amalek_memoria_y_obediencia|Shabat Zajor: memoria, Amalec y obediencia]]
 - [[yeshayahu_11_raiz_gobierno_reunion_y_descanso|Yeshayahu 11: raíz, gobierno y reunión]]
 

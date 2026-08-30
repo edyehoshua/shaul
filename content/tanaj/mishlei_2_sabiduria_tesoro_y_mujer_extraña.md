@@ -4,16 +4,16 @@ description: "Estudio de Mishlei 2:1-22 sobre guardar los mandamientos, recibir 
 date: 2026-08-06
 tags: [mishlei, mishlei_2, sabiduria, torah, discernimiento, idolatria]
 references:
-  - "#proverbios_2_1"
-  - "#proverbios_2_2"
-  - "#proverbios_2_4"
-  - "#proverbios_2_5"
-  - "#proverbios_2_7"
-  - "#proverbios_2_11"
-  - "#proverbios_2_16"
-  - "#proverbios_2_20"
-  - "#proverbios_2_21"
-  - "#proverbios_2_22"
+  - "#mishlei_2_1"
+  - "#mishlei_2_2"
+  - "#mishlei_2_4"
+  - "#mishlei_2_5"
+  - "#mishlei_2_7"
+  - "#mishlei_2_11"
+  - "#mishlei_2_16"
+  - "#mishlei_2_20"
+  - "#mishlei_2_21"
+  - "#mishlei_2_22"
 sources:
   - "https://www.youtube.com/watch?v=vJQ-9JWqWfg"
   - "docs/scriptures/oe/json/proverbs/2.json"
@@ -35,23 +35,23 @@ Esta nota organiza la clase pública sobre Mishlei 2. Sigue el desarrollo del ca
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_2_1 | בני אם תקח אמרי ומצותי תצפן אתך | Hijo mío, si tomas mi dicho, y mis mandamientos atesoras contigo, |
-| #proverbios_2_2 | להקשיב לחכמה אזנך תטה לבך לתבונה | para inclinar tu oído a la sabiduría, extenderás tu corazón al entendimiento; |
-| #proverbios_2_3 | כי אם לבינה תקרא לתבונה תתן קולך | porque si llamas al discernimiento, das tu voz al entendimiento, |
-| #proverbios_2_4 | אם תבקשנה ככסף וכמטמונים תחפשנה | si lo buscas como a la plata, y como a tesoros escondidos la procuras, |
-| #proverbios_2_5 | אז תבין יראת יהוה ודעת אלהים תמצא | entonces entenderás el temor de יהוה, y el conocimiento de Elohim encontrarás. |
-| #proverbios_2_6 | כי יהוה יתן חכמה מפיו דעת ותבונה | Porque יהוה da la obra de sabiduría, de su boca, conocimiento y entendimiento. |
-| #proverbios_2_7 | וצפן יצפן לישרים תושיה מגן להלכי תם | Él atesora para los rectos la obra de sabiduría, escudo es para los que andan en integridad, |
-| #proverbios_2_8 | לנצר ארחות משפט ודרך חסידו ישמר | guarda las sendas del juicio, y el camino de sus benevolentes protege. |
-| #proverbios_2_9 | אז תבין צדק ומשפט ומישרים כל מעגל טוב | Entonces discernirás justicia y juicio, y rectitudes, todo curso de bien; |
-| #proverbios_2_10 | כי תבוא חכמה בלבך ודעת לנפשך ינעם | porque entrará la sabiduría en tu corazón, y el conocimiento para tu ser será agradable; |
-| #proverbios_2_11 | מזמה תשמר עליך תבונה תנצרכה | el pensamiento de consejo te protegerá por encima, el entendimiento te guardará, |
-| #proverbios_2_12 | להצילך מדרך רע מאיש מדבר תהפכות | para rescatarte del camino del mal, del hombre que habla distorsiones; |
-| #proverbios_2_16 | להצילך מאשה זרה מנכריה אמריה החליקה | para rescatarte de la mujer extraña, de la ajena, que su dicho es suave, |
-| #proverbios_2_17 | העזבת אלוף נעוריה ואת ברית אלהיה שכחה | que deja al íntimo de su juventud, y el pacto de su Elohim olvida; |
-| #proverbios_2_20 | למען תלך בדרך טובים וארחות צדיקים תשמר | Para que andes en el camino de los buenos, y las sendas de los justos guardes; |
-| #proverbios_2_21 | כי ישרים ישכנו ארץ ותמימים יותרו בה | porque los rectos morarán en la tierra, y los enteros quedarán en ella; |
-| #proverbios_2_22 | ורשעים מארץ יכרתו ובוגדים יסחו ממנה | y los condenados, de la tierra serán cortados, y los traicioneros serán arrancados de ella. |
+| #mishlei_2_1 | בני אם תקח אמרי ומצותי תצפן אתך | Hijo mío, si tomas mi dicho, y mis mandamientos atesoras contigo, |
+| #mishlei_2_2 | להקשיב לחכמה אזנך תטה לבך לתבונה | para inclinar tu oído a la sabiduría, extenderás tu corazón al entendimiento; |
+| #mishlei_2_3 | כי אם לבינה תקרא לתבונה תתן קולך | porque si llamas al discernimiento, das tu voz al entendimiento, |
+| #mishlei_2_4 | אם תבקשנה ככסף וכמטמונים תחפשנה | si lo buscas como a la plata, y como a tesoros escondidos la procuras, |
+| #mishlei_2_5 | אז תבין יראת יהוה ודעת אלהים תמצא | entonces entenderás el temor de יהוה, y el conocimiento de Elohim encontrarás. |
+| #mishlei_2_6 | כי יהוה יתן חכמה מפיו דעת ותבונה | Porque יהוה da la obra de sabiduría, de su boca, conocimiento y entendimiento. |
+| #mishlei_2_7 | וצפן יצפן לישרים תושיה מגן להלכי תם | Él atesora para los rectos la obra de sabiduría, escudo es para los que andan en integridad, |
+| #mishlei_2_8 | לנצר ארחות משפט ודרך חסידו ישמר | guarda las sendas del juicio, y el camino de sus benevolentes protege. |
+| #mishlei_2_9 | אז תבין צדק ומשפט ומישרים כל מעגל טוב | Entonces discernirás justicia y juicio, y rectitudes, todo curso de bien; |
+| #mishlei_2_10 | כי תבוא חכמה בלבך ודעת לנפשך ינעם | porque entrará la sabiduría en tu corazón, y el conocimiento para tu ser será agradable; |
+| #mishlei_2_11 | מזמה תשמר עליך תבונה תנצרכה | el pensamiento de consejo te protegerá por encima, el entendimiento te guardará, |
+| #mishlei_2_12 | להצילך מדרך רע מאיש מדבר תהפכות | para rescatarte del camino del mal, del hombre que habla distorsiones; |
+| #mishlei_2_16 | להצילך מאשה זרה מנכריה אמריה החליקה | para rescatarte de la mujer extraña, de la ajena, que su dicho es suave, |
+| #mishlei_2_17 | העזבת אלוף נעוריה ואת ברית אלהיה שכחה | que deja al íntimo de su juventud, y el pacto de su Elohim olvida; |
+| #mishlei_2_20 | למען תלך בדרך טובים וארחות צדיקים תשמר | Para que andes en el camino de los buenos, y las sendas de los justos guardes; |
+| #mishlei_2_21 | כי ישרים ישכנו ארץ ותמימים יותרו בה | porque los rectos morarán en la tierra, y los enteros quedarán en ella; |
+| #mishlei_2_22 | ורשעים מארץ יכרתו ובוגדים יסחו ממנה | y los condenados, de la tierra serán cortados, y los traicioneros serán arrancados de ella. |
 
 ## Guardar activamente para poder escuchar
 
@@ -75,11 +75,11 @@ La clase lee **(אשה זרה)**, _ishá zarah_, como la personificación de una
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_2_1-4 | Los mandamientos deben ser compañeros y tesoro; sabiduría y entendimiento se buscan activamente. | Apoyo textual; matiz de vigilancia calificado. |
-| #proverbios_2_5-10 | El temor y el conocimiento se hallan cuando יהוה da sabiduría; la Torah forma la vida diaria. | Apoyo textual y aplicación práctica. |
-| #proverbios_2_11-15 | El consejo y el entendimiento rescatan de quienes hablan distorsiones y abandonan la rectitud. | Apoyo textual; aplicación a enseñanza religiosa atribuida. |
-| #proverbios_2_16-19 | La mujer extraña representa alegóricamente idolatría y Torah suavizada. | Lectura alegórica de la clase; sentido ético directo preservado. |
-| #proverbios_2_20-22 | El destino se separa: camino de buenos y justos frente a corte de condenados y traicioneros. | Apoyo textual directo. |
+| #mishlei_2_1-4 | Los mandamientos deben ser compañeros y tesoro; sabiduría y entendimiento se buscan activamente. | Apoyo textual; matiz de vigilancia calificado. |
+| #mishlei_2_5-10 | El temor y el conocimiento se hallan cuando יהוה da sabiduría; la Torah forma la vida diaria. | Apoyo textual y aplicación práctica. |
+| #mishlei_2_11-15 | El consejo y el entendimiento rescatan de quienes hablan distorsiones y abandonan la rectitud. | Apoyo textual; aplicación a enseñanza religiosa atribuida. |
+| #mishlei_2_16-19 | La mujer extraña representa alegóricamente idolatría y Torah suavizada. | Lectura alegórica de la clase; sentido ético directo preservado. |
+| #mishlei_2_20-22 | El destino se separa: camino de buenos y justos frente a corte de condenados y traicioneros. | Apoyo textual directo. |
 
 ## Hoja léxica
 
@@ -104,7 +104,7 @@ La clase lee **(אשה זרה)**, _ishá zarah_, como la personificación de una
 
 - [[mishlei_1_inicio_del_conocimiento_temor_y_disciplina|Mishlei 1: el inicio del conocimiento en el temor de יהוה]]: el sabio escucha antes de crecer.
 - [[mishlei_3_tesoro_sabiduria_obediencia_y_vida|Mishlei 3: el tesoro de la sabiduría]]: Mishlei 2 continúa la imagen de buscar sabiduría como tesoro.
-- #proverbios_2_5: el temor de יהוה y el conocimiento de Elohim son fruto de una búsqueda obediente.
+- #mishlei_2_5: el temor de יהוה y el conocimiento de Elohim son fruto de una búsqueda obediente.
 
 ## Conclusión
 

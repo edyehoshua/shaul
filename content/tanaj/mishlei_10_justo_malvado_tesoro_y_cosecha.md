@@ -4,26 +4,26 @@ description: "La primera colección de dichos contrasta obediencia, justicia, te
 date: 2026-08-06
 tags: [mishlei, mishlei_10, justo, malvado, torah, justicia, sabiduria]
 references:
-  - "#proverbios_10_1"
-  - "#proverbios_10_2"
-  - "#proverbios_10_3"
-  - "#proverbios_10_4"
-  - "#proverbios_10_5"
-  - "#proverbios_10_6"
-  - "#proverbios_10_7"
-  - "#proverbios_10_8"
-  - "#proverbios_10_16"
-  - "#proverbios_10_17"
-  - "#proverbios_10_19"
-  - "#proverbios_10_22"
-  - "#proverbios_10_24"
-  - "#proverbios_10_25"
-  - "#proverbios_10_27"
-  - "#proverbios_10_28"
-  - "#proverbios_10_29"
-  - "#proverbios_10_30"
-  - "#proverbios_10_31"
-  - "#proverbios_10_32"
+  - "#mishlei_10_1"
+  - "#mishlei_10_2"
+  - "#mishlei_10_3"
+  - "#mishlei_10_4"
+  - "#mishlei_10_5"
+  - "#mishlei_10_6"
+  - "#mishlei_10_7"
+  - "#mishlei_10_8"
+  - "#mishlei_10_16"
+  - "#mishlei_10_17"
+  - "#mishlei_10_19"
+  - "#mishlei_10_22"
+  - "#mishlei_10_24"
+  - "#mishlei_10_25"
+  - "#mishlei_10_27"
+  - "#mishlei_10_28"
+  - "#mishlei_10_29"
+  - "#mishlei_10_30"
+  - "#mishlei_10_31"
+  - "#mishlei_10_32"
   - "#mateo_6_19"
   - "#mateo_6_20"
   - "#hebreos_11_1"
@@ -49,13 +49,13 @@ Esta nota organiza la clase pública sobre Mishlei 10, especialmente los versíc
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_10_1 | משלי שלמה בן חכם ישמח אב ובן כסיל תוגת אמו | El hijo sabio alegra al padre, pero el hijo torpe es tristeza de su madre. |
-| #proverbios_10_2-3 | לא יועילו אוצרות רשע וצדקה תציל ממות / לא ירעיב יהוה נפש צדיק והות רשעים יהדף | No beneficiarán los tesoros de la maldad, pero la justicia rescata de la muerte; יהוה no hará tener hambre a la vida del justo, pero empujará el deseo de los condenados. |
-| #proverbios_10_4-5 | ראש עשה כף רמיה ויד חרוצים תעשיר / אגר בקיץ בן משכיל נרדם בקציר בן מביש | El pobre acciona con palma engañosa, pero la mano de los determinados enriquecerá; el que recoge en el verano es hijo prudente, el que duerme en la cosecha es hijo que avergüenza. |
-| #proverbios_10_6-8 | ברכות לראש צדיק ופי רשעים יכסה חמס / זכר צדיק לברכה ושם רשעים ירקב / חכם לב יקח מצות ואויל שפתים ילבט | Hay bendiciones para la cabeza del justo, pero la boca de los condenados ocultará violencia; el recuerdo del justo es para bendición y el sabio de corazón tomará los mandamientos. |
-| #proverbios_10_16-17 | פעלת צדיק לחיים תבואת רשע לחטאת / ארח לחיים שומר מוסר ועוזב תוכחת מתעה | La acción del justo es para vida; la senda de la vida guarda disciplina, pero quien abandona la reprensión se extravía. |
-| #proverbios_10_22-25 | ברכת יהוה היא תעשיר ולא יוסף עצב עמה / ... / כעבור סופה ואין רשע וצדיק יסוד עולם | La bendición de יהוה es la que enriquece; cuando pasa el torbellino ya no hay condenado, pero el justo tiene cimiento olam. |
-| #proverbios_10_27-32 | יראת יהוה תוסיף ימים ... פי רשעים תהפכות | El temor de יהוה añadirá días; la expectativa de los justos es alegría; la boca del justo produce sabiduría y sus labios conocen el favor. |
+| #mishlei_10_1 | משלי שלמה בן חכם ישמח אב ובן כסיל תוגת אמו | El hijo sabio alegra al padre, pero el hijo torpe es tristeza de su madre. |
+| #mishlei_10_2-3 | לא יועילו אוצרות רשע וצדקה תציל ממות / לא ירעיב יהוה נפש צדיק והות רשעים יהדף | No beneficiarán los tesoros de la maldad, pero la justicia rescata de la muerte; יהוה no hará tener hambre a la vida del justo, pero empujará el deseo de los condenados. |
+| #mishlei_10_4-5 | ראש עשה כף רמיה ויד חרוצים תעשיר / אגר בקיץ בן משכיל נרדם בקציר בן מביש | El pobre acciona con palma engañosa, pero la mano de los determinados enriquecerá; el que recoge en el verano es hijo prudente, el que duerme en la cosecha es hijo que avergüenza. |
+| #mishlei_10_6-8 | ברכות לראש צדיק ופי רשעים יכסה חמס / זכר צדיק לברכה ושם רשעים ירקב / חכם לב יקח מצות ואויל שפתים ילבט | Hay bendiciones para la cabeza del justo, pero la boca de los condenados ocultará violencia; el recuerdo del justo es para bendición y el sabio de corazón tomará los mandamientos. |
+| #mishlei_10_16-17 | פעלת צדיק לחיים תבואת רשע לחטאת / ארח לחיים שומר מוסר ועוזב תוכחת מתעה | La acción del justo es para vida; la senda de la vida guarda disciplina, pero quien abandona la reprensión se extravía. |
+| #mishlei_10_22-25 | ברכת יהוה היא תעשיר ולא יוסף עצב עמה / ... / כעבור סופה ואין רשע וצדיק יסוד עולם | La bendición de יהוה es la que enriquece; cuando pasa el torbellino ya no hay condenado, pero el justo tiene cimiento olam. |
+| #mishlei_10_27-32 | יראת יהוה תוסיף ימים ... פי רשעים תהפכות | El temor de יהוה añadirá días; la expectativa de los justos es alegría; la boca del justo produce sabiduría y sus labios conocen el favor. |
 
 ## Una nueva sección: dichos que forman discernimiento
 
@@ -95,10 +95,10 @@ El torbellino de 10:25 muestra la diferencia entre lo que desaparece y el cimien
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_10_1-8 | La sección de dichos contrasta al que escucha y toma mandamientos con el que conoce o desprecia sin obedecer; _kesil_ y _evil_ no son idénticos. | Apoyo textual; distinción léxica calificada. |
-| #proverbios_10_2-5 | Tesoros, hambre, diligencia y cosecha se leen como tesoro celestial, justicia y preparación para el juicio. | Texto directo con aplicación mesiánica y escatológica atribuida. |
-| #proverbios_10_6-12 | Cabeza, memoria, boca y labios muestran cómo la justicia bendice y cómo la violencia se revela en el habla. | Apoyo textual; conexión con Yehoshua como cabeza calificada. |
-| #proverbios_10_16-32 | Disciplina, temor de יהוה, expectativa y cimiento separan la vida del justo del final del malvado. | Apoyo textual; plenitud futura del _shalom_ presentada como esperanza de la clase. |
+| #mishlei_10_1-8 | La sección de dichos contrasta al que escucha y toma mandamientos con el que conoce o desprecia sin obedecer; _kesil_ y _evil_ no son idénticos. | Apoyo textual; distinción léxica calificada. |
+| #mishlei_10_2-5 | Tesoros, hambre, diligencia y cosecha se leen como tesoro celestial, justicia y preparación para el juicio. | Texto directo con aplicación mesiánica y escatológica atribuida. |
+| #mishlei_10_6-12 | Cabeza, memoria, boca y labios muestran cómo la justicia bendice y cómo la violencia se revela en el habla. | Apoyo textual; conexión con Yehoshua como cabeza calificada. |
+| #mishlei_10_16-32 | Disciplina, temor de יהוה, expectativa y cimiento separan la vida del justo del final del malvado. | Apoyo textual; plenitud futura del _shalom_ presentada como esperanza de la clase. |
 
 ## Conexiones principales
 

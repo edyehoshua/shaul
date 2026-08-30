@@ -3,7 +3,7 @@ title: "Tema claro y específico"
 description: "Qué pregunta responde esta nota"
 date: 2026-04-27
 tags: [tema, comparacion, estudio]
-references: [#genesis_1_1, #romanos_10_4]
+references: [#bereshit_1_1, #romanos_10_4]
 sources: []
 source_ids: []
 ---
@@ -14,7 +14,7 @@ Una frase breve sobre la conexión principal.
 
 ## Texto base
 
-- #genesis_1_1
+- #bereshit_1_1
 - #romanos_10_4
 
 ## Alcance de la nota
@@ -28,7 +28,7 @@ Una frase breve sobre la conexión principal.
 
 | Referencia    | Hebreo (sin nikud)                 | TTH (ES)                                 | Observación        |
 | ------------- | ---------------------------------- | ---------------------------------------- | ------------------ |
-| #genesis_1_1 | בראשית ברא אלהים את השמים ואת הארץ | En el principio creó Elohim...           | Base de creación   |
+| #bereshit_1_1 | בראשית ברא אלהים את השמים ואת הארץ | En el principio creó Elohim...           | Base de creación   |
 | #romanos_10_4 | כי תכלית התורה המשיח               | Porque el fin de la torá es el Mesías... | Enfoque apostólico |
 
 ## Hoja léxica
@@ -47,7 +47,7 @@ Una frase breve sobre la conexión principal.
 
 ## Conexiones
 
-- Conecta #genesis_1_1 con #romanos_10_4 por tema de origen y cumplimiento.
+- Conecta #bereshit_1_1 con #romanos_10_4 por tema de origen y cumplimiento.
 - Añade links a otras notas cuando aplique.
 
 ## Observaciones

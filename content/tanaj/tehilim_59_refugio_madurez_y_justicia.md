@@ -9,14 +9,14 @@ tags:
   - "persecucion"
   - "justicia"
 references:
-  - "#salmos_59_1"
-  - "#salmos_59_2"
-  - "#salmos_59_4"
-  - "#salmos_59_7"
-  - "#salmos_59_9"
-  - "#salmos_59_10"
-  - "#salmos_59_12"
-  - "#salmos_59_17"
+  - "#tehilim_59_1"
+  - "#tehilim_59_2"
+  - "#tehilim_59_4"
+  - "#tehilim_59_7"
+  - "#tehilim_59_9"
+  - "#tehilim_59_10"
+  - "#tehilim_59_12"
+  - "#tehilim_59_17"
 sources:
   - "https://www.youtube.com/watch?v=ip-3871HtaQ"
   - "docs/scriptures/oe/json/psalms/59.json"
@@ -36,11 +36,11 @@ Esta nota organiza y contrasta la enseñanza de Eric sobre Tehilim 59 siguiendo 
 
 | Referencia | Texto local (hebreo sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #salmos_59_1 | למנצח אל תשחת לדוד מכתם בשלח שאול וישמרו את הבית להמיתו | Título y situación: Saúl envía hombres para vigilar la casa y matar a David. |
-| #salmos_59_2-4 | הצילני מאיבי אלהי ממתקוממי תשגבני · הצילני מפעלי און ומאנשי דמים הושיעני · כי הנה ארבו לנפשי יגורו עלי עזים לא פשעי ולא חטאתי יהוה | La súplica nombra enemigos, hombres violentos y una persecución que el orante no atribuye a su propio pecado. |
-| #salmos_59_7-10 | ישובו לערב יהמו ככלב ויסובבו עיר · הנה יביעון בפיהם חרבות בשפתותיהם כי מי שמע · ואתה יהוה תשחק למו תלעג לכל גוים · עזו אליך אשמרה כי אלהים משגבי | La escena nocturna de los perros y las espadas de los labios contrasta con la vigilancia de David y la fortaleza de Elohim. |
-| #salmos_59_12-14 | אל תהרגם פן ישכחו עמי הניעמו בחילך והורידמו מגננו אדני · חטאת פימו דבר שפתימו וילכדו בגאונם · כלה בחמה כלה ואינמו וידעו כי אלהים משל ביעקב לאפסי הארץ סלה | David no pide una venganza impulsiva: pide que la arrogancia quede expuesta y que el pueblo recuerde. |
-| #salmos_59_17-18 | ואני אשיר עזך וארנן לבקר חסדך כי היית משגב לי ומנוס ביום צר לי · עזי אליך אזמרה כי אלהים משגבי אלהי חסדי | El cierre vuelve al canto, la misericordia, el refugio y la fortaleza de יהוה. |
+| #tehilim_59_1 | למנצח אל תשחת לדוד מכתם בשלח שאול וישמרו את הבית להמיתו | Título y situación: Saúl envía hombres para vigilar la casa y matar a David. |
+| #tehilim_59_2-4 | הצילני מאיבי אלהי ממתקוממי תשגבני · הצילני מפעלי און ומאנשי דמים הושיעני · כי הנה ארבו לנפשי יגורו עלי עזים לא פשעי ולא חטאתי יהוה | La súplica nombra enemigos, hombres violentos y una persecución que el orante no atribuye a su propio pecado. |
+| #tehilim_59_7-10 | ישובו לערב יהמו ככלב ויסובבו עיר · הנה יביעון בפיהם חרבות בשפתותיהם כי מי שמע · ואתה יהוה תשחק למו תלעג לכל גוים · עזו אליך אשמרה כי אלהים משגבי | La escena nocturna de los perros y las espadas de los labios contrasta con la vigilancia de David y la fortaleza de Elohim. |
+| #tehilim_59_12-14 | אל תהרגם פן ישכחו עמי הניעמו בחילך והורידמו מגננו אדני · חטאת פימו דבר שפתימו וילכדו בגאונם · כלה בחמה כלה ואינמו וידעו כי אלהים משל ביעקב לאפסי הארץ סלה | David no pide una venganza impulsiva: pide que la arrogancia quede expuesta y que el pueblo recuerde. |
+| #tehilim_59_17-18 | ואני אשיר עזך וארנן לבקר חסדך כי היית משגב לי ומנוס ביום צר לי · עזי אליך אזמרה כי אלהים משגבי אלהי חסדי | El cierre vuelve al canto, la misericordia, el refugio y la fortaleza de יהוה. |
 
 ## Hoja léxica
 

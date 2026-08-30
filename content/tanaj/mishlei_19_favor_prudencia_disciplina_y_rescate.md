@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 19:10-19 sobre el favor del Rey, la prudencia, 
 date: 2026-08-05
 tags: [mishlei, mishlei_19, favor, prudencia, disciplina, rescate]
 references:
-  - "#proverbios_19_10"
-  - "#proverbios_19_11"
-  - "#proverbios_19_12"
-  - "#proverbios_19_13"
-  - "#proverbios_19_14"
-  - "#proverbios_19_15"
-  - "#proverbios_19_16"
-  - "#proverbios_19_17"
-  - "#proverbios_19_18"
-  - "#proverbios_19_19"
-  - "#proverbios_30_21"
-  - "#oseas_14_5"
-  - "#isaias_61_10"
+  - "#mishlei_19_10"
+  - "#mishlei_19_11"
+  - "#mishlei_19_12"
+  - "#mishlei_19_13"
+  - "#mishlei_19_14"
+  - "#mishlei_19_15"
+  - "#mishlei_19_16"
+  - "#mishlei_19_17"
+  - "#mishlei_19_18"
+  - "#mishlei_19_19"
+  - "#mishlei_30_21"
+  - "#hoshea_14_5"
+  - "#yeshayahu_61_10"
 sources:
   - "https://www.youtube.com/watch?v=75uZV1AnkM8"
   - "docs/scriptures/oe/json/proverbs/19.json"
@@ -38,16 +38,16 @@ Esta nota organiza la clase pública sobre Mishlei 19:10-19 y conserva el orden 
 
 | Ref. | Hebreo OE (sin nikud, normalizado) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_19_10 | לא נאוה לכסיל תענוג אף כי לעבד משל בשרים | No le es adecuado al indisciplinado el deleite, ¡cuánto menos a un siervo gobernar con príncipes! |
-| #proverbios_19_11 | שכל אדם האריך אפו ותפארתו עבר על פשע | La prudencia de un hombre alarga su nariz, y su esplendor es pasar sobre la transgresión. |
-| #proverbios_19_12 | נהם ככפיר זעף מלך וכטל על עשב רצונו | Como león rugiente es el enojo del Rey, pero como rocío sobre la hierba su favor. |
-| #proverbios_19_13 | הות לאביו בן כסיל ודלף טרד מדיני אשה | Desgracia de su padre es el hijo indisciplinado, y gotera que corre las contiendas de una mujer. |
-| #proverbios_19_14 | בית והון נחלת אבות ומיהוה אשה משכלת | Casa y riqueza son herencia de los padres, pero de parte de יהוה la mujer prudente. |
-| #proverbios_19_15 | עצלה תפיל תרדמה ונפש רמיה תרעב | La pereza hará caer en un profundo sueño, y la persona engañosa tendrá hambre. |
-| #proverbios_19_16 | שמר מצוה שמר נפשו בוזה דרכיו יומת ימות | El que guarda el mandamiento guarda su vida; el que desprecia sus caminos morirá. |
-| #proverbios_19_17 | מלוה יהוה חונן דל וגמלו ישלם לו | Presta a יהוה el que le muestra favor al débil, y su recompensa Él le retribuirá. |
-| #proverbios_19_18 | יסר בנך כי יש תקוה ואל המיתו אל תשא נפשך | Disciplina a tu hijo, porque hay esperanza; pero hacia hacerlo morir no alces tu ser. |
-| #proverbios_19_19 | גרל גדל חמה נשא ענש כי אם תציל ועוד תוסף | El grande de ardor llevará multa, y si lo rescatas, de nuevo tendrás que hacerlo. |
+| #mishlei_19_10 | לא נאוה לכסיל תענוג אף כי לעבד משל בשרים | No le es adecuado al indisciplinado el deleite, ¡cuánto menos a un siervo gobernar con príncipes! |
+| #mishlei_19_11 | שכל אדם האריך אפו ותפארתו עבר על פשע | La prudencia de un hombre alarga su nariz, y su esplendor es pasar sobre la transgresión. |
+| #mishlei_19_12 | נהם ככפיר זעף מלך וכטל על עשב רצונו | Como león rugiente es el enojo del Rey, pero como rocío sobre la hierba su favor. |
+| #mishlei_19_13 | הות לאביו בן כסיל ודלף טרד מדיני אשה | Desgracia de su padre es el hijo indisciplinado, y gotera que corre las contiendas de una mujer. |
+| #mishlei_19_14 | בית והון נחלת אבות ומיהוה אשה משכלת | Casa y riqueza son herencia de los padres, pero de parte de יהוה la mujer prudente. |
+| #mishlei_19_15 | עצלה תפיל תרדמה ונפש רמיה תרעב | La pereza hará caer en un profundo sueño, y la persona engañosa tendrá hambre. |
+| #mishlei_19_16 | שמר מצוה שמר נפשו בוזה דרכיו יומת ימות | El que guarda el mandamiento guarda su vida; el que desprecia sus caminos morirá. |
+| #mishlei_19_17 | מלוה יהוה חונן דל וגמלו ישלם לו | Presta a יהוה el que le muestra favor al débil, y su recompensa Él le retribuirá. |
+| #mishlei_19_18 | יסר בנך כי יש תקוה ואל המיתו אל תשא נפשך | Disciplina a tu hijo, porque hay esperanza; pero hacia hacerlo morir no alces tu ser. |
+| #mishlei_19_19 | גרל גדל חמה נשא ענש כי אם תציל ועוד תוסף | El grande de ardor llevará multa, y si lo rescatas, de nuevo tendrás que hacerlo. |
 
 ## Lo que no corresponde al indisciplinado
 
@@ -92,11 +92,11 @@ El último verso es deliberadamente difícil. Eric reconoce que la frase sobre r
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_19_10-11 | El indisciplinado no está preparado para deleite o gobierno; la prudencia alarga la ira y pasa sobre la transgresión. | Correspondencia y paciencia apoyadas; recompensa futura calificada. |
-| #proverbios_19_12 | El Rey ruge en su enojo, pero su favor es rocío; Oseas 14 muestra la reconciliación de Israel. | Imágenes apoyadas; lectura profética y mesiánica atribuida. |
-| #proverbios_19_13-16 | La indisciplina daña la casa, la pereza produce letargo y guardar el mandamiento guarda la vida. | Desarrollo textual apoyado; Torah como mujer prudente, pedagógico. |
-| #proverbios_19_17-18 | Mostrar favor al débil es contado como préstamo a יהוה; la disciplina del hijo mantiene esperanza. | Misericordia y esperanza apoyadas; aplicación evangelística cualificada. |
-| #proverbios_19_19 | El grande en ira carga una multa y puede exigir rescate repetido. | Dificultad textual reconocida; interpretación preferida pendiente. |
+| #mishlei_19_10-11 | El indisciplinado no está preparado para deleite o gobierno; la prudencia alarga la ira y pasa sobre la transgresión. | Correspondencia y paciencia apoyadas; recompensa futura calificada. |
+| #mishlei_19_12 | El Rey ruge en su enojo, pero su favor es rocío; Oseas 14 muestra la reconciliación de Israel. | Imágenes apoyadas; lectura profética y mesiánica atribuida. |
+| #mishlei_19_13-16 | La indisciplina daña la casa, la pereza produce letargo y guardar el mandamiento guarda la vida. | Desarrollo textual apoyado; Torah como mujer prudente, pedagógico. |
+| #mishlei_19_17-18 | Mostrar favor al débil es contado como préstamo a יהוה; la disciplina del hijo mantiene esperanza. | Misericordia y esperanza apoyadas; aplicación evangelística cualificada. |
+| #mishlei_19_19 | El grande en ira carga una multa y puede exigir rescate repetido. | Dificultad textual reconocida; interpretación preferida pendiente. |
 
 ## Pendiente de verificar
 
