@@ -52,59 +52,33 @@ export default ((opts?: Partial<TagContentOptions>) => {
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
+
+      // High-cardinality corpus (7,000+ tags incl. verse-level tags): render a
+      // compact index — one link + count per tag. Per-page listings live on the
+      // individual /tags/<tag> pages; embedding them here produced a ~24 MB DOM
+      // (~250k anchors) that hung the browser.
       return (
         <div class="popover-hint">
           <article class={classes}>
             <p>{content}</p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
-          <div>
+          <ul class="shaul-tag-index">
             {tags.map((tag) => {
               const pages = tagItemMap.get(tag)!
-              const listProps = {
-                ...props,
-                allFiles: pages,
-              }
-
-              const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
-
-              const root = contentPage?.htmlAst
-              const content =
-                !root || root?.children.length === 0
-                  ? contentPage?.description
-                  : htmlToJsx(contentPage.filePath!, root)
-
               const tagListingPage = `/tags/${tag}` as FullSlug
               const href = resolveRelative(fileData.slug!, tagListingPage)
 
               return (
-                <div>
-                  <h2>
-                    <a class="internal tag-link" href={href}>
-                      {tag}
-                    </a>
-                  </h2>
-                  {content && <p>{content}</p>}
-                  <div class="page-listing">
-                    <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
-                      {pages.length > options.numPages && (
-                        <>
-                          {" "}
-                          <span>
-                            {i18n(cfg.locale).pages.tagContent.showingFirst({
-                              count: options.numPages,
-                            })}
-                          </span>
-                        </>
-                      )}
-                    </p>
-                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
-                  </div>
-                </div>
+                <li key={tag}>
+                  <a class="internal tag-link" href={href}>
+                    {tag}
+                  </a>{" "}
+                  <span class="tag-count">({pages.length})</span>
+                </li>
               )
             })}
-          </div>
+          </ul>
         </div>
       )
     } else {

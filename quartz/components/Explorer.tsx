@@ -51,8 +51,12 @@ const defaultOptions: Options = {
   filterFn: (node) => {
     // Exclude tags folder
     if (node.slugSegment === "tags") return false
-    // Exclude placeholder files that end with _folder.md
-    if (node.data?.filePath && node.data.filePath.endsWith("_folder.md")) return false
+    // Folder nodes keep their _folder.md data as their display title. Exclude
+    // only the placeholder file itself; filtering a folder node would remove
+    // the whole Tanaj/Besorah/Temas branch from the trie.
+    if (!node.isFolder && node.data?.filePath && node.data.filePath.endsWith("_folder.md")) {
+      return false
+    }
     return true
   },
   order: ["filter", "map", "sort"],

@@ -349,18 +349,35 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   tweens.forEach((tween) => tween.stop())
   tweens.clear()
 
-  const app = new Application()
-  await app.init({
-    width,
-    height,
-    antialias: true,
-    autoStart: false,
-    autoDensity: true,
-    backgroundAlpha: 0,
-    preference: "webgpu",
-    resolution: window.devicePixelRatio,
-    eventMode: "static",
-  })
+  let app = new Application()
+  try {
+    await app.init({
+      width,
+      height,
+      antialias: true,
+      autoStart: false,
+      autoDensity: true,
+      backgroundAlpha: 0,
+      preference: "webgpu",
+      resolution: window.devicePixelRatio,
+      eventMode: "static",
+    })
+  } catch {
+    // Pixi may reject WebGPU when the browser has no adapter. Use a fresh
+    // Application for WebGL; a partially initialized renderer is not reusable.
+    app = new Application()
+    await app.init({
+      width,
+      height,
+      antialias: true,
+      autoStart: false,
+      autoDensity: true,
+      backgroundAlpha: 0,
+      preference: "webgl",
+      resolution: window.devicePixelRatio,
+      eventMode: "static",
+    })
+  }
   graph.appendChild(app.canvas)
 
   const stage = app.stage

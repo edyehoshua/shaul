@@ -87,7 +87,9 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           continue
         }
 
-        // only process home page, non-tag pages, and non-index pages
+        // Skip the root index: the graph home (GraphPageEmitter) owns `/`.
+        if (slug === "index") continue
+        // only process non-tag pages and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
@@ -122,6 +124,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           continue
         }
 
+        if (slug === "index") continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)

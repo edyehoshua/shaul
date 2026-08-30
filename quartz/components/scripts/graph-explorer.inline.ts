@@ -369,18 +369,36 @@ if (graphContainer) {
     let dragStartY = 0
     let stopAnimation = false
 
-    const app = new Application()
-    await app.init({
-      width,
-      height,
-      antialias: true,
-      autoStart: false,
-      autoDensity: true,
-      backgroundAlpha: 0,
-      preference: "webgpu",
-      resolution: window.devicePixelRatio,
-      eventMode: "static",
-    })
+    let app = new Application()
+    try {
+      await app.init({
+        width,
+        height,
+        antialias: true,
+        autoStart: false,
+        autoDensity: true,
+        backgroundAlpha: 0,
+        preference: "webgpu",
+        resolution: window.devicePixelRatio,
+        eventMode: "static",
+      })
+    } catch {
+      // Some environments have no WebGPU adapter and init may reject. Use a
+      // fresh Application because a partially initialized renderer is not
+      // reusable for the WebGL fallback.
+      app = new Application()
+      await app.init({
+        width,
+        height,
+        antialias: true,
+        autoStart: false,
+        autoDensity: true,
+        backgroundAlpha: 0,
+        preference: "webgl",
+        resolution: window.devicePixelRatio,
+        eventMode: "static",
+      })
+    }
     graphContainer!.appendChild(app.canvas)
 
     const stage = app.stage
@@ -672,4 +690,20 @@ if (graphContainer) {
   }
 
   void render()
+
+  // Safety net: if anything stalls (renderer init, slow network), never leave
+  // the page stuck on "Cargando grafo…".
+  window.setTimeout(() => {
+    const loading = document.querySelector(".shaul-graph-loading")
+    if (loading) {
+      loading.replaceChildren(
+        document.createTextNode("El grafo tardó demasiado en cargar. Recarga la página o usa el "),
+      )
+      const link = document.createElement("a")
+      link.href = "./tags"
+      link.textContent = "índice de etiquetas"
+      loading.append(link)
+      loading.append(document.createTextNode("."))
+    }
+  }, 15000)
 }

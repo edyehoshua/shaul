@@ -121,6 +121,32 @@ describe("FileTrie", () => {
       assert.strictEqual(trie.children.length, 1)
       assert.strictEqual(trie.children[0].slug, "test2")
     })
+
+    test("should keep folders whose index file is filtered out", () => {
+      const folderIndex = {
+        title: "Tanaj",
+        slug: "tanaj/index",
+        filePath: "tanaj/_folder.md",
+      }
+      const note = {
+        title: "Bereshit",
+        slug: "tanaj/bereshit",
+        filePath: "tanaj/bereshit.md",
+      }
+
+      trie.add(folderIndex)
+      trie.add(note)
+
+      trie.filter(
+        (node) =>
+          node.slugSegment !== "tags" &&
+          (node.isFolder || !node.data?.filePath.endsWith("_folder.md")),
+      )
+
+      assert.strictEqual(trie.children.length, 1)
+      assert.strictEqual(trie.children[0].displayName, "Tanaj")
+      assert.strictEqual(trie.children[0].children[0].displayName, "Bereshit")
+    })
   })
 
   describe("map", () => {
@@ -226,6 +252,30 @@ describe("FileTrie", () => {
       assert.strictEqual(trie.children[0].children[1].slug, "folder/file2")
       assert.strictEqual(trie.children[0].children[2].slug, "folder/folder2/index")
       assert.strictEqual(trie.children[0].children[2].children.length, 0)
+    })
+
+    test("attaches _folder metadata to its containing folder", () => {
+      const folder = {
+        title: "Tanaj",
+        slug: "tanaj/_folder",
+        filePath: "tanaj/_folder.md",
+      }
+      const note = {
+        title: "Bereshit",
+        slug: "tanaj/bereshit",
+        filePath: "tanaj/bereshit.md",
+      }
+
+      const result = FileTrieNode.fromEntries([
+        [folder.slug as FullSlug, folder],
+        [note.slug as FullSlug, note],
+      ])
+      const tanaj = result.findNode(["tanaj"])
+
+      assert.ok(tanaj)
+      assert.strictEqual(tanaj.isFolder, true)
+      assert.strictEqual(tanaj.data?.title, "Tanaj")
+      assert.strictEqual(tanaj.children[0].data?.title, "Bereshit")
     })
   })
 

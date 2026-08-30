@@ -20,15 +20,36 @@ type FolderState = {
   collapsed: boolean
 }
 
-let currentExplorerState: Array<FolderState>
+const EXPLORER_STATE_KEY = "shaul-explorer-state-v2"
+let currentExplorerState: Array<FolderState> = []
+
+function readSavedExplorerState(opts: ParsedOptions): FolderState[] {
+  if (!opts.useSavedState) return []
+
+  try {
+    const raw = localStorage.getItem(EXPLORER_STATE_KEY)
+    const parsed: unknown = raw ? JSON.parse(raw) : []
+    if (!Array.isArray(parsed)) return []
+
+    return parsed.filter(
+      (entry): entry is FolderState =>
+        typeof entry === "object" &&
+        entry !== null &&
+        typeof (entry as FolderState).path === "string" &&
+        typeof (entry as FolderState).collapsed === "boolean",
+    )
+  } catch {
+    // Ignore malformed or unavailable storage and use the current defaults.
+    return []
+  }
+}
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
   const explorerCollapsed = nearestExplorer.classList.toggle("collapsed")
-  nearestExplorer.setAttribute(
-    "aria-expanded",
-    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
-  )
+  nearestExplorer.setAttribute("aria-expanded", String(!explorerCollapsed))
+  this.setAttribute("aria-expanded", String(!explorerCollapsed))
 
   if (!explorerCollapsed) {
     // Stop <html> from being scrollable when mobile explorer is open
@@ -77,7 +98,7 @@ function toggleFolder(evt: MouseEvent) {
   }
 
   const stringifiedFileTree = JSON.stringify(currentExplorerState)
-  localStorage.setItem("fileTree", stringifiedFileTree)
+  localStorage.setItem(EXPLORER_STATE_KEY, stringifiedFileTree)
 }
 
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
@@ -133,9 +154,9 @@ function createFolderNode(
 
   // if this folder is a prefix of the current path we
   // want to open it anyways
-  const simpleFolderPath = simplifySlug(folderPath)
+  const simpleFolderPath = String(simplifySlug(folderPath))
   const folderIsPrefixOfCurrentSlug =
-    simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length)
+    simpleFolderPath === currentSlug || currentSlug.startsWith(`${simpleFolderPath}/`)
 
   if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
     folderOuter.classList.add("open")
@@ -181,9 +202,9 @@ async function setupExplorer(currentSlug: FullSlug) {
       mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
     }
 
-    // Get folder state from local storage
-    const storageTree = localStorage.getItem("fileTree")
-    const serializedExplorerState = storageTree && opts.useSavedState ? JSON.parse(storageTree) : []
+    // Use a versioned key so state from the old flattened tree cannot corrupt
+    // the current top-level corpus hierarchy.
+    const serializedExplorerState = readSavedExplorerState(opts)
     const oldIndex = new Map<string, boolean>(
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
@@ -221,7 +242,9 @@ async function setupExplorer(currentSlug: FullSlug) {
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
 
-    // Create and insert new content
+    // Rebuild the list on every SPA navigation. Quartz may preserve this DOM
+    // node, so inserting without clearing would duplicate every note and its
+    // event listeners after each navigation.
     const fragment = document.createDocumentFragment()
     if (opts.flatten) {
       const files = collectFileNodes(trie).sort(opts.sortFn)
@@ -237,7 +260,10 @@ async function setupExplorer(currentSlug: FullSlug) {
         fragment.appendChild(node)
       }
     }
-    explorerUl.insertBefore(fragment, explorerUl.firstChild)
+    const overflowEnd = explorerUl.querySelector(".overflow-end")
+    explorerUl.replaceChildren()
+    explorerUl.append(fragment)
+    if (overflowEnd) explorerUl.append(overflowEnd)
 
     // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
