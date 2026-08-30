@@ -369,7 +369,7 @@ if (graphContainer) {
     let dragStartY = 0
     let stopAnimation = false
 
-    const app = new Application()
+    let app = new Application()
     try {
       await app.init({
         width,
@@ -383,8 +383,10 @@ if (graphContainer) {
         eventMode: "static",
       })
     } catch {
-      // Some environments have no WebGPU adapter and init may reject; retry
-      // with WebGL before giving up.
+      // Some environments have no WebGPU adapter and init may reject. Use a
+      // fresh Application because a partially initialized renderer is not
+      // reusable for the WebGL fallback.
+      app = new Application()
       await app.init({
         width,
         height,

@@ -58,6 +58,25 @@ test("Explorer keeps corpus folders while filtering placeholder files", async ()
     /!node\.isFolder[\s\S]*filePath\.endsWith\("_folder\.md"\)/,
     "_folder.md filtering must not remove its containing folder",
   )
+  const explorerScript = await read("quartz/components/scripts/explorer.inline.ts")
+  assert.match(explorerScript, /shaul-explorer-state-v2/)
+  assert.match(
+    explorerScript,
+    /replaceChildren\(\)/,
+    "Explorer must rebuild preserved SPA DOM instead of duplicating notes",
+  )
+  const fileTrie = await read("quartz/util/fileTrie.ts")
+  assert.match(
+    fileTrie,
+    /segments\.at\(-1\) === "_folder"/,
+    "folder metadata must be attached to the containing folder",
+  )
+  const explorerStyle = await read("quartz/components/styles/explorer.scss")
+  assert.match(
+    explorerStyle,
+    /folder-outer > ul \{[\s\S]*min-height: 0/,
+    "collapsed folder content must not retain its intrinsic height",
+  )
 })
 
 test("Tag index renders each tag once (compact, hang-safe) for high-cardinality corpora", async () => {
@@ -89,4 +108,10 @@ test("Concept-atlas loader can never sit stuck in the loading state", async () =
     /graph could not be loaded/,
     "fetch/render failures must surface a readable error instead of spinning forever",
   )
+})
+
+test("Native graph uses a fresh WebGL fallback application", async () => {
+  const script = await read("quartz/components/scripts/graph.inline.ts")
+  assert.match(script, /preference: "webgpu"/)
+  assert.match(script, /app = new Application\(\)[\s\S]*preference: "webgl"/)
 })
