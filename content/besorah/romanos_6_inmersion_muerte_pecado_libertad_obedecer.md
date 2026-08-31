@@ -14,9 +14,9 @@ references:
   - "#romanos_6_1-11"
   - "#romanos_6_12-14"
   - "#romanos_6_15-23"
-  - "#levitico_25_10"
-  - "#isaias_61_1-2"
-  - "#genesis_4_7"
+  - "#vayikra_25_10"
+  - "#yeshayahu_61_1-2"
+  - "#bereshit_4_7"
 sources:
   - "https://www.youtube.com/watch?v=kid1ZnvZp0Y"
   - "docs/scriptures/tth/json/romanos.json"
@@ -42,8 +42,8 @@ Esta nota organiza la sesión pública sobre Romanos 6:1-23. Se sigue el capítu
 | #romanos_6_12-14 | «No reinará el pecado en el cuerpo»; los miembros deben ser instrumentos de justicia; el pecado no gobernará porque no están debajo de la Torah sino debajo del favor. | El favor cambia el dominio y produce una exhortación corporal a obedecer. |
 | #romanos_6_15-19 | «¿Pecaremos porque no estamos debajo de la Torah, sino debajo del favor?»; son siervos de aquel a quien escuchan y preparan sus miembros para justicia y santidad. | Pablo rechaza de nuevo la licencia y convierte la doctrina en una pregunta por el señorío práctico. |
 | #romanos_6_20-23 | El fruto anterior termina en muerte; el fruto de ser siervos de Elohim es santidad y vida olam. «El salario del pecado es muerte, pero la dádiva de Elohim es vida olam». | Distingue lo que se cosecha del servicio y lo que Elohim da gratuitamente en el Mesías. |
-| #levitico_25_10 | «Proclamarán libertad en la tierra para todos sus habitantes. Será de jubileo para ustedes, y cada uno volverá a su posesión y cada uno volverá a su familia». | La clase usa el jubileo para ilustrar retorno, caída de deudas y liberación; es trasfondo temático, no una cita de Romanos 6. |
-| #isaias_61_1-2 | La lectura local anuncia la Besorah, vendar a los quebrantados y «proclamar a los cautivos libertad». | Conecta la libertad mesiánica con el lenguaje jubilar; la identificación de cada cautivo con una categoría espiritual debe permanecer cualificada. |
+| #vayikra_25_10 | «Proclamarán libertad en la tierra para todos sus habitantes. Será de jubileo para ustedes, y cada uno volverá a su posesión y cada uno volverá a su familia». | La clase usa el jubileo para ilustrar retorno, caída de deudas y liberación; es trasfondo temático, no una cita de Romanos 6. |
+| #yeshayahu_61_1-2 | La lectura local anuncia la Besorah, vendar a los quebrantados y «proclamar a los cautivos libertad». | Conecta la libertad mesiánica con el lenguaje jubilar; la identificación de cada cautivo con una categoría espiritual debe permanecer cualificada. |
 
 ## Morir al pecado no es usar el favor como permiso
 

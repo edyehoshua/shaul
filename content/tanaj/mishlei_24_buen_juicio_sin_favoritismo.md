@@ -4,12 +4,12 @@ description: "Estudio de Mishlei 24:23-26 sobre el juicio recto, la reprensión 
 date: 2026-08-05
 tags: [mishlei, mishlei_24, juicio, justicia, reprension, verdad]
 references:
-  - "#proverbios_24_23"
-  - "#proverbios_24_24"
-  - "#proverbios_24_25"
-  - "#proverbios_24_26"
-  - "#levitico_19_15"
-  - "#salmos_2_12"
+  - "#mishlei_24_23"
+  - "#mishlei_24_24"
+  - "#mishlei_24_25"
+  - "#mishlei_24_26"
+  - "#vayikra_19_15"
+  - "#tehilim_2_12"
 sources:
   - "https://www.youtube.com/watch?v=d1UZnkIAt2o"
   - "docs/scriptures/oe/json/proverbs/24.json"
@@ -31,10 +31,10 @@ Esta nota organiza la clase dedicada a la sección que comienza en Mishlei 24:23
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_24_23 | גם אלה לחכמים הכר פנים במשפט בל טוב | También estos son para los sabios: Reconocer los rostros en el juicio no es bueno; |
-| #proverbios_24_24 | אמר לרשע צדיק אתה יקבוה עמים יזעמוהו לאמים | el que dice al condenado: “Justificado eres”, lo maldecirán los pueblos, se indignarán con él las naciones; |
-| #proverbios_24_25 | ולמוכיחים ינעם ועליהם תבוא ברכת טוב | pero para los que reprenden Él será deleitoso, y sobre ellos vendrá bendición del Bueno. |
-| #proverbios_24_26 | שפתים ישק משיב דברים נכחים | Los labios besará el que devuelve palabras rectas. |
+| #mishlei_24_23 | גם אלה לחכמים הכר פנים במשפט בל טוב | También estos son para los sabios: Reconocer los rostros en el juicio no es bueno; |
+| #mishlei_24_24 | אמר לרשע צדיק אתה יקבוה עמים יזעמוהו לאמים | el que dice al condenado: “Justificado eres”, lo maldecirán los pueblos, se indignarán con él las naciones; |
+| #mishlei_24_25 | ולמוכיחים ינעם ועליהם תבוא ברכת טוב | pero para los que reprenden Él será deleitoso, y sobre ellos vendrá bendición del Bueno. |
+| #mishlei_24_26 | שפתים ישק משיב דברים נכחים | Los labios besará el que devuelve palabras rectas. |
 
 ## El juicio no reconoce rostros
 
@@ -66,10 +66,10 @@ El verso 26 concluye con una imagen intensa: “Los labios besará” quien devu
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_24_23 | “Reconocer rostros” incluye favoritismo ante un tribunal y en decisiones comunes. | Apoyo textual; aplicación cotidiana calificada. |
-| #levitico_19_15 | La Torah prohíbe favorecer tanto al pobre como al grande. | Conexión escritural directa; referencia pendiente de cotejo textual externo. |
-| #proverbios_24_24-25 | Declarar justo al condenado pervierte el juicio; reprender al malvado recibe aprobación. | Apoyo textual; aplicación a familiares y líderes calificada. |
-| #proverbios_24_26 | “Besar los labios” representa obediencia y palabras fieles delante de יהוה. | Sentido de palabras rectas apoyado; simbolismo mesiánico pedagógico. |
+| #mishlei_24_23 | “Reconocer rostros” incluye favoritismo ante un tribunal y en decisiones comunes. | Apoyo textual; aplicación cotidiana calificada. |
+| #vayikra_19_15 | La Torah prohíbe favorecer tanto al pobre como al grande. | Conexión escritural directa; referencia pendiente de cotejo textual externo. |
+| #mishlei_24_24-25 | Declarar justo al condenado pervierte el juicio; reprender al malvado recibe aprobación. | Apoyo textual; aplicación a familiares y líderes calificada. |
+| #mishlei_24_26 | “Besar los labios” representa obediencia y palabras fieles delante de יהוה. | Sentido de palabras rectas apoyado; simbolismo mesiánico pedagógico. |
 
 ## Pendiente de verificar
 

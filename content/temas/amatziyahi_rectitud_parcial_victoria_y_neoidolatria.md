@@ -10,18 +10,18 @@ tags:
   - idolatria
   - obediencia
 references:
-  - "#2_cronicas_25_1"
-  - "#2_cronicas_25_2"
-  - "#2_cronicas_25_4"
-  - "#2_cronicas_25_6"
-  - "#2_cronicas_25_7"
-  - "#2_cronicas_25_9"
-  - "#2_cronicas_25_10"
-  - "#2_cronicas_25_14"
-  - "#2_cronicas_25_15"
-  - "#2_cronicas_25_16"
-  - "#2_reyes_14_3"
-  - "#2_reyes_14_5"
+  - "#divrei_hayamim_bet_25_1"
+  - "#divrei_hayamim_bet_25_2"
+  - "#divrei_hayamim_bet_25_4"
+  - "#divrei_hayamim_bet_25_6"
+  - "#divrei_hayamim_bet_25_7"
+  - "#divrei_hayamim_bet_25_9"
+  - "#divrei_hayamim_bet_25_10"
+  - "#divrei_hayamim_bet_25_14"
+  - "#divrei_hayamim_bet_25_15"
+  - "#divrei_hayamim_bet_25_16"
+  - "#melajim_bet_14_3"
+  - "#melajim_bet_14_5"
 sources:
   - "https://www.youtube.com/watch?v=slMiV8O5tYc"
   - "docs/scriptures/oe/json/raw/iichronicles.json"
@@ -43,12 +43,12 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local | Función en el estudio |
 | --- | --- | --- |
-| #2_cronicas_25_1-2 | **בן עשרים וחמש שנה מלך אמציהו... ויעש הישר בעיני יהוה רק לא בלבב שלם** — Amatziáh reinó veintinueve años e hizo lo recto, pero no con corazón entero. | El narrador presenta desde el principio una obediencia limitada. |
-| #2_cronicas_25_4 | **לא ימותו אבות על בנים... כי איש בחטאו ימותו** — no morirán padres por hijos ni hijos por padres. | Su decisión judicial reconoce responsabilidad personal según la Torah. |
-| #2_cronicas_25_6-9 | Contrata cien mil hombres de Israel; el hombre de Elohim ordena que no vayan, porque יהוה no está con Israel, y promete que יהוה puede dar mucho más. | La fe se prueba al soltar una inversión militar y económica. |
-| #2_cronicas_25_10-13 | Amatziáh separa a los soldados, vence a Seir, y los hombres rechazados atacan ciudades de Judá. | Obedecer no borra automáticamente las consecuencias de una decisión anterior. |
-| #2_cronicas_25_14-16 | Trae los dioses de los hijos de Seir, se postra ante ellos y recibe la pregunta: «¿Por qué has buscado los dioses de un pueblo que no salvaron a su pueblo de tu mano?». | La victoria se convierte en puerta para una idolatría absurda y autoglorificante. |
-| #2_reyes_14_3-5 | 2 Reyes confirma que hizo lo recto, «pero no como David su padre», y que los lugares altos no fueron apartados. | El paralelo confirma la evaluación de reforma incompleta. |
+| #divrei_hayamim_bet_25_1-2 | **בן עשרים וחמש שנה מלך אמציהו... ויעש הישר בעיני יהוה רק לא בלבב שלם** — Amatziáh reinó veintinueve años e hizo lo recto, pero no con corazón entero. | El narrador presenta desde el principio una obediencia limitada. |
+| #divrei_hayamim_bet_25_4 | **לא ימותו אבות על בנים... כי איש בחטאו ימותו** — no morirán padres por hijos ni hijos por padres. | Su decisión judicial reconoce responsabilidad personal según la Torah. |
+| #divrei_hayamim_bet_25_6-9 | Contrata cien mil hombres de Israel; el hombre de Elohim ordena que no vayan, porque יהוה no está con Israel, y promete que יהוה puede dar mucho más. | La fe se prueba al soltar una inversión militar y económica. |
+| #divrei_hayamim_bet_25_10-13 | Amatziáh separa a los soldados, vence a Seir, y los hombres rechazados atacan ciudades de Judá. | Obedecer no borra automáticamente las consecuencias de una decisión anterior. |
+| #divrei_hayamim_bet_25_14-16 | Trae los dioses de los hijos de Seir, se postra ante ellos y recibe la pregunta: «¿Por qué has buscado los dioses de un pueblo que no salvaron a su pueblo de tu mano?». | La victoria se convierte en puerta para una idolatría absurda y autoglorificante. |
+| #melajim_bet_14_3-5 | 2 Reyes confirma que hizo lo recto, «pero no como David su padre», y que los lugares altos no fueron apartados. | El paralelo confirma la evaluación de reforma incompleta. |
 
 ## Una rectitud que no alcanza el corazón entero
 
@@ -88,11 +88,11 @@ La clase relaciona esta resistencia con el orgullo: quien atribuye la victoria a
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2_cronicas_25_1-4 | Amatziáh es recto, pero no de corazón entero; conoce la Torah sobre responsabilidad personal. | Apoyo textual y aclaración de la obediencia parcial. |
-| #2_cronicas_25_6-10 | Debe dejar ir a Israel aunque ya pagó, y la obediencia no elimina el ataque posterior. | Apoyo textual; se distingue corrección de consecuencias. |
-| #2_cronicas_25_11-14 | Vence a Edom y luego trae sus dioses para adorarlos. | Apoyo textual central; se limita la aplicación a culto y confianza idolátrica. |
-| #2_cronicas_25_15-16 | El profeta confronta el absurdo y el rey rechaza ser aconsejado. | Apoyo textual; la aplicación sobre autoridad queda cualificada. |
-| #2_reyes_14_3-5 | El paralelo confirma que la reforma no quitó los lugares altos. | Confirmación local; no se fusionan todos los detalles de Crónicas y Reyes. |
+| #divrei_hayamim_bet_25_1-4 | Amatziáh es recto, pero no de corazón entero; conoce la Torah sobre responsabilidad personal. | Apoyo textual y aclaración de la obediencia parcial. |
+| #divrei_hayamim_bet_25_6-10 | Debe dejar ir a Israel aunque ya pagó, y la obediencia no elimina el ataque posterior. | Apoyo textual; se distingue corrección de consecuencias. |
+| #divrei_hayamim_bet_25_11-14 | Vence a Edom y luego trae sus dioses para adorarlos. | Apoyo textual central; se limita la aplicación a culto y confianza idolátrica. |
+| #divrei_hayamim_bet_25_15-16 | El profeta confronta el absurdo y el rey rechaza ser aconsejado. | Apoyo textual; la aplicación sobre autoridad queda cualificada. |
+| #melajim_bet_14_3-5 | El paralelo confirma que la reforma no quitó los lugares altos. | Confirmación local; no se fusionan todos los detalles de Crónicas y Reyes. |
 
 ## Pendiente de verificar
 

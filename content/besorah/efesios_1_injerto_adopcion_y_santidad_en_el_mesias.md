@@ -16,8 +16,8 @@ references:
   - "#efesios_1_4"
   - "#efesios_1_5"
   - "#galatas_5_22"
-  - "#genesis_1_28"
-  - "#genesis_12_3"
+  - "#bereshit_1_28"
+  - "#bereshit_12_3"
 sources:
   - "https://www.youtube.com/watch?v=mt2_nLYsm6Y"
   - "docs/scriptures/delitzsch/json/ephesians.json"

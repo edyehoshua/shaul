@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 17:8-15 sobre el regalo de favor, cubrir la tra
 date: 2026-08-05
 tags: [mishlei, mishlei_17, favor, perdon, reprension, juicio]
 references:
-  - "#proverbios_17_8"
-  - "#proverbios_17_9"
-  - "#proverbios_17_10"
-  - "#proverbios_17_11"
-  - "#proverbios_17_12"
-  - "#proverbios_17_13"
-  - "#proverbios_17_14"
-  - "#proverbios_17_15"
-  - "#salmos_118_22"
+  - "#mishlei_17_8"
+  - "#mishlei_17_9"
+  - "#mishlei_17_10"
+  - "#mishlei_17_11"
+  - "#mishlei_17_12"
+  - "#mishlei_17_13"
+  - "#mishlei_17_14"
+  - "#mishlei_17_15"
+  - "#tehilim_118_22"
   - "#romanos_8_33"
 sources:
   - "https://www.youtube.com/watch?v=bWgf-Qsq3Rg"
@@ -35,14 +35,14 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_17_8 | אבן חן השחד בעיני בעליו אל כל אשר יפנה ישכיל | Piedra de favor es el regalo a los ojos de su dueño, a todo lugar donde se vuelva prosperará. |
-| #proverbios_17_9 | מכסה פשע מבקש אהבה ושנה בדבר מפריד אלוף | El que cubre transgresión, busca amor; pero el que insiste en un asunto, separa al Jefe. |
-| #proverbios_17_10 | תחת גערה במבין מהכות כסיל מאה | Aterriza más una reprensión al entendido que cien golpes a un indisciplinado. |
-| #proverbios_17_11 | אך מרי יבקש רע ומלאך אכזרי ישלח בו | Solamente el amargo buscará el mal, y un mensajero cruel será enviado a él. |
-| #proverbios_17_12 | פגוש דב שכול באיש ואל כסיל באולתו | Que se encuentre un oso que ha perdido a sus crías con un hombre, y no un indisciplinado en su tontería. |
-| #proverbios_17_13 | משיב רעה תחת טובה לא תמיש תמוש רעה מביתו | El que devuelve mal en lugar de bien, no se apartará el mal de su casa. |
-| #proverbios_17_14 | פוטר מים ראשית מדון ולפני התגלע הריב נטוש | El principio de la contienda es como soltar las aguas, y antes que se desate la riña, apártate. |
-| #proverbios_17_15 | מצדיק רשע ומרשיע צדיק תועבת יהוה גם שניהם | El que justifica al condenado, y el que condena al justificado, abominación de יהוה son aun los dos. |
+| #mishlei_17_8 | אבן חן השחד בעיני בעליו אל כל אשר יפנה ישכיל | Piedra de favor es el regalo a los ojos de su dueño, a todo lugar donde se vuelva prosperará. |
+| #mishlei_17_9 | מכסה פשע מבקש אהבה ושנה בדבר מפריד אלוף | El que cubre transgresión, busca amor; pero el que insiste en un asunto, separa al Jefe. |
+| #mishlei_17_10 | תחת גערה במבין מהכות כסיל מאה | Aterriza más una reprensión al entendido que cien golpes a un indisciplinado. |
+| #mishlei_17_11 | אך מרי יבקש רע ומלאך אכזרי ישלח בו | Solamente el amargo buscará el mal, y un mensajero cruel será enviado a él. |
+| #mishlei_17_12 | פגוש דב שכול באיש ואל כסיל באולתו | Que se encuentre un oso que ha perdido a sus crías con un hombre, y no un indisciplinado en su tontería. |
+| #mishlei_17_13 | משיב רעה תחת טובה לא תמיש תמוש רעה מביתו | El que devuelve mal en lugar de bien, no se apartará el mal de su casa. |
+| #mishlei_17_14 | פוטר מים ראשית מדון ולפני התגלע הריב נטוש | El principio de la contienda es como soltar las aguas, y antes que se desate la riña, apártate. |
+| #mishlei_17_15 | מצדיק רשע ומרשיע צדיק תועבת יהוה גם שניהם | El que justifica al condenado, y el que condena al justificado, abominación de יהוה son aun los dos. |
 
 ## El favor no es un talismán
 
@@ -77,10 +77,10 @@ Los versos 11-14 continúan el contraste. El amargo busca el mal, el necio en su
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_17_8 | La piedra de favor es un regalo, no un talismán ni una defensa del soborno. | Contraste con el hebreo y TTH apoyado; lectura mesiánica calificada. |
-| #proverbios_17_9 | Cubrir la transgresión busca amor; insistir en el asunto separa del Jefe. | Exhortación al perdón apoyada; límites frente al daño continuo explicitados. |
-| #proverbios_17_10-12 | La reprensión llega al entendido; el amargo y el necio buscan consecuencias destructivas. | Secuencia textual apoyada; “aterrizar” queda como explicación pedagógica. |
-| #proverbios_17_13-15 | Devolver mal, soltar la contienda y torcer el juicio traen mal y son abominación para יהוה. | Sentido directo apoyado; aplicación a líderes y a la justificación mesiánica calificada. |
+| #mishlei_17_8 | La piedra de favor es un regalo, no un talismán ni una defensa del soborno. | Contraste con el hebreo y TTH apoyado; lectura mesiánica calificada. |
+| #mishlei_17_9 | Cubrir la transgresión busca amor; insistir en el asunto separa del Jefe. | Exhortación al perdón apoyada; límites frente al daño continuo explicitados. |
+| #mishlei_17_10-12 | La reprensión llega al entendido; el amargo y el necio buscan consecuencias destructivas. | Secuencia textual apoyada; “aterrizar” queda como explicación pedagógica. |
+| #mishlei_17_13-15 | Devolver mal, soltar la contienda y torcer el juicio traen mal y son abominación para יהוה. | Sentido directo apoyado; aplicación a líderes y a la justificación mesiánica calificada. |
 
 ## Pendiente de verificar
 

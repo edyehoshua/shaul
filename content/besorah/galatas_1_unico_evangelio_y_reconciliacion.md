@@ -23,8 +23,8 @@ references:
   - "#galatas_1_10"
   - "#juan_10_18"
   - "#juan_3_16"
-  - "#salmos_49_8"
-  - "#salmos_49_9"
+  - "#tehilim_49_8"
+  - "#tehilim_49_9"
 sources:
   - "https://www.youtube.com/watch?v=ZfPUEeRSFPU"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -90,7 +90,7 @@ La oposición entre «gracia» y «obras» debe mantenerse igualmente precisa. G
 | #galatas_1_1-5 | El Mesías no fue sacrificado por HaSatán: él se dio a sí mismo; la reconciliación procede de Elohim. | Apoyo textual con formulación teológica cualificada. |
 | #juan_10_18 | Yehoshua entrega su vida voluntariamente y tiene autoridad para volver a tomarla. | Conexión intertextual; se usa como apoyo temático, no como sustituto de Gálatas 1. |
 | Sacrificio y Yom Kipur | El israelita dependía del sacerdocio y no podía producir por sí solo la reconciliación definitiva. | Marco pedagógico atribuido; se evita afirmar una correspondencia automática entre cada rito y la obra del Mesías. |
-| #salmos_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión conservada, pero el número y texto exactos quedan pendientes de cotejo local. |
+| #tehilim_49_8-9 | Ningún hombre puede pagar el rescate de su hermano; la clase usa esta pregunta para insistir en la dependencia de Elohim. | Conexión conservada, pero el número y texto exactos quedan pendientes de cotejo local. |
 | #galatas_1_6-10 | No existe una «otra» buena noticia legítima; agradar a personas no puede gobernar al siervo del Mesías. | Apoyo directo del texto local; se limita la aplicación a mensajes alterados y no a condenas indiscriminadas. |
 
 ## Pendiente de verificar

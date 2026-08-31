@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_53_1"
-  - "#salmos_53_7"
+  - "#tehilim_53_1"
+  - "#tehilim_53_7"
 sources:
   - "https://www.youtube.com/watch?v=EvyStR8kcys"
   - "docs/scriptures/oe/json/psalms/53.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 53. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                             | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_53_1 | למנצח על מחלת משכיל לדוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_53_7 | מי יתן מציון ישעות ישראל בשוב אלהים שבות עמו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
+| #tehilim_53_1 | למנצח על מחלת משכיל לדוד                                          | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_53_7 | מי יתן מציון ישעות ישראל בשוב אלהים שבות עמו יגל יעקב ישמח ישראל | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -6,7 +6,7 @@ tags:
   - parashot
   - devarim
 references:
-  - "#deuteronomio_29_1"
+  - "#devarim_29_1"
 sources:
   - "https://www.youtube.com/watch?v=G-vrfaUx-dc"
   - "docs/scriptures/oe/json/deuteronomy/29.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Devarim 29 dentro de esta incorporación. La tran
 
 | Referencia    | Hebreo local (OE, sin nikud)                                                                                                 | Observación                                                                                           |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #deuteronomio_29_1 | **ויקרא משה אל כל ישראל ויאמר אלהם אתם ראיתם את כל אשר עשה יהוה לעיניכם בארץ מצרים לפרעה ולכל עבדיו ולכל ארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #devarim_29_1 | **ויקרא משה אל כל ישראל ויאמר אלהם אתם ראיתם את כל אשר עשה יהוה לעיניכם בארץ מצרים לפרעה ולכל עבדיו ולכל ארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

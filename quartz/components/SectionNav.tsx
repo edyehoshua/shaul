@@ -9,7 +9,8 @@ const defaultNav: NavItem[] = [
   { label: "Tanaj", slug: "tanaj/index" as FullSlug },
   { label: "Besorah", slug: "besorah/index" as FullSlug },
   { label: "Temas", slug: "temas/index" as FullSlug },
-  { label: "Grafo", slug: "graph" as FullSlug },
+  // The graph is the home page; the old standalone /graph HTML is no longer emitted.
+  { label: "Grafo", slug: "index" as FullSlug },
   { label: "Tags", slug: "tags/index" as FullSlug },
 ]
 

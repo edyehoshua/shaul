@@ -9,12 +9,12 @@ tags:
   - juicio
   - morada
 references:
-  - "#salmos_76_1-2"
-  - "#salmos_76_3-5"
-  - "#salmos_76_6-9"
-  - "#salmos_76_10-12"
-  - "#ezequiel_38_18-23"
-  - "#zacarias_3_2"
+  - "#tehilim_76_1-2"
+  - "#tehilim_76_3-5"
+  - "#tehilim_76_6-9"
+  - "#tehilim_76_10-12"
+  - "#yejezkel_38_18-23"
+  - "#zejariah_3_2"
   - "#apocalipsis_19_17-21"
 sources:
   - "https://www.youtube.com/watch?v=EBWU5YO1Lo4"
@@ -37,16 +37,16 @@ La clase «Tehilim/Himnos/Salmo Cap 76» comenta el capítulo en orden y vuelve 
 
 | Unidad                      | Texto local TTH                                                                                                                                                                          | Función en el argumento                                                     |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Encabezado; #salmos_76_1-2 | «למנצח בנגינת מזמור לאסף שיר»; «Es conocido en Yehudáh Elohim; en Israel grande es su Nombre»; «Y estará en Shalem su morada, y su habitación en Tzión».                                 | La composición de Asaf anuncia un Nombre conocido y una morada reconocible. |
-| #salmos_76_3-5             | «Allí quebró las llamas del arco, el escudo, la espada y la guerra. Selah»; «Resplandeciente eres Tú, majestuoso desde los montes de caza»; «Fueron saqueados los poderosos de corazón». | La presencia de יהוה desarma la guerra y vence al poder humano.             |
-| #salmos_76_6-9             | «Durmieron su sueño»; «Debido a tu reprensión… durmieron profundamente»; «Tú eres temible»; «Desde los cielos hiciste oír juicio; la tierra temió, y se quedó quieta».                   | La reprensión y el juicio detienen a guerreros y tierra por igual.          |
-| #salmos_76_10-12           | «Al levantarse Elohim para el juicio, para salvar a todos los afligidos de la tierra»; «Hagan votos y cúmplanlos»; «Él cortará el aliento de los príncipes».                             | El juicio salva a los afligidos, exige respuesta y limita a los reyes.      |
+| Encabezado; #tehilim_76_1-2 | «למנצח בנגינת מזמור לאסף שיר»; «Es conocido en Yehudáh Elohim; en Israel grande es su Nombre»; «Y estará en Shalem su morada, y su habitación en Tzión».                                 | La composición de Asaf anuncia un Nombre conocido y una morada reconocible. |
+| #tehilim_76_3-5             | «Allí quebró las llamas del arco, el escudo, la espada y la guerra. Selah»; «Resplandeciente eres Tú, majestuoso desde los montes de caza»; «Fueron saqueados los poderosos de corazón». | La presencia de יהוה desarma la guerra y vence al poder humano.             |
+| #tehilim_76_6-9             | «Durmieron su sueño»; «Debido a tu reprensión… durmieron profundamente»; «Tú eres temible»; «Desde los cielos hiciste oír juicio; la tierra temió, y se quedó quieta».                   | La reprensión y el juicio detienen a guerreros y tierra por igual.          |
+| #tehilim_76_10-12           | «Al levantarse Elohim para el juicio, para salvar a todos los afligidos de la tierra»; «Hagan votos y cúmplanlos»; «Él cortará el aliento de los príncipes».                             | El juicio salva a los afligidos, exige respuesta y limita a los reyes.      |
 
 ## Encabezado, melodía y el Nombre conocido
 
 Eric comienza por el encabezado y observa **(למנצח)**, _lamnatseaj_, como una fórmula dirigida al victorioso o al que vence, y **(נגינות)**, _neginot_, como melodías o instrumentos de cuerda. El sentido normal de _neginot_ está relacionado con música, mientras que la aplicación de «para el victorioso» a una lectura mesiánica es pedagógica: el encabezado organiza la interpretación, pero no demuestra por sí solo una identidad futura concreta. También distingue **(מזמור)**, _mizmor_, como composición o salmo, y **(שיר)**, _shir_, como cántico. La diferencia entre un cántico coral y una composición lírica individual es una observación de la clase que ayuda a oír la forma, aunque no debe convertirse en una regla rígida para cada uso bíblico.
 
-El primer movimiento poético dice: «Es conocido en Yehudáh Elohim; en Israel grande es su Nombre» (#tehilim*76_1 en TTH; corresponde al primer verso poético después del encabezado hebreo de OE). Eric relaciona **(נודע)**, \_noda*, «ser conocido/darse a conocer», con Yejezkel 38:18-23, donde יהוה juzga la invasión y dice que será engrandecido, santificado y dado a conocer ante muchos pueblos. Esa relación verbal es aproximada y canónica: el salmo afirma que Elohim es conocido y que su Nombre es grande; Yejezkel desarrolla una escena futura distinta.
+El primer movimiento poético dice: «Es conocido en Yehudáh Elohim; en Israel grande es su Nombre» (#tehilim_76_1 en TTH; corresponde al primer verso poético después del encabezado hebreo de OE). Eric relaciona **(נודע)**, \_noda*, «ser conocido/darse a conocer», con Yejezkel 38:18-23, donde יהוה juzga la invasión y dice que será engrandecido, santificado y dado a conocer ante muchos pueblos. Esa relación verbal es aproximada y canónica: el salmo afirma que Elohim es conocido y que su Nombre es grande; Yejezkel desarrolla una escena futura distinta.
 
 La clase añade que «en Yehudáh» recuerda el testimonio histórico de Israel, mientras «grande es su Nombre en Israel» puede abrirse hacia las naciones que reconocen al Elohim de Israel. El texto local permite afirmar el ámbito de Yehudáh e Israel, pero no obliga a una reconstrucción de las dos casas ni a identificar cada gentil con una etapa específica. La expansión misionera y futura es una inferencia atribuida a Eric.
 
@@ -58,9 +58,9 @@ Eric discute la lectura tradicional de Shalem como Jerusalén y conecta el nombr
 
 ## Armas quebradas y poderes derrotados
 
-«Allí quebró las llamas del arco, el escudo, la espada y la guerra» (#tehilim*76_3). Eric lee **(רשפי)**, \_rishpe*, como llamas o proyectiles ardientes y vincula las flechas de fuego con potestades espirituales, mientras escudo, espada y guerra representan naciones o instrumentos humanos. La palabra normal puede describir chispas, llamas o proyectiles; su aplicación a demonios es una inferencia apoyada por la conexión que la clase hace con Efesios 6, no el único sentido del verso. El texto afirma directamente que las armas de la guerra fueron quebradas en la morada de יהוה.
+«Allí quebró las llamas del arco, el escudo, la espada y la guerra» (#tehilim_76_3). Eric lee **(רשפי)**, \_rishpe*, como llamas o proyectiles ardientes y vincula las flechas de fuego con potestades espirituales, mientras escudo, espada y guerra representan naciones o instrumentos humanos. La palabra normal puede describir chispas, llamas o proyectiles; su aplicación a demonios es una inferencia apoyada por la conexión que la clase hace con Efesios 6, no el único sentido del verso. El texto afirma directamente que las armas de la guerra fueron quebradas en la morada de יהוה.
 
-La imagen continúa con «los montes de caza» y «los poderosos de corazón» (#tehilim*76_4-5). Eric explica **(טרף)**, \_teref*, como presa o botín de caza, y lee a los poderosos como aquellos que han dominado el corazón humano. Luego conecta «serán saqueados» con el banquete de Apocalipsis 19:17-21, donde las aves comen la carne de reyes y ejércitos. La correspondencia es temática y escatológica, no exacta: Tehilim 76 habla poéticamente del despojo y del sueño de los guerreros; Apocalipsis presenta otra escena y debe citarse como desarrollo posterior.
+La imagen continúa con «los montes de caza» y «los poderosos de corazón» (#tehilim_76_4-5). Eric explica **(טרף)**, \_teref*, como presa o botín de caza, y lee a los poderosos como aquellos que han dominado el corazón humano. Luego conecta «serán saqueados» con el banquete de Apocalipsis 19:17-21, donde las aves comen la carne de reyes y ejércitos. La correspondencia es temática y escatológica, no exacta: Tehilim 76 habla poéticamente del despojo y del sueño de los guerreros; Apocalipsis presenta otra escena y debe citarse como desarrollo posterior.
 
 ## Sueño, reprensión y el juicio que aquieta la tierra
 
@@ -90,11 +90,11 @@ El cierre manda: «Hagan votos y cúmplanlos a יהוה» y «todos los que est�
 
 | Unidad textual               | Observación concreta de la clase                                                                                                                         | Tratamiento                                                                                                                 |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Encabezado y #salmos_76_1-2 | Eric explica _lamnatseaj_, _neginot_, _mizmor_ y _shir_, y vincula el Nombre conocido con Yejezkel 38 y la manifestación ante las naciones.              | Clarificación léxica y apoyo textual; la conexión futura y la lectura de dos casas quedan como inferencia cualificada.      |
-| #salmos_76_2-3              | La clase lee Shalem como plenitud, relaciona morada y sacrificios de reconciliación/redención, y lleva la morada al Mesías más allá del edificio.        | Apoyo textual para Shalem, Tzión y morada; etimología y aplicación mesiánica: relación pedagógica, no equivalencia exacta.  |
-| #salmos_76_3-6              | Eric interpreta llamas del arco, armas y guerra como derrota de potestades y naciones; relaciona a los poderosos con el corazón humano y Apocalipsis 19. | Apoyo textual para armas quebradas y guerreros vencidos; demonios y banquete apocalíptico: inferencia canónica cualificada. |
-| #salmos_76_6-10             | La reprensión hace dormir al enemigo; el juicio desde los cielos aquieta la tierra y salva a los mansos.                                                 | Apoyo directo para reprensión, juicio, quietud y afligidos; Zacarías 3 y la cronología escatológica: conexión aproximada.   |
-| #salmos_76_10-12            | Eric lee los votos, tributos y reyes como reconocimiento final de יהוה frente a las potencias de la tierra.                                              | Apoyo textual para votos y humillación de príncipes; aplicación política contemporánea no fijada a un referente único.      |
+| Encabezado y #tehilim_76_1-2 | Eric explica _lamnatseaj_, _neginot_, _mizmor_ y _shir_, y vincula el Nombre conocido con Yejezkel 38 y la manifestación ante las naciones.              | Clarificación léxica y apoyo textual; la conexión futura y la lectura de dos casas quedan como inferencia cualificada.      |
+| #tehilim_76_2-3              | La clase lee Shalem como plenitud, relaciona morada y sacrificios de reconciliación/redención, y lleva la morada al Mesías más allá del edificio.        | Apoyo textual para Shalem, Tzión y morada; etimología y aplicación mesiánica: relación pedagógica, no equivalencia exacta.  |
+| #tehilim_76_3-6              | Eric interpreta llamas del arco, armas y guerra como derrota de potestades y naciones; relaciona a los poderosos con el corazón humano y Apocalipsis 19. | Apoyo textual para armas quebradas y guerreros vencidos; demonios y banquete apocalíptico: inferencia canónica cualificada. |
+| #tehilim_76_6-10             | La reprensión hace dormir al enemigo; el juicio desde los cielos aquieta la tierra y salva a los mansos.                                                 | Apoyo directo para reprensión, juicio, quietud y afligidos; Zacarías 3 y la cronología escatológica: conexión aproximada.   |
+| #tehilim_76_10-12            | Eric lee los votos, tributos y reyes como reconocimiento final de יהוה frente a las potencias de la tierra.                                              | Apoyo textual para votos y humillación de príncipes; aplicación política contemporánea no fijada a un referente único.      |
 
 ## Pendiente de verificar
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_93_1"
-  - "#salmos_93_5"
+  - "#tehilim_93_1"
+  - "#tehilim_93_5"
 sources:
   - "https://www.youtube.com/watch?v=BDR49nYo4ZI"
   - "docs/scriptures/oe/json/psalms/93.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 93. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                                 | Observación de lectura                                               |
 | ------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_93_1 | יהוה מלך גאות לבש לבש יהוה עז התאזר אף תכון תבל בל תמוט | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_93_5 | עדתיך נאמנו מאד לביתך נאוה קדש יהוה לארך ימים       | El verso final permite observar el cierre de la composición.         |
+| #tehilim_93_1 | יהוה מלך גאות לבש לבש יהוה עז התאזר אף תכון תבל בל תמוט | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_93_5 | עדתיך נאמנו מאד לביתך נאוה קדש יהוה לארך ימים       | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

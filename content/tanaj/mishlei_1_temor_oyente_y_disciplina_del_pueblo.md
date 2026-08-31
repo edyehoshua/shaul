@@ -4,14 +4,14 @@ description: "Estudio de Mishlei 1:5-9 sobre crecimiento, lectura alegórica, te
 date: 2026-08-05
 tags: [mishlei, mishlei_1, temor, torah, disciplina, israel]
 references:
-  - "#proverbios_1_5"
-  - "#proverbios_1_6"
-  - "#proverbios_1_7"
-  - "#proverbios_1_8"
-  - "#proverbios_1_9"
+  - "#mishlei_1_5"
+  - "#mishlei_1_6"
+  - "#mishlei_1_7"
+  - "#mishlei_1_8"
+  - "#mishlei_1_9"
   - "#galatas_4_26"
   - "#mateo_18_15"
-  - "#salmos_103_4"
+  - "#tehilim_103_4"
 sources:
   - "https://www.youtube.com/watch?v=V3DF8E3hjvM"
   - "docs/scriptures/oe/json/proverbs/1.json"
@@ -33,11 +33,11 @@ Esta nota organiza la segunda clase de la serie, que retoma Mishlei 1:5 y avanza
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_1_5 | ישמע חכם ויוסף לקח ונבון תחבלות יקנה | Escuchará el sabio y aumentará aprendizaje, y el entendido creará direcciones, |
-| #proverbios_1_6 | להבין משל ומליצה דברי חכמים וחידתם | para entender alegoría y figura, palabras de sabios y sus enigmas. |
-| #proverbios_1_7 | יראת יהוה ראשית דעת חכמה ומוסר אוילים בזו | El temor de יהוה es el principio del conocimiento, sabiduría y disciplina los tontos desprecian. |
-| #proverbios_1_8 | שמע בני מוסר אביך ואל תטש תורת אמך | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah (instrucción) de tu madre, |
-| #proverbios_1_9 | כי לוית חן הם לראשך וענקים לגרגרתיך | porque guirnalda de favor son para tu cabeza, y collares para tu garganta. |
+| #mishlei_1_5 | ישמע חכם ויוסף לקח ונבון תחבלות יקנה | Escuchará el sabio y aumentará aprendizaje, y el entendido creará direcciones, |
+| #mishlei_1_6 | להבין משל ומליצה דברי חכמים וחידתם | para entender alegoría y figura, palabras de sabios y sus enigmas. |
+| #mishlei_1_7 | יראת יהוה ראשית דעת חכמה ומוסר אוילים בזו | El temor de יהוה es el principio del conocimiento, sabiduría y disciplina los tontos desprecian. |
+| #mishlei_1_8 | שמע בני מוסר אביך ואל תטש תורת אמך | Escucha, hijo mío, la disciplina de tu padre, y no dejes ir la Torah (instrucción) de tu madre, |
+| #mishlei_1_9 | כי לוית חן הם לראשך וענקים לגרגרתיך | porque guirnalda de favor son para tu cabeza, y collares para tu garganta. |
 
 ## Del aprendiz al entendido: crecer recibiendo
 
@@ -75,10 +75,10 @@ En la parte final, Eric aplica la disciplina a la corrección comunitaria y a qu
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_1_5 | El _jajam_ recibe como aprendiz y el _navón_ crece hasta aplicar la instrucción. | Secuencia verbal apoyada; desarrollo pedagógico calificado. |
-| #proverbios_1_6 | _Mishlei_ se lee mediante alegorías y figuras interpretables. | Vocabulario textual apoyado; método alegórico calificado. |
-| #proverbios_1_7 | El temor de יהוה precede al conocimiento humano y los necios desprecian la disciplina. | Apoyo textual directo; extensión doctrinal atribuida. |
-| #proverbios_1_8-9 | Padre, madre y adornos representan la instrucción de יהוה y el ideal de Israel. | Mandato de escuchar apoyado; lectura corporativa pendiente de verificar. |
+| #mishlei_1_5 | El _jajam_ recibe como aprendiz y el _navón_ crece hasta aplicar la instrucción. | Secuencia verbal apoyada; desarrollo pedagógico calificado. |
+| #mishlei_1_6 | _Mishlei_ se lee mediante alegorías y figuras interpretables. | Vocabulario textual apoyado; método alegórico calificado. |
+| #mishlei_1_7 | El temor de יהוה precede al conocimiento humano y los necios desprecian la disciplina. | Apoyo textual directo; extensión doctrinal atribuida. |
+| #mishlei_1_8-9 | Padre, madre y adornos representan la instrucción de יהוה y el ideal de Israel. | Mandato de escuchar apoyado; lectura corporativa pendiente de verificar. |
 
 ## Pendiente de verificar
 
@@ -91,7 +91,7 @@ En la parte final, Eric aplica la disciplina a la corrección comunitaria y a qu
 ## Conexiones principales
 
 - #galatas_4_26: conexión alegórica propuesta para “la madre”; no sustituye la referencia directa a la madre del proverbio.
-- #salmos_103_4: conexión temática propuesta para la corona de favor y compasión.
+- #tehilim_103_4: conexión temática propuesta para la corona de favor y compasión.
 - #mateo_18_15: aplicación de la disciplina comunitaria; debe mantenerse bajo el criterio de la Torah y el contexto de Mateo.
 
 ## Conclusión

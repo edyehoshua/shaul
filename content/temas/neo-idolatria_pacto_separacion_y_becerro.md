@@ -11,22 +11,22 @@ tags:
   - torah
   - israel
 references:
-  - "#genesis_15_13"
-  - "#exodo_12_40"
-  - "#exodo_19_4"
-  - "#exodo_19_5"
-  - "#exodo_19_6"
-  - "#exodo_32_1"
-  - "#exodo_32_4"
-  - "#exodo_32_26"
-  - "#deuteronomio_5_7"
-  - "#deuteronomio_5_8"
-  - "#deuteronomio_7_1"
-  - "#deuteronomio_7_2"
-  - "#deuteronomio_7_5"
-  - "#deuteronomio_7_6"
-  - "#levitico_18_24"
-  - "#levitico_18_30"
+  - "#bereshit_15_13"
+  - "#shemot_12_40"
+  - "#shemot_19_4"
+  - "#shemot_19_5"
+  - "#shemot_19_6"
+  - "#shemot_32_1"
+  - "#shemot_32_4"
+  - "#shemot_32_26"
+  - "#devarim_5_7"
+  - "#devarim_5_8"
+  - "#devarim_7_1"
+  - "#devarim_7_2"
+  - "#devarim_7_5"
+  - "#devarim_7_6"
+  - "#vayikra_18_24"
+  - "#vayikra_18_30"
 sources:
   - "https://www.youtube.com/watch?v=E3YyxENTp3I"
   - "docs/scriptures/oe/json/raw/exodus.json"
@@ -49,11 +49,11 @@ Esta nota organiza la clase pública «NEOIDOLATRY, Israel and the Legacy of the
 
 | Referencia | Texto local de OE | Función en el estudio |
 | --- | --- | --- |
-| #exodo_19_4-6 | «ואשא אתכם על כנפי נשרים ואבא אתכם אלי»… «אם שמוע תשמעו בקלי ושמרתם את בריתי»… «ממלכת כהנים וגוי קדוש» | La liberación conduce a escuchar, guardar el pacto y vivir como pueblo apartado. |
-| #deuteronomio_5_6-10 | «אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים»; «לא יהיה לך אלהים אחרים»; «לא תעשה לך פסל» | La identidad redimida y la prohibición de imágenes aparecen juntas. |
-| #deuteronomio_7_1-6 | «לא תכרת להם ברית»… «כי יסיר את בנך מאחרי»… «כי עם קדוש אתה ליהוה אלהיך» | La separación de las naciones se explica por el peligro de desviarse hacia otros dioses. |
-| #levitico_18_24-30 | «אל תטמאו בכל אלה כי בכל אלה נטמאו הגוים»… «ושמרתם את משמרתי» | La contaminación se contrasta con guardar estatutos y no imitar abominaciones. |
-| #exodo_32_1-4, 26 | El pueblo pide un dios visible, Aarón hace un becerro y Mosé llama: «מי ליהוה אלי» | El episodio muestra el reemplazo de la confianza obediente por una imagen y una lealtad equivocada. |
+| #shemot_19_4-6 | «ואשא אתכם על כנפי נשרים ואבא אתכם אלי»… «אם שמוע תשמעו בקלי ושמרתם את בריתי»… «ממלכת כהנים וגוי קדוש» | La liberación conduce a escuchar, guardar el pacto y vivir como pueblo apartado. |
+| #devarim_5_6-10 | «אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים»; «לא יהיה לך אלהים אחרים»; «לא תעשה לך פסל» | La identidad redimida y la prohibición de imágenes aparecen juntas. |
+| #devarim_7_1-6 | «לא תכרת להם ברית»… «כי יסיר את בנך מאחרי»… «כי עם קדוש אתה ליהוה אלהיך» | La separación de las naciones se explica por el peligro de desviarse hacia otros dioses. |
+| #vayikra_18_24-30 | «אל תטמאו בכל אלה כי בכל אלה נטמאו הגוים»… «ושמרתם את משמרתי» | La contaminación se contrasta con guardar estatutos y no imitar abominaciones. |
+| #shemot_32_1-4, 26 | El pueblo pide un dios visible, Aarón hace un becerro y Mosé llama: «מי ליהוה אלי» | El episodio muestra el reemplazo de la confianza obediente por una imagen y una lealtad equivocada. |
 
 ## Sacados de Misraim para escuchar el pacto
 

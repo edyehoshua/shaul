@@ -10,10 +10,10 @@ tags:
   - justicia
   - camino
 references:
-  - "#salmos_143_1-2"
-  - "#salmos_143_3-6"
-  - "#salmos_143_7-10"
-  - "#salmos_143_11-12"
+  - "#tehilim_143_1-2"
+  - "#tehilim_143_3-6"
+  - "#tehilim_143_7-10"
+  - "#tehilim_143_11-12"
 sources:
   - "https://www.youtube.com/watch?v=WMaVm1xtao8"
   - "docs/scriptures/oe/json/psalms/143.json"
@@ -46,13 +46,13 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 - **143:7-10 — misericordia, camino y voluntad:** Eric observa que la respuesta debe venir pronto porque el espíritu se consume; subraya la misericordia de la mañana, la confianza y la petición “enséñame a hacer tu voluntad”. La clase amplía el pedido hacia la obediencia y el servicio, pero el orden del salmo sostiene directamente la guía de יהוה y la tierra llana.
 - **143:11-12 — nombre, vida y enemigo:** Eric termina destacando que la vida se pide por el nombre de יהוה, no por la autosuficiencia de David, y que el siervo deja la retribución en manos divinas. El texto sí pide vivificar, sacar de la angustia y destruir a los adversarios; las aplicaciones a autoridad, soberanía y guerra espiritual son extensiones de la exposición.
 
-## 143:1-2 — responder por fidelidad, no por mérito #salmos_143_1-2
+## 143:1-2 — responder por fidelidad, no por mérito #tehilim_143_1-2
 
 David pide: **יהוה שמע תפלתי האזינה אל תחנוני**, “יהוה, escucha mi oración; presta oído a mis súplicas”, y añade **באמנתך ענני בצדקתך**, “respóndeme en tu fidelidad, en tu justicia”. **אמונה** (_emunah_) significa fidelidad, firmeza o confiabilidad; aquí sostiene la apelación al carácter constante de יהוה. **צדקה** (_tsedaqah_) significa justicia o rectitud; su fuerza contextual es que David pide una respuesta conforme al orden justo de יהוה. Eric contrasta “verdad” y “fidelidad” de las traducciones y hace de la estabilidad divina el fundamento de la súplica. La relación es **aproximada pero bien orientada**: la forma hebrea permite “fidelidad”, mientras la doctrina completa de la gracia no está contenida en una sola palabra.
 
 El v. 2 limita de inmediato cualquier lectura triunfalista: **ואל תבוא במשפט את עבדך כי לא יצדק לפניך כל חי**, “no entres en juicio con tu siervo, porque ningún viviente será justo delante de ti”. **משפט** (_mishpat_) es juicio o decisión judicial; **יצדק** (_yitsdaq_) es ser declarado justo o tener razón. Eric recalca que David no intenta justificar sus fallas con argumentos, y relaciona el verso con la imposibilidad de alcanzar la justicia divina mediante una acumulación de obras. La primera observación tiene **apoyo textual exacto**; la relación con debates posteriores sobre justificación es **canónica y pedagógica**, no una sustitución del argumento del salmo.
 
-## 143:3-6 — tierra, tinieblas y manos extendidas #salmos_143_3-6
+## 143:3-6 — tierra, tinieblas y manos extendidas #tehilim_143_3-6
 
 El enemigo persigue la vida de David: **כי רדף אויב נפשי דכא לארץ חיתי**, “porque el enemigo persigue mi vida; ha aplastado mi vida hasta la tierra”. **רדף** (_radaph_) significa perseguir; **נפש** (_nefesh_) puede ser vida, persona o alma; **דכא** (_daka_) es aplastar o quebrantar. Eric describe la presión no como una molestia menor, sino como un peso que lleva al siervo al suelo. Esa fuerza es **exacta en el contexto**; no exige decidir si “vida” significa una parte inmaterial separada del cuerpo.
 
@@ -64,7 +64,7 @@ David responde recordando: **זכרתי ימים מקדם הגיתי בכל פע
 
 El v. 6 muestra la respuesta corporal: **פרשתי ידי אליך נפשי כארץ עיפה לך סלה**, “extiendo mis manos hacia ti; mi vida es como tierra sedienta de ti, para siempre”. **פרש** (_paras_) es extender; **עיף** (_ayef_) expresa cansancio o sequedad. Eric une las manos extendidas con dependencia y compara la sed de la tierra con el deseo de la presencia de יהוה. La imagen es **exacta como metáfora poética**; no convierte el gesto en una fórmula ritual que obligue a una respuesta.
 
-## 143:7-10 — misericordia de mañana y camino llano #salmos_143_7-10
+## 143:7-10 — misericordia de mañana y camino llano #tehilim_143_7-10
 
 “Apresúrate, respóndeme, יהוה; se consume mi espíritu”: **מהר ענני יהוה כלתה רוחי**. **כלה** (_kalah_) significa acabarse o consumirse. Eric insiste en que la urgencia de David no niega la soberanía divina: pide pronto porque su fuerza interior se termina, pero no toma la justicia por su mano. La relación entre urgencia y espíritu consumido es **exacta**.
 
@@ -78,7 +78,7 @@ En el v. 9, **הצילני מאיבי יהוה אליך כסתי**, “líbrame 
 
 El v. 10 concentra la formación: **למדני לעשות רצונך כי אתה אלוהי רוחך טובה תנחני בארץ מישור**, “enséñame a hacer tu voluntad, porque tú eres mi Elohim; tu buen espíritu me guíe en tierra llana”. **למד** (_lamad_) es enseñar; **רצון** (_ratson_) es voluntad, favor o deseo; **נחה** (_nachah_) es guiar. Eric vuelve aquí al punto de que no se trata de hacer lo que parece humanamente mejor, sino lo que יהוה ha especificado. La petición de aprender y ser guiado es **exacta**; la identificación de toda decisión concreta con una orden recibida no se puede derivar solo del verso.
 
-## 143:11-12 — vivir por el nombre y permanecer como siervo #salmos_143_11-12
+## 143:11-12 — vivir por el nombre y permanecer como siervo #tehilim_143_11-12
 
 El cierre pide: **למען שמך יהוה תחיני**, “por causa de tu nombre, יהוה, vivifícame”, y **בצדקתך תוציא מצרה נפשי**, “por tu justicia saca mi vida de la angustia”. **שם** (_shem_) es nombre, reputación o identidad manifestada; Eric señala que David no pone su propia importancia como motivo último. La relación entre nombre, vida y carácter de יהוה es **apoyo textual**.
 

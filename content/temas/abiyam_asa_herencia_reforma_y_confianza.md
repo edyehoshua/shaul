@@ -11,20 +11,20 @@ tags:
   - idolatria
   - confianza
 references:
-  - "#1_reyes_15_1"
-  - "#1_reyes_15_3"
-  - "#1_reyes_15_4"
-  - "#1_reyes_15_5"
-  - "#1_reyes_15_11"
-  - "#1_reyes_15_13"
-  - "#1_reyes_15_14"
-  - "#1_reyes_15_18"
-  - "#2_cronicas_13_5"
-  - "#2_cronicas_13_9"
-  - "#2_cronicas_13_18"
-  - "#2_cronicas_16_7"
-  - "#2_cronicas_16_9"
-  - "#2_cronicas_16_12"
+  - "#melajim_alef_15_1"
+  - "#melajim_alef_15_3"
+  - "#melajim_alef_15_4"
+  - "#melajim_alef_15_5"
+  - "#melajim_alef_15_11"
+  - "#melajim_alef_15_13"
+  - "#melajim_alef_15_14"
+  - "#melajim_alef_15_18"
+  - "#divrei_hayamim_bet_13_5"
+  - "#divrei_hayamim_bet_13_9"
+  - "#divrei_hayamim_bet_13_18"
+  - "#divrei_hayamim_bet_16_7"
+  - "#divrei_hayamim_bet_16_9"
+  - "#divrei_hayamim_bet_16_12"
 sources:
   - "https://www.youtube.com/watch?v=1zt3UedZW6Y"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -45,10 +45,10 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local hebreo | Función en la enseñanza |
 | --- | --- | --- |
-| #1_reyes_15_1-5 | **וַיֵּ֕לֶךְ בְּכָל חַטֹּ֥אות אָבִ֖יו... וְלֹא הָיָ֨ה לְבָב֤וֹ שָׁלֵם֙ עִם יְהוָ֣ה... כִּי לְמַ֣עַן דָּוִ֔ד נָתַן֩ יְהוָ֨ה...** | Abiyam reproduce el camino de su padre, mientras la promesa a David sostiene la lámpara de Jerusalén. |
-| #2_cronicas_13_5,9-12 | **יְהוָ֣ה... נָתַ֨ן מַמְלָכָ֧ה לְדָוִ֛יד... בְּרִ֥ית מֶֽלַח... וְאַתֶּ֖ם עֲזַבְתֶּ֥ם אֹתֽוֹ** | Abiyam apela al pacto y denuncia los becerros y el sacerdocio rival; la clase observa la tensión entre confesión y conducta. |
-| #1_reyes_15_11-14 | **וַיַּ֧עַשׂ אָסָ֛א הַיָּשָׁ֖ר... וַיַּעֲבֵ֥ר הַקְּדֵשִׁ֖ים... וַיְסִרֶ֨הָ... וְהַבָּמ֖וֹת לֹא סָ֑רוּ** | La reforma de Asá es real, aunque el relato conserva un límite: no todos los lugares altos fueron quitados. |
-| #2_cronicas_16_7-12 | **בְּהִשָּׁ֨עֶנְךָ֜ עַל מֶ֤לֶךְ אֲרָם֙... וְלֹ֤א נִשְׁעַ֨נְתָּ֙ עַל יְהוָ֣ה... נִסְכַּלְתָּ... וְגַם בְּחָלְיוֹ֙ לֹא דָרַ֣שׁ אֶת יְהוָ֔ה** | El rey que antes confió en יהוה se apoya luego en Aram y en los médicos, y recibe reprensión. |
+| #melajim_alef_15_1-5 | **וַיֵּ֕לֶךְ בְּכָל חַטֹּ֥אות אָבִ֖יו... וְלֹא הָיָ֨ה לְבָב֤וֹ שָׁלֵם֙ עִם יְהוָ֣ה... כִּי לְמַ֣עַן דָּוִ֔ד נָתַן֩ יְהוָ֨ה...** | Abiyam reproduce el camino de su padre, mientras la promesa a David sostiene la lámpara de Jerusalén. |
+| #divrei_hayamim_bet_13_5,9-12 | **יְהוָ֣ה... נָתַ֨ן מַמְלָכָ֧ה לְדָוִ֛יד... בְּרִ֥ית מֶֽלַח... וְאַתֶּ֖ם עֲזַבְתֶּ֥ם אֹתֽוֹ** | Abiyam apela al pacto y denuncia los becerros y el sacerdocio rival; la clase observa la tensión entre confesión y conducta. |
+| #melajim_alef_15_11-14 | **וַיַּ֧עַשׂ אָסָ֛א הַיָּשָׁ֖ר... וַיַּעֲבֵ֥ר הַקְּדֵשִׁ֖ים... וַיְסִרֶ֨הָ... וְהַבָּמ֖וֹת לֹא סָ֑רוּ** | La reforma de Asá es real, aunque el relato conserva un límite: no todos los lugares altos fueron quitados. |
+| #divrei_hayamim_bet_16_7-12 | **בְּהִשָּׁ֨עֶנְךָ֜ עַל מֶ֤לֶךְ אֲרָם֙... וְלֹ֤א נִשְׁעַ֨נְתָּ֙ עַל יְהוָ֣ה... נִסְכַּלְתָּ... וְגַם בְּחָלְיוֹ֙ לֹא דָרַ֣שׁ אֶת יְהוָ֔ה** | El rey que antes confió en יהוה se apoya luego en Aram y en los médicos, y recibe reprensión. |
 
 ## Abiyam: hablar del pacto no es lo mismo que caminar en él
 

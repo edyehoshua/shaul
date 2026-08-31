@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 18:5-10 sobre justicia sin favoritismo, la boca
 date: 2026-08-05
 tags: [mishlei, mishlei_18, justicia, lengua, disciplina, refugio]
 references:
-  - "#proverbios_18_5"
-  - "#proverbios_18_6"
-  - "#proverbios_18_7"
-  - "#proverbios_18_8"
-  - "#proverbios_18_9"
-  - "#proverbios_18_10"
-  - "#deuteronomio_1_17"
-  - "#deuteronomio_16_19"
-  - "#salmos_61_3"
+  - "#mishlei_18_5"
+  - "#mishlei_18_6"
+  - "#mishlei_18_7"
+  - "#mishlei_18_8"
+  - "#mishlei_18_9"
+  - "#mishlei_18_10"
+  - "#devarim_1_17"
+  - "#devarim_16_19"
+  - "#tehilim_61_3"
   - "#mateo_15_11"
 sources:
   - "https://www.youtube.com/watch?v=jWqJMG2poZc"
@@ -35,12 +35,12 @@ Esta nota organiza la clase pública sobre Mishlei 18:5-10. Sigue las unidades e
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_18_5 | שאת פני רשע לא טוב להטות צדיק במשפט | Alzar el rostro del condenado no es bueno, inclinando al justo en el juicio. |
-| #proverbios_18_6 | שפתי כסיל יבאו בריב ופיו למהומות יקרא | Los labios del indisciplinado vienen con contienda, y su boca llama a los azotes. |
-| #proverbios_18_7 | פי כסיל מחתה לו ושפתיו מוקש נפשו | La boca del indisciplinado es destrucción para sí; y sus labios, una trampa para su vida. |
-| #proverbios_18_8 | דברי נרגן כמתלהמים והם ירדו חדרי בטן | Las palabras del murmurador son como heridas (O, un ávido comer; o, incitación), y ellas descienden a las cámaras del vientre. |
-| #proverbios_18_9 | גם מתרפה במלאכתו אח הוא לבעל משחית | También, el que es flojo en su trabajo, hermano es del señor de la destrucción. |
-| #proverbios_18_10 | מגדל עז שם יהוה בו ירוץ צדיק ונשגב | Torre fuerte es el Nombre de יהוה, adentro de ella correrá el justo y será elevado. |
+| #mishlei_18_5 | שאת פני רשע לא טוב להטות צדיק במשפט | Alzar el rostro del condenado no es bueno, inclinando al justo en el juicio. |
+| #mishlei_18_6 | שפתי כסיל יבאו בריב ופיו למהומות יקרא | Los labios del indisciplinado vienen con contienda, y su boca llama a los azotes. |
+| #mishlei_18_7 | פי כסיל מחתה לו ושפתיו מוקש נפשו | La boca del indisciplinado es destrucción para sí; y sus labios, una trampa para su vida. |
+| #mishlei_18_8 | דברי נרגן כמתלהמים והם ירדו חדרי בטן | Las palabras del murmurador son como heridas (O, un ávido comer; o, incitación), y ellas descienden a las cámaras del vientre. |
+| #mishlei_18_9 | גם מתרפה במלאכתו אח הוא לבעל משחית | También, el que es flojo en su trabajo, hermano es del señor de la destrucción. |
+| #mishlei_18_10 | מגדל עז שם יהוה בו ירוץ צדיק ונשגב | Torre fuerte es el Nombre de יהוה, adentro de ella correrá el justo y será elevado. |
 
 ## El juicio no puede inclinarse por el rostro
 
@@ -89,11 +89,11 @@ La clase interpreta al enemigo principalmente como la carne y el pecado interior
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_18_5 | Alzar el rostro del malvado es favoritismo; inclinar al justo es torcer el juicio. | Sentido jurídico y conexión con la Torah apoyados; aplicación comunitaria requiere proceso. |
-| #proverbios_18_6-7 | El _kesil_ acusa y contiende; su boca llama azotes y sus labios se vuelven trampa para su propia vida. | Consecuencia textual apoyada; lectura de boca/corazón y enemigo interior calificada. |
-| #proverbios_18_8 | La murmuración entra profundamente; el término difícil conserva varias traducciones posibles. | Advertencia sobre el habla apoyada; etimología y traducción preferida pendientes. |
-| #proverbios_18_9 | La negligencia en el trabajo hace al flojo hermano del señor de la destrucción; la clase lo aplica al trabajo de la emuná. | Sentido laboral directo apoyado; extensión espiritual atribuida. |
-| #proverbios_18_10 | El Nombre de יהוה es torre fuerte; el justo corre, es resguardado y elevado. | Imagen textual apoyada; identificación del enemigo con la carne, cualificada. |
+| #mishlei_18_5 | Alzar el rostro del malvado es favoritismo; inclinar al justo es torcer el juicio. | Sentido jurídico y conexión con la Torah apoyados; aplicación comunitaria requiere proceso. |
+| #mishlei_18_6-7 | El _kesil_ acusa y contiende; su boca llama azotes y sus labios se vuelven trampa para su propia vida. | Consecuencia textual apoyada; lectura de boca/corazón y enemigo interior calificada. |
+| #mishlei_18_8 | La murmuración entra profundamente; el término difícil conserva varias traducciones posibles. | Advertencia sobre el habla apoyada; etimología y traducción preferida pendientes. |
+| #mishlei_18_9 | La negligencia en el trabajo hace al flojo hermano del señor de la destrucción; la clase lo aplica al trabajo de la emuná. | Sentido laboral directo apoyado; extensión espiritual atribuida. |
+| #mishlei_18_10 | El Nombre de יהוה es torre fuerte; el justo corre, es resguardado y elevado. | Imagen textual apoyada; identificación del enemigo con la carne, cualificada. |
 
 ## Pendiente de verificar
 

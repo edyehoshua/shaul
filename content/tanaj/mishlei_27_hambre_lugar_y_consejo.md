@@ -4,15 +4,15 @@ description: "La garganta que no se sacia en sus deseos abandona su lugar, mient
 date: 2026-08-05
 tags: [mishlei, mishlei_27, nefesh, disciplina, torah, consejo]
 references:
-  - "#proverbios_27_5"
-  - "#proverbios_27_6"
-  - "#proverbios_27_7"
-  - "#proverbios_27_8"
-  - "#proverbios_27_9"
-  - "#proverbios_27_10"
-  - "#proverbios_27_17"
-  - "#proverbios_27_19"
-  - "#proverbios_27_22"
+  - "#mishlei_27_5"
+  - "#mishlei_27_6"
+  - "#mishlei_27_7"
+  - "#mishlei_27_8"
+  - "#mishlei_27_9"
+  - "#mishlei_27_10"
+  - "#mishlei_27_17"
+  - "#mishlei_27_19"
+  - "#mishlei_27_22"
   - "#santiago_1_14"
   - "#santiago_1_15"
   - "#mateo_6_5"
@@ -37,15 +37,15 @@ Esta nota organiza la clase pública sobre Mishlei 27:7-13, con el repaso de 27:
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_27_5 | טובה תוכחת מגלה מאהבה מסתרת | Más buena es la reprensión manifiesta que el amor escondido. |
-| #proverbios_27_6 | נאמנים פצעי אוהב ונעתרות נשיקות שונא | Fidedignas son las heridas del que ama, pero excesivos los besos del que odia. |
-| #proverbios_27_7 | נפש שבעה תבוס נפת ונפש רעבה כל מר מתוק | La garganta saciada pisotea el panal, pero para la garganta hambrienta, todo lo amargo es dulce. |
-| #proverbios_27_8 | כצפור נודדת מן קנה כן איש נודד ממקומו | Como el pájaro que vaga de su nido, así es el hombre que vaga de su lugar. |
-| #proverbios_27_9 | שמן וקטרת ישמח לב ומתק רעהו מעצת נפש | Aceite e incienso alegrarán el corazón, y la dulzura de su compañero más que el consejo del néfesh (ser). |
-| #proverbios_27_10 | רעך ורעה ורע אביך אל תעזב ובית אחיך לא תבוא ביום אידך טוב שכן קרוב מאח רחוק | Tu compañero y el compañero de tu padre no abandones, y a la casa de tu hermano no vayas en el día de tu aflicción, más bueno es el que mora cerca que el hermano lejano. |
-| #proverbios_27_17 | ברזל בברזל יחד ואיש יחד פני רעהו | Hierro con hierro afila, y el hombre afila el rostro de su compañero. |
-| #proverbios_27_19 | כמים הפנים לפנים כן לב האדם לאדם | Como las aguas, la cara a la cara, así el corazón del hombre al hombre. |
-| #proverbios_27_22 | אם תכתוש את האויל במכתש בתוך הריפות בעלי לא תסור מעליו אולתו | Si machacas al indisciplinado en el mortero en medio de los granos molidos con el majador, no se apartará de sobre él su tontería. |
+| #mishlei_27_5 | טובה תוכחת מגלה מאהבה מסתרת | Más buena es la reprensión manifiesta que el amor escondido. |
+| #mishlei_27_6 | נאמנים פצעי אוהב ונעתרות נשיקות שונא | Fidedignas son las heridas del que ama, pero excesivos los besos del que odia. |
+| #mishlei_27_7 | נפש שבעה תבוס נפת ונפש רעבה כל מר מתוק | La garganta saciada pisotea el panal, pero para la garganta hambrienta, todo lo amargo es dulce. |
+| #mishlei_27_8 | כצפור נודדת מן קנה כן איש נודד ממקומו | Como el pájaro que vaga de su nido, así es el hombre que vaga de su lugar. |
+| #mishlei_27_9 | שמן וקטרת ישמח לב ומתק רעהו מעצת נפש | Aceite e incienso alegrarán el corazón, y la dulzura de su compañero más que el consejo del néfesh (ser). |
+| #mishlei_27_10 | רעך ורעה ורע אביך אל תעזב ובית אחיך לא תבוא ביום אידך טוב שכן קרוב מאח רחוק | Tu compañero y el compañero de tu padre no abandones, y a la casa de tu hermano no vayas en el día de tu aflicción, más bueno es el que mora cerca que el hermano lejano. |
+| #mishlei_27_17 | ברזל בברזל יחד ואיש יחד פני רעהו | Hierro con hierro afila, y el hombre afila el rostro de su compañero. |
+| #mishlei_27_19 | כמים הפנים לפנים כן לב האדם לאדם | Como las aguas, la cara a la cara, así el corazón del hombre al hombre. |
+| #mishlei_27_22 | אם תכתוש את האויל במכתש בתוך הריפות בעלי לא תסור מעליו אולתו | Si machacas al indisciplinado en el mortero en medio de los granos molidos con el majador, no se apartará de sobre él su tontería. |
 
 ## La garganta saciada desprecia el panal
 
@@ -86,11 +86,11 @@ La continuidad con 27:17 ilumina el consejo: el hombre afila el rostro de su com
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_27_5-7 | La disciplina del que ama hiere fielmente; la garganta saciada desprecia la miel y la hambrienta recibe lo amargo como dulce. | Apoyo textual; conexión con Santiago 1 y la Torah cualificada. |
-| #proverbios_27_8 | El ave fuera del nido representa al hombre que se aparta de su lugar, entendido como יהוה. | Imagen textual directa; identificación espiritual atribuida. |
-| #proverbios_27_9 | Aceite e incienso alegran el corazón y apuntan, en la lectura de la clase, al tabernáculo y al corazón-templo. | Léxico apoyado; aplicación cultual y mesiánica pendiente. |
-| #proverbios_27_10 | El compañero cercano debe conservarse; el consejo y la dulzura del compañero superan el consejo del apetito humano. | Apoyo textual con distinción de referentes de _rea_ y _nefesh_. |
-| #proverbios_27_17, 22 | La comunidad puede afilar, pero la necedad no se quita simplemente por presión externa. | Conexión temática; límite pastoral explícito. |
+| #mishlei_27_5-7 | La disciplina del que ama hiere fielmente; la garganta saciada desprecia la miel y la hambrienta recibe lo amargo como dulce. | Apoyo textual; conexión con Santiago 1 y la Torah cualificada. |
+| #mishlei_27_8 | El ave fuera del nido representa al hombre que se aparta de su lugar, entendido como יהוה. | Imagen textual directa; identificación espiritual atribuida. |
+| #mishlei_27_9 | Aceite e incienso alegran el corazón y apuntan, en la lectura de la clase, al tabernáculo y al corazón-templo. | Léxico apoyado; aplicación cultual y mesiánica pendiente. |
+| #mishlei_27_10 | El compañero cercano debe conservarse; el consejo y la dulzura del compañero superan el consejo del apetito humano. | Apoyo textual con distinción de referentes de _rea_ y _nefesh_. |
+| #mishlei_27_17, 22 | La comunidad puede afilar, pero la necedad no se quita simplemente por presión externa. | Conexión temática; límite pastoral explícito. |
 
 ## Pendiente de verificar
 
@@ -102,9 +102,9 @@ La continuidad con 27:17 ilumina el consejo: el hombre afila el rostro de su com
 
 ## Conexiones principales
 
-- #proverbios_27_5-6: la reprensión fiel explica por qué el alimento amargo puede ser bueno.
+- #mishlei_27_5-6: la reprensión fiel explica por qué el alimento amargo puede ser bueno.
 - #santiago_1_14-15: el deseo concebido y su fruto ofrecen una comparación apostólica, no una sustitución del proverbio.
-- #proverbios_27_17: el consejo que endereza debe formar una comunidad capaz de afilarse mutuamente.
+- #mishlei_27_17: el consejo que endereza debe formar una comunidad capaz de afilarse mutuamente.
 - #mateo_6_5: la clase contrasta el alimento recibido en secreto con la ostentación religiosa tratada en la nota hermana.
 
 ## Conclusión

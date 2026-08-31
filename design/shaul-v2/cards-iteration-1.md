@@ -8,21 +8,21 @@ tags:
   - cards
 references:
   - "#daniel_7_13"
-  - "#markos_2_10"
-  - "#markos_8_31"
-  - "#iojanan_1_1"
-  - "#iojanan_1_14"
-  - "#iojanan_8_31"
-  - "#markos_1_11"
-  - "#iojanan_5_19"
-  - "#iojanan_10_36"
+  - "#marcos_2_10"
+  - "#marcos_8_31"
+  - "#juan_1_1"
+  - "#juan_1_14"
+  - "#juan_8_31"
+  - "#marcos_1_11"
+  - "#juan_5_19"
+  - "#juan_10_36"
   - "#romanos_8_14"
-  - "#markos_14_36"
-  - "#iojanan_14_16"
+  - "#marcos_14_36"
+  - "#juan_14_16"
   - "#romanos_8_15"
   - "#bereshit_2_7"
-  - "#iojanan_3_5"
-  - "#maasei_hashlijim_2_33"
+  - "#juan_3_5"
+  - "#hechos_2_33"
   - "#efesios_4_30"
 sources:
   - "content/besorah/"
@@ -52,16 +52,16 @@ Por eso el concepto reúne dos cosas que solemos separar: gloria y fragilidad, r
 **Versículos**
 
 - `#daniel_7_13` — una figura semejante a hijo de hombre recibe dominio.
-- `#markos_2_10` — el Hijo del Hombre tiene autoridad para perdonar pecados.
-- `#markos_8_31` — anuncia rechazo, muerte y resurrección.
-- `#markos_14_62` — aparece unido al poder y a las nubes.
-- `#iojanan_9_35` — Yehoshua se revela como el Hijo del Hombre al hombre sanado.
+- `#marcos_2_10` — el Hijo del Hombre tiene autoridad para perdonar pecados.
+- `#marcos_8_31` — anuncia rechazo, muerte y resurrección.
+- `#marcos_14_62` — aparece unido al poder y a las nubes.
+- `#juan_9_35` — Yehoshua se revela como el Hijo del Hombre al hombre sanado.
 
 **Notas**
 
-- `content/besorah/markos_ben_adam_metamorfosis_glosario.md`
-- `content/besorah/yojanan_9_ben_adam_y_el_ciego.md`
-- `content/besorah/markos_hijo_elohim_hijo_hombre_herencia.md`
+- `content/besorah/marcos_ben_adam_metamorfosis_glosario.md`
+- `content/besorah/juan_9_ben_adam_y_el_ciego.md`
+- `content/besorah/marcos_hijo_elohim_hijo_hombre_herencia.md`
 
 **Conceptos relacionados**
 
@@ -86,18 +86,18 @@ Por eso permanecer en la Palabra no significa repetir frases. Significa dejar qu
 **Versículos**
 
 - `#bereshit_1_3` — la palabra y el acto creador.
-- `#iojanan_1_1` — la Palabra en el principio.
-- `#iojanan_1_14` — la Palabra hecha carne.
-- `#markos_4_14` — la semilla es la palabra.
-- `#iojanan_8_31` — permanecer en la palabra y conocer la verdad.
-- `#iojanan_17_17` — la palabra como verdad.
+- `#juan_1_1` — la Palabra en el principio.
+- `#juan_1_14` — la Palabra hecha carne.
+- `#marcos_4_14` — la semilla es la palabra.
+- `#juan_8_31` — permanecer en la palabra y conocer la verdad.
+- `#juan_17_17` — la palabra como verdad.
 
 **Notas**
 
-- `content/besorah/markos_palabra_trono_semilla_identidad.md`
-- `content/besorah/yojanan_introduccion.md`
-- `content/besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres.md`
-- `content/besorah/markos_4_palabra_tormenta_fidelidad.md`
+- `content/besorah/marcos_palabra_trono_semilla_identidad.md`
+- `content/besorah/juan_introduccion.md`
+- `content/besorah/juan_8_permanecer_en_la_palabra_y_ser_libres.md`
+- `content/besorah/marcos_4_palabra_tormenta_fidelidad.md`
 
 **Conceptos relacionados**
 
@@ -121,19 +121,19 @@ La herencia también abre una puerta hacia la comunidad. Los discípulos pueden 
 
 **Versículos**
 
-- `#markos_1_11` — la voz declara la filiación.
-- `#markos_9_7` — la voz llama a escuchar al Hijo.
-- `#iojanan_5_19` — el Hijo obra en relación con el Padre.
-- `#iojanan_10_36` — el Hijo es santificado y enviado.
+- `#marcos_1_11` — la voz declara la filiación.
+- `#marcos_9_7` — la voz llama a escuchar al Hijo.
+- `#juan_5_19` — el Hijo obra en relación con el Padre.
+- `#juan_10_36` — el Hijo es santificado y enviado.
 - `#romanos_8_14` — los guiados por el Ruaj son hijos de Elohim.
-- `#galatim_4_6` — el Ruaj del Hijo permite clamar Abá.
+- `#galatas_4_6` — el Ruaj del Hijo permite clamar Abá.
 
 **Notas**
 
-- `content/besorah/markos_hijo_elohim_hijo_hombre_herencia.md`
+- `content/besorah/marcos_hijo_elohim_hijo_hombre_herencia.md`
 - `content/temas/ben_hijo_titulos_mesias.md`
 - `content/temas/elohim_aba.md`
-- `content/besorah/yojanan_17_gloria_autoridad_y_vida.md`
+- `content/besorah/juan_17_gloria_autoridad_y_vida.md`
 
 **Conceptos relacionados**
 
@@ -157,20 +157,20 @@ Para quienes lo siguen, Abá no es una contraseña espiritual. Es una relación 
 
 **Versículos**
 
-- `#markos_14_36` — Yehoshua ora al Padre en Getsemaní.
-- `#iojanan_5_19` — el Hijo obra mirando al Padre.
-- `#iojanan_14_6` — el camino hacia el Padre.
-- `#iojanan_14_16` — promesa del Consolador.
-- `#iojanan_17_1` — oración en la hora.
+- `#marcos_14_36` — Yehoshua ora al Padre en Getsemaní.
+- `#juan_5_19` — el Hijo obra mirando al Padre.
+- `#juan_14_6` — el camino hacia el Padre.
+- `#juan_14_16` — promesa del Consolador.
+- `#juan_17_1` — oración en la hora.
 - `#romanos_8_15` — el Ruaj permite clamar Abá.
 
 **Notas**
 
-- `content/besorah/markos_abba_ruaj_mente_mashiaj.md`
+- `content/besorah/marcos_abba_ruaj_mente_mashiaj.md`
 - `content/temas/elohim_aba.md`
-- `content/besorah/yojanan_13_salida_retorno_y_lenguaje_abba.md`
-- `content/besorah/yojanan_14_abba_menajem_nombre.md`
-- `content/besorah/yojanan_oracion_dos_tronos_emunah.md`
+- `content/besorah/juan_13_salida_retorno_y_lenguaje_abba.md`
+- `content/besorah/juan_14_abba_menajem_nombre.md`
+- `content/besorah/juan_oracion_dos_tronos_emunah.md`
 
 **Conceptos relacionados**
 
@@ -195,9 +195,9 @@ Por eso Ruaj se conecta con Abá, con la santidad y con la vida. No para poner u
 **Versículos**
 
 - `#bereshit_2_7` — aliento de vida.
-- `#iojanan_3_5` — nacer del agua y del Ruaj.
-- `#iojanan_14_16` — promesa del Consolador.
-- `#maasei_hashlijim_2_33` — promesa del Ruaj derramada.
+- `#juan_3_5` — nacer del agua y del Ruaj.
+- `#juan_14_16` — promesa del Consolador.
+- `#hechos_2_33` — promesa del Ruaj derramada.
 - `#romanos_8_14` — guía del Ruaj e identidad filial.
 - `#efesios_4_30` — no entristecer al Ruaj de santidad.
 
@@ -205,7 +205,7 @@ Por eso Ruaj se conecta con Abá, con la santidad y con la vida. No para poner u
 
 - `content/temas/elohim_presencia_ruaj_neshamah.md`
 - `content/temas/ruaj_haqodesh_santidad_presencia_y_evangelio.md`
-- `content/besorah/markos_abba_ruaj_mente_mashiaj.md`
+- `content/besorah/marcos_abba_ruaj_mente_mashiaj.md`
 - `content/besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza.md`
 - `content/besorah/efesios_6_firmeza_oracion_y_servicio.md`
 

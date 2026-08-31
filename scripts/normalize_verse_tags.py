@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Migrate verse tags to Spanish book slugs and normalize Yod transliteration."""
+"""Migrate verse tags to corpus-specific book slugs and normalize Yod transliteration."""
 from __future__ import annotations
 
 import argparse
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 from typing import Iterable
 
-from verse_tag_conventions import TAG_TOKEN_RE, canonicalize_tag
+from verse_tag_conventions import MIXED, TAG_TOKEN_RE, canonicalize_tag, corpus_for_path
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT = ROOT / "content"
@@ -125,14 +125,14 @@ def paths_from_args(values: Iterable[str]) -> list[Path]:
     return [ROOT / value if not Path(value).is_absolute() else Path(value) for value in values]
 
 
-def normalize_tags(text: str) -> tuple[str, int, list[str]]:
+def normalize_tags(text: str, corpus: str | None = None) -> tuple[str, int, list[str]]:
     changed = 0
     unknown: list[str] = []
 
     def replace(match: re.Match[str]) -> str:
         nonlocal changed
         token = match.group(0)
-        canonical = canonicalize_tag(token)
+        canonical = canonicalize_tag(token, corpus)
         if canonical is None:
             return token
         if canonical != token:
@@ -167,7 +167,8 @@ def normalize_names(text: str) -> tuple[str, int]:
 
 def normalize_text(path: Path) -> tuple[str, dict[str, int]]:
     original = path.read_text(encoding="utf-8", errors="replace")
-    normalized, tag_count, _ = normalize_tags(original)
+    corpus = corpus_for_path(path.as_posix()) or MIXED
+    normalized, tag_count, _ = normalize_tags(original, corpus)
     normalized, name_count = normalize_names(normalized)
     return normalized, {"tags": tag_count, "names": name_count, "changed": int(normalized != original)}
 

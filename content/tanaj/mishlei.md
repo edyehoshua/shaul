@@ -5,10 +5,10 @@ date: 2025-10-28
 tags:
   - mishlei
 references:
-  - "#proverbios_1"
-  - "#proverbios_8_5"
-  - "#proverbios_15_14"
-  - "#proverbios_18_15"
+  - "#mishlei_1"
+  - "#mishlei_8_5"
+  - "#mishlei_15_14"
+  - "#mishlei_18_15"
 sources: []
 translation: []
 ---
@@ -27,7 +27,7 @@ Este glosario reúne términos base de Mishlei para discernimiento espiritual y 
 - #tevuná : inteligencia, entendimiento profundo, la capacidad de conectar, ensamblar y aplicar la materia prima → תבונה
 - #daat : conocimiento íntimo, vivencial al poner por obra la torá de Elohim → דעת
 - #jajam : quien hace conforme a la sabiduría de Elohim, recibe la jojma, adquirió biná y desarrolló tevuná → חכם
-- #navon : el que entiende con el corazón; al navon no se le necesita explicar el mashal, es el amigo del novio (lev navon, #proverbios_8_5, #proverbios_15_14, #proverbios_18_15) → נבון
+- #navon : el que entiende con el corazón; al navon no se le necesita explicar el mashal, es el amigo del novio (lev navon, #mishlei_8_5, #mishlei_15_14, #mishlei_18_15) → נבון
 - #evil : sabe muy bien lo que dice la torá, se burla de ella y aun así escoge el mal → אויל
 - #peti : es ingenuo, no con malicia ni rebeldía, pero es puerta abierta → פתי
 - #ksil : decidió no decidir, es perezoso, sabe lo que tiene que hacer pero por flojera, cobardía escoge no hacerlo, odia humillarse → כסיל

@@ -10,14 +10,14 @@ tags:
   - camino
   - restauracion
 references:
-  - "#proverbios_14_9"
-  - "#proverbios_14_10"
-  - "#proverbios_14_11"
-  - "#proverbios_14_12"
-  - "#levitico_5_1"
-  - "#levitico_5_15"
-  - "#levitico_6_1"
-  - "#isaias_62_5"
+  - "#mishlei_14_9"
+  - "#mishlei_14_10"
+  - "#mishlei_14_11"
+  - "#mishlei_14_12"
+  - "#vayikra_5_1"
+  - "#vayikra_5_15"
+  - "#vayikra_6_1"
+  - "#yeshayahu_62_5"
 sources:
   - "https://www.youtube.com/@SomosElCuerpodelMesias"
   - "https://www.youtube.com/watch?v=CT7sLcP2_P8"
@@ -40,10 +40,10 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre Mish
 
 | Referencia | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_14_9 | אולים יליץ אשם ובין ישרים רצון | Los tontos se burlan de la culpa, pero entre los rectos está el favor. |
-| #proverbios_14_10 | לב יודע מרת נפשו ובשמחתו לא יתערב זר | El corazón conoce la amargura de su ser, y en su alegría no comparte el extraño. |
-| #proverbios_14_11 | בית רשעים ישמד ואהל ישרים יפריח | La casa de los condenados será desolada, pero la tienda de los rectos florecerá. |
-| #proverbios_14_12 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
+| #mishlei_14_9 | אולים יליץ אשם ובין ישרים רצון | Los tontos se burlan de la culpa, pero entre los rectos está el favor. |
+| #mishlei_14_10 | לב יודע מרת נפשו ובשמחתו לא יתערב זר | El corazón conoce la amargura de su ser, y en su alegría no comparte el extraño. |
+| #mishlei_14_11 | בית רשעים ישמד ואהל ישרים יפריח | La casa de los condenados será desolada, pero la tienda de los rectos florecerá. |
+| #mishlei_14_12 | יש דרך ישר לפני איש ואחריתה דרכי מות | Hay camino recto delante de un hombre, pero después de él están los caminos de la muerte. |
 
 ## Burlarse de la culpa o buscar el favor
 
@@ -76,10 +76,10 @@ El verso 12 cierra con una advertencia: un camino puede parecer recto delante de
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_14_9 | Los necios evaden la culpa; los rectos reconocen la responsabilidad y hallan favor. | Conexión con Vayikra 5–6 y aplicación calificada. |
-| #proverbios_14_10 | Cada corazón conoce su amargura; la alegría se comparte con los íntimos, no con el extraño. | Apoyo textual, con conexión mesiánica atribuida. |
-| #proverbios_14_11 | La casa desolada se contrasta con la tienda que florece. | Observación textual y alegoría del tabernáculo; pendiente de ampliar. |
-| #proverbios_14_12 | Un camino aparentemente recto puede producir muchos caminos de muerte. | Apoyo textual y aplicación a la cadena de decisiones pecaminosas. |
+| #mishlei_14_9 | Los necios evaden la culpa; los rectos reconocen la responsabilidad y hallan favor. | Conexión con Vayikra 5–6 y aplicación calificada. |
+| #mishlei_14_10 | Cada corazón conoce su amargura; la alegría se comparte con los íntimos, no con el extraño. | Apoyo textual, con conexión mesiánica atribuida. |
+| #mishlei_14_11 | La casa desolada se contrasta con la tienda que florece. | Observación textual y alegoría del tabernáculo; pendiente de ampliar. |
+| #mishlei_14_12 | Un camino aparentemente recto puede producir muchos caminos de muerte. | Apoyo textual y aplicación a la cadena de decisiones pecaminosas. |
 
 ## Conexiones principales
 

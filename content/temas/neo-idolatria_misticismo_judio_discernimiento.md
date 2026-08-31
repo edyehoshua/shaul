@@ -9,10 +9,10 @@ tags:
   - torah
   - obediencia
 references:
-  - "#genesis_1_14"
-  - "#deuteronomio_18_10"
-  - "#levitico_19_31"
-  - "#hageo_1_5"
+  - "#bereshit_1_14"
+  - "#devarim_18_10"
+  - "#vayikra_19_31"
+  - "#jaggai_1_5"
   - "#mateo_7_15"
   - "#mateo_23_8"
   - "#mateo_24_24"
@@ -42,7 +42,7 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre el 
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #hageo_1_5 | «Y ahora, así ha dicho יהוה Tzebaot: Pongan su corazón sobre sus caminos». | La vida espiritual se prueba observando el camino, no solo una experiencia. |
+| #jaggai_1_5 | «Y ahora, así ha dicho יהוה Tzebaot: Pongan su corazón sobre sus caminos». | La vida espiritual se prueba observando el camino, no solo una experiencia. |
 | #mateo_7_15 | Advertencia de Yehoshua sobre falsos profetas que vienen con apariencia de ovejas. | La apariencia espiritual no basta; hay que discernir fruto y enseñanza. |
 | #mateo_23_8 | «No se hagan llamar rabí... uno es su Maestro, el Mesías, y todos ustedes son hermanos». | Rechaza la dependencia de una élite como única puerta hacia Elohim. |
 | #mateo_24_24 | La advertencia sobre falsos mesías y falsos profetas que mostrarán señales para engañar. | Una señal o experiencia no certifica por sí sola el origen de un mensaje. |

@@ -4,12 +4,12 @@ description: "Estudio de Mishlei 23:26-28 sobre entregar el corazón a יהוה,
 date: 2026-08-05
 tags: [mishlei, mishlei_23, corazon, caminos, idolatria, discernimiento]
 references:
-  - "#proverbios_23_26"
-  - "#proverbios_23_27"
-  - "#proverbios_23_28"
-  - "#genesis_3_6"
-  - "#exodo_20_3"
-  - "#proverbios_23_29"
+  - "#mishlei_23_26"
+  - "#mishlei_23_27"
+  - "#mishlei_23_28"
+  - "#bereshit_3_6"
+  - "#shemot_20_3"
+  - "#mishlei_23_29"
 sources:
   - "https://www.youtube.com/watch?v=EpwW3e_v4ss"
   - "docs/scriptures/oe/json/proverbs/23.json"
@@ -31,10 +31,10 @@ Esta nota organiza la enseñanza de Eric de Jesús Rodríguez Mendoza sobre Mish
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_23_26 | תנה בני לבך לי ועיניך דרכי תרצנה תצרנה | Dame, hijo mío, tu corazón, y tus ojos observen (O, acepten) mis caminos; |
-| #proverbios_23_27 | כי שוחה עמקה זונה ובאר צרה נכריה | porque fosa profunda es la prostituta, y pozo estrecho la extraña. |
-| #proverbios_23_28 | אף היא כחתף תארב ובוגדים באדם תוסף | Ella ciertamente como cazador acecha, y añade traidores entre los hombres. |
-| #proverbios_23_29-30 | למי אוי למי אבוי למי מדונים מדינים למי שיח למי פצעים חנם למי חכללות עינים / למאחרים על היין לבאים לחקר ממסך | ¿De quién es el “¡Oy!”? ¿De quién el “¡Avoy!”? ¿De quién las contiendas, el parloteo, las heridas en vano y los ojos enrojecidos? De los que se demoran en el vino, de los que van a buscar vino mezclado. |
+| #mishlei_23_26 | תנה בני לבך לי ועיניך דרכי תרצנה תצרנה | Dame, hijo mío, tu corazón, y tus ojos observen (O, acepten) mis caminos; |
+| #mishlei_23_27 | כי שוחה עמקה זונה ובאר צרה נכריה | porque fosa profunda es la prostituta, y pozo estrecho la extraña. |
+| #mishlei_23_28 | אף היא כחתף תארב ובוגדים באדם תוסף | Ella ciertamente como cazador acecha, y añade traidores entre los hombres. |
+| #mishlei_23_29-30 | למי אוי למי אבוי למי מדונים מדינים למי שיח למי פצעים חנם למי חכללות עינים / למאחרים על היין לבאים לחקר ממסך | ¿De quién es el “¡Oy!”? ¿De quién el “¡Avoy!”? ¿De quién las contiendas, el parloteo, las heridas en vano y los ojos enrojecidos? De los que se demoran en el vino, de los que van a buscar vino mezclado. |
 
 ## Dar el corazón y poner los ojos en el camino
 
@@ -69,16 +69,16 @@ La conexión entre “vestidura” y “traición” debe manejarse con precisi�
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_23_26 | “Dame tu corazón” significa entregar el corazón para que יהוה lo transforme y ponga su mente en el discípulo. | El llamado a entregar el corazón tiene apoyo textual; la transformación mesiánica se presenta como aplicación atribuida. |
-| #proverbios_23_26 | Los ojos pueden leerse como observar/guardar o como aceptar los caminos; la variante no cambia el llamado a obedecer. | Distinción textual y lexical conservada; ambas lecturas se comparan sin declarar identidad perfecta. |
-| #proverbios_23_27 | La prostituta y la extraña son dos imágenes paralelas de idolatría y deseo carnal ajeno a יהוה. | Paralelismo y peligro apoyados; la identificación total con idolatría queda calificada como lectura espiritual. |
-| #proverbios_23_28 | El acechador espera para devorar y produce traidores entre los hombres, no solo infidelidad conyugal. | El acecho y la traición se apoyan; la extensión a infidelidad espiritual se trata como aplicación. |
-| #proverbios_23_29-35 | La transición al vino muestra el resultado de permanecer en el deseo: lamento, confusión y ojos enrojecidos. | Conexión temática con el dicho siguiente, sin atribuir 23:29-35 al mismo núcleo verbal. |
+| #mishlei_23_26 | “Dame tu corazón” significa entregar el corazón para que יהוה lo transforme y ponga su mente en el discípulo. | El llamado a entregar el corazón tiene apoyo textual; la transformación mesiánica se presenta como aplicación atribuida. |
+| #mishlei_23_26 | Los ojos pueden leerse como observar/guardar o como aceptar los caminos; la variante no cambia el llamado a obedecer. | Distinción textual y lexical conservada; ambas lecturas se comparan sin declarar identidad perfecta. |
+| #mishlei_23_27 | La prostituta y la extraña son dos imágenes paralelas de idolatría y deseo carnal ajeno a יהוה. | Paralelismo y peligro apoyados; la identificación total con idolatría queda calificada como lectura espiritual. |
+| #mishlei_23_28 | El acechador espera para devorar y produce traidores entre los hombres, no solo infidelidad conyugal. | El acecho y la traición se apoyan; la extensión a infidelidad espiritual se trata como aplicación. |
+| #mishlei_23_29-35 | La transición al vino muestra el resultado de permanecer en el deseo: lamento, confusión y ojos enrojecidos. | Conexión temática con el dicho siguiente, sin atribuir 23:29-35 al mismo núcleo verbal. |
 
 ## Conexiones principales
 
-- #genesis_3_6 muestra cómo un deseo presentado como atractivo puede llevar a cruzar el límite recibido; la conexión es temática, no una cita de Mishlei.
-- #exodo_20_3 ayuda a probar la aplicación de “lo extraño” a la idolatría, pero no elimina el sentido inmediato de la advertencia contra la seducción.
+- #bereshit_3_6 muestra cómo un deseo presentado como atractivo puede llevar a cruzar el límite recibido; la conexión es temática, no una cita de Mishlei.
+- #shemot_20_3 ayuda a probar la aplicación de “lo extraño” a la idolatría, pero no elimina el sentido inmediato de la advertencia contra la seducción.
 - [Mishlei 23: vino mezclado y el ciclo del deseo](./mishlei_23_vino_mezclado_y_ciclo_del_deseo.md) desarrolla la unidad siguiente.
 - [Mishlei 25: la miel con medida y el corazón disciplinado](./mishlei_25_miel_con_medida_y_corazon.md) retoma la necesidad de recibir lo bueno con discernimiento.
 

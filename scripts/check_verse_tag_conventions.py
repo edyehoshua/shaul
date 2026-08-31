@@ -1,13 +1,48 @@
 #!/usr/bin/env python3
-"""Check canonical Spanish verse tags and Yod transliteration in authored text."""
+"""Check corpus-specific verse tags and Yod transliteration in authored text."""
 from __future__ import annotations
 
 from pathlib import Path
 
 from normalize_verse_tags import CONTENT, DOCS, normalize_names
-from verse_tag_conventions import TAG_TOKEN_RE, canonicalize_tag
+from verse_tag_conventions import (
+    MIXED,
+    TAG_TOKEN_RE,
+    canonical_book_slug_for_corpus_or_citation,
+    canonicalize_tag,
+    corpus_for_path,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def frontmatter_tag_failures(text: str, corpus: str, path: Path) -> list[str]:
+    """Check plain book/chapter tags in YAML, which are not hashtag tokens."""
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return []
+    failures: list[str] = []
+    in_frontmatter = True
+    in_tags = False
+    for line in lines[1:]:
+        if line.strip() == "---":
+            break
+        stripped = line.lstrip()
+        if stripped.startswith("tags:"):
+            in_tags = True
+            continue
+        if stripped and not stripped.startswith("-"):
+            in_tags = False
+        if not in_tags or not line.startswith(("  -", "\t-")):
+            continue
+        raw = stripped[1:].strip().strip("\"'")
+        canonical = canonical_book_slug_for_corpus_or_citation(raw, corpus)
+        if canonical is None:
+            resolved = canonicalize_tag(f"#{raw}", corpus)
+            canonical = resolved.removeprefix("#") if resolved else None
+        if canonical is not None and canonical != raw:
+            failures.append(f"{path.relative_to(ROOT)}: non-canonical frontmatter book tag {raw} (use {canonical})")
+    return failures
 
 
 def main() -> int:
@@ -21,8 +56,10 @@ def main() -> int:
             continue
         checked_files += 1
         text = path.read_text(encoding="utf-8", errors="replace")
+        corpus = corpus_for_path(path.as_posix()) or MIXED
+        failures.extend(frontmatter_tag_failures(text, corpus, path))
         for token in TAG_TOKEN_RE.findall(text):
-            canonical = canonicalize_tag(token)
+            canonical = canonicalize_tag(token, corpus)
             if canonical is None:
                 continue
             canonical_tags += 1

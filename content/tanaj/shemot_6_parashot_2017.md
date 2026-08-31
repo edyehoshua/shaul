@@ -6,12 +6,12 @@ tags:
   - parashot
   - shemot
 references:
-  - "#exodo_6_1"
-  - "#exodo_6_2-5"
-  - "#exodo_6_6-9"
-  - "#exodo_6_10-13"
-  - "#exodo_6_14-27"
-  - "#exodo_6_28-30"
+  - "#shemot_6_1"
+  - "#shemot_6_2-5"
+  - "#shemot_6_6-9"
+  - "#shemot_6_10-13"
+  - "#shemot_6_14-27"
+  - "#shemot_6_28-30"
 sources:
   - "https://www.youtube.com/watch?v=jmaOISSHuOs"
   - "https://www.youtube.com/watch?v=YFejem1jPTk"
@@ -36,7 +36,7 @@ Esta es la nota canónica para Shemot 6 dentro de esta incorporación. La transc
 
 | Referencia  | Hebreo local (OE, sin nikud)                                                          | Observación                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #exodo_6_1 | **ויאמר יהוה אל משה עתה תראה אשר אעשה לפרעה כי ביד חזקה ישלחם וביד חזקה יגרשם מארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_6_1 | **ויאמר יהוה אל משה עתה תראה אשר אעשה לפרעה כי ביד חזקה ישלחם וביד חזקה יגרשם מארצו** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 
@@ -48,13 +48,13 @@ La respuesta responsable al pasaje parte de escuchar su lenguaje, sus destinatar
 
 La fuente pública `youtube:YFejem1jPTk` lleva el título «Parashat Va'era' Éxodo 6:2 - 9:35 - Qasheh, Jazaq y Kaved». El título identifica una observación léxica de la exposición, pero no se trata aquí como una cita literal del audio. El propio capítulo ofrece el orden para evaluarla: יהוה responde a la queja de Moshéh, declara su nombre, promete sacar al pueblo y termina mostrando por qué la promesa no depende de una recepción humana inmediata.
 
-En #exodo_6_1, el OE dice: «Ahora verás lo que haré a Faraón; porque por mano fuerte los enviará, y por mano fuerte los expulsará de su tierra», y el TTH conserva «mano fuerte». **(חזק)**, _jazaq_, es una forma adjetival que significa fuerte, firme o vigoroso; en esta frase califica la mano y señala la fuerza eficaz de la acción de יהוה, no una licencia para que Moshéh use violencia por cuenta propia. **(שלח)**, _shaleaj_, es la forma verbal que significa enviar o dejar ir; aquí expresa la liberación ordenada del pueblo. **(גרש)**, _garesh_, significa expulsar o hacer salir; su fuerza contextual muestra que Faraón no concederá una salida meramente simbólica.
+En #shemot_6_1, el OE dice: «Ahora verás lo que haré a Faraón; porque por mano fuerte los enviará, y por mano fuerte los expulsará de su tierra», y el TTH conserva «mano fuerte». **(חזק)**, _jazaq_, es una forma adjetival que significa fuerte, firme o vigoroso; en esta frase califica la mano y señala la fuerza eficaz de la acción de יהוה, no una licencia para que Moshéh use violencia por cuenta propia. **(שלח)**, _shaleaj_, es la forma verbal que significa enviar o dejar ir; aquí expresa la liberación ordenada del pueblo. **(גרש)**, _garesh_, significa expulsar o hacer salir; su fuerza contextual muestra que Faraón no concederá una salida meramente simbólica.
 
 Los versículos 2–3 colocan la promesa en continuidad con los patriarcas: «Yo soy יהוה» y «por mi Nombre, יהוה, no me di a conocer a ellos». **(ידע)**, _yada_, significa conocer, reconocer o experimentar; aquí no afirma que los patriarcas no hubieran oído el nombre, sino que el capítulo enfatiza una manifestación histórica nueva de su identidad y fidelidad. «Nombre» es una equivalencia exacta en el plano léxico, pero «reputación» solo sería pedagógica: el contexto trata de quién es יהוה y de cómo actuará en la historia.
 
-En #exodo_6_6-8 la promesa avanza con una cadena de verbos: sacar, rescatar, redimir, tomar y traer. **(יצא)**, _yatsa_, significa salir o sacar; **(נצל)**, _natsal_, rescatar o librar; **(גאל)**, _gaal_, redimir o recuperar como pariente; y **(לקח)**, _laqaj_, tomar o recibir. Cada forma tiene una fuerza contextual distinta: no son cuatro sinónimos decorativos, sino movimientos desde la opresión hasta pertenecer a יהוה y recibir la tierra como herencia. El TTH dice «los redimiré con brazo extendido, y con juicios grandes»; «brazo» traduce la imagen corporal, mientras «poder irresistible» sería una equivalencia interpretativa.
+En #shemot_6_6-8 la promesa avanza con una cadena de verbos: sacar, rescatar, redimir, tomar y traer. **(יצא)**, _yatsa_, significa salir o sacar; **(נצל)**, _natsal_, rescatar o librar; **(גאל)**, _gaal_, redimir o recuperar como pariente; y **(לקח)**, _laqaj_, tomar o recibir. Cada forma tiene una fuerza contextual distinta: no son cuatro sinónimos decorativos, sino movimientos desde la opresión hasta pertenecer a יהוה y recibir la tierra como herencia. El TTH dice «los redimiré con brazo extendido, y con juicios grandes»; «brazo» traduce la imagen corporal, mientras «poder irresistible» sería una equivalencia interpretativa.
 
-La culminación es relacional: «los tomaré para Mí por pueblo, y seré para ustedes por Elohim» (#exodo_6_7). El propósito de la liberación no queda reducido a salir de un lugar; incluye conocer quién los saca «de debajo de las cargas de Mitzráim». La observación de Eric sobre un plan de redención queda respaldada por la secuencia textual, aunque no debe convertirse en una tabla rígida que borre la forma narrativa de la promesa.
+La culminación es relacional: «los tomaré para Mí por pueblo, y seré para ustedes por Elohim» (#shemot_6_7). El propósito de la liberación no queda reducido a salir de un lugar; incluye conocer quién los saca «de debajo de las cargas de Mitzráim». La observación de Eric sobre un plan de redención queda respaldada por la secuencia textual, aunque no debe convertirse en una tabla rígida que borre la forma narrativa de la promesa.
 
 La cadena puede escucharse también en el texto hebreo sin nikud: **והוצאתי אתכם מתחת סבלת מצרים והצלתי אתכם מעבדתם וגאלתי אתכם בזרוע נטויה ובשפטים גדלים ולקחתי אתכם לי לעם והייתי לכם לאלהים** (6:6-7). El OE y el TTH convergen en el movimiento «sacar–rescatar–redimir–tomar», pero el paralelismo no autoriza a hacer de cada verbo una etapa cronológica independiente. Eric observa una obra completa de יהוה; esa lectura está apoyada por la acumulación verbal y por el cierre «seré para ustedes por Elohim». La equivalencia de «plan» es pedagógica: el pasaje presenta promesa y acto divinos, no emplea el sustantivo moderno «plan».
 
@@ -74,9 +74,9 @@ El capítulo retoma en 6:28-30 la orden de hablar y la objeción de Moshéh: **�
 
 | Unidad textual | Observación visible de la fuente pública                                    | Evaluación desde el capítulo                                                   |
 | -------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| #exodo_6_1-3  | «Qasheh, Jazaq y Kaved» orienta hacia la tensión de la palabra y la fuerza. | Se comprueba en la respuesta a Faraón y en la declaración del Nombre.          |
-| #exodo_6_6-8  | La redención tiene promesa, poder y destino.                                | El orden de los verbos sostiene la observación, sin convertirlos en sinónimos. |
-| #exodo_6_9    | La esclavitud hace difícil escuchar.                                        | El texto atribuye la dificultad al espíritu abatido y al trabajo duro.         |
+| #shemot_6_1-3  | «Qasheh, Jazaq y Kaved» orienta hacia la tensión de la palabra y la fuerza. | Se comprueba en la respuesta a Faraón y en la declaración del Nombre.          |
+| #shemot_6_6-8  | La redención tiene promesa, poder y destino.                                | El orden de los verbos sostiene la observación, sin convertirlos en sinónimos. |
+| #shemot_6_9    | La esclavitud hace difícil escuchar.                                        | El texto atribuye la dificultad al espíritu abatido y al trabajo duro.         |
 
 ## Léxico ampliado
 

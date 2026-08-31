@@ -18,11 +18,11 @@ references:
   - "#romanos_15_20"
   - "#romanos_15_25"
   - "#romanos_15_30"
-  - "#salmos_18_49"
-  - "#deuteronomio_32_43"
-  - "#salmos_117_1"
-  - "#isaias_11_10"
-  - "#isaias_52_15"
+  - "#tehilim_18_49"
+  - "#devarim_32_43"
+  - "#tehilim_117_1"
+  - "#yeshayahu_11_10"
+  - "#yeshayahu_52_15"
 sources:
   - "https://www.youtube.com/watch?v=cnpWPNR8xyg"
   - "docs/scriptures/tth/json/romanos.json"
@@ -58,10 +58,10 @@ Esta nota organiza la clase 28 de la serie del hermano Eric de Jesús Rodríguez
 
 | Referencia | Hebreo local OE (sin nikud y sin segmentación) | Observación |
 | --- | --- | --- |
-| #deuteronomio_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו** | El texto local conservado lee «naciones, su pueblo»; la forma «con su pueblo» usada en Romanos y defendida en la clase requiere cotejo textual. |
-| #salmos_117_1 | **הללו את יהוה כל גוים שבחוהו כל האמים** | La alabanza de todas las naciones y pueblos sostiene directamente Romanos 15:11. |
-| #isaias_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Yishai funciona como señal y objeto de búsqueda de las naciones. |
-| #isaias_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
+| #devarim_32_43 | **הרנינו גוים עמו כי דם עבדיו יקום ונקם ישיב לצריו וכפר אדמתו עמו** | El texto local conservado lee «naciones, su pueblo»; la forma «con su pueblo» usada en Romanos y defendida en la clase requiere cotejo textual. |
+| #tehilim_117_1 | **הללו את יהוה כל גוים שבחוהו כל האמים** | La alabanza de todas las naciones y pueblos sostiene directamente Romanos 15:11. |
+| #yeshayahu_11_10 | **והיה ביום ההוא שרש ישי אשר עמד לנס עמים אליו גוים ידרשו והיתה מנחתו כבוד** | La raíz de Yishai funciona como señal y objeto de búsqueda de las naciones. |
+| #yeshayahu_52_15 | **כן יזה גוים רבים עליו יקפצו מלכים פיהם כי אשר לא ספר להם ראו ואשר לא שמעו התבוננו** | La clase conecta el programa de Pablo con quienes ven y entienden lo que no les había sido anunciado. |
 
 ## 15:7-13: tomar al compañero y leer juntos los testigos #romanos_15_7-13
 
@@ -75,7 +75,7 @@ La explicación de Devarim 32:43 requiere cautela. La clase propone que debe lee
 
 En #romanos_15_13 la clase explica _shalom_ como plenitud o integridad, no solo tranquilidad. La esperanza que llena de alegría y shalom es, en su exposición, la esperanza de la resurrección y actúa por el Rúaj. El verso sostiene directamente la abundancia de esperanza y la acción del Rúaj; precisar todo el contenido escatológico exige leerlo en el conjunto de la carta.
 
-Pablo describe su tarea con lenguaje de servicio y ofrenda (#romanos_15_16). Eric enfatiza que la «ofrenda de los gentiles» son las personas de las naciones presentadas a Elohim, santificadas por el Rúaj; no se trata aquí de dinero. La clase conecta esa obra con la obediencia «en palabra y obra» y con la decisión de anunciar donde el nombre del Mesías todavía no había sido oído. #isaias_52_15 ofrece el testigo local que la sesión cita: quienes no habían recibido anuncio ven, y quienes no habían oído entienden.
+Pablo describe su tarea con lenguaje de servicio y ofrenda (#romanos_15_16). Eric enfatiza que la «ofrenda de los gentiles» son las personas de las naciones presentadas a Elohim, santificadas por el Rúaj; no se trata aquí de dinero. La clase conecta esa obra con la obediencia «en palabra y obra» y con la decisión de anunciar donde el nombre del Mesías todavía no había sido oído. #yeshayahu_52_15 ofrece el testigo local que la sesión cita: quienes no habían recibido anuncio ven, y quienes no habían oído entienden.
 
 ## 15:22-33: viaje, colecta y oración sin triunfalismo #romanos_15_22-33
 

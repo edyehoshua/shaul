@@ -10,14 +10,14 @@ tags:
   - jerusalen
   - reconciliacion
 references:
-  - "#salmos_79_1-4"
-  - "#salmos_79_5-9"
-  - "#salmos_79_10-12"
-  - "#salmos_79_13"
-  - "#2_reyes_25_8-10"
-  - "#jeremias_52_12-14"
-  - "#isaias_1_18"
-  - "#eclesiastes_3_7"
+  - "#tehilim_79_1-4"
+  - "#tehilim_79_5-9"
+  - "#tehilim_79_10-12"
+  - "#tehilim_79_13"
+  - "#melajim_bet_25_8-10"
+  - "#yirmeyahu_52_12-14"
+  - "#yeshayahu_1_18"
+  - "#qohelet_3_7"
   - "#hechos_16_25"
 sources:
   - "https://www.youtube.com/watch?v=IdyilEbAq74"
@@ -40,17 +40,17 @@ La exposición usa 2 Reyes 25, Jeremías 52, Salmo 137, Ezequiel 21, Isaías 1 y
 
 | Unidad            | Texto local TTH                                                                                                                                                                      | Función en el argumento                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| #salmos_79_1-4   | «Elohim, han entrado las naciones en tu herencia; impurificaron el Hejal de tu santidad; pusieron a Yerushaláim en ruinas»; «no hubo quien los entierre»; «la burla y el desprecio». | El lamento nombra profanación, muerte, vergüenza y una ciudad destruida.                        |
-| #salmos_79_5-7   | «¿Hasta cuándo, יהוה? ¿Estarás enojado para siempre?»; «Derrama tu ardor hacia las naciones»; «se han comido a Yaakov».                                                              | La pregunta reconoce el fuego del celo y pide que el juicio no quede sin límite.                |
-| #salmos_79_8-9   | «No recordarás para con nosotros las torceduras de los primeros»; «se anticiparán a nosotros tus compasiones»; «ayúdanos… por causa de la honra de tu Nombre».                       | La comunidad confiesa debilitamiento y apela al nombre y a la compasión de יהוה.                |
-| #salmos_79_10-12 | «¿Dónde está su Elohim?»; «llegue delante de ti el gemido del atado»; «devuelve… siete veces su insulto».                                                                            | La oración pide vindicación pública y liberación, sin convertir la venganza en licencia humana. |
-| #salmos_79_13    | «Nosotros somos tu pueblo y el rebaño de tu pastoreo; te confesaremos… de generación en generación contaremos tu alabanza».                                                          | El cierre responde a la ruina con identidad, confesión y transmisión generacional.              |
+| #tehilim_79_1-4   | «Elohim, han entrado las naciones en tu herencia; impurificaron el Hejal de tu santidad; pusieron a Yerushaláim en ruinas»; «no hubo quien los entierre»; «la burla y el desprecio». | El lamento nombra profanación, muerte, vergüenza y una ciudad destruida.                        |
+| #tehilim_79_5-7   | «¿Hasta cuándo, יהוה? ¿Estarás enojado para siempre?»; «Derrama tu ardor hacia las naciones»; «se han comido a Yaakov».                                                              | La pregunta reconoce el fuego del celo y pide que el juicio no quede sin límite.                |
+| #tehilim_79_8-9   | «No recordarás para con nosotros las torceduras de los primeros»; «se anticiparán a nosotros tus compasiones»; «ayúdanos… por causa de la honra de tu Nombre».                       | La comunidad confiesa debilitamiento y apela al nombre y a la compasión de יהוה.                |
+| #tehilim_79_10-12 | «¿Dónde está su Elohim?»; «llegue delante de ti el gemido del atado»; «devuelve… siete veces su insulto».                                                                            | La oración pide vindicación pública y liberación, sin convertir la venganza en licencia humana. |
+| #tehilim_79_13    | «Nosotros somos tu pueblo y el rebaño de tu pastoreo; te confesaremos… de generación en generación contaremos tu alabanza».                                                          | El cierre responde a la ruina con identidad, confesión y transmisión generacional.              |
 
 ## Ruina, santuario y una disciplina que no fue gratuita
 
 El v. 1 dice: «han entrado las naciones en tu herencia; impurificaron el Hejal de tu santidad; pusieron a Yerushaláim en ruinas». Eric comienza con 2 Reyes 25:8-10 y Jeremías 52:12-14, donde la casa de יהוה y la ciudad son quemadas y las murallas derribadas. La correspondencia histórica es fuerte para la destrucción babilónica, aunque Tehilim 79 no nombra a Babilonia ni ofrece una fecha. **(נחלה)**, _najalah_, significa herencia o posesión heredada; la frase «tu herencia» hace que la devastación sea una afrenta contra la pertenencia de Elohim, no sólo una derrota geopolítica.
 
-La clase insiste en que la destrucción no fue «de gratis»: los profetas habían advertido idolatría, violencia, inmoralidad y la negativa a liberar a los siervos y dejar descansar la tierra. Esa lectura es una aplicación canónica apoyada por la lógica profética, pero no debe borrar el dolor del lamento. En #tehilim*79_1-4 la comunidad sigue llamando a la ciudad «tu» santuario y a los muertos «tus siervos» y «tus benevolentes». **(טמא)**, \_tame*, significa impurificar o hacer impuro; el verbo señala profanación cultual, no una simple ocupación militar.
+La clase insiste en que la destrucción no fue «de gratis»: los profetas habían advertido idolatría, violencia, inmoralidad y la negativa a liberar a los siervos y dejar descansar la tierra. Esa lectura es una aplicación canónica apoyada por la lógica profética, pero no debe borrar el dolor del lamento. En #tehilim_79_1-4 la comunidad sigue llamando a la ciudad «tu» santuario y a los muertos «tus siervos» y «tus benevolentes». **(טמא)**, \_tame*, significa impurificar o hacer impuro; el verbo señala profanación cultual, no una simple ocupación militar.
 
 Eric conecta esta escena con la destrucción romana del segundo templo y con la advertencia de que no quedaría piedra sobre piedra. Esa relación con los Evangelios es canónica y aproximada: muestra una repetición temática de juicio sobre un sistema que no produce obediencia, pero no prueba que el salmista estuviera describiendo directamente Roma. La mención de una fecha tradicional común para las destrucciones pertenece a la historia y a la tradición posterior, no al texto de Tehilim 79; debe verificarse aparte.
 
@@ -72,7 +72,7 @@ La clase usa Juan 2:17, «el celo de tu casa», para iluminar el celo por el san
 
 ## Compasión antes que memoria de las torceduras
 
-En #tehilim*79_8-9 el pueblo pide: «No recordarás para con nosotros las torceduras de los primeros; rápidamente se anticiparán a nosotros tus compasiones, porque nos hemos debilitado mucho». Eric explica que «recordar» puede significar poner algo por encima o darle prevalencia. **(רחמים)**, \_rajamim*, significa compasiones o misericordias profundas; la traducción «amor maternal» es una aproximación pedagógica que preserva la imagen de ternura, no una definición exclusiva. La oración no niega el pecado: pide que la compasión llegue antes de que la culpa consuma a la comunidad.
+En #tehilim_79_8-9 el pueblo pide: «No recordarás para con nosotros las torceduras de los primeros; rápidamente se anticiparán a nosotros tus compasiones, porque nos hemos debilitado mucho». Eric explica que «recordar» puede significar poner algo por encima o darle prevalencia. **(רחמים)**, \_rajamim*, significa compasiones o misericordias profundas; la traducción «amor maternal» es una aproximación pedagógica que preserva la imagen de ternura, no una definición exclusiva. La oración no niega el pecado: pide que la compasión llegue antes de que la culpa consuma a la comunidad.
 
 El v. 9 centra la súplica en el nombre: «Ayúdanos, Elohim de nuestra salvación, por causa de la honra de tu Nombre; y rescátanos y cubre sobre nuestros pecados por tu Nombre». Eric entiende el nombre como la revelación de la voluntad reconciliadora de Elohim y enlaza esa obra con el nombre de Yehoshua. La relación mesiánica es canónica y pedagógica; el salmo afirma directamente que la ayuda y el rescate son «por causa de la honra» del nombre. No afirma que el templo, los sacrificios o una fórmula vocal sean el poder salvador.
 
@@ -111,11 +111,11 @@ La esperanza del cierre no depende de que el templo vuelva a ser un amuleto. La 
 
 | Unidad textual    | Observación concreta de la clase                                                                                                                    | Tratamiento                                                                                                                     |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| #salmos_79_1-4   | Eric relaciona la ruina del templo con 2 Reyes 25, Jeremías 52, Babilonia y Roma, y recalca que el juicio no fue gratuito.                          | Apoyo histórico directo para Babilonia; Roma, fechas tradicionales y causas ampliadas son conexiones cualificadas o pendientes. |
-| #salmos_79_2-4   | La exposición destaca la humillación de cadáveres sin sepultura y que piadosos sufrieron dentro del juicio colectivo.                               | Apoyo textual y clarificación de **(חסיד)**; no se atribuye culpa individual a cada muerto.                                     |
-| #salmos_79_5-9   | Eric lee «¿hasta cuándo?» como súplica comedida, interpreta celo, compasiones y nombre desde la reconciliación, y pide confesar en vez de esconder. | Apoyo textual; amor maternal, referente interno de «naciones» y conexión con Yehoshua: relaciones aproximadas.                  |
-| #salmos_79_10-12 | La clase presenta la burla de las naciones, el gemido del prisionero, Pablo y Silas, Daniel 3 y el siete como plenitud de retribución.              | Apoyo directo para burla y gemido; Maaseh 16, Daniel y el valor numérico son conexiones canónicas pedagógicas.                  |
-| #salmos_79_13    | Eric entiende «pueblo y rebaño» como una identidad que sobrevive a la reprensión y debe contar la obra de generación en generación.                 | Apoyo textual; la aplicación a un programa de formación y a un templo interior es inferencia cualificada.                       |
+| #tehilim_79_1-4   | Eric relaciona la ruina del templo con 2 Reyes 25, Jeremías 52, Babilonia y Roma, y recalca que el juicio no fue gratuito.                          | Apoyo histórico directo para Babilonia; Roma, fechas tradicionales y causas ampliadas son conexiones cualificadas o pendientes. |
+| #tehilim_79_2-4   | La exposición destaca la humillación de cadáveres sin sepultura y que piadosos sufrieron dentro del juicio colectivo.                               | Apoyo textual y clarificación de **(חסיד)**; no se atribuye culpa individual a cada muerto.                                     |
+| #tehilim_79_5-9   | Eric lee «¿hasta cuándo?» como súplica comedida, interpreta celo, compasiones y nombre desde la reconciliación, y pide confesar en vez de esconder. | Apoyo textual; amor maternal, referente interno de «naciones» y conexión con Yehoshua: relaciones aproximadas.                  |
+| #tehilim_79_10-12 | La clase presenta la burla de las naciones, el gemido del prisionero, Pablo y Silas, Daniel 3 y el siete como plenitud de retribución.              | Apoyo directo para burla y gemido; Maaseh 16, Daniel y el valor numérico son conexiones canónicas pedagógicas.                  |
+| #tehilim_79_13    | Eric entiende «pueblo y rebaño» como una identidad que sobrevive a la reprensión y debe contar la obra de generación en generación.                 | Apoyo textual; la aplicación a un programa de formación y a un templo interior es inferencia cualificada.                       |
 
 ## Pendiente de verificar
 

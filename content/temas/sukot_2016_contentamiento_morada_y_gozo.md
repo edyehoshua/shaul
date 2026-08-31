@@ -9,10 +9,10 @@ tags:
   - memoria
   - gozo
 references:
-  - "#levitico_23_33-43"
-  - "#deuteronomio_16_13-17"
-  - "#exodo_23_14-17"
-  - "#nehemias_8_13-18"
+  - "#vayikra_23_33-43"
+  - "#devarim_16_13-17"
+  - "#shemot_23_14-17"
+  - "#nejemiah_8_13-18"
   - "#juan_7_37-39"
 sources:
   - "https://www.youtube.com/watch?v=gpnXufuyDgA"
@@ -38,17 +38,17 @@ Esta nota es la consolidación canónica de la fuente exclusiva `youtube:gpnXufu
 
 | Referencia            | Texto local y observación                                                                                                                       | Evaluación                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| #levitico_23_33-43   | Sukot dura siete días, convoca a la comunidad, manda alegrarse y recuerda que Israel habitó en cabañas al salir de Egipto.                      | Texto base directo para morada, memoria, tiempo y gozo.                           |
-| #deuteronomio_16_13-17 | La cosecha y el fruto del trabajo se celebran con alegría delante de יהוה, incluyendo a toda la casa y al levita, extranjero, huérfano y viuda. | El contentamiento tiene una dimensión comunitaria y distributiva.                 |
-| #exodo_23_14-17      | Las tres fiestas anuales se vinculan con comparecer delante del Señor y con el ciclo de cosecha.                                                | La fiesta no es una práctica privada desligada de la reunión.                     |
-| #nehemias_8_13-18     | La comunidad descubre el mandato de las cabañas, lo practica y celebra con gran alegría.                                                        | La memoria se vuelve obediencia renovada; «gran alegría» no elimina el estudio.   |
+| #vayikra_23_33-43   | Sukot dura siete días, convoca a la comunidad, manda alegrarse y recuerda que Israel habitó en cabañas al salir de Egipto.                      | Texto base directo para morada, memoria, tiempo y gozo.                           |
+| #devarim_16_13-17 | La cosecha y el fruto del trabajo se celebran con alegría delante de יהוה, incluyendo a toda la casa y al levita, extranjero, huérfano y viuda. | El contentamiento tiene una dimensión comunitaria y distributiva.                 |
+| #shemot_23_14-17      | Las tres fiestas anuales se vinculan con comparecer delante del Señor y con el ciclo de cosecha.                                                | La fiesta no es una práctica privada desligada de la reunión.                     |
+| #nejemiah_8_13-18     | La comunidad descubre el mandato de las cabañas, lo practica y celebra con gran alegría.                                                        | La memoria se vuelve obediencia renovada; «gran alegría» no elimina el estudio.   |
 | #juan_7_37-39         | En el último y gran día de la fiesta, Yehoshua invita al sediento y habla del Ruaj.                                                             | Conexión mesiánica explícita del relato; no reemplaza el mandamiento de Levítico. |
 
 ## La morada temporal recuerda dependencia
 
 Levítico 23:39-43 une el séptimo mes, la fiesta de siete días, el fruto de los árboles, el gozo y la memoria de que יהוה hizo habitar a Israel en cabañas al sacarlo de Egipto. **(סֻכָּה)**, _sukkah_, significa cabaña, choza o refugio temporal; su fuerza contextual es una morada que hace visible la vulnerabilidad y la protección recibida durante el tránsito del desierto. «Cabaña» es una glosa directa; usar la palabra para afirmar que toda construcción contemporánea reproduce exactamente el contexto antiguo sería aproximado.
 
-**(יָדַע)**, _yada_, significa conocer, reconocer o percibir; en #levitico_23_43 su fuerza es que las generaciones conozcan la acción de יהוה. «Conocer» es directo en el campo ordinario, pero el conocimiento requerido no es mera información: la práctica festiva hace memoria. La observación atribuible del título sobre estar contentos con lo que tenemos ahora recibe apoyo cualificado: recordar la morada temporal puede corregir la ilusión de autosuficiencia, aunque el título no permite poner en boca de Eric una explicación específica de cada símbolo.
+**(יָדַע)**, _yada_, significa conocer, reconocer o percibir; en #vayikra_23_43 su fuerza es que las generaciones conozcan la acción de יהוה. «Conocer» es directo en el campo ordinario, pero el conocimiento requerido no es mera información: la práctica festiva hace memoria. La observación atribuible del título sobre estar contentos con lo que tenemos ahora recibe apoyo cualificado: recordar la morada temporal puede corregir la ilusión de autosuficiencia, aunque el título no permite poner en boca de Eric una explicación específica de cada símbolo.
 
 La memoria no debe convertirse en una romantización de la precariedad. La Torah no alaba el desamparo por sí mismo; recuerda que יהוה sostuvo a un pueblo que aún dependía de su provisión. **(גּוּר)**, _gur_, significa residir como forastero o vivir temporalmente; su relación con la vida en el desierto es pedagógica y contextual. No es legítimo usar la morada temporal para justificar abandono, pobreza impuesta o indiferencia hacia quien necesita techo.
 
@@ -64,7 +64,7 @@ La estructura social del mandato es crítica para la nota. **(גֵּר)**, _ger_
 
 ## Memoria renovada en Nehemías 8
 
-Nehemías 8 ofrece un ejemplo de cómo la comunidad vuelve a descubrir el mandato de Sukot, prepara las ramas, habita en cabañas y celebra con gran alegría (#nehemias_8_13-18). **(חַג)**, _chag_, significa fiesta o celebración; en el relato la fiesta es un acto ordenado de obediencia y una ocasión de gozo público. «Fiesta» es directa; extender el relato a una teoría de que toda celebración contemporánea debe copiar cada detalle histórico es aproximado.
+Nehemías 8 ofrece un ejemplo de cómo la comunidad vuelve a descubrir el mandato de Sukot, prepara las ramas, habita en cabañas y celebra con gran alegría (#nejemiah_8_13-18). **(חַג)**, _chag_, significa fiesta o celebración; en el relato la fiesta es un acto ordenado de obediencia y una ocasión de gozo público. «Fiesta» es directa; extender el relato a una teoría de que toda celebración contemporánea debe copiar cada detalle histórico es aproximado.
 
 El pasaje mantiene juntas lectura, comprensión y práctica. El pueblo escucha la Torah, descubre lo que estaba escrito, actúa y se alegra. Esta secuencia evalúa una aplicación del título de Eric: estar contentos ahora no significa dejar de aprender ni desatender el pasado. La alegría madura nace de una memoria interpretada y obedecida. **(בִּינָה)**, _binah_, significa entendimiento o discernimiento; su uso aquí es pedagógico para describir la comprensión que acompaña la lectura, no una afirmación de que esa forma sea el término que gobierna cada versículo.
 
@@ -79,9 +79,9 @@ Yehoshua promete que quien cree en él tendrá ríos de agua viva, y el narrador
 | Fuente y alcance                      | Observación atribuible                                                                                                             | Evaluación frente a la Escritura                                                                                |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | `youtube:gpnXufuyDgA`, título público | Eric anuncia «Jag Hasukot 2016» y el enfoque «Contentos con lo que tenemos ahora».                                                 | Atribución exacta del título y del foco; sin transcript no se inventa una exposición detallada.                 |
-| #levitico_23_33-43                   | El enfoque del contentamiento puede relacionarse con recordar que Israel habitó en cabañas al salir de Egipto.                     | Apoyo textual cualificado: la fiesta forma memoria y dependencia; no glorifica la precariedad.                  |
-| #deuteronomio_16_13-17                 | La alegría de la cosecha recibida puede evaluarse como gratitud por la provisión presente.                                         | Apoyo textual: el gozo se manda delante de יהוה y se comparte con la comunidad vulnerable.                      |
-| #nehemias_8_13-18 y #juan_7_37-39     | La memoria de la fiesta se renueva en obediencia y el relato de Juan vincula su gran día con la invitación al agua viva y el Ruaj. | Conexión canónica explícita en cada pasaje; no se atribuye al video una explicación que el título no documenta. |
+| #vayikra_23_33-43                   | El enfoque del contentamiento puede relacionarse con recordar que Israel habitó en cabañas al salir de Egipto.                     | Apoyo textual cualificado: la fiesta forma memoria y dependencia; no glorifica la precariedad.                  |
+| #devarim_16_13-17                 | La alegría de la cosecha recibida puede evaluarse como gratitud por la provisión presente.                                         | Apoyo textual: el gozo se manda delante de יהוה y se comparte con la comunidad vulnerable.                      |
+| #nejemiah_8_13-18 y #juan_7_37-39     | La memoria de la fiesta se renueva en obediencia y el relato de Juan vincula su gran día con la invitación al agua viva y el Ruaj. | Conexión canónica explícita en cada pasaje; no se atribuye al video una explicación que el título no documenta. |
 
 ## Hoja léxica
 

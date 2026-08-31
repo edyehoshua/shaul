@@ -4,20 +4,20 @@ description: "Mishlei 8:1-14 presenta la sabiduría que llama públicamente, for
 date: 2026-08-06
 tags: [mishlei, mishlei_8, sabiduria, humildad, temor_de יהוה, astucia]
 references:
-  - "#proverbios_8_1"
-  - "#proverbios_8_2"
-  - "#proverbios_8_3"
-  - "#proverbios_8_4"
-  - "#proverbios_8_5"
-  - "#proverbios_8_6"
-  - "#proverbios_8_7"
-  - "#proverbios_8_8"
-  - "#proverbios_8_9"
-  - "#proverbios_8_10"
-  - "#proverbios_8_11"
-  - "#proverbios_8_12"
-  - "#proverbios_8_13"
-  - "#proverbios_8_14"
+  - "#mishlei_8_1"
+  - "#mishlei_8_2"
+  - "#mishlei_8_3"
+  - "#mishlei_8_4"
+  - "#mishlei_8_5"
+  - "#mishlei_8_6"
+  - "#mishlei_8_7"
+  - "#mishlei_8_8"
+  - "#mishlei_8_9"
+  - "#mishlei_8_10"
+  - "#mishlei_8_11"
+  - "#mishlei_8_12"
+  - "#mishlei_8_13"
+  - "#mishlei_8_14"
   - "#santiago_3_13"
   - "#santiago_3_17"
   - "#mateo_10_16"
@@ -42,11 +42,11 @@ Esta nota organiza la primera parte de la clase pública sobre Mishlei 8. Sigue 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_8_1 | הלא חכמה תקרא ותבונה תתן קולה | ¿No llama la sabiduría, y el discernimiento da su voz? |
-| #proverbios_8_2-3 | בראש מרומים עלי דרך בית נתיבות נצבה; ליד שערים לפי קרת מבוא פתחים תרנה | En la cabeza de las alturas, sobre el camino, en la casa de las sendas se para; junto a los portones que corresponden a la ciudad, a la entrada de las puertas grita. |
-| #proverbios_8_4-5 | אליכם אנשים אקרא וקולי אל בני אדם; הבינו פתאים ערמה וכסילים הבינו לב | ¡A ustedes, hombres, llamo, y mi voz, para los hijos de Adam! ¡Entiendan astucia, ingenuos, e indisciplinados, entiendan corazón! |
-| #proverbios_8_6-8 | שמעו כי נגידים אדבר ומפתח שפתי מישרים; כי אמת יהגה חכי ותועבת שפתי רשע; בצדק כל אמרי פי אין בהם נפתל ועקש | Escuchen, porque jefes hablaré, y de la apertura de mis labios, rectitudes. Porque verdad pronunciará mi paladar... En justicia son todos los dichos de mi boca. |
-| #proverbios_8_10-14 | קחו מוסרי ואל כסף ודעת מחרוץ נבחר... אני חכמה שכנתי ערמה... יראת יהוה שנאת רע... לי עצה ותושיה... לי גבורה | Tomen mi disciplina y no plata, y conocimiento más que oro escogido... Yo, la sabiduría, moro con la astucia... El temor de יהוה es odiar el mal... Para Mí es el consejo y la obra de sabiduría... para Mí es el poder. |
+| #mishlei_8_1 | הלא חכמה תקרא ותבונה תתן קולה | ¿No llama la sabiduría, y el discernimiento da su voz? |
+| #mishlei_8_2-3 | בראש מרומים עלי דרך בית נתיבות נצבה; ליד שערים לפי קרת מבוא פתחים תרנה | En la cabeza de las alturas, sobre el camino, en la casa de las sendas se para; junto a los portones que corresponden a la ciudad, a la entrada de las puertas grita. |
+| #mishlei_8_4-5 | אליכם אנשים אקרא וקולי אל בני אדם; הבינו פתאים ערמה וכסילים הבינו לב | ¡A ustedes, hombres, llamo, y mi voz, para los hijos de Adam! ¡Entiendan astucia, ingenuos, e indisciplinados, entiendan corazón! |
+| #mishlei_8_6-8 | שמעו כי נגידים אדבר ומפתח שפתי מישרים; כי אמת יהגה חכי ותועבת שפתי רשע; בצדק כל אמרי פי אין בהם נפתל ועקש | Escuchen, porque jefes hablaré, y de la apertura de mis labios, rectitudes. Porque verdad pronunciará mi paladar... En justicia son todos los dichos de mi boca. |
+| #mishlei_8_10-14 | קחו מוסרי ואל כסף ודעת מחרוץ נבחר... אני חכמה שכנתי ערמה... יראת יהוה שנאת רע... לי עצה ותושיה... לי גבורה | Tomen mi disciplina y no plata, y conocimiento más que oro escogido... Yo, la sabiduría, moro con la astucia... El temor de יהוה es odiar el mal... Para Mí es el consejo y la obra de sabiduría... para Mí es el poder. |
 
 ## Una voz que ocupa los caminos y las puertas
 
@@ -81,10 +81,10 @@ En el verso 12, “habito con la astucia” no santifica cualquier cálculo. Eri
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_8_1-5; `youtube:Cj2Tq59U_jU` | La sabiduría ocupa alturas, caminos, portones y entradas; contrasta con la mujer extraña. | Apoyo textual; aplicación a pensamientos y corazones cualificada. |
-| #proverbios_8_6-11; `youtube:Cj2Tq59U_jU` | La sabiduría es verdad, justicia, humildad, misericordia y una riqueza superior a la plata. | Apoyo textual y aclaración léxica. |
+| #mishlei_8_1-5; `youtube:Cj2Tq59U_jU` | La sabiduría ocupa alturas, caminos, portones y entradas; contrasta con la mujer extraña. | Apoyo textual; aplicación a pensamientos y corazones cualificada. |
+| #mishlei_8_6-11; `youtube:Cj2Tq59U_jU` | La sabiduría es verdad, justicia, humildad, misericordia y una riqueza superior a la plata. | Apoyo textual y aclaración léxica. |
 | #santiago_3_13-17; `youtube:Cj2Tq59U_jU` | La sabiduría de lo alto se reconoce por mansedumbre y obras, no por orgullo. | Conexión temática; no se presenta como cita directa de Mishlei. |
-| #proverbios_8_12-14; `youtube:Cj2Tq59U_jU` | La astucia debe habitar con la sabiduría; consejo, discernimiento y poder proceden de la fuente divina. | Astucia como prudencia cualificada; identificación doctrinal atribuida. |
+| #mishlei_8_12-14; `youtube:Cj2Tq59U_jU` | La astucia debe habitar con la sabiduría; consejo, discernimiento y poder proceden de la fuente divina. | Astucia como prudencia cualificada; identificación doctrinal atribuida. |
 
 ## Pendiente de verificar
 

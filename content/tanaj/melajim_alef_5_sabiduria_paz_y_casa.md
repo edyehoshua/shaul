@@ -1,9 +1,9 @@
 ---
 title: "Sabiduría, paz y casa"
-description: "1 Reyes 5 vincula el descanso de Israel con la preparación de la casa de יהוה."
+description: "1 Melajim 5 vincula el descanso de Israel con la preparación de la casa de יהוה."
 date: 2026-07-27
 tags: [tanaj, melajim, haftarah, terumah]
-references: ["#1_reyes_5_5"]
+references: ["#melajim_alef_5_5"]
 sources:
   - "https://www.youtube.com/watch?v=bhf6Y9WfkUY"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -19,7 +19,7 @@ source_ids:
 
 | Referencia        | Texto hebreo local                                                                 | Observación                              |
 | ----------------- | ---------------------------------------------------------------------------------- | ---------------------------------------- |
-| #1_reyes_5_5 | וישב יהודה וישראל לבטח איש תחת גפנו ותחת תאנתו מדן ועד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
+| #melajim_alef_5_5 | וישב יהודה וישראל לבטח איש תחת גפנו ותחת תאנתו מדן ועד באר שבע כל ימי שלמה | La imagen expresa seguridad en el reino. |
 
 ## Lectura
 

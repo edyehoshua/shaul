@@ -9,10 +9,10 @@ tags:
   - disciplina
   - eric-youtube
 references:
-  - "#salmos_119_65-66"
-  - "#salmos_119_67-70"
-  - "#salmos_119_71-72"
-  - "#isaias_55_8-9"
+  - "#tehilim_119_65-66"
+  - "#tehilim_119_67-70"
+  - "#tehilim_119_71-72"
+  - "#yeshayahu_55_8-9"
   - "#romanos_2_18"
 sources:
   - "https://www.youtube.com/watch?v=vZUK885TC4Q"
@@ -34,10 +34,10 @@ La clase trata la letra Tet y especialmente los vv. 65-72. Se siguen las unidade
 
 | Unidad             | Texto local (OE, hebreo sin nikud)                                          | Función en la enseñanza                                    |
 | ------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| #salmos_119_65-66 | **טוב עשית עם עבדך יהוה כדברך / טוב טעם ודעת למדני כי במצותיך האמנתי**      | Bien recibido y petición de discernimiento y conocimiento. |
-| #salmos_119_67-68 | **טרם אענה אני שגג ועתה אמרתך שמרתי / טוב אתה ומטיב למדני חקיך**            | Error previo, obediencia actual y bondad del Legislador.   |
-| #salmos_119_69-70 | **טפלו עלי שקר זדים אני בכל לב אצר פקודיך / טפש כחלב לבם אני תורתך שעשעתי** | Acusación falsa, corazón endurecido y deleite en la Torah. |
-| #salmos_119_71-72 | **טוב לי כי עניתי למען אלמד חקיך / טוב לי תורת פיך מאלפי זהב וכסף**         | Aflicción como aprendizaje y Torah como riqueza superior.  |
+| #tehilim_119_65-66 | **טוב עשית עם עבדך יהוה כדברך / טוב טעם ודעת למדני כי במצותיך האמנתי**      | Bien recibido y petición de discernimiento y conocimiento. |
+| #tehilim_119_67-68 | **טרם אענה אני שגג ועתה אמרתך שמרתי / טוב אתה ומטיב למדני חקיך**            | Error previo, obediencia actual y bondad del Legislador.   |
+| #tehilim_119_69-70 | **טפלו עלי שקר זדים אני בכל לב אצר פקודיך / טפש כחלב לבם אני תורתך שעשעתי** | Acusación falsa, corazón endurecido y deleite en la Torah. |
+| #tehilim_119_71-72 | **טוב לי כי עניתי למען אלמד חקיך / טוב לי תורת פיך מאלפי זהב וכסף**         | Aflicción como aprendizaje y Torah como riqueza superior.  |
 
 ## El bien de יהוה no depende de mi agrado (vv. 65-66)
 
@@ -73,16 +73,16 @@ El cierre compara la Torah de la boca de יהוה con miles de piezas de oro y p
 
 | Unidad textual     | Observación concreta de la clase                                                                                          | Tratamiento                                                                   |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| #salmos_119_65-66 | Eric explica que lo bueno puede contrariar el gusto humano y pide aprender lo mejor, el sentido y el conocimiento.        | Apoyo textual; _taam_ como discernimiento se marca como aproximación.         |
-| #salmos_119_67-68 | La disciplina retira a la persona del error y la devuelve a guardar la palabra; el Dios bueno enseña estatutos.           | Secuencia textual confirmada; “retirada de hábitos” es aplicación pedagógica. |
-| #salmos_119_69-70 | La falsedad de los soberbios no vence a quien guarda de corazón; la Torah se vuelve deleite frente al corazón endurecido. | Apoyo textual y aclaración léxica de _shagag_ y _shaashua_.                   |
-| #salmos_119_71-72 | La aflicción se recibe como escuela y la Torah vale más que oro y plata.                                                  | Apoyo textual; la aplicación a toda pérdida queda como inferencia pastoral.   |
+| #tehilim_119_65-66 | Eric explica que lo bueno puede contrariar el gusto humano y pide aprender lo mejor, el sentido y el conocimiento.        | Apoyo textual; _taam_ como discernimiento se marca como aproximación.         |
+| #tehilim_119_67-68 | La disciplina retira a la persona del error y la devuelve a guardar la palabra; el Dios bueno enseña estatutos.           | Secuencia textual confirmada; “retirada de hábitos” es aplicación pedagógica. |
+| #tehilim_119_69-70 | La falsedad de los soberbios no vence a quien guarda de corazón; la Torah se vuelve deleite frente al corazón endurecido. | Apoyo textual y aclaración léxica de _shagag_ y _shaashua_.                   |
+| #tehilim_119_71-72 | La aflicción se recibe como escuela y la Torah vale más que oro y plata.                                                  | Apoyo textual; la aplicación a toda pérdida queda como inferencia pastoral.   |
 
 ## Conexiones principales
 
-- #isaias_55_8-9 ilumina la diferencia entre la percepción humana del bien y los caminos de יהוה.
+- #yeshayahu_55_8-9 ilumina la diferencia entre la percepción humana del bien y los caminos de יהוה.
 - #romanos_2_18 ayuda a relacionar discernimiento y aprobación de lo mejor; es eco apostólico, no glosa literal.
-- La secuencia de esta estrofa complementa #salmos_119_33-48: aprender la instrucción no es acumular datos, sino reorientar el camino.
+- La secuencia de esta estrofa complementa #tehilim_119_33-48: aprender la instrucción no es acumular datos, sino reorientar el camino.
 
 ## Pendiente de verificar
 

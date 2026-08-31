@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 26:17-28 sobre entrometerse en un juicio ajeno,
 date: 2026-08-05
 tags: [mishlei, mishlei_26, murmuracion, engaño, contienda, lengua, discernimiento]
 references:
-  - "#proverbios_26_17"
-  - "#proverbios_26_18"
-  - "#proverbios_26_19"
-  - "#proverbios_26_20"
-  - "#proverbios_26_21"
-  - "#proverbios_26_22"
-  - "#proverbios_26_23"
-  - "#proverbios_26_24"
-  - "#proverbios_26_25"
-  - "#proverbios_26_26"
-  - "#proverbios_26_27"
-  - "#proverbios_26_28"
-  - "#salmos_52_3"
+  - "#mishlei_26_17"
+  - "#mishlei_26_18"
+  - "#mishlei_26_19"
+  - "#mishlei_26_20"
+  - "#mishlei_26_21"
+  - "#mishlei_26_22"
+  - "#mishlei_26_23"
+  - "#mishlei_26_24"
+  - "#mishlei_26_25"
+  - "#mishlei_26_26"
+  - "#mishlei_26_27"
+  - "#mishlei_26_28"
+  - "#tehilim_52_3"
   - "#juan_8_44"
 sources:
   - "https://www.youtube.com/watch?v=dbsq2ZN-6Ag"
@@ -39,18 +39,18 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro, es el que pasa cruzándose en una contienda no suya. |
-| #proverbios_26_18 | כמתלהלה הירה זקים חצים ומות | Como el injuriador que lanza saetas encendidas, flechas y muerte. |
-| #proverbios_26_19 | כן איש רמה את רעהו ואמר הלא משחק אני | Así es el hombre que engaña a su compañero, y dice: ¿No estaba yo bromeando? |
-| #proverbios_26_20 | באפס עצים תכבה אש ובאין נרגן ישתק מדון | Por falta de maderas se apaga el fuego, y sin murmurador se silenciará la contienda. |
-| #proverbios_26_21 | פחם לגחלים ועצים לאש ואיש מדונים מדינים לחרחר ריב | Carbón para las brasas y maderas para el fuego, y el hombre de contiendas para encender riña. |
-| #proverbios_26_22 | דברי נרגן כמתלהמים והם ירדו חדרי בטן | Las palabras del murmurador son como heridas, y ellas descienden a las cámaras del vientre. |
-| #proverbios_26_23 | כסף סיגים מצפה על חרש שפתים דלקים ולב רע | Plata de escoria superpuesta sobre cerámica son los labios encendidos y el corazón malo. |
-| #proverbios_26_24 | בשפתיו ינכר שונא ובקרבו ישית מרמה | Con sus labios disimula el odiador, pero en su interior pone engaño. |
-| #proverbios_26_25 | כי יחנן קולו אל תאמן בו כי שבע תועבות בלבו | Cuando sea favorable su voz, no te afirmes en él, porque siete abominaciones hay en su corazón. |
-| #proverbios_26_26 | תכסה שנאה במשאון תגלה רעתו בקהל | Estará cubierto el odio en la oscuridad, pero será revelado su mal en la asamblea. |
-| #proverbios_26_27 | כרה שחת בה יפל וגלל אבן אליו תשוב | El que cava un hoyo, en él caerá, y el que hace rodar una piedra, a él volverá. |
-| #proverbios_26_28 | לשון שקר ישנא דכיו ופה חלק יעשה מדחה | La lengua de falsedad odia a sus aplastados, y la boca suave hará tropiezo. |
+| #mishlei_26_17 | מחזיק באזני כלב עבר מתעבר על ריב לא לו | El que agarra las orejas del perro, es el que pasa cruzándose en una contienda no suya. |
+| #mishlei_26_18 | כמתלהלה הירה זקים חצים ומות | Como el injuriador que lanza saetas encendidas, flechas y muerte. |
+| #mishlei_26_19 | כן איש רמה את רעהו ואמר הלא משחק אני | Así es el hombre que engaña a su compañero, y dice: ¿No estaba yo bromeando? |
+| #mishlei_26_20 | באפס עצים תכבה אש ובאין נרגן ישתק מדון | Por falta de maderas se apaga el fuego, y sin murmurador se silenciará la contienda. |
+| #mishlei_26_21 | פחם לגחלים ועצים לאש ואיש מדונים מדינים לחרחר ריב | Carbón para las brasas y maderas para el fuego, y el hombre de contiendas para encender riña. |
+| #mishlei_26_22 | דברי נרגן כמתלהמים והם ירדו חדרי בטן | Las palabras del murmurador son como heridas, y ellas descienden a las cámaras del vientre. |
+| #mishlei_26_23 | כסף סיגים מצפה על חרש שפתים דלקים ולב רע | Plata de escoria superpuesta sobre cerámica son los labios encendidos y el corazón malo. |
+| #mishlei_26_24 | בשפתיו ינכר שונא ובקרבו ישית מרמה | Con sus labios disimula el odiador, pero en su interior pone engaño. |
+| #mishlei_26_25 | כי יחנן קולו אל תאמן בו כי שבע תועבות בלבו | Cuando sea favorable su voz, no te afirmes en él, porque siete abominaciones hay en su corazón. |
+| #mishlei_26_26 | תכסה שנאה במשאון תגלה רעתו בקהל | Estará cubierto el odio en la oscuridad, pero será revelado su mal en la asamblea. |
+| #mishlei_26_27 | כרה שחת בה יפל וגלל אבן אליו תשוב | El que cava un hoyo, en él caerá, y el que hace rodar una piedra, a él volverá. |
+| #mishlei_26_28 | לשון שקר ישנא דכיו ופה חלק יעשה מדחה | La lengua de falsedad odia a sus aplastados, y la boca suave hará tropiezo. |
 
 ## El perro y la contienda que no es propia
 
@@ -106,16 +106,16 @@ Finalmente, la lengua de falsedad odia a sus aplastados y la boca suave hace tro
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_26_17-19 | El perro representa una contienda judicial; el engañador lanza flechas y luego niega el daño como broma. | Sentido de intromisión y engaño apoyado; alegoría Adam-Satán calificada. |
-| #proverbios_26_20-22 | El murmurador es la madera que mantiene el fuego de la contienda y sus palabras hieren profundamente. | Relación combustible-contienda directa; expansión de _nirgan_ a complot y calumnia requiere cotejo. |
-| #proverbios_26_23-26 | Los labios parecen plata, pero esconden escoria; la voz favorable no debe recibir _emunah_ si guarda abominación. | Contraste de apariencia y corazón apoyado; aplicación a Satán y a la asamblea del juicio calificada. |
-| #proverbios_26_27-28 | El hoyo y la piedra regresan al autor; la lengua falsa y la boca suave hacen caer al aplastado. | Retribución y tropiezo apoyados; conexión con la mujer extraña y la Torah suavizada atribuida. |
+| #mishlei_26_17-19 | El perro representa una contienda judicial; el engañador lanza flechas y luego niega el daño como broma. | Sentido de intromisión y engaño apoyado; alegoría Adam-Satán calificada. |
+| #mishlei_26_20-22 | El murmurador es la madera que mantiene el fuego de la contienda y sus palabras hieren profundamente. | Relación combustible-contienda directa; expansión de _nirgan_ a complot y calumnia requiere cotejo. |
+| #mishlei_26_23-26 | Los labios parecen plata, pero esconden escoria; la voz favorable no debe recibir _emunah_ si guarda abominación. | Contraste de apariencia y corazón apoyado; aplicación a Satán y a la asamblea del juicio calificada. |
+| #mishlei_26_27-28 | El hoyo y la piedra regresan al autor; la lengua falsa y la boca suave hacen caer al aplastado. | Retribución y tropiezo apoyados; conexión con la mujer extraña y la Torah suavizada atribuida. |
 
 ## Conexiones principales
 
 - [Mishlei 27: las heridas fieles del que ama](./mishlei_27_heridas_del_que_ama.md) contrasta la corrección que sana con los besos que encubren odio.
 - [Mishlei 28: reprensión, gobierno y justicia](./mishlei_28_reprension_gobierno_y_justicia.md) desarrolla la preferencia por reprender con evidencia en vez de suavizar la lengua.
-- #salmos_52_3 y #juan_8_44 son conexiones usadas por la clase para describir engaño y lengua falsa; no sustituyen la lectura de Mishlei 26.
+- #tehilim_52_3 y #juan_8_44 son conexiones usadas por la clase para describir engaño y lengua falsa; no sustituyen la lectura de Mishlei 26.
 
 ## Pendiente de verificar
 

@@ -12,9 +12,9 @@ references:
   - "#daniel_8_9-14"
   - "#daniel_11_31-35"
   - "#juan_10_22-30"
-  - "#deuteronomio_6_4-9"
-  - "#salmos_30_titulo"
-  - "#salmos_30_2-4"
+  - "#devarim_6_4-9"
+  - "#tehilim_30_titulo"
+  - "#tehilim_30_2-4"
 sources:
   - "https://www.youtube.com/watch?v=se8OJZlKeQ8"
   - "docs/scriptures/tth/json/daniel.json"
@@ -41,7 +41,7 @@ El inventario registra `youtube:se8OJZlKeQ8` como «Zéjer Qodshó, el recuerdo 
 | Título público; `youtube:se8OJZlKeQ8` | Eric anuncia una nueva visión de Janukáh ligada al recuerdo de santidad.             | Atribución exacta al título; no se reconstruye una clase ausente.         |
 | #daniel_8_9-14; #daniel_11_31-35      | La profanación del santuario contrasta con la firmeza de quienes conocen a Elohim.   | Control bíblico **cualificado** para hablar de santidad y discernimiento. |
 | #juan_10_22-30                     | Yehoshua enseña durante la dedicación y centra la escena en sus obras, voz y ovejas. | La fiesta es escenario histórico, no sustituto de escuchar al Pastor.     |
-| #deuteronomio_6_4-9; #salmos_30_titulo    | La memoria se enseña en la casa y responde con gratitud al rescate.                  | La santidad recordada debe volverse obediencia y alabanza.                |
+| #devarim_6_4-9; #tehilim_30_titulo    | La memoria se enseña en la casa y responde con gratitud al rescate.                  | La santidad recordada debe volverse obediencia y alabanza.                |
 
 ## Profanación, conocimiento y firmeza
 
@@ -83,7 +83,7 @@ La síntesis canónica queda así delimitada. Daniel aporta profanación y perse
 | -------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Título público; `youtube:se8OJZlKeQ8`                    | Eric anuncia el recuerdo de la santidad y una nueva visión de Janukáh.        | Atribución exacta al título; no se afirma contenido ausente.                       |
 | #daniel_8_9-14; #daniel_11_31-35; `youtube:se8OJZlKeQ8`  | El foco anunciado se examina mediante santuario, profanación y perseverancia. | Desarrollo **canónico y cualificado**, no cita de Eric.                            |
-| #juan_10_22-30; #deuteronomio_6_4-9; `youtube:se8OJZlKeQ8` | La memoria de dedicación se contrasta con escuchar, seguir y enseñar.         | Apoyo **textual** para la evaluación; la aplicación comunitaria es **pedagógica**. |
+| #juan_10_22-30; #devarim_6_4-9; `youtube:se8OJZlKeQ8` | La memoria de dedicación se contrasta con escuchar, seguir y enseñar.         | Apoyo **textual** para la evaluación; la aplicación comunitaria es **pedagógica**. |
 
 ## Conclusión
 

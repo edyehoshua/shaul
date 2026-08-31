@@ -21,10 +21,10 @@ references:
   - "#galatas_3_20"
   - "#galatas_3_21"
   - "#galatas_3_22"
-  - "#deuteronomio_21_23"
-  - "#genesis_13_15"
-  - "#ezequiel_36_27"
-  - "#salmos_105_7"
+  - "#devarim_21_23"
+  - "#bereshit_13_15"
+  - "#yejezkel_36_27"
+  - "#tehilim_105_7"
 sources:
   - "https://www.youtube.com/watch?v=wvW-2nLnKj8"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -95,7 +95,7 @@ La nota conserva asimismo la advertencia contra confundir confesión verbal, voc
 | #galatas_3_15-18 | La promesa y el juramento preceden a la Torah; la herencia no se obtiene por méritos de obras. | Apoyo textual a la prioridad de la promesa; cronología detallada pendiente. |
 | #galatas_3_19-20 | La Torah fue dada para las transgresiones, por gracia, mediante mediación; el Mesías es presentado como mediador entre Elohim y el hombre. | Función y mediación apoyadas por el texto; la formulación ontológica queda como inferencia atribuida. |
 | #galatas_3_21-22 | La Torah no anula las promesas; la Escritura encierra todo bajo pecado para que la promesa llegue por emunah. | Apoyo textual directo; se evita el antinomismo. |
-| #ezequiel_36_27 | El Ruaj hace andar en los estatutos; la obediencia es consecuencia de una transformación. | Conexión canónica útil, no afirmación de que Ezequiel sea una cita explícita de la clase en cada detalle. |
+| #yejezkel_36_27 | El Ruaj hace andar en los estatutos; la obediencia es consecuencia de una transformación. | Conexión canónica útil, no afirmación de que Ezequiel sea una cita explícita de la clase en cada detalle. |
 
 ## Pendiente de verificar
 
@@ -112,7 +112,7 @@ Gálatas 3:13-22 preserva dos verdades que no deben separarse: la herencia desca
 
 ## Ver también
 
-- [[galatim_3|Promesa, fidelidad y herencia en Galatim 3]]
+- [[galatas_3|Promesa, fidelidad y herencia en Galatim 3]]
 - [[galatas_3_bajo_ley_pedagoga_y_herencia|Gálatas 3: bajo ley, pedagogo y herencia]]
 - [[galatas_3_escucha_emunah_y_hijos_de_abraham|La escucha de la emunah y los hijos de Abraham]]
 - [[galatas_4_hijos_herederos_y_madurez|Gálatas 4: hijos, herederos y madurez]]

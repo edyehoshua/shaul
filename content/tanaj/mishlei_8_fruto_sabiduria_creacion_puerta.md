@@ -4,31 +4,31 @@ description: "Mishlei 8:15-36 presenta la sabiduría como fuente de justicia, fr
 date: 2026-08-06
 tags: [mishlei, mishlei_8, sabiduria, gobierno, creacion, vida, puerta]
 references:
-  - "#proverbios_8_15"
-  - "#proverbios_8_16"
-  - "#proverbios_8_17"
-  - "#proverbios_8_18"
-  - "#proverbios_8_19"
-  - "#proverbios_8_20"
-  - "#proverbios_8_21"
-  - "#proverbios_8_22"
-  - "#proverbios_8_23"
-  - "#proverbios_8_24"
-  - "#proverbios_8_25"
-  - "#proverbios_8_26"
-  - "#proverbios_8_27"
-  - "#proverbios_8_28"
-  - "#proverbios_8_29"
-  - "#proverbios_8_30"
-  - "#proverbios_8_31"
-  - "#proverbios_8_32"
-  - "#proverbios_8_33"
-  - "#proverbios_8_34"
-  - "#proverbios_8_35"
-  - "#proverbios_8_36"
+  - "#mishlei_8_15"
+  - "#mishlei_8_16"
+  - "#mishlei_8_17"
+  - "#mishlei_8_18"
+  - "#mishlei_8_19"
+  - "#mishlei_8_20"
+  - "#mishlei_8_21"
+  - "#mishlei_8_22"
+  - "#mishlei_8_23"
+  - "#mishlei_8_24"
+  - "#mishlei_8_25"
+  - "#mishlei_8_26"
+  - "#mishlei_8_27"
+  - "#mishlei_8_28"
+  - "#mishlei_8_29"
+  - "#mishlei_8_30"
+  - "#mishlei_8_31"
+  - "#mishlei_8_32"
+  - "#mishlei_8_33"
+  - "#mishlei_8_34"
+  - "#mishlei_8_35"
+  - "#mishlei_8_36"
   - "#juan_1_1"
   - "#mateo_7_13"
-  - "#genesis_1_1"
+  - "#bereshit_1_1"
 sources:
   - "https://www.youtube.com/watch?v=B8oq3rujAUQ"
   - "docs/scriptures/oe/json/proverbs/8.json"
@@ -50,11 +50,11 @@ Esta nota organiza la continuación pública de la clase sobre Mishlei 8, desde 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_8_14-16 | לי עצה ותושיה אני בינה לי גבורה; בי מלכים ימלכו ורוזנים יחקקו צדק; בי שרים ישרו ונדיבים כל שפטי צדק | Para Mí es el consejo y la obra de sabiduría; Yo soy el discernimiento, para Mí es el poder. En Mí los reyes reinan y los gobernantes decretan justicia. En Mí los jefes dominan, y los voluntarios, todos los que juzgan justicia. |
-| #proverbios_8_17-21 | אני אהביה אהבי אהב ומשחרי ימצאנני... בארח צדקה אהלך בתוך נתיבות משפט... להנחיל אהבי יש | Yo amo a los que la aman, y los que me buscan temprano me hallarán... En el camino de la justicia Yo ando... hay para dar herencia a los que me aman. |
-| #proverbios_8_22-26 | יהוה קנני ראשית דרכו קדם מפעליו מאז... מעולם נסכתי... עד לא עשה ארץ וחוצות וראש עפרות תבל | יהוה me adquirió, lo mejor de su camino... Desde el olam fui vertida... Aún no había hecho la tierra ni los lugares exteriores, ni el principio de los polvos de la tierra. |
-| #proverbios_8_27-31 | בהכינו שמים שם אני... בשומו לים חקו... ואהיה אצלו אמון... משחקת בתבל ארצו ושעשעי את בני אדם | Cuando estableció los cielos, allí estaba yo... cuando puso límite al mar... yo estaba junto a Él, criador; y fui deleites día a día... mis deleites son con los hijos de Adam. |
-| #proverbios_8_32-36 | ועתה בנים שמעו לי ואשרי דרכי ישמרו... כי מצאי מצא חיים ויפק רצון מיהוה; וחטאי חמס נפשו כל משנאי אהבו מות | Y ahora, hijos, escúchenme, ¡y felices son los que mis caminos guardan!... porque el que me halla, halla vida y alcanza el favor de יהוה; pero el que peca contra Mí violenta su propia vida; todos los que me odian aman la muerte. |
+| #mishlei_8_14-16 | לי עצה ותושיה אני בינה לי גבורה; בי מלכים ימלכו ורוזנים יחקקו צדק; בי שרים ישרו ונדיבים כל שפטי צדק | Para Mí es el consejo y la obra de sabiduría; Yo soy el discernimiento, para Mí es el poder. En Mí los reyes reinan y los gobernantes decretan justicia. En Mí los jefes dominan, y los voluntarios, todos los que juzgan justicia. |
+| #mishlei_8_17-21 | אני אהביה אהבי אהב ומשחרי ימצאנני... בארח צדקה אהלך בתוך נתיבות משפט... להנחיל אהבי יש | Yo amo a los que la aman, y los que me buscan temprano me hallarán... En el camino de la justicia Yo ando... hay para dar herencia a los que me aman. |
+| #mishlei_8_22-26 | יהוה קנני ראשית דרכו קדם מפעליו מאז... מעולם נסכתי... עד לא עשה ארץ וחוצות וראש עפרות תבל | יהוה me adquirió, lo mejor de su camino... Desde el olam fui vertida... Aún no había hecho la tierra ni los lugares exteriores, ni el principio de los polvos de la tierra. |
+| #mishlei_8_27-31 | בהכינו שמים שם אני... בשומו לים חקו... ואהיה אצלו אמון... משחקת בתבל ארצו ושעשעי את בני אדם | Cuando estableció los cielos, allí estaba yo... cuando puso límite al mar... yo estaba junto a Él, criador; y fui deleites día a día... mis deleites son con los hijos de Adam. |
+| #mishlei_8_32-36 | ועתה בנים שמעו לי ואשרי דרכי ישמרו... כי מצאי מצא חיים ויפק רצון מיהוה; וחטאי חמס נפשו כל משנאי אהבו מות | Y ahora, hijos, escúchenme, ¡y felices son los que mis caminos guardan!... porque el que me halla, halla vida y alcanza el favor de יהוה; pero el que peca contra Mí violenta su propia vida; todos los que me odian aman la muerte. |
 
 ## Gobierno que debe producir justicia
 
@@ -98,15 +98,15 @@ El último contraste es severo: quien encuentra la sabiduría encuentra vida y f
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_8_14-16; `youtube:B8oq3rujAUQ` | La sabiduría es consejo, obra, discernimiento y poder; en ella los reyes gobiernan y juzgan. | Apoyo textual; aplicación a la soberanía de יהוה cualificada. |
-| #proverbios_8_17-21; `youtube:B8oq3rujAUQ` | Buscar temprano produce hallazgo, riqueza duradera, justicia y herencia; el fruto vale más que oro y plata. | Apoyo textual y aplicación a tesoros celestiales. |
-| #proverbios_8_22-31; `youtube:B8oq3rujAUQ` | La sabiduría aparece antes de la creación y se conecta con la Palabra, el Amén y Yehoshua. | Texto poético apoyado; conexión mesiánica atribuida y lexicalmente pendiente. |
-| #proverbios_8_32-36; `youtube:B8oq3rujAUQ` | Guardar los caminos y vigilar las puertas conduce a vida; rechazar la sabiduría hiere la propia vida. | Exhortación textual; imagen de patio y puerta tratada como aplicación homilética. |
+| #mishlei_8_14-16; `youtube:B8oq3rujAUQ` | La sabiduría es consejo, obra, discernimiento y poder; en ella los reyes gobiernan y juzgan. | Apoyo textual; aplicación a la soberanía de יהוה cualificada. |
+| #mishlei_8_17-21; `youtube:B8oq3rujAUQ` | Buscar temprano produce hallazgo, riqueza duradera, justicia y herencia; el fruto vale más que oro y plata. | Apoyo textual y aplicación a tesoros celestiales. |
+| #mishlei_8_22-31; `youtube:B8oq3rujAUQ` | La sabiduría aparece antes de la creación y se conecta con la Palabra, el Amén y Yehoshua. | Texto poético apoyado; conexión mesiánica atribuida y lexicalmente pendiente. |
+| #mishlei_8_32-36; `youtube:B8oq3rujAUQ` | Guardar los caminos y vigilar las puertas conduce a vida; rechazar la sabiduría hiere la propia vida. | Exhortación textual; imagen de patio y puerta tratada como aplicación homilética. |
 
 ## Conexiones principales
 
 - #juan_1_1: la clase usa “junto a Él” y la sabiduría precreacional para explicar la Palabra; la conexión es mesiánica, no una traducción directa de Mishlei 8.
-- #genesis_1_1: la descripción de cielos, abismo, mar y tierra sirve como contexto de la lectura creadora; no todos los detalles cosmológicos de la exposición están explícitos en Mishlei.
+- #bereshit_1_1: la descripción de cielos, abismo, mar y tierra sirve como contexto de la lectura creadora; no todos los detalles cosmológicos de la exposición están explícitos en Mishlei.
 - #mateo_7_13: la puerta y el camino ayudan a la aplicación final sobre vigilancia, pero el pasaje debe leerse en su propio contexto.
 
 ## Pendiente de verificar

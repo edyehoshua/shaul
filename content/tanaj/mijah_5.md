@@ -7,10 +7,10 @@ tags:
   - shalom
   - bereshit
 references:
-  - "#miqueas_5_2"
-  - "#salmos_22_28"
-  - "#genesis_45_8"
-  - "#genesis_1_1"
+  - "#mijah_5_2"
+  - "#tehilim_22_28"
+  - "#bereshit_45_8"
+  - "#bereshit_1_1"
 sources: []
 translation: "[BTX4]"
 ---
@@ -21,13 +21,13 @@ Mijah 5:2 anuncia un moshel que sale de Bet-Léjem y cuyo origen se afirma como 
 
 ## Texto base
 
-- #miqueas_5_2
+- #mijah_5_2
 
 ## Texto TTH disponible
 
 | Referencia | TTH local                                                                                                                                                                                     |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #miqueas_5_2 | Y tú Bet-Léjem Efratah, pequeña para estar entre los miles de Yehudáh, de ti saldrá para Mí el que ha de ser moshel en Israel; y sus salidas son desde el principio, desde los días del olam. |
+| #mijah_5_2 | Y tú Bet-Léjem Efratah, pequeña para estar entre los miles de Yehudáh, de ti saldrá para Mí el que ha de ser moshel en Israel; y sus salidas son desde el principio, desde los días del olam. |
 
 ## Observaciones
 
@@ -37,6 +37,6 @@ Mijah 5:2 anuncia un moshel que sale de Bet-Léjem y cuyo origen se afirma como 
 
 ## Conexiones
 
-- #salmos_22_28
-- #genesis_45_8
-- #genesis_1_1
+- #tehilim_22_28
+- #bereshit_45_8
+- #bereshit_1_1

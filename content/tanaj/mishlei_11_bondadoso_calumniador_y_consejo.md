@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 11:10-19 sobre la boca que derriba, la prudenci
 date: 2026-08-05
 tags: [mishlei, mishlei_11, bondad, calumnia, consejo, justicia]
 references:
-  - "#proverbios_11_10"
-  - "#proverbios_11_11"
-  - "#proverbios_11_12"
-  - "#proverbios_11_13"
-  - "#proverbios_11_14"
-  - "#proverbios_11_15"
-  - "#proverbios_11_16"
-  - "#proverbios_11_17"
-  - "#proverbios_11_18"
-  - "#proverbios_11_19"
-  - "#proverbios_10_1"
-  - "#proverbios_6_1"
-  - "#isaias_28_15"
+  - "#mishlei_11_10"
+  - "#mishlei_11_11"
+  - "#mishlei_11_12"
+  - "#mishlei_11_13"
+  - "#mishlei_11_14"
+  - "#mishlei_11_15"
+  - "#mishlei_11_16"
+  - "#mishlei_11_17"
+  - "#mishlei_11_18"
+  - "#mishlei_11_19"
+  - "#mishlei_10_1"
+  - "#mishlei_6_1"
+  - "#yeshayahu_28_15"
 sources:
   - "https://www.youtube.com/watch?v=wcoDE-0FvFI"
   - "docs/scriptures/oe/json/proverbs/11.json"
@@ -38,16 +38,16 @@ Esta nota organiza la clase pública del hermano Eric de Jesús Rodríguez Mendo
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_11_10 | בטוב צדיקים תעלץ קריה ובאבד רשעים רנה | En la bondad de los justos se regocijará la ciudad, y en la perdición de los condenados habrá júbilo. |
-| #proverbios_11_11 | בברכת ישרים תרום קרת ובפי רשעים תהרס | En la bendición de los rectos se exaltará la ciudad, y por la boca de los condenados será derribada. |
-| #proverbios_11_12 | בז לרעהו חסר לב ואיש תבונות יחריש | El que desprecia a su compañero es falto de corazón, y el hombre de entendimientos guardará silencio. |
-| #proverbios_11_13 | הולך רכיל מגלה סוד ונאמן רוח מכסה דבר | El que anda como chismoso revela el secreto, pero el fiel de espíritu cubre el asunto. |
-| #proverbios_11_14 | באין תחבלות יפל עם ותשועה ברב יועץ | Sin estrategias cae el pueblo, pero hay salvación en la multitud del consejero. |
-| #proverbios_11_15 | רע ירוע כי ערב זר ושנא תקעים בוטח | El mal será quebrantado porque se comprometió con el extraño, pero el que aborrece a los que estrechan la mano está confiado. |
-| #proverbios_11_16 | אשת חן תתמך כבוד ועריצים יתמכו עשר | La mujer favorable sostiene la honra, pero los crueles sostienen la riqueza. |
-| #proverbios_11_17 | גמל נפשו איש חסד ועכר שארו אכזרי | El hombre de bondad recompensa a su propia vida, pero el cruel perturba su carne. |
-| #proverbios_11_18 | רשע עשה פעלת שקר וזרע צדקה שכר אמת | El condenado hace obra de mentira, pero el que siembra justicia tiene salario de verdad. |
-| #proverbios_11_19 | כן צדקה לחיים ומרדף רעה למותו | Así, la justicia es para vida, y el que persigue maldad, para su muerte. |
+| #mishlei_11_10 | בטוב צדיקים תעלץ קריה ובאבד רשעים רנה | En la bondad de los justos se regocijará la ciudad, y en la perdición de los condenados habrá júbilo. |
+| #mishlei_11_11 | בברכת ישרים תרום קרת ובפי רשעים תהרס | En la bendición de los rectos se exaltará la ciudad, y por la boca de los condenados será derribada. |
+| #mishlei_11_12 | בז לרעהו חסר לב ואיש תבונות יחריש | El que desprecia a su compañero es falto de corazón, y el hombre de entendimientos guardará silencio. |
+| #mishlei_11_13 | הולך רכיל מגלה סוד ונאמן רוח מכסה דבר | El que anda como chismoso revela el secreto, pero el fiel de espíritu cubre el asunto. |
+| #mishlei_11_14 | באין תחבלות יפל עם ותשועה ברב יועץ | Sin estrategias cae el pueblo, pero hay salvación en la multitud del consejero. |
+| #mishlei_11_15 | רע ירוע כי ערב זר ושנא תקעים בוטח | El mal será quebrantado porque se comprometió con el extraño, pero el que aborrece a los que estrechan la mano está confiado. |
+| #mishlei_11_16 | אשת חן תתמך כבוד ועריצים יתמכו עשר | La mujer favorable sostiene la honra, pero los crueles sostienen la riqueza. |
+| #mishlei_11_17 | גמל נפשו איש חסד ועכר שארו אכזרי | El hombre de bondad recompensa a su propia vida, pero el cruel perturba su carne. |
+| #mishlei_11_18 | רשע עשה פעלת שקר וזרע צדקה שכר אמת | El condenado hace obra de mentira, pero el que siembra justicia tiene salario de verdad. |
+| #mishlei_11_19 | כן צדקה לחיים ומרדף רעה למותו | Así, la justicia es para vida, y el que persigue maldad, para su muerte. |
 
 ## La boca que levanta o derriba una ciudad
 
@@ -78,10 +78,10 @@ Los versos 15-19 continúan el contraste. Comprometerse con el extraño trae que
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_11_10-11; `youtube:wcoDE-0FvFI` | La bondad de los justos alegra la ciudad, pero la boca de los malvados puede derribarla; el liderazgo tiene consecuencias comunitarias. | Contraste textual apoyado; aplicación al liderazgo cualificada. |
-| #proverbios_11_12-13; `youtube:wcoDE-0FvFI` | El falto de corazón desprecia y calumnia; el entendido calla y el fiel cubre el secreto. | Sentido textual apoyado; el chisme como “negocio” es ilustración pedagógica. |
-| #proverbios_11_14-15; `youtube:wcoDE-0FvFI` | El pueblo cae sin dirección; el compromiso con el extraño destruye, mientras el consejo y la confianza preservan. | Consejo apoyado; conexión con el plan mesiánico y pactos calificada. |
-| #proverbios_11_16-19; `youtube:wcoDE-0FvFI` | La honra, la bondad y la justicia producen un salario verdadero; la crueldad y la obra de mentira vuelven contra quien las practica. | Secuencia textual apoyada; alegoría de Israel y potestades atribuida a la clase. |
+| #mishlei_11_10-11; `youtube:wcoDE-0FvFI` | La bondad de los justos alegra la ciudad, pero la boca de los malvados puede derribarla; el liderazgo tiene consecuencias comunitarias. | Contraste textual apoyado; aplicación al liderazgo cualificada. |
+| #mishlei_11_12-13; `youtube:wcoDE-0FvFI` | El falto de corazón desprecia y calumnia; el entendido calla y el fiel cubre el secreto. | Sentido textual apoyado; el chisme como “negocio” es ilustración pedagógica. |
+| #mishlei_11_14-15; `youtube:wcoDE-0FvFI` | El pueblo cae sin dirección; el compromiso con el extraño destruye, mientras el consejo y la confianza preservan. | Consejo apoyado; conexión con el plan mesiánico y pactos calificada. |
+| #mishlei_11_16-19; `youtube:wcoDE-0FvFI` | La honra, la bondad y la justicia producen un salario verdadero; la crueldad y la obra de mentira vuelven contra quien las practica. | Secuencia textual apoyada; alegoría de Israel y potestades atribuida a la clase. |
 
 ## Pendiente de verificar
 

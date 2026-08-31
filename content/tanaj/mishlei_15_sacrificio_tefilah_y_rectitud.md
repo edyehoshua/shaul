@@ -10,15 +10,15 @@ tags:
   - disciplina
   - temor-de-יהוה
 references:
-  - "#proverbios_15_8"
-  - "#proverbios_15_9"
-  - "#proverbios_15_10"
-  - "#proverbios_15_11"
-  - "#proverbios_15_12"
-  - "#proverbios_15_13"
-  - "#proverbios_15_14"
-  - "#proverbios_15_15"
-  - "#proverbios_15_16"
+  - "#mishlei_15_8"
+  - "#mishlei_15_9"
+  - "#mishlei_15_10"
+  - "#mishlei_15_11"
+  - "#mishlei_15_12"
+  - "#mishlei_15_13"
+  - "#mishlei_15_14"
+  - "#mishlei_15_15"
+  - "#mishlei_15_16"
 sources:
   - "https://www.youtube.com/watch?v=NzjcnD1pgCU"
   - "docs/scriptures/tth/json/mishlei.json"
@@ -39,12 +39,12 @@ Esta nota organiza la clase pública «PROVERBIOS | El SACRIFICIO de los MALVADO
 
 | Referencia | Texto local TTH | Función en el estudio |
 | --- | --- | --- |
-| #proverbios_15_8 | «El sacrificio de los condenados es abominación de יהוה, pero la tefilah de los rectos es su aceptación.» | Contraste entre culto hipócrita y oración recibida. |
-| #proverbios_15_9-10 | «Abominación de יהוה es el camino del condenado, pero al que persigue la justicia Él ama.» / «La disciplina mala es para el que abandona la senda…» | La rectitud se muestra en perseguir justicia y aceptar corrección. |
-| #proverbios_15_11-12 | «El Sheol y el Abadón están frente a יהוה…» / «El burlador no ama al que lo reprende…» | Nada queda oculto y el burlador revela su rechazo de la sabiduría. |
-| #proverbios_15_13-16 | «El corazón alegre hace bueno el rostro…»; «El corazón entendido buscará conocimiento…»; «Mejor es lo poco con el temor de יהוה…» | El estado del corazón, el conocimiento y el temor pesan más que la abundancia inquieta. |
+| #mishlei_15_8 | «El sacrificio de los condenados es abominación de יהוה, pero la tefilah de los rectos es su aceptación.» | Contraste entre culto hipócrita y oración recibida. |
+| #mishlei_15_9-10 | «Abominación de יהוה es el camino del condenado, pero al que persigue la justicia Él ama.» / «La disciplina mala es para el que abandona la senda…» | La rectitud se muestra en perseguir justicia y aceptar corrección. |
+| #mishlei_15_11-12 | «El Sheol y el Abadón están frente a יהוה…» / «El burlador no ama al que lo reprende…» | Nada queda oculto y el burlador revela su rechazo de la sabiduría. |
+| #mishlei_15_13-16 | «El corazón alegre hace bueno el rostro…»; «El corazón entendido buscará conocimiento…»; «Mejor es lo poco con el temor de יהוה…» | El estado del corazón, el conocimiento y el temor pesan más que la abundancia inquieta. |
 
-## El sacrificio de los condenados y la tefilah de los rectos (15:8) #proverbios_15_8
+## El sacrificio de los condenados y la tefilah de los rectos (15:8) #mishlei_15_8
 
 La clase lee el versículo 8 como una comparación deliberada entre sacrificio y tefilah. Eric explica que el sacrificio por el pecado presupone que la persona ha fallado, y que la ofrenda no era una celebración de la maldad sino una confesión ordenada. El problema del «sacrificio de los malvados» aparece cuando la práctica exterior se usa como imagen de piedad mientras el corazón sigue abrazando la rebelión. La exposición lo ilustra con alguien que pide perdón y después vuelve deliberadamente a lo mismo; esa conducta convierte el rito en una máscara.
 
@@ -52,7 +52,7 @@ La nota no afirma que Mishlei 15:8 prohíba todo sacrificio bíblico. Su contras
 
 Eric desarrolla **תפלה**, _tefilah_, como exposición de una causa delante de Elohim, con un matiz de participación ante su juicio. La oración, en esta explicación, no es una fórmula pública que compra perdón: es una humillación personal en la que la persona pide dirección y se somete a la corrección. Esta definición es una aproximación pedagógica; el término tiene un campo de uso más amplio. El punto pastoral sí coincide con el contraste del versículo: יהוה acepta la oración de los rectos, no una apariencia religiosa que encubre opresión.
 
-## La justicia se reconoce por el camino y la disciplina (15:9-12) #proverbios_15_9-12
+## La justicia se reconoce por el camino y la disciplina (15:9-12) #mishlei_15_9-12
 
 El versículo 9 desplaza la atención del acto aislado al camino: יהוה aborrece el camino del condenado, pero ama al que persigue la justicia. La clase insiste en que la rectitud no significa ausencia de fallas. La diferencia está entre luchar contra el pecado y convertir la rebeldía en modo de vida. El versículo 10 añade que la disciplina espera al que abandona la senda y que quien odia la reprensión morirá. Así, la tefilah aceptada no se separa de un caminar que puede ser corregido.
 
@@ -60,7 +60,7 @@ El versículo 11 afirma que el Sheol y el Abadón están frente a יהוה; si l
 
 La aplicación a líderes o comunidades debe mantenerse responsable. La clase menciona la contradicción entre guardar prácticas visibles y dañar al prójimo, incluso devorar la casa de una viuda. Ese ejemplo se conecta con la denuncia de Yehoshua a la piedad exterior, pero no conviene atribuir cada detalle histórico a Mishlei 15:8. El principio textual es suficientemente fuerte: el camino y el corazón prueban la autenticidad de la práctica.
 
-## Poco con temor de יהוה vale más que tesoro inquieto (15:13-16) #proverbios_15_13-16
+## Poco con temor de יהוה vale más que tesoro inquieto (15:13-16) #mishlei_15_13-16
 
 Los versículos finales de la unidad muestran que el asunto no es solo el sacrificio formal. El corazón alegre hace bueno el rostro, el corazón entendido busca conocimiento y el buen corazón tiene un banquete continuo. Después llega el contraste de 15:16: poco con temor de יהוה es mejor que mucho tesoro con disturbio. El temor aquí no es terror sin dirección, sino la postura reverente que ordena la vida delante de יהוה.
 
@@ -80,9 +80,9 @@ La clase conecta la estabilidad con permanecer firmes en el camino, no con una p
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #proverbios_15_8 | El sacrificio de los malvados es una apariencia de piedad; la tefilah de los rectos es aceptación porque implica humillación y dirección. | Apoyo textual con aclaración sobre la diferencia entre rito hipócrita y oración sometida. |
-| #proverbios_15_9-12 | La justicia se persigue en un camino; quien odia la reprensión revela rebelión, y ningún corazón queda oculto ante יהוה. | Apoyo textual; la aplicación a prácticas visibles y daño al prójimo queda cualificada. |
-| #proverbios_15_13-16 | El corazón, el conocimiento y el temor de יהוה definen la verdadera riqueza; poco con temor vale más que mucho con disturbio. | Apoyo textual; se rechaza una lectura automática de prosperidad. |
+| #mishlei_15_8 | El sacrificio de los malvados es una apariencia de piedad; la tefilah de los rectos es aceptación porque implica humillación y dirección. | Apoyo textual con aclaración sobre la diferencia entre rito hipócrita y oración sometida. |
+| #mishlei_15_9-12 | La justicia se persigue en un camino; quien odia la reprensión revela rebelión, y ningún corazón queda oculto ante יהוה. | Apoyo textual; la aplicación a prácticas visibles y daño al prójimo queda cualificada. |
+| #mishlei_15_13-16 | El corazón, el conocimiento y el temor de יהוה definen la verdadera riqueza; poco con temor vale más que mucho con disturbio. | Apoyo textual; se rechaza una lectura automática de prosperidad. |
 | Oseas 6:6-7 y Mateo 9:13 | La clase conecta «bondad amorosa quiero y no sacrificio» con la denuncia de la piedad que encubre injusticia y con el llamado al arrepentimiento. | Conexión canónica propuesta; pendiente de cotejar el alcance histórico y léxico. |
 
 ## Pendiente de verificar

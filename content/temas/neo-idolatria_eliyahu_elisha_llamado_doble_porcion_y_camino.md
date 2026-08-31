@@ -11,31 +11,31 @@ tags:
   - doble-porcion
   - simbolismo
 references:
-  - "#1_reyes_19_19"
-  - "#1_reyes_19_20"
-  - "#1_reyes_19_21"
-  - "#1_reyes_21_20"
-  - "#1_reyes_21_21"
-  - "#1_reyes_21_25"
-  - "#1_reyes_21_27"
-  - "#1_reyes_21_28"
-  - "#1_reyes_21_29"
-  - "#2_reyes_1_2"
-  - "#2_reyes_1_3"
-  - "#2_reyes_1_4"
-  - "#2_reyes_2_1"
-  - "#2_reyes_2_2"
-  - "#2_reyes_2_4"
-  - "#2_reyes_2_6"
-  - "#2_reyes_2_8"
-  - "#2_reyes_2_9"
-  - "#2_reyes_2_10"
-  - "#2_reyes_2_11"
-  - "#2_reyes_2_12"
-  - "#2_reyes_2_13"
-  - "#2_reyes_2_14"
-  - "#2_reyes_13_20"
-  - "#2_reyes_13_21"
+  - "#melajim_alef_19_19"
+  - "#melajim_alef_19_20"
+  - "#melajim_alef_19_21"
+  - "#melajim_alef_21_20"
+  - "#melajim_alef_21_21"
+  - "#melajim_alef_21_25"
+  - "#melajim_alef_21_27"
+  - "#melajim_alef_21_28"
+  - "#melajim_alef_21_29"
+  - "#melajim_bet_1_2"
+  - "#melajim_bet_1_3"
+  - "#melajim_bet_1_4"
+  - "#melajim_bet_2_1"
+  - "#melajim_bet_2_2"
+  - "#melajim_bet_2_4"
+  - "#melajim_bet_2_6"
+  - "#melajim_bet_2_8"
+  - "#melajim_bet_2_9"
+  - "#melajim_bet_2_10"
+  - "#melajim_bet_2_11"
+  - "#melajim_bet_2_12"
+  - "#melajim_bet_2_13"
+  - "#melajim_bet_2_14"
+  - "#melajim_bet_13_20"
+  - "#melajim_bet_13_21"
 sources:
   - "https://www.youtube.com/watch?v=1vNrfjk0un0"
   - "docs/scriptures/tth/json/melajim_alef.json"
@@ -57,12 +57,12 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre la 
 
 | Referencia | Texto local TTH | Función en la enseñanza |
 | --- | --- | --- |
-| #1_reyes_19_19-21 | «Encontró a Elishá, hijo de Shafat... y arrojó su manto hacia él»; Elishá se despidió, ofreció el ganado y «fue tras Eliyáhu, y le servía». | El llamado se expresa mediante una señal que Elishá comprende y recibe con una respuesta costosa y gozosa. |
-| #1_reyes_21_20-21, #1_reyes_21_25 | «Te has vendido para hacer el mal en los ojos de יהוה»; no hubo nadie como Ajab, «que se vendió para hacer el mal». | La idolatría y el abuso del poder se describen como una entrega voluntaria a una conducta mala. |
-| #1_reyes_21_27-29 | Ajab «puso cilicio sobre su carne y ayunó»; «se ha humillado Ajab delante de Mí». | La humillación delante de יהוה retrasa el juicio anunciado, aunque el texto no presenta a Ajab como un modelo de fidelidad perseverante. |
-| #2_reyes_1_2-4 | Ajazyah manda consultar a Baal Zebub; el mensajero pregunta: «¿No hay Elohim en Israel...?». | La consulta a una potestad extranjera expone la neo-idolatría: buscar respuesta fuera de יהוה mientras se pertenece al pueblo de Israel. |
-| #2_reyes_2_1-14 | De Gilgal a Betel, Yerijó y el Yardén; Elishá pide «una doble porción» y cruza el río después de Eliyáhu. | El camino, la perseverancia del discípulo y la sucesión del servicio son leídos como una secuencia con sentido simbólico. |
-| #2_reyes_13_20-21 | Después de la muerte de Elishá, el hombre arrojado en su tumba «tocó... los huesos de Elishá, y vivió». | La clase vincula este episodio con la idea de que la vida recibida por medio de la obra de יהוה no queda reducida al momento visible del siervo. |
+| #melajim_alef_19_19-21 | «Encontró a Elishá, hijo de Shafat... y arrojó su manto hacia él»; Elishá se despidió, ofreció el ganado y «fue tras Eliyáhu, y le servía». | El llamado se expresa mediante una señal que Elishá comprende y recibe con una respuesta costosa y gozosa. |
+| #melajim_alef_21_20-21, #melajim_alef_21_25 | «Te has vendido para hacer el mal en los ojos de יהוה»; no hubo nadie como Ajab, «que se vendió para hacer el mal». | La idolatría y el abuso del poder se describen como una entrega voluntaria a una conducta mala. |
+| #melajim_alef_21_27-29 | Ajab «puso cilicio sobre su carne y ayunó»; «se ha humillado Ajab delante de Mí». | La humillación delante de יהוה retrasa el juicio anunciado, aunque el texto no presenta a Ajab como un modelo de fidelidad perseverante. |
+| #melajim_bet_1_2-4 | Ajazyah manda consultar a Baal Zebub; el mensajero pregunta: «¿No hay Elohim en Israel...?». | La consulta a una potestad extranjera expone la neo-idolatría: buscar respuesta fuera de יהוה mientras se pertenece al pueblo de Israel. |
+| #melajim_bet_2_1-14 | De Gilgal a Betel, Yerijó y el Yardén; Elishá pide «una doble porción» y cruza el río después de Eliyáhu. | El camino, la perseverancia del discípulo y la sucesión del servicio son leídos como una secuencia con sentido simbólico. |
+| #melajim_bet_13_20-21 | Después de la muerte de Elishá, el hombre arrojado en su tumba «tocó... los huesos de Elishá, y vivió». | La clase vincula este episodio con la idea de que la vida recibida por medio de la obra de יהוה no queda reducida al momento visible del siervo. |
 
 ## Un manto que llama al servicio
 

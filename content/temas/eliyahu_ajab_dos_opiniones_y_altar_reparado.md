@@ -10,20 +10,20 @@ tags:
   - discernimiento
   - remanente
 references:
-  - "#2_reyes_17_32"
-  - "#2_reyes_17_33"
-  - "#2_reyes_17_34"
-  - "#1_reyes_18_20"
-  - "#1_reyes_18_21"
-  - "#1_reyes_18_24"
-  - "#1_reyes_18_30"
-  - "#1_reyes_18_31"
-  - "#1_reyes_18_36"
-  - "#1_reyes_18_37"
-  - "#1_reyes_18_38"
-  - "#1_reyes_18_39"
-  - "#1_reyes_18_43"
-  - "#1_reyes_18_45"
+  - "#melajim_bet_17_32"
+  - "#melajim_bet_17_33"
+  - "#melajim_bet_17_34"
+  - "#melajim_alef_18_20"
+  - "#melajim_alef_18_21"
+  - "#melajim_alef_18_24"
+  - "#melajim_alef_18_30"
+  - "#melajim_alef_18_31"
+  - "#melajim_alef_18_36"
+  - "#melajim_alef_18_37"
+  - "#melajim_alef_18_38"
+  - "#melajim_alef_18_39"
+  - "#melajim_alef_18_43"
+  - "#melajim_alef_18_45"
   - "#mateo_18_7"
 sources:
   - "https://www.youtube.com/watch?v=Y8fIYVbDBtM"
@@ -44,17 +44,17 @@ Esta nota organiza la segunda parte de la enseñanza de Eric sobre Eliyahu y Aja
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #2_reyes_17_32-34 | «De יהוה eran temerosos y de sus dioses eran servidores… No temen a יהוה, y no hacen conforme… a la Torah». | La Escritura nombra la contradicción de temer a יהוה y servir a dioses al mismo tiempo. |
-| #1_reyes_18_20-21 | «¿Hasta cuándo ustedes cojearán sobre dos opiniones divididas? Si יהוה es el Elohim, vayan tras de Él; y si Baal, vayan tras de él». | Eliyahu exige discernimiento y decisión, no una identidad religiosa que absorba toda diferencia. |
-| #1_reyes_18_24-29 | «El Elohim que responda con fuego, él es el Elohim… pero no hubo voz y nadie respondió». | El rito de Baal queda expuesto como actividad sin respuesta; la violencia ritual no produce vida. |
-| #1_reyes_18_30-35 | «Y reparó el altar de יהוה que había sido derribado… tomó Eliyahu doce piedras». | El profeta no inventa un culto nuevo: repara el altar y recuerda a todo Israel. |
-| #1_reyes_18_36-39 | «Por tus palabras he hecho todas estas cosas… y sabrá este pueblo que Tú… eres el Elohim». | El fuego confirma la palabra y llama al pueblo a reconocer a יהוה. |
-| #1_reyes_18_41-45 | «He aquí, una nube pequeña como la palma de un hombre… y hubo gran lluvia». | Tras la confesión y la oración perseverante llega la lluvia que pone fin a la sequía. |
+| #melajim_bet_17_32-34 | «De יהוה eran temerosos y de sus dioses eran servidores… No temen a יהוה, y no hacen conforme… a la Torah». | La Escritura nombra la contradicción de temer a יהוה y servir a dioses al mismo tiempo. |
+| #melajim_alef_18_20-21 | «¿Hasta cuándo ustedes cojearán sobre dos opiniones divididas? Si יהוה es el Elohim, vayan tras de Él; y si Baal, vayan tras de él». | Eliyahu exige discernimiento y decisión, no una identidad religiosa que absorba toda diferencia. |
+| #melajim_alef_18_24-29 | «El Elohim que responda con fuego, él es el Elohim… pero no hubo voz y nadie respondió». | El rito de Baal queda expuesto como actividad sin respuesta; la violencia ritual no produce vida. |
+| #melajim_alef_18_30-35 | «Y reparó el altar de יהוה que había sido derribado… tomó Eliyahu doce piedras». | El profeta no inventa un culto nuevo: repara el altar y recuerda a todo Israel. |
+| #melajim_alef_18_36-39 | «Por tus palabras he hecho todas estas cosas… y sabrá este pueblo que Tú… eres el Elohim». | El fuego confirma la palabra y llama al pueblo a reconocer a יהוה. |
+| #melajim_alef_18_41-45 | «He aquí, una nube pequeña como la palma de un hombre… y hubo gran lluvia». | Tras la confesión y la oración perseverante llega la lluvia que pone fin a la sequía. |
 | #mateo_18_7 | «Ay del mundo por los tropiezos… pero ay del hombre por cuya mano viene el tropiezo». | La clase conecta la confusión idolátrica con tropiezos que no deben normalizarse. |
 
 ## La mezcla que impide responder
 
-Eric lee #2_reyes_17_32-34 como una clave para comprender el Carmelo. El texto describe a personas que temen a יהוה y sirven a sus dioses, pero termina diciendo que no temen a יהוה porque no guardan sus decretos, juicios, Torah y mandamiento. La secuencia no presenta dos devociones compatibles; muestra que una confesión verbal queda desmentida por una práctica contraria a la palabra.
+Eric lee #melajim_bet_17_32-34 como una clave para comprender el Carmelo. El texto describe a personas que temen a יהוה y sirven a sus dioses, pero termina diciendo que no temen a יהוה porque no guardan sus decretos, juicios, Torah y mandamiento. La secuencia no presenta dos devociones compatibles; muestra que una confesión verbal queda desmentida por una práctica contraria a la palabra.
 
 La aplicación de la clase es directa: la idolatría puede conservar vocabulario bíblico, fiestas o formas de sacrificio y, aun así, mezclar la Torah con costumbres de las naciones. El problema no es que el pueblo carezca de lenguaje religioso; es que ya no distingue. Cuando Baal es tratado como si fuera simplemente otro nombre de יהוה, la pregunta «¿a quién seguirán?» parece absurda. La ausencia de respuesta del pueblo en 1 Reyes 18:21 retrata precisamente esa ceguera.
 

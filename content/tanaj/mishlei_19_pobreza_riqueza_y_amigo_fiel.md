@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 19:1-9 sobre integridad, conocimiento, amistade
 date: 2026-08-05
 tags: [mishlei, mishlei_19, integridad, conocimiento, amistades, falsedad]
 references:
-  - "#proverbios_19_1"
-  - "#proverbios_19_2"
-  - "#proverbios_19_3"
-  - "#proverbios_19_4"
-  - "#proverbios_19_5"
-  - "#proverbios_19_6"
-  - "#proverbios_19_7"
-  - "#proverbios_19_8"
-  - "#proverbios_19_9"
-  - "#proverbios_18_24"
-  - "#salmos_113_7"
+  - "#mishlei_19_1"
+  - "#mishlei_19_2"
+  - "#mishlei_19_3"
+  - "#mishlei_19_4"
+  - "#mishlei_19_5"
+  - "#mishlei_19_6"
+  - "#mishlei_19_7"
+  - "#mishlei_19_8"
+  - "#mishlei_19_9"
+  - "#mishlei_18_24"
+  - "#tehilim_113_7"
   - "#mateo_7_21"
 sources:
   - "https://www.youtube.com/watch?v=G8H9qpGiIaU"
@@ -37,15 +37,15 @@ Esta nota organiza la clase inicial del capítulo 19. La exposición retoma Mish
 
 | Ref. | Hebreo OE (sin nikud, normalizado) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_19_1 | טוב רש הולך בתמו מעקש שפתיו והוא כסיל | Mejor es el pobre que anda en su integridad que el perverso de labios e indisciplinado. |
-| #proverbios_19_2 | גם בלא דעת נפש לא טוב ואץ ברגלים חוטא | Tampoco es bueno que una persona esté sin conocimiento, y el que se apresura con los pies, peca. |
-| #proverbios_19_3 | אולת אדם תסלף דרכו ועל יהוה יזעף לבו | La tontería del hombre pervierte su camino, y contra יהוה se irrita su corazón. |
-| #proverbios_19_4 | הון יסיף רעים רבים ודל מרעהו יפרד | La riqueza añadirá muchos amigos, y el débil, de su amigo será separado. |
-| #proverbios_19_5 | עד שקרים לא ינקה ויפיח כזבים לא ימלט | El testigo de falsedades no será inocente, y el que sopla mentiras no escapará. |
-| #proverbios_19_6 | רבים יחלו פני נדיב וכל הרע לאיש מתן | Muchos rogarán ante el rostro del dadivoso, y cada uno es el amigo de un hombre dador. |
-| #proverbios_19_7 | כל אחי רש שנאהו אף כי מרעהו רחקו ממנו מרדף אמרים לא לו המה | Todos los hermanos del pobre lo aborrecen, ¡cuánto más sus amigos se distanciarán de él!, persigue con dichos, pero no están más. |
-| #proverbios_19_8 | קנה לב אהב נפשו שמר תבונה למצוא טוב | El que adquiere corazón, ama su vida; el que guarda entendimiento, es para hallar el bien. |
-| #proverbios_19_9 | עד שקרים לא ינקה ויפיח כזבים יאבד | El testigo de falsedades no será inocente, y el que sopla mentiras perecerá. |
+| #mishlei_19_1 | טוב רש הולך בתמו מעקש שפתיו והוא כסיל | Mejor es el pobre que anda en su integridad que el perverso de labios e indisciplinado. |
+| #mishlei_19_2 | גם בלא דעת נפש לא טוב ואץ ברגלים חוטא | Tampoco es bueno que una persona esté sin conocimiento, y el que se apresura con los pies, peca. |
+| #mishlei_19_3 | אולת אדם תסלף דרכו ועל יהוה יזעף לבו | La tontería del hombre pervierte su camino, y contra יהוה se irrita su corazón. |
+| #mishlei_19_4 | הון יסיף רעים רבים ודל מרעהו יפרד | La riqueza añadirá muchos amigos, y el débil, de su amigo será separado. |
+| #mishlei_19_5 | עד שקרים לא ינקה ויפיח כזבים לא ימלט | El testigo de falsedades no será inocente, y el que sopla mentiras no escapará. |
+| #mishlei_19_6 | רבים יחלו פני נדיב וכל הרע לאיש מתן | Muchos rogarán ante el rostro del dadivoso, y cada uno es el amigo de un hombre dador. |
+| #mishlei_19_7 | כל אחי רש שנאהו אף כי מרעהו רחקו ממנו מרדף אמרים לא לו המה | Todos los hermanos del pobre lo aborrecen, ¡cuánto más sus amigos se distanciarán de él!, persigue con dichos, pero no están más. |
+| #mishlei_19_8 | קנה לב אהב נפשו שמר תבונה למצוא טוב | El que adquiere corazón, ama su vida; el que guarda entendimiento, es para hallar el bien. |
+| #mishlei_19_9 | עד שקרים לא ינקה ויפיח כזבים יאבד | El testigo de falsedades no será inocente, y el que sopla mentiras perecerá. |
 
 ## La integridad pobre y el peligro de los pies apresurados
 
@@ -93,11 +93,11 @@ La exposición conecta esta vida guardada con la enseñanza de Yehoshua sobre pe
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_19_1-3 | El pobre íntegro es preferible al perverso; sin conocimiento los pies se apresuran y luego el corazón culpa a יהוה. | Contraste y proceso textual apoyados; pobreza espiritual cualificada. |
-| #proverbios_19_4; #proverbios_18_24 | La riqueza terrenal suma amigos que pueden aplastar, mientras el amigo verdadero permanece. | Continuidad temática apoyada; distinción de riquezas pendiente. |
-| #proverbios_19_5-7 | El falso testigo no escapa; los amigos atraídos por regalos se apartan en el juicio. | Responsabilidad y consecuencia apoyadas; personajes espirituales, calificados. |
-| #proverbios_19_8 | Adquirir corazón y guardar entendimiento es amar la vida y hallar el bien. | Afirmación textual apoyada; corazón como mente del Mesías y Torah, aplicación. |
-| #proverbios_19_9 | La repetición intensifica el destino del que sopla falsedades. | Apoyo textual directo; extensión al juicio final, atribuida. |
+| #mishlei_19_1-3 | El pobre íntegro es preferible al perverso; sin conocimiento los pies se apresuran y luego el corazón culpa a יהוה. | Contraste y proceso textual apoyados; pobreza espiritual cualificada. |
+| #mishlei_19_4; #mishlei_18_24 | La riqueza terrenal suma amigos que pueden aplastar, mientras el amigo verdadero permanece. | Continuidad temática apoyada; distinción de riquezas pendiente. |
+| #mishlei_19_5-7 | El falso testigo no escapa; los amigos atraídos por regalos se apartan en el juicio. | Responsabilidad y consecuencia apoyadas; personajes espirituales, calificados. |
+| #mishlei_19_8 | Adquirir corazón y guardar entendimiento es amar la vida y hallar el bien. | Afirmación textual apoyada; corazón como mente del Mesías y Torah, aplicación. |
+| #mishlei_19_9 | La repetición intensifica el destino del que sopla falsedades. | Apoyo textual directo; extensión al juicio final, atribuida. |
 
 ## Pendiente de verificar
 

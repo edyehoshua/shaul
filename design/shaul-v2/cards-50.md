@@ -29,7 +29,7 @@ La metamorfosis de Marcos es una revelación condensada: el que se llama Ben HaA
 
 **Cuidado de lectura:** La conexión con Daniel 7 es textual. Las identificaciones históricas, las cronologías y la equivalencia «hijo = heredero» deben leerse en los estudios donde se argumentan, no tomarse como diccionario.
 
-**Notas de entrada:** `content/besorah/markos_ben_adam_metamorfosis_glosario.md` · `content/besorah/yojanan_9_ben_adam_y_el_ciego.md` · `content/temas/ben_hijo_titulos_mesias.md`
+**Notas de entrada:** `content/besorah/marcos_ben_adam_metamorfosis_glosario.md` · `content/besorah/juan_9_ben_adam_y_el_ciego.md` · `content/temas/ben_hijo_titulos_mesias.md`
 
 ## 2. Palabra
 
@@ -39,7 +39,7 @@ Tres imágenes se mantienen juntas: el trono, la silla de Moshéh y la semilla. 
 
 **Cuidado de lectura:** Palabra, Torah, logos, meymrá y anuncio apostólico se relacionan en el mapa, pero no son automáticamente la misma palabra en todos los pasajes.
 
-**Notas de entrada:** `content/besorah/markos_palabra_trono_semilla_identidad.md` · `content/besorah/yojanan_introduccion.md` · `content/besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres.md`
+**Notas de entrada:** `content/besorah/marcos_palabra_trono_semilla_identidad.md` · `content/besorah/juan_introduccion.md` · `content/besorah/juan_8_permanecer_en_la_palabra_y_ser_libres.md`
 
 ## 3. Hijo de Elohim
 
@@ -49,7 +49,7 @@ Hijo de Elohim señala al que manifiesta y reparte el don divino; Hijo del Hombr
 
 **Cuidado de lectura:** «Hijo» puede funcionar como título mesiánico, relación, misión o lenguaje de herencia según el pasaje. No debe leerse primero desde el castellano ni desde una segunda persona divina en competencia con Abá.
 
-**Notas de entrada:** `content/besorah/markos_hijo_elohim_hijo_hombre_herencia.md` · `content/temas/ben_hijo_titulos_mesias.md` · `content/besorah/yojanan_5_hijo_juicio_vida.md`
+**Notas de entrada:** `content/besorah/marcos_hijo_elohim_hijo_hombre_herencia.md` · `content/temas/ben_hijo_titulos_mesias.md` · `content/besorah/juan_5_hijo_juicio_vida.md`
 
 ## 4. Abá
 
@@ -59,7 +59,7 @@ En Marcos, Yehoshua ora Abá en Gue Shemanim: cercanía que no elimina la obedie
 
 **Cuidado de lectura:** La cadena El / Eloha / Elohim / Abá ordena la lectura de estos términos, pero no es un diccionario cerrado. No autoriza a borrar las diferencias entre el Padre, el Hijo y quienes son enviados, ni a reducir Abá a «papá» doméstico.
 
-**Notas de entrada:** `content/temas/elohim_aba.md` · `content/besorah/markos_abba_ruaj_mente_mashiaj.md` · `content/besorah/yojanan_oracion_dos_tronos_emunah.md`
+**Notas de entrada:** `content/temas/elohim_aba.md` · `content/besorah/marcos_abba_ruaj_mente_mashiaj.md` · `content/besorah/juan_oracion_dos_tronos_emunah.md`
 
 ## 5. Ruaj
 
@@ -79,7 +79,7 @@ La Escritura no presentaba al Mesías solamente como un rey invencible que trans
 
 **Cuidado de lectura:** Una lectura mesiánica necesita mostrar sus pasos. No basta con afirmar que un texto «habla del Mesías». Las cronologías y esquemas escatológicos que el texto no demuestra quedan cualificados.
 
-**Notas de entrada:** `content/temas/mashiaj_esperanza_de_israel_y_redencion.md` · `content/temas/identidad_mesianica_tora_gracia_y_discernimiento.md` · `content/besorah/yojanan_10_janukah_senales_mesias.md`
+**Notas de entrada:** `content/temas/mashiaj_esperanza_de_israel_y_redencion.md` · `content/temas/identidad_mesianica_tora_gracia_y_discernimiento.md` · `content/besorah/juan_10_janukah_senales_mesias.md`
 
 ## 7. Torah y gracia
 
@@ -99,7 +99,7 @@ La autoridad del reino no se parece al poder que domina para ser visto. Yehoshua
 
 **Cuidado de lectura:** Hablar del reino exige mirar tanto su esperanza futura como sus señales presentes. No toda aparición de «reino» o de **מלכות** entra en un esquema único.
 
-**Notas de entrada:** `content/besorah/markos_10_pacto_reino_riqueza_servicio_camino.md` · `content/besorah/yojanan_17_gloria_autoridad_y_vida.md` · `content/besorah/markos_1_reino_autoridad_compasion.md`
+**Notas de entrada:** `content/besorah/marcos_10_pacto_reino_riqueza_servicio_camino.md` · `content/besorah/juan_17_gloria_autoridad_y_vida.md` · `content/besorah/marcos_1_reino_autoridad_compasion.md`
 
 ## 9. Vida
 
@@ -109,7 +109,7 @@ Esa vida se relaciona con el Ruaj, la filiación y la esperanza. No es una prome
 
 **Cuidado de lectura:** No se debe confundir vida eterna con inmortalidad automática del alma, ni usar la esperanza para negar el cuerpo, el gemido de la creación o la resurrección.
 
-**Notas de entrada:** `content/besorah/yojanan_5_hijo_juicio_vida.md` · `content/besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza.md` · `content/besorah/yojanan_11_eleazar_resurreccion_vida.md`
+**Notas de entrada:** `content/besorah/juan_5_hijo_juicio_vida.md` · `content/besorah/romanos_8_vida_en_el_Ruaj_filiacion_sufrimiento_esperanza.md` · `content/besorah/juan_11_eleazar_resurreccion_vida.md`
 
 ## 10. Luz
 
@@ -119,7 +119,7 @@ Abraham no se hereda por genealogía. La discusión de Yojanán 8 juzga las obra
 
 **Cuidado de lectura:** Llamar a algo «luz» no convierte a quien lo dice en autoridad. La luz debe poder examinarse por la Escritura y por el fruto.
 
-**Notas de entrada:** `content/besorah/yojanan_8_luz_testimonio_y_abraham.md` · `content/besorah/efesios_5_amor_luz_y_sabiduria.md`
+**Notas de entrada:** `content/besorah/juan_8_luz_testimonio_y_abraham.md` · `content/besorah/efesios_5_amor_luz_y_sabiduria.md`
 
 ## 11. Pan de vida
 
@@ -129,7 +129,7 @@ La imagen se sostiene junto al maná, la palabra y el korban del Ben HaAdam: su 
 
 **Cuidado de lectura:** La imagen no debe separarse del discurso, de la memoria del desierto ni de la obediencia. Las retroversiones semíticas de cada palabra griega no están demostradas por el capítulo.
 
-**Notas de entrada:** `content/besorah/yojanan_6_pan_de_vida_y_palabras_de_vida.md` · `content/besorah/yojanan_6_pan_vida_senales.md` · `content/besorah/yojanan_6_pan_del_cielo_y_arbol_de_vida.md`
+**Notas de entrada:** `content/besorah/juan_6_pan_de_vida_y_palabras_de_vida.md` · `content/besorah/juan_6_pan_vida_senales.md` · `content/besorah/juan_6_pan_del_cielo_y_arbol_de_vida.md`
 
 ## 12. Agua viva
 
@@ -139,7 +139,7 @@ La invitación se sitúa junto al agua de Shiloaj y a la controversia de la fies
 
 **Cuidado de lectura:** Las conexiones entre agua, Ruaj y fiesta deben seguir el texto de cada pasaje. Las reconstrucciones sobre samaritanos, el pozo o la liturgia del templo no deben darse por cerradas.
 
-**Notas de entrada:** `content/besorah/yojanan_4_estudio_canonico_agua_viva_adoracion_y_confianza.md` · `content/besorah/yojanan_7_sucot_agua_y_discernimiento.md`
+**Notas de entrada:** `content/besorah/juan_4_estudio_canonico_agua_viva_adoracion_y_confianza.md` · `content/besorah/juan_7_sucot_agua_y_discernimiento.md`
 
 ## 13. Morada
 
@@ -149,7 +149,7 @@ Casa, moradas, camino, verdad y vida se leen como promesa y manifestación, no c
 
 **Cuidado de lectura:** Las moradas no deben usarse para construir mapas detallados donde el texto ofrece una promesa.
 
-**Notas de entrada:** `content/besorah/yojanan_14_moradas_camino_retorno.md` · `content/besorah/yojanan_14_morada_palabra_memoria.md`
+**Notas de entrada:** `content/besorah/juan_14_moradas_camino_retorno.md` · `content/besorah/juan_14_morada_palabra_memoria.md`
 
 ## 14. Puerta
 
@@ -159,7 +159,7 @@ Entrar por la puerta no es una contraseña para excluir por orgullo. Es dejarse 
 
 **Cuidado de lectura:** Toda autoridad que usa la puerta para controlar y herir contradice el cuidado que la imagen comunica. La conexión con Tehilim 118 debe mostrarse, no darse por sentada.
 
-**Notas de entrada:** `content/besorah/yojanan_10_puerta_pastor_abba.md` · `content/besorah/yojanan_9_10_ceguera_puerta_ovejas.md`
+**Notas de entrada:** `content/besorah/juan_10_puerta_pastor_abba.md` · `content/besorah/juan_9_10_ceguera_puerta_ovejas.md`
 
 ## 15. Pastor
 
@@ -169,7 +169,7 @@ En Yehoshua, el buen pastor se reconoce porque entrega su vida. No abandona al r
 
 **Cuidado de lectura:** Llamar a alguien pastor no le concede automáticamente el carácter del buen pastor. Ninguna obediencia ciega a un guía humano queda justificada por la metáfora.
 
-**Notas de entrada:** `content/temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano.md` · `content/besorah/yojanan_10_pastor_vida_obras.md`
+**Notas de entrada:** `content/temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano.md` · `content/besorah/juan_10_pastor_vida_obras.md`
 
 ## 16. Ovejas
 
@@ -179,7 +179,7 @@ Por eso Yehoshua responde: les dije, pero no se afirman. Las obras hechas en nom
 
 **Cuidado de lectura:** «Oveja» no debe usarse como insulto ni como permiso para exigir obediencia humana sin discernimiento.
 
-**Notas de entrada:** `content/besorah/yojanan_10_emunah_obras_ovejas.md` · `content/temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano.md`
+**Notas de entrada:** `content/besorah/juan_10_emunah_obras_ovejas.md` · `content/temas/pastor_ovejas_discernimiento_y_cuidado_del_rebano.md`
 
 ## 17. Cuerpo del Mesías
 
@@ -229,7 +229,7 @@ La misma imagen sirve para la identidad: hay semilla de la palabra y semilla de 
 
 **Cuidado de lectura:** La semilla puede tener alcance individual o colectivo según el contexto. No debe reducirse automáticamente a una sola persona ni usarse para especular linajes.
 
-**Notas de entrada:** `content/besorah/markos_palabra_trono_semilla_identidad.md` · `content/besorah/markos_4_palabra_tormenta_fidelidad.md` · `content/tanaj/devarim_30_retornar_corazon_y_escoger_vida.md`
+**Notas de entrada:** `content/besorah/marcos_palabra_trono_semilla_identidad.md` · `content/besorah/marcos_4_palabra_tormenta_fidelidad.md` · `content/tanaj/devarim_30_retornar_corazon_y_escoger_vida.md`
 
 ## 22. Fruto
 
@@ -239,7 +239,7 @@ En Colosenses, la vida renovada toma forma en amor, perdón, palabra y servicio.
 
 **Cuidado de lectura:** No se debe medir el fruto solo por visibilidad, éxito o cantidad de seguidores.
 
-**Notas de entrada:** `content/besorah/yojanan_15_vid_fruto_amor_discipulado.md` · `content/besorah/colosenses_3_vida_renovada_amor_y_servicio.md`
+**Notas de entrada:** `content/besorah/juan_15_vid_fruto_amor_discipulado.md` · `content/besorah/colosenses_3_vida_renovada_amor_y_servicio.md`
 
 ## 23. Poda
 
@@ -249,7 +249,7 @@ Permanecer también significa aceptar que algo en nosotros necesita ser quitado:
 
 **Cuidado de lectura:** Disciplina bíblica y abuso no son lo mismo. El fruto y el carácter del labrador —no el dolor infligido— confirman de qué se trata.
 
-**Notas de entrada:** `content/besorah/yojanan_15_vid_labrador_poda_permanecer.md` · `content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md`
+**Notas de entrada:** `content/besorah/juan_15_vid_labrador_poda_permanecer.md` · `content/besorah/hebreos_12_disciplina_santidad_y_monte_tziyon.md`
 
 ## 24. Omer y primicias
 
@@ -269,7 +269,7 @@ En Yojanán 13, la mesa, el lavado de pies y el pacto muestran que la liberació
 
 **Cuidado de lectura:** La memoria de la liberación no debe convertirse en orgullo nacional ni en una ceremonia separada de la justicia. Las decisiones calendáricas y los desarrollos del séder deben examinarse sin confundirlos con el texto de la Torah.
 
-**Notas de entrada:** `content/temas/pesaj_memoria_liberacion_y_mesa.md` · `content/besorah/yojanan_13_pesaj_seuda_lavado_pies.md` · `content/besorah/markos_14_pesaj_pacto_getsemani_juicio.md`
+**Notas de entrada:** `content/temas/pesaj_memoria_liberacion_y_mesa.md` · `content/besorah/juan_13_pesaj_seuda_lavado_pies.md` · `content/besorah/marcos_14_pesaj_pacto_getsemani_juicio.md`
 
 ## 26. Shabat
 
@@ -279,7 +279,7 @@ Shabat se relaciona con sanidad, misericordia y límites. En Yojanán 5 y Marcos
 
 **Cuidado de lectura:** El mandamiento no se demuestra por Mishná, Talmud o práctica local. Esas capas pueden orientar, pero no sustituyen a la Torah ni autorizan a ignorar la compasión.
 
-**Notas de entrada:** `content/temas/shabat.md` · `content/besorah/yojanan_5_bet_jesda_shabat.md` · `content/besorah/markos_2_torah_promesas_procedimientos.md`
+**Notas de entrada:** `content/temas/shabat.md` · `content/besorah/juan_5_bet_jesda_shabat.md` · `content/besorah/marcos_2_torah_promesas_procedimientos.md`
 
 ## 27. Sucot
 
@@ -289,7 +289,7 @@ En Yojanán 7, la fiesta se vuelve escenario de enseñanza, controversia y la in
 
 **Cuidado de lectura:** El gozo de Sucot no autoriza especulación sin límites sobre calendarios, cosechas finales o identidades contemporáneas.
 
-**Notas de entrada:** `content/temas/sukot_habitar_gozo_y_memoria.md` · `content/besorah/yojanan_7_sucot_agua_y_discernimiento.md`
+**Notas de entrada:** `content/temas/sukot_habitar_gozo_y_memoria.md` · `content/besorah/juan_7_sucot_agua_y_discernimiento.md`
 
 ## 28. Shavuot
 
@@ -309,7 +309,7 @@ Yojanán 10 sitúa a Yehoshua en Yerushaláim en la fiesta de la dedicación. La
 
 **Cuidado de lectura:** La historia de los Macabeos, Josefo y la tradición posterior debe distinguirse del texto de Yojanán y de las aplicaciones actuales. La festividad no sustituye la pregunta por las obras del Mesías.
 
-**Notas de entrada:** `content/temas/janukah.md` · `content/besorah/yojanan_10_janukah_senales_mesias.md`
+**Notas de entrada:** `content/temas/janukah.md` · `content/besorah/juan_10_janukah_senales_mesias.md`
 
 ## 30. Nombre
 
@@ -319,7 +319,7 @@ El Nombre se une a salvación, sacerdocio y memoria. El nombre de Yehoshua no se
 
 **Cuidado de lectura:** La discusión sobre pronunciación puede ser importante, pero no debe ocultar el carácter y la obediencia que el Nombre representa.
 
-**Notas de entrada:** `content/temas/nombre_de_יהוה_escritura_pronunciacion_y_fidelidad.md` · `content/temas/nombre_salvacion_sacerdocio_mesias.md` · `content/besorah/yojanan_14_abba_menajem_nombre.md`
+**Notas de entrada:** `content/temas/nombre_de_יהוה_escritura_pronunciacion_y_fidelidad.md` · `content/temas/nombre_salvacion_sacerdocio_mesias.md` · `content/besorah/juan_14_abba_menajem_nombre.md`
 
 ## 31. Shema
 
@@ -329,7 +329,7 @@ Shema se relaciona con memoria, discernimiento y entrega. Amar a Elohim no es so
 
 **Cuidado de lectura:** Guardar no significa obedecer sin entender. Escuchar incluye atención, discernimiento y respuesta.
 
-**Notas de entrada:** `content/besorah/markos_12_shema_senor_david_vida_entregada.md` · `content/temas/shema_oír_amar_y_guardar_la_palabra.md`
+**Notas de entrada:** `content/besorah/marcos_12_shema_senor_david_vida_entregada.md` · `content/temas/shema_oír_amar_y_guardar_la_palabra.md`
 
 ## 32. Santidad
 
@@ -349,7 +349,7 @@ La justicia que Elohim manifiesta en Yehoshua se recibe por emunah y excluye la 
 
 **Cuidado de lectura:** La justicia no debe confundirse con la venganza personal ni con la necesidad de ganar todas las discusiones.
 
-**Notas de entrada:** `content/tanaj/micah_6_justicia_bondad_y_caminar.md` · `content/besorah/romanos_12_culto_vivo_dones_amor_practico.md` · `content/besorah/romanos_3_justicia_emunah_establece_torah.md`
+**Notas de entrada:** `content/tanaj/mijah_6_justicia_bondad_y_caminar.md` · `content/besorah/romanos_12_culto_vivo_dones_amor_practico.md` · `content/besorah/romanos_3_justicia_emunah_establece_torah.md`
 
 ## 34. Emunah
 
@@ -361,7 +361,7 @@ Recibida, la emunah se vuelve firmeza que camina, escucha y da fruto. Las obras 
 
 **Cuidado de lectura:** Emunah no es «creer que» en el sentido moderno, ni una fuerza que sale de nosotros para obligar a Elohim. El único neeman es él.
 
-**Notas de entrada:** `content/besorah/yojanan_oracion_dos_tronos_emunah.md` · `content/tanaj/devarim_7_recordar_pacto_y_dependencia.md` · `content/tanaj/devarim_32_haazinu_roca_fidelidad.md`
+**Notas de entrada:** `content/besorah/juan_oracion_dos_tronos_emunah.md` · `content/tanaj/devarim_7_recordar_pacto_y_dependencia.md` · `content/tanaj/devarim_32_haazinu_roca_fidelidad.md`
 
 ## 35. Arrepentimiento
 
@@ -375,13 +375,13 @@ Apocalipsis muestra lo trágico de recibir advertencias y negarse a volver. El a
 
 ## 36. Testimonio
 
-El **testimonio** es una palabra que responde a algo visto, oído o recibido. No es publicidad personal. En Yojanán, Iojanán testifica para que otros crean; el ciego sanado testifica; el costado abierto queda escrito para que se crea. En Apocalipsis, el testimonio puede costar.
+El **testimonio** es una palabra que responde a algo visto, oído o recibido. No es publicidad personal. En Yojanán, Yojanán testifica para que otros crean; el ciego sanado testifica; el costado abierto queda escrito para que se crea. En Apocalipsis, el testimonio puede costar.
 
 Su fuerza no depende de que todos lo acepten de inmediato, sino de que permanezca unido a la palabra y sea sostenido con fidelidad. Las obras del Mesías ya testifican; el problema suele ser la instrucción no recibida, no la falta de señales.
 
 **Cuidado de lectura:** Testificar no significa hablar sin escuchar ni presentar cada opinión personal como revelación.
 
-**Notas de entrada:** `content/besorah/apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza.md` · `content/besorah/yojanan_1_testigo_cordero.md` · `content/besorah/yojanan_19_madero_costado_y_testimonio.md`
+**Notas de entrada:** `content/besorah/apocalipsis_1_revelacion_mensaje_testimonio_y_esperanza.md` · `content/besorah/juan_1_testigo_cordero.md` · `content/besorah/juan_19_madero_costado_y_testimonio.md`
 
 ## 37. Discernimiento
 
@@ -441,7 +441,7 @@ Hay una institucionalidad de dos tronos: el trono de la gracia —Elohim, amor e
 
 **Cuidado de lectura:** Hablar de autoridad celestial no justifica convertir a un líder humano en intocable.
 
-**Notas de entrada:** `content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md` · `content/besorah/yojanan_oracion_dos_tronos_emunah.md` · `content/besorah/yojanan_17_gloria_autoridad_y_vida.md`
+**Notas de entrada:** `content/besorah/apocalipsis_4_trono_redencion_y_adoracion.md` · `content/besorah/juan_oracion_dos_tronos_emunah.md` · `content/besorah/juan_17_gloria_autoridad_y_vida.md`
 
 ## 43. Santuario
 
@@ -451,7 +451,7 @@ Apocalipsis abre el santuario celestial en momentos de juicio y esperanza. La mi
 
 **Cuidado de lectura:** Santuario no debe usarse para separar lo «sagrado» de una vida que ignora justicia y misericordia.
 
-**Notas de entrada:** `content/tanaj/shemot_33_34_santuario_presencia_y_santidad.md` · `content/besorah/hebreos_9_santuario_conciencia_y_redencion.md` · `content/besorah/yojanan_2_senales_celo_y_santuario.md`
+**Notas de entrada:** `content/tanaj/shemot_33_34_santuario_presencia_y_santidad.md` · `content/besorah/hebreos_9_santuario_conciencia_y_redencion.md` · `content/besorah/juan_2_senales_celo_y_santuario.md`
 
 ## 44. Sacerdocio
 
@@ -471,7 +471,7 @@ Yehoshua no ora a otro dios superior; entra en la institucionalidad divina, conf
 
 **Cuidado de lectura:** La oración no sustituye la acción responsable.
 
-**Notas de entrada:** `content/besorah/yojanan_oracion_dos_tronos_emunah.md` · `content/besorah/efesios_6_firmeza_oracion_y_servicio.md` · `content/besorah/markos_14_pesaj_pacto_getsemani_juicio.md`
+**Notas de entrada:** `content/besorah/juan_oracion_dos_tronos_emunah.md` · `content/besorah/efesios_6_firmeza_oracion_y_servicio.md` · `content/besorah/marcos_14_pesaj_pacto_getsemani_juicio.md`
 
 ## 46. Camino
 
@@ -481,7 +481,7 @@ Seguir incluye decisiones, renuncias, tropiezos y retornos. No es una línea rec
 
 **Cuidado de lectura:** Nadie puede usar «el camino» para despreciar a la persona que todavía está aprendiendo a caminar.
 
-**Notas de entrada:** `content/besorah/yojanan_14_moradas_camino_retorno.md` · `content/besorah/yojanan_12_camino_hora_luz_palabra.md` · `content/besorah/markos_8_ciego_confesion_camino_cruz.md`
+**Notas de entrada:** `content/besorah/juan_14_moradas_camino_retorno.md` · `content/besorah/juan_12_camino_hora_luz_palabra.md` · `content/besorah/marcos_8_ciego_confesion_camino_cruz.md`
 
 ## 47. Madero
 
@@ -491,7 +491,7 @@ Marcos 15 oye el grito de la hora novena junto a Tehilim 22; el velo del Hejal s
 
 **Cuidado de lectura:** La cruz o el madero no deben usarse para glorificar el sufrimiento de las víctimas ni para justificar nuevos abusos.
 
-**Notas de entrada:** `content/besorah/yojanan_19_madero_costado_y_testimonio.md` · `content/besorah/markos_15_juicio_cruz_velo_confesion.md`
+**Notas de entrada:** `content/besorah/juan_19_madero_costado_y_testimonio.md` · `content/besorah/marcos_15_juicio_cruz_velo_confesion.md`
 
 ## 48. Resurrección
 
@@ -501,7 +501,7 @@ Por eso la comunidad no recibe una noticia para guardarla en silencio, sino una 
 
 **Cuidado de lectura:** Esperanza corporal no significa negar el misterio ni convertir la resurrección en una explicación técnica. Calendario, primer día y envío deben mantenerse distinguibles.
 
-**Notas de entrada:** `content/besorah/yojanan_11_eleazar_resurreccion_vida.md` · `content/besorah/markos_16_resurreccion_envio_y_testimonio.md` · `content/temas/omer_reshit_primicia_resurreccion.md`
+**Notas de entrada:** `content/besorah/juan_11_eleazar_resurreccion_vida.md` · `content/besorah/marcos_16_resurreccion_envio_y_testimonio.md` · `content/temas/omer_reshit_primicia_resurreccion.md`
 
 ## 49. Nueva creación
 
@@ -521,7 +521,7 @@ Permanecer incluye escuchar, corregir, amar y volver a la palabra. No es inmovil
 
 **Cuidado de lectura:** Permanecer en una comunidad o en una relación nunca significa callar el daño. La rama permanece en la vid, no en el leñador que la destroza.
 
-**Notas de entrada:** `content/besorah/yojanan_8_permanecer_en_la_palabra_y_ser_libres.md` · `content/besorah/yojanan_15_vid_fruto_amor_discipulado.md`
+**Notas de entrada:** `content/besorah/juan_8_permanecer_en_la_palabra_y_ser_libres.md` · `content/besorah/juan_15_vid_fruto_amor_discipulado.md`
 
 ## Nota editorial
 

@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_81_1"
-  - "#salmos_81_17"
+  - "#tehilim_81_1"
+  - "#tehilim_81_17"
 sources:
   - "https://www.youtube.com/watch?v=4XbMGoFPc8c"
   - "docs/scriptures/oe/json/psalms/81.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 81. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                  | Observación de lectura                                               |
 | -------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_81_1  | למנצח על הגתית לאסף                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_81_17 | ויאכילהו מחלב חטה ומצור דבש אשביעך | El verso final permite observar el cierre de la composición.         |
+| #tehilim_81_1  | למנצח על הגתית לאסף                   | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_81_17 | ויאכילהו מחלב חטה ומצור דבש אשביעך | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

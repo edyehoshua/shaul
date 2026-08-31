@@ -10,12 +10,12 @@ tags:
   - discernimiento
   - yehoshua
 references:
-  - "#deuteronomio_23_1"
-  - "#deuteronomio_23_2"
-  - "#deuteronomio_23_3"
-  - "#deuteronomio_23_7"
-  - "#deuteronomio_23_8"
-  - "#isaias_56_3-5"
+  - "#devarim_23_1"
+  - "#devarim_23_2"
+  - "#devarim_23_3"
+  - "#devarim_23_7"
+  - "#devarim_23_8"
+  - "#yeshayahu_56_3-5"
   - "#hechos_8_26-39"
   - "#galatas_3_28-29"
 sources:
@@ -37,7 +37,7 @@ La sesión de Eric de Jesús Rodríguez Mendoza sobre las mitzvot 360–362 part
 
 La fuente pública se titula «The “613” Mitzvot #360-362 The Seed of Yisra'el». Eric comenta que la referencia tradicional es Deuteronomio 23:2 y reconoce que el versículo no formula con las mismas palabras toda la explicación de la lista. También distingue entre quedar fuera de una categoría comunitaria y quedar fuera de la salvación: no acepta que una persona deba adoptar una identidad étnica por miedo para recibir la salvación. Estas observaciones se conservan como atribución de la clase y se evalúan contra el orden de la Torah y contra los textos canónicos relacionados; no se presentan como citas literales.
 
-## Deuteronomio 23:1-3: la norma y su alcance #deuteronomio_23_1-3
+## Deuteronomio 23:1-3: la norma y su alcance #devarim_23_1-3
 
 Deuteronomio 23:1-3 reúne casos de exclusión de la asamblea de יהוה. La unidad usa categorías corporales, de nacimiento y de origen; no permite leer una sola línea como si fuera una definición moderna de valor humano. **(קהל)**, _qahal_, significa asamblea, congregación o reunión convocada; en este pasaje su fuerza contextual es la participación en una comunidad cultual y jurídica, no una palabra automática para describir toda la salvación. «Asamblea» es una glosa directa, mientras equipararla sin más con cualquier institución posterior sería una aplicación aproximada.
 

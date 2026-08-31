@@ -1,9 +1,9 @@
 ---
 title: "Yefté, memoria y posesión"
-description: "Jueces 11 preserva el alegato de Yefté ante Amón y examina memoria, herencia y dependencia de יהוה."
+description: "Shoftim 11 preserva el alegato de Yefté ante Amón y examina memoria, herencia y dependencia de יהוה."
 date: 2026-07-30
 tags: [tanaj, shoftim, haftarah, juqat]
-references: ["#jueces_11_12", "#jueces_11_23", "#jueces_11_29"]
+references: ["#shoftim_11_12", "#shoftim_11_23", "#shoftim_11_29"]
 sources: ["https://www.youtube.com/watch?v=aS47zjh67Kw", "docs/scriptures/oe/json/judges/11.json"]
 source_ids: ["youtube:aS47zjh67Kw"]
 ---

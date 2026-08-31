@@ -22,9 +22,9 @@ references:
   - "#galatas_3_10"
   - "#galatas_3_11"
   - "#galatas_3_12"
-  - "#genesis_15_6"
-  - "#genesis_12_3"
-  - "#deuteronomio_27_26"
+  - "#bereshit_15_6"
+  - "#bereshit_12_3"
+  - "#devarim_27_26"
 sources:
   - "https://www.youtube.com/watch?v=b-ZqoEl_9fA"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -85,8 +85,8 @@ Eric distingue entre una apariencia exterior y un corazón transformado. Guardar
 | #galatas_3_1-5 | Los gálatas comenzaron por el Ruaj y fueron tentados a terminar por la carne; la salvación no se obtiene por rituales o méritos. | Apoyo textual al contraste; la aplicación a prácticas actuales queda cualificada. |
 | #galatas_3_6-9 | Abraham recibió la emunah y la bendición alcanza a los gentiles; la pertenencia no descansa únicamente en sangre. | Apoyo textual; incorporación e injerto se conservan como lectura pedagógica. |
 | #galatas_3_10-12 | «Obras de la Torah» describe confianza en méritos; aun así, la Torah debe hacerse como fruto de la promesa. | Distinción contextual; no se presenta la Torah como abolida ni las obras como base salvadora. |
-| #genesis_15_6 | La clase propone leer la forma hebrea como acción recibida de Elohim, no como mérito autónomo de Abraham. | Pendiente de cotejo gramatical completo; se conserva el énfasis en la iniciativa divina. |
-| #deuteronomio_27_26 | La exposición diferencia estar excluido por no mantener las palabras y aparentar obediencia. | Se conserva como contraste atribuido; la traducción de términos hebreos requiere verificación. |
+| #bereshit_15_6 | La clase propone leer la forma hebrea como acción recibida de Elohim, no como mérito autónomo de Abraham. | Pendiente de cotejo gramatical completo; se conserva el énfasis en la iniciativa divina. |
+| #devarim_27_26 | La exposición diferencia estar excluido por no mantener las palabras y aparentar obediencia. | Se conserva como contraste atribuido; la traducción de términos hebreos requiere verificación. |
 
 ## Pendiente de verificar
 
@@ -102,7 +102,7 @@ La escucha de la emunah no es una recompensa que la persona compra: en el argume
 
 ## Ver también
 
-- [[galatim_3|Promesa, fidelidad y herencia en Galatim 3]]
+- [[galatas_3|Promesa, fidelidad y herencia en Galatim 3]]
 - [[galatas_3_bajo_ley_pedagoga_y_herencia|Gálatas 3: bajo ley, pedagogo y herencia]]
 - [[galatas_2_gracia_unidad_y_verdad_del_evangelio|Gálatas 2: gracia, unidad y verdad del evangelio]]
 

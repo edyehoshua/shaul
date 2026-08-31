@@ -9,6 +9,13 @@ sources: []
 
 Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con y sin nikud), griego, transliteración, español e inglés, junto con sus abreviaturas comunes.
 
+## Convención para notas y etiquetas
+
+- En `content/tanaj/`, los nombres de libros en títulos, nombres de archivo y etiquetas usan transliteración hebrea ASCII: `bereshit`, `shemot`, `vayikra`, `yeshayahu`, `tehilim`, etc.
+- En `content/besorah/`, los nombres de libros en títulos, nombres de archivo y etiquetas usan español: `mateo`, `marcos`, `juan`, `galatas`, `apocalipsis`, etc.
+- En una referencia cruzada se conserva la convención del libro citado: una nota de la Besorah que cite el Tanaj usa `#yeshayahu_53_5`, y una nota del Tanaj que cite Juan usa `#juan_1_1`.
+- Las columnas de transliteración y nombres alternativos de esta tabla son informativas; no cambian los identificadores canónicos de las notas.
+
 ## Tanaj
 
 ### Torá
@@ -17,7 +24,7 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | ---------------- | ---------------- | --------------- | ------------- | ---------------------- | ------------ | ----------- | ---------------------- |
 | בראשית           | בְּרֵאשִׁית      | bereshit        | Γένεσις       | Genesis                | Génesis      | Genesis     | Gn, Gen, Gén           |
 | שמות             | שְׁמוֹת          | shemot          | Ἔξοδος        | Exodos                 | Éxodo        | Exodus      | Ex, Éx, Exo            |
-| ויקרא            | וַיִּקְרָא       | vaikra          | Λευιτικόν     | Leuitikon              | Levítico     | Leviticus   | Lv, Lev, Levítico      |
+| ויקרא            | וַיִּקְרָא       | vayikra         | Λευιτικόν     | Leuitikon              | Levítico     | Leviticus   | Lv, Lev, Levítico      |
 | במדבר            | בְּמִדְבַּר      | bamidbar        | Ἀριθμοί       | Arithmoi               | Números      | Numbers     | Nm, Núm, Num           |
 | דברים            | דְּבָרִים        | devarim         | Δευτερονόμιον | Deuteronomion          | Deuteronomio | Deuteronomy | Dt, Deut, Deuteronomio |
 
@@ -41,18 +48,18 @@ Esta guía proporciona los nombres de todos los libros bíblicos en hebreo (con 
 | ישעיהו           | יְשַׁעְיָהוּ     | yeshayahu       | Ἠσαΐας   | Ēsaias                 | Isaías    | Isaiah    | Is, Isa, Isaías   |
 | ירמיהו           | יִרְמְיָהוּ      | yirmeyahu       | Ἰερεμίας | Ieremias               | Jeremías  | Jeremiah  | Jr, Jer, Jeremías |
 | יחזקאל           | יְחֶזְקֵאל       | yejezkel        | Ἰεζεκιήλ | Iezekiēl               | Ezequiel  | Ezekiel   | Ez, Eze, Ezequiel |
-| הושע             | הוֹשֵׁעַ         | hosea           | Ὡσηέ     | Hōsēe                  | Oseas     | Hosea     | Os, Ose, Oseas    |
-| יואל             | יוֹאֵל           | yo'el           | Ἰωήλ     | Iōēl                   | Joel      | Joel      | Jl, Joel          |
+| הושע             | הוֹשֵׁעַ         | hoshea          | Ὡσηέ     | Hōsēe                  | Oseas     | Hosea     | Os, Ose, Oseas    |
+| יואל             | יוֹאֵל           | yoel            | Ἰωήλ     | Iōēl                   | Joel      | Joel      | Jl, Joel          |
 | עמוס             | עָמוֹס           | amos            | Ἀμώς     | Amōs                   | Amós      | Amos      | Am, Amos          |
 | עובדיה           | עֹבַדְיָה        | ovadiah         | Ἀβδιού   | Abdious                | Abdías    | Obadiah   | Abd, Abdías       |
-| יונה             | יוֹנָה           | ionah           | Ἰωνᾶς    | Iōnas                  | Jonás     | Jonah     | Jon, Jonás        |
+| יונה             | יוֹנָה           | yonah           | Ἰωνᾶς    | Iōnas                  | Jonás     | Jonah     | Jon, Jonás        |
 | מיכה             | מִיכָה           | mijah           | Μιχαίας  | Michaias               | Miqueas   | Micah     | Miq, Miqueas      |
 | נחום             | נַחוּם           | najum           | Ναούμ    | Naoum                  | Nahúm     | Nahum     | Nah, Nahúm        |
-| חבקוק            | חַבַּקּוּק       | jabakuk         | Ἀμβακούμ | Ambakoum               | Habacuc   | Habakkuk  | Hab, Habacuc      |
+| חבקוק            | חַבַּקּוּק       | habakuk         | Ἀμβακούμ | Ambakoum               | Habacuc   | Habakkuk  | Hab, Habacuc      |
 | צפניה            | צְפַנְיָה        | tsefaniah       | Σοφονίας | Sophonias              | Sofonías  | Zephaniah | Sof, Sofonías     |
 | חגי              | חַגַּי           | jaggai          | Ἀγγαῖος  | Angaios                | Hageo     | Haggai    | Hag, Hageo        |
 | זכריה            | זְכַרְיָה        | zejariah        | Ζαχαρίας | Zacharias              | Zacarías  | Zechariah | Zac, Zacarías     |
-| מלאכי            | מַלְאָכִי        | mal'aji         | Μαλαχίας | Malachias              | Malaquías | Malachi   | Mal, Malaquías    |
+| מלאכי            | מַלְאָכִי        | malaji          | Μαλαχίας | Malachias              | Malaquías | Malachi   | Mal, Malaquías    |
 
 ### Ketuvim (Escritos)
 

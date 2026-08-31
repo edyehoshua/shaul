@@ -19,7 +19,7 @@ references:
   - "#galatas_3_27"
   - "#galatas_3_28"
   - "#galatas_3_29"
-  - "#jeremias_31_33"
+  - "#yirmeyahu_31_33"
 sources:
   - "https://www.youtube.com/watch?v=O3PzUB3Il_k"
   - "docs/scriptures/delitzsch/json/galatians.json"
@@ -83,7 +83,7 @@ El cierre es decisivo: si pertenecen al Mesías, son simiente de Abraham y hered
 | --- | --- | --- |
 | #galatas_3_22-23 | La Escritura encierra bajo pecado y «bajo ley» describe una sentencia, no una condena contra la Torá. | Apoyo textual para el confinamiento; diferencia gramatical y alcance doctrinal quedan cualificados. |
 | #galatas_3_24 | La Torá es _paidagōgos_ / _omenet_, una criadora o guía que conduce al Mesías. | Apoyo directo para la función pedagógica; la equivalencia léxica entre griego y hebreo se marca como funcional. |
-| #galatas_3_25-26; #jeremias_31_33 | La madurez en la fidelidad lleva la Torá al corazón y produce filiación. | Conexión canónica cualificada: Jeremías ilumina el tema, sin sustituir el argumento de Gálatas. |
+| #galatas_3_25-26; #yirmeyahu_31_33 | La madurez en la fidelidad lleva la Torá al corazón y produce filiación. | Conexión canónica cualificada: Jeremías ilumina el tema, sin sustituir el argumento de Gálatas. |
 | #galatas_3_27-29 | Vestirse del Mesías elimina barreras de origen y hace herederos de la promesa a los que pertenecen a él. | Apoyo directo del texto; las aplicaciones contemporáneas no se presentan como una cita de la clase. |
 
 ## Pendiente de verificar

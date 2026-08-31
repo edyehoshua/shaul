@@ -13,8 +13,8 @@ references:
   - "#romanos_6_1-11"
   - "#romanos_6_12-14"
   - "#romanos_6_15-23"
-  - "#genesis_4_6-7"
-  - "#ezequiel_36_26-27"
+  - "#bereshit_4_6-7"
+  - "#yejezkel_36_26-27"
 sources:
   - "https://www.youtube.com/watch?v=b4EPQ70FrvQ"
   - "docs/scriptures/tth/json/romanos.json"

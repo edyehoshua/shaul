@@ -19,7 +19,7 @@ references:
   - "#hechos_5_29"
   - "#daniel_3_16"
   - "#daniel_6_10"
-  - "#isaias_10_5"
+  - "#yeshayahu_10_5"
 sources:
   - "https://www.youtube.com/watch?v=47wv6TT5NVg"
   - "docs/scriptures/tth/json/romanos.json"
@@ -53,7 +53,7 @@ El texto local sí manda sujetarse y advierte contra oponerse al orden. La nota 
 
 ## 13:3-5: autoridad, conciencia y el bien que puede examinarse #romanos_13_3-5
 
-La exposición presenta al gobernante como servidor de Elohim en un sentido funcional, semejante al uso de Asiria como instrumento de juicio en #isaias_10_5. Esa comparación puede ayudar a distinguir permiso providencial de aprobación moral. Romanos 13:3-4 describe qué hace la autoridad en la perícopa: debe producir temor en quien hace el mal, reconocer el bien y portar espada contra la injusticia. El pasaje no dice que cada gobernante actúe siempre de acuerdo con esa descripción.
+La exposición presenta al gobernante como servidor de Elohim en un sentido funcional, semejante al uso de Asiria como instrumento de juicio en #yeshayahu_10_5. Esa comparación puede ayudar a distinguir permiso providencial de aprobación moral. Romanos 13:3-4 describe qué hace la autoridad en la perícopa: debe producir temor en quien hace el mal, reconocer el bien y portar espada contra la injusticia. El pasaje no dice que cada gobernante actúe siempre de acuerdo con esa descripción.
 
 Eric usa Daniel y los tres compañeros como ejemplos de una ciudadanía no anárquica. Ellos no buscan rebelión por cualquier incomodidad, pero no se inclinan ante la estatua ni abandonan la oración cuando el decreto lo prohíbe (#daniel_3_16-18; #daniel_6_10). La aplicación es sólida como principio de discernimiento, aunque los detalles sobre los imperios y el castigo histórico requieren fuentes adicionales. La conciencia de #romanos_13_5 no es una excusa para seguir el deseo personal: debe probarse contra la palabra de Elohim y contra el bien que el pasaje describe.
 

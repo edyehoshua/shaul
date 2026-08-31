@@ -10,10 +10,10 @@ tags:
   - pacto
   - esperanza
 references:
-  - "#exodo_19_1-6"
-  - "#exodo_20_1-3"
-  - "#levitico_23_15-22"
-  - "#deuteronomio_16_9-12"
+  - "#shemot_19_1-6"
+  - "#shemot_20_1-3"
+  - "#vayikra_23_15-22"
+  - "#devarim_16_9-12"
   - "#hechos_2_1-21"
   - "#hebreos_12_18-24"
 sources:
@@ -43,10 +43,10 @@ El término visible **אַקְדָּמוּת**, _Akdamut_, se relaciona ordinari
 
 | Unidad            | Texto o eje local                                                                                                                    | Control del foco anunciado                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| #exodo_19_1-6    | Israel llega al Sinaí y es llamado a ser propiedad especial, reino de sacerdotes y nación santa si escucha la voz y guarda el pacto. | La poesía de Shavuot puede responder a la memoria del pacto; no reemplaza la obediencia exigida por el pasaje.                    |
-| #exodo_20_1-3    | יהוה se presenta como quien sacó a Israel de Mitzráim antes de pronunciar las palabras.                                              | La alabanza debe comenzar con liberación y relación, no con especulación sobre el calendario.                                     |
-| #levitico_23_15-22  | Siete semanas conducen a una convocación y a una ofrenda; la cosecha deja provisión para pobre y extranjero.                         | La fiesta tiene ritmo de espera y una obligación social inseparable de su culto.                                                  |
-| #deuteronomio_16_9-12  | El conteo desemboca en alegría delante de יהוה, con levita, extranjero, huérfano y viuda, y memoria de la esclavitud.                | Una celebración litúrgica no puede reducirse a experiencia privada o superioridad religiosa.                                      |
+| #shemot_19_1-6    | Israel llega al Sinaí y es llamado a ser propiedad especial, reino de sacerdotes y nación santa si escucha la voz y guarda el pacto. | La poesía de Shavuot puede responder a la memoria del pacto; no reemplaza la obediencia exigida por el pasaje.                    |
+| #shemot_20_1-3    | יהוה se presenta como quien sacó a Israel de Mitzráim antes de pronunciar las palabras.                                              | La alabanza debe comenzar con liberación y relación, no con especulación sobre el calendario.                                     |
+| #vayikra_23_15-22  | Siete semanas conducen a una convocación y a una ofrenda; la cosecha deja provisión para pobre y extranjero.                         | La fiesta tiene ritmo de espera y una obligación social inseparable de su culto.                                                  |
+| #devarim_16_9-12  | El conteo desemboca en alegría delante de יהוה, con levita, extranjero, huérfano y viuda, y memoria de la esclavitud.                | Una celebración litúrgica no puede reducirse a experiencia privada o superioridad religiosa.                                      |
 | #hechos_2_1-21    | En el día de Pentecostés, el Ruaj se manifiesta y la palabra se anuncia a pueblos diversos.                                          | El texto afirma proclamación y don; no autoriza a convertir el título del piyut en prueba de una tradición apostólica específica. |
 | #hebreos_12_18-24 | La asamblea mesiánica se acerca a una realidad celestial, a la mediación de Yehoshua y a la sangre que habla mejor.                  | La esperanza se formula desde la mediación y la reunión, no desde una equivalencia automática entre poesía y revelación.          |
 
@@ -94,9 +94,9 @@ Hebreos 12:18-24 distingue el Sinaí temible de la aproximación a la ciudad del
 
 | Unidad                             | Observación atribuible y límite de evidencia                                                                                                                                        | Tratamiento                                                                                            |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Título público; #levitico_23_15-22   | Eric presenta una fuente titulada «Piyut Akdamut Leshavuot»; el título sitúa el video en una pieza ligada a Shavuot, pero no documenta una traducción ni una explicación detallada. | Atribución exacta del título; el contenido se evalúa con el texto local sin inventar transcript.       |
-| #exodo_19_1-6                     | El foco anunciado permite preguntar cómo una expresión litúrgica responde a la palabra y al pacto de Sinaí.                                                                         | Evaluación canónica y calificación pedagógica; no se atribuye a Eric una tesis oral no documentada.    |
-| #levitico_23_15-22; #deuteronomio_16_9-12 | El marco de Shavuot conserva conteo, convocación, alegría, memoria y cuidado del vulnerable.                                                                                        | Desarrollo textual en orden; se rechaza reducir la fiesta a emoción privada.                           |
+| Título público; #vayikra_23_15-22   | Eric presenta una fuente titulada «Piyut Akdamut Leshavuot»; el título sitúa el video en una pieza ligada a Shavuot, pero no documenta una traducción ni una explicación detallada. | Atribución exacta del título; el contenido se evalúa con el texto local sin inventar transcript.       |
+| #shemot_19_1-6                     | El foco anunciado permite preguntar cómo una expresión litúrgica responde a la palabra y al pacto de Sinaí.                                                                         | Evaluación canónica y calificación pedagógica; no se atribuye a Eric una tesis oral no documentada.    |
+| #vayikra_23_15-22; #devarim_16_9-12 | El marco de Shavuot conserva conteo, convocación, alegría, memoria y cuidado del vulnerable.                                                                                        | Desarrollo textual en orden; se rechaza reducir la fiesta a emoción privada.                           |
 | #hechos_2_1-21                     | Pentecostés ofrece un paralelo bíblico explícito para estudiar Ruaj y proclamación a pueblos diversos.                                                                              | Apoyo textual directo para Hechos; la conexión específica con Akdamut queda como analogía cualificada. |
 | #hebreos_12_18-24                  | La esperanza se concentra en Yehoshua como mediador y en la asamblea celestial.                                                                                                     | Aclaración léxica y doctrinal; no se concede mediación redentora a una obra poética.                   |
 

@@ -10,17 +10,17 @@ tags:
   - rescate
   - idolatria
 references:
-  - "#genesis_13_13"
-  - "#genesis_18_20"
-  - "#genesis_18_23"
-  - "#genesis_18_25"
-  - "#genesis_19_1"
-  - "#genesis_19_15"
-  - "#genesis_19_16"
-  - "#genesis_19_17"
-  - "#genesis_19_24"
-  - "#genesis_19_26"
-  - "#genesis_19_29"
+  - "#bereshit_13_13"
+  - "#bereshit_18_20"
+  - "#bereshit_18_23"
+  - "#bereshit_18_25"
+  - "#bereshit_19_1"
+  - "#bereshit_19_15"
+  - "#bereshit_19_16"
+  - "#bereshit_19_17"
+  - "#bereshit_19_24"
+  - "#bereshit_19_26"
+  - "#bereshit_19_29"
   - "#kefa_2_2_6"
   - "#kefa_2_2_9"
   - "#romanos_7_22"
@@ -47,11 +47,11 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 
 | Referencia | Texto local | Función en la enseñanza |
 | --- | --- | --- |
-| #genesis_13_13 | «Y los hombres de Sedom eran malos y pecadores para יהוה, muy pesados». | El texto anuncia la perversidad de la ciudad antes de que Lot se establezca allí. |
-| #genesis_18_20-25 | «El grito de Sedom y Gamoráh pues es mucho... ¿El Juez de toda la tierra no hará juicio?». | Abraham intercede y afirma que el juicio de Elohim es justo, no arbitrario. |
-| #genesis_19_15-17 | Los mensajeros apresuran a Lot; él demora, pero toman su mano y le dicen: «¡Escapa por tu vida!». | El relato muestra tanto la vacilación de Lot como el rescate misericordioso. |
-| #genesis_19_24-26 | יהוה hace llover azufre y fuego; la mujer de Lot mira atrás y se convierte en pilar de sal. | El juicio alcanza a la ciudad y el corazón dividido no debe idealizar el pasado. |
-| #genesis_19_29 | «...recordó Elohim a Abraham, y envió a Lot de en medio del derrocamiento». | El texto vincula explícitamente el rescate con el recuerdo de Abraham. |
+| #bereshit_13_13 | «Y los hombres de Sedom eran malos y pecadores para יהוה, muy pesados». | El texto anuncia la perversidad de la ciudad antes de que Lot se establezca allí. |
+| #bereshit_18_20-25 | «El grito de Sedom y Gamoráh pues es mucho... ¿El Juez de toda la tierra no hará juicio?». | Abraham intercede y afirma que el juicio de Elohim es justo, no arbitrario. |
+| #bereshit_19_15-17 | Los mensajeros apresuran a Lot; él demora, pero toman su mano y le dicen: «¡Escapa por tu vida!». | El relato muestra tanto la vacilación de Lot como el rescate misericordioso. |
+| #bereshit_19_24-26 | יהוה hace llover azufre y fuego; la mujer de Lot mira atrás y se convierte en pilar de sal. | El juicio alcanza a la ciudad y el corazón dividido no debe idealizar el pasado. |
+| #bereshit_19_29 | «...recordó Elohim a Abraham, y envió a Lot de en medio del derrocamiento». | El texto vincula explícitamente el rescate con el recuerdo de Abraham. |
 | #kefa_2_2_6-9 | Lot es llamado «el justo afligido» y se declara que יהוה sabe rescatar de la prueba. | Kefa interpreta el episodio como advertencia y consuelo, no como elogio de la ubicación de Lot. |
 
 ## El deseo que conduce hacia Sedom

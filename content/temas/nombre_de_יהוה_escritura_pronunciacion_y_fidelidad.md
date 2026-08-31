@@ -9,11 +9,11 @@ tags:
   - shema
   - fidelidad
 references:
-  - "#exodo_3_14"
-  - "#exodo_3_15"
-  - "#deuteronomio_6_4"
-  - "#deuteronomio_6_5"
-  - "#deuteronomio_6_6-9"
+  - "#shemot_3_14"
+  - "#shemot_3_15"
+  - "#devarim_6_4"
+  - "#devarim_6_5"
+  - "#devarim_6_6-9"
 sources:
   - "https://www.youtube.com/watch?v=lTV1Im2d5QI"
   - "docs/scriptures/oe/json/exodus/3.json"
@@ -35,10 +35,10 @@ Esta nota organiza la exposición pública «El nombre del Dios de Israel, el no
 
 | Referencia     | Hebreo local OE                                                                                                                                                                     | Observación                                                                                                                                        |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #exodo_3_14   | **ויאמר אלהים אל משה אהיה אשר אהיה ויאמר כה תאמר לבני ישראל אהיה שלחני אליכם**                                                                                                      | La respuesta a Mosheh incluye **אהיה** y su envío a los hijos de Israel.                                                                           |
-| #exodo_3_15   | **ויאמר עוד אלהים אל משה כה תאמר אל בני ישראל יהוה אלהי אבתיכם אלהי אברהם אלהי יצחק ואלהי יעקב שלחני אליכם זה שמי לעלם וזה זכרי לדר דר**                                            | יהוה es identificado como el Elohim de los padres y como memorial generacional.                                                                    |
-| #deuteronomio_6_4-5 | **שמע ישראל יהוה אלהינו יהוה אחד׃ ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                                                                                                | La confesión sobre יהוה desemboca inmediatamente en amor con todo corazón, vida y fuerza.                                                          |
-| #deuteronomio_6_6-9 | **והיו הדברים האלה אשר אנכי מצוך היום על לבבך׃ ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך׃ וקשרתם לאות על ידך והיו לטטפת בין עיניך׃ וכתבתם על מזוזת ביתך ובשעריך** | El Nombre y las palabras confesadas se mantienen en el corazón, la conversación, el camino y la casa; la respuesta no queda reducida a pronunciar. |
+| #shemot_3_14   | **ויאמר אלהים אל משה אהיה אשר אהיה ויאמר כה תאמר לבני ישראל אהיה שלחני אליכם**                                                                                                      | La respuesta a Mosheh incluye **אהיה** y su envío a los hijos de Israel.                                                                           |
+| #shemot_3_15   | **ויאמר עוד אלהים אל משה כה תאמר אל בני ישראל יהוה אלהי אבתיכם אלהי אברהם אלהי יצחק ואלהי יעקב שלחני אליכם זה שמי לעלם וזה זכרי לדר דר**                                            | יהוה es identificado como el Elohim de los padres y como memorial generacional.                                                                    |
+| #devarim_6_4-5 | **שמע ישראל יהוה אלהינו יהוה אחד׃ ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                                                                                                | La confesión sobre יהוה desemboca inmediatamente en amor con todo corazón, vida y fuerza.                                                          |
+| #devarim_6_6-9 | **והיו הדברים האלה אשר אנכי מצוך היום על לבבך׃ ושננתם לבניך ודברת בם בשבתך בביתך ובלכתך בדרך ובשכבך ובקומך׃ וקשרתם לאות על ידך והיו לטטפת בין עיניך׃ וכתבתם על מזוזת ביתך ובשעריך** | El Nombre y las palabras confesadas se mantienen en el corazón, la conversación, el camino y la casa; la respuesta no queda reducida a pronunciar. |
 
 ## De las consonantes a una lectura responsable
 
@@ -48,17 +48,17 @@ Eric usa esta diferencia para cuestionar el empleo apresurado de diccionarios o 
 
 ## Shemot 3: Nombre, envío y memorial
 
-En #exodo_3_14 aparece **(אהיה)**, _ehyeh_, cuya forma suele verterse «seré» o «estaré». Su sentido ordinario expresa existencia o presencia; en este diálogo tiene fuerza contextual de respuesta del Elohim que envía a Mosheh. Traducirlo «Yo soy» es una representación **aproximada**, pues puede reflejar una lectura teológica válida en otras discusiones, pero no agota la forma verbal hebrea ni sustituye la frase completa.
+En #shemot_3_14 aparece **(אהיה)**, _ehyeh_, cuya forma suele verterse «seré» o «estaré». Su sentido ordinario expresa existencia o presencia; en este diálogo tiene fuerza contextual de respuesta del Elohim que envía a Mosheh. Traducirlo «Yo soy» es una representación **aproximada**, pues puede reflejar una lectura teológica válida en otras discusiones, pero no agota la forma verbal hebrea ni sustituye la frase completa.
 
-El versículo siguiente nombra **(יהוה)** y lo enlaza con Abraham, Yitsjaq y Yaacov. La clase insiste correctamente en que el dato escrito no debe transformarse en certeza artificial sobre una fonética remota. A la vez, #exodo_3_15 sí permite afirmar algo positivo: el Nombre funciona como **(שמי)**, _shemi_, «mi nombre», y como **(זכרי)**, _zikri_, «mi memoria» o «mi recuerdo», de generación en generación. La pareja no es ornamental: **(שם)**, _shem_, designa el nombre o la reputación identificable, mientras **(זכר)**, _zakhar_, se relaciona con recordar y hacer memoria. «Memorial» es una traducción **aproximada y contextual** de **(זכרי)**; señala que el Nombre conserva la memoria pública de la relación de pacto, no solamente una secuencia de sonidos. La forma posesiva concreta de ambos términos importa: no conviene reemplazar **(זכרי)** por la raíz abstracta **(זכר)**, _zeker_, sin señalar que el texto dice «mi recuerdo», ni tratar «mi nombre» y «mi memoria» como sinónimos perfectos.
+El versículo siguiente nombra **(יהוה)** y lo enlaza con Abraham, Yitsjaq y Yaacov. La clase insiste correctamente en que el dato escrito no debe transformarse en certeza artificial sobre una fonética remota. A la vez, #shemot_3_15 sí permite afirmar algo positivo: el Nombre funciona como **(שמי)**, _shemi_, «mi nombre», y como **(זכרי)**, _zikri_, «mi memoria» o «mi recuerdo», de generación en generación. La pareja no es ornamental: **(שם)**, _shem_, designa el nombre o la reputación identificable, mientras **(זכר)**, _zakhar_, se relaciona con recordar y hacer memoria. «Memorial» es una traducción **aproximada y contextual** de **(זכרי)**; señala que el Nombre conserva la memoria pública de la relación de pacto, no solamente una secuencia de sonidos. La forma posesiva concreta de ambos términos importa: no conviene reemplazar **(זכרי)** por la raíz abstracta **(זכר)**, _zeker_, sin señalar que el texto dice «mi recuerdo», ni tratar «mi nombre» y «mi memoria» como sinónimos perfectos.
 
 ## El Shemá: confesar y amar
 
-La clase llega al problema del Nombre desde la lengua; Devarim 6 impide detenerse allí. **(שמע)**, _shema_, significa normalmente «oír» o «escuchar». En #deuteronomio_6_4 abre una confesión dirigida a Israel; por el mandato de amar que sigue, «obedecer» es una ampliación **contextual aproximada**, no la definición automática del verbo en cada aparición. El oyente es llamado a reconocer a יהוה y a responder.
+La clase llega al problema del Nombre desde la lengua; Devarim 6 impide detenerse allí. **(שמע)**, _shema_, significa normalmente «oír» o «escuchar». En #devarim_6_4 abre una confesión dirigida a Israel; por el mandato de amar que sigue, «obedecer» es una ampliación **contextual aproximada**, no la definición automática del verbo en cada aparición. El oyente es llamado a reconocer a יהוה y a responder.
 
-**(אחד)**, _ejad_, significa «uno». En el Shemá afirma la unicidad de יהוה en la confesión de Israel; traducirlo «único» puede servir como explicación **pedagógica**, pero no debe usarse para resolver por sí solo todos los debates filosóficos posteriores. El movimiento textual es claro: la confesión de #deuteronomio_6_4 continúa en amar a יהוה con corazón, vida y fuerza (#deuteronomio_6_5). Así, una discusión honesta sobre grafía o pronunciación debe conducir a fidelidad, no a superioridad verbal.
+**(אחד)**, _ejad_, significa «uno». En el Shemá afirma la unicidad de יהוה en la confesión de Israel; traducirlo «único» puede servir como explicación **pedagógica**, pero no debe usarse para resolver por sí solo todos los debates filosóficos posteriores. El movimiento textual es claro: la confesión de #devarim_6_4 continúa en amar a יהוה con corazón, vida y fuerza (#devarim_6_5). Así, una discusión honesta sobre grafía o pronunciación debe conducir a fidelidad, no a superioridad verbal.
 
-El pasaje no termina en la recitación. #deuteronomio_6_6-9 coloca «estas palabras» sobre el corazón, ordena enseñarlas a los hijos y hablar de ellas en la casa, en el camino, al acostarse y al levantarse. **(לבב)**, _levav_, tiene como sentido ordinario «corazón»; aquí su fuerza contextual es el centro interior desde el que se recibe y practica el mandamiento. **(שנן)**, _shanan_, significa «afilar» o «repetir con insistencia»; en la forma del versículo comunica inculcar cuidadosamente a los hijos. Traducirlo simplemente «enseñar» es **aproximado**: conserva la acción pedagógica, pero puede perder la insistencia del verbo. Por tanto, la observación de Eric sobre la importancia del Nombre gana una prueba concreta: el memorial se vuelve una vida enseñada y hablada. La relación entre pronunciación y fidelidad es **pedagógica**, no una equivalencia léxica; el texto no dice que una pronunciación particular produzca obediencia, sino que une confesión, amor, memoria y práctica cotidiana.
+El pasaje no termina en la recitación. #devarim_6_6-9 coloca «estas palabras» sobre el corazón, ordena enseñarlas a los hijos y hablar de ellas en la casa, en el camino, al acostarse y al levantarse. **(לבב)**, _levav_, tiene como sentido ordinario «corazón»; aquí su fuerza contextual es el centro interior desde el que se recibe y practica el mandamiento. **(שנן)**, _shanan_, significa «afilar» o «repetir con insistencia»; en la forma del versículo comunica inculcar cuidadosamente a los hijos. Traducirlo simplemente «enseñar» es **aproximado**: conserva la acción pedagógica, pero puede perder la insistencia del verbo. Por tanto, la observación de Eric sobre la importancia del Nombre gana una prueba concreta: el memorial se vuelve una vida enseñada y hablada. La relación entre pronunciación y fidelidad es **pedagógica**, no una equivalencia léxica; el texto no dice que una pronunciación particular produzca obediencia, sino que une confesión, amor, memoria y práctica cotidiana.
 
 ## La progresión del Nombre hacia la obediencia
 
@@ -74,7 +74,7 @@ Esta secuencia permite conservar la observación de la clase sin reducirla. La g
 
 | Forma fuente | Transliteración | Sentido ordinario                            | Fuerza contextual                                                | Calificación                                                                         |
 | ------------ | --------------- | -------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **(יהוה)**   | YHWH            | Nombre propio escrito con cuatro consonantes | Nombre memorial del Elohim de los padres en #exodo_3_15         | La grafía es exacta; una vocalización antigua segura no se establece aquí.           |
+| **(יהוה)**   | YHWH            | Nombre propio escrito con cuatro consonantes | Nombre memorial del Elohim de los padres en #shemot_3_15         | La grafía es exacta; una vocalización antigua segura no se establece aquí.           |
 | **(אהיה)**   | ehyeh           | seré, estaré                                 | Respuesta del Elohim que envía a Mosheh                          | «Seré/estaré» es aproximada; no agota el alcance de la autoidentificación.           |
 | **(שמי)**    | shemi           | mi nombre                                    | Nombre propio presentado junto con el memorial generacional      | «Mi nombre» es exacta en traducción básica; no es sinónimo perfecto de «mi memoria». |
 | **(זכרי)**   | zikri           | mi memoria, mi recuerdo                      | El Nombre queda como memoria de יהוה de generación en generación | «Memorial» es aproximada y contextual; la forma posesiva es exacta en el versículo.  |
@@ -88,8 +88,8 @@ Esta secuencia permite conservar la observación de la clase sin reducirla. La g
 | ---------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Escritura hebrea | Distingue consonantes antiguas y vocalización posterior.                         | Clarificación textual: se reconoce el límite entre grafía y reconstrucción fonética.                                    |
 | Tetragrammaton   | Rechaza asegurar una pronunciación antigua sin evidencia suficiente.             | Inferencia cualificada: el dato escrito es real, pero no fija por sí solo una pronunciación histórica completa.         |
-| Shemot 3         | Relaciona el Nombre con la revelación dada a Mosheh.                             | Apoyo textual: se sigue **אהיה**, יהוה y el memorial de #exodo_3_14-15.                                                |
-| Shemá            | Presenta la confesión de Israel como marco para hablar del Nombre.               | Apoyo textual: se lee junto con el amor mandado en #deuteronomio_6_4-5.                                                      |
+| Shemot 3         | Relaciona el Nombre con la revelación dada a Mosheh.                             | Apoyo textual: se sigue **אהיה**, יהוה y el memorial de #shemot_3_14-15.                                                |
+| Shemá            | Presenta la confesión de Israel como marco para hablar del Nombre.               | Apoyo textual: se lee junto con el amor mandado en #devarim_6_4-5.                                                      |
 | Devarim 6:6-9    | La memoria del Nombre debe pasar al corazón, a los hijos, a la casa y al camino. | Desarrollo textual y lexical: se explica לבב y שנן; la aplicación de la pronunciación como fidelidad queda cualificada. |
 
 ## Pendiente de verificar

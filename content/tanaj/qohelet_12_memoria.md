@@ -9,15 +9,15 @@ tags:
   - temor-de-elohim
   - juicio
 references:
-  - "#eclesiastes_12_1"
-  - "#eclesiastes_12_2"
-  - "#eclesiastes_12_7"
-  - "#eclesiastes_12_8"
-  - "#eclesiastes_12_9"
-  - "#eclesiastes_12_11"
-  - "#eclesiastes_12_12"
-  - "#eclesiastes_12_13"
-  - "#eclesiastes_12_14"
+  - "#qohelet_12_1"
+  - "#qohelet_12_2"
+  - "#qohelet_12_7"
+  - "#qohelet_12_8"
+  - "#qohelet_12_9"
+  - "#qohelet_12_11"
+  - "#qohelet_12_12"
+  - "#qohelet_12_13"
+  - "#qohelet_12_14"
 sources:
   - "https://www.youtube.com/watch?v=7ZW9xlpyD3g"
   - "docs/scriptures/oe/json/ecclesiastes/12.json"
@@ -41,13 +41,13 @@ Qohélet 12 lleva la sabiduría del libro a una conclusión sobria: recordar al 
 
 | Referencia             | Texto local (OE, sin nikud)                                                                                                                                         | Función en el argumento                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| #eclesiastes_12_1-2   | **וזכר את בוראיך בימי בחורותיך עד אשר לא יבאו ימי הרעה והגיעו שנים אשר תאמר אין לי בהם חפץ**; **עד אשר לא תחשך השמש והאור והירח והכוכבים ושבו העבים אחר הגשם**      | Recordar al Creador precede a los días malos y a la descripción de la pérdida de vigor.      |
-| #eclesiastes_12_3-6   | **ביום שיזעו שמרי הבית והתעותו אנשי החיל ובטלו הטחנות כי מעטו וחשכו הראות בארבות**; **עד אשר לא ירתק חבל הכסף ותרוץ גלת הזהב ותשבר כד על המבוע ונרץ הגלגל אל הבור** | La poesía retrata deterioro, fragilidad y proximidad del fin.                                |
-| #eclesiastes_12_7     | **וישב העפר על הארץ כשהיה והרוח תשוב אל האלהים אשר נתנה**                                                                                                           | El cuerpo vuelve al polvo y el aliento vuelve a Elohim que lo dio.                           |
-| #eclesiastes_12_8     | **הבל הבלים אמר הקהלת הכל הבל**                                                                                                                                     | El estribillo de Qohélet vuelve a nombrar la fragilidad de todo lo que se observa.           |
-| #eclesiastes_12_9-11  | **ויתר שהיה קהלת חכם עוד למד דעת את העם ואזן וחקר תקן משלים הרבה**; **דברי חכמים כדרבנות וכמשמרות נטועים בעלי אספות נתנו מרעה אחד**                                 | El sabio enseña, ordena proverbios y presenta palabras que pinchan y sostienen.              |
-| #eclesiastes_12_12    | **ויתר מהמה בני הזהר עשות ספרים הרבה אין קץ ולהג הרבה יגעת בשר**                                                                                                    | La advertencia final limita la multiplicación interminable de libros y el estudio que agota. |
-| #eclesiastes_12_13-14 | **סוף דבר הכל נשמע את האלהים ירא ואת מצותיו שמור כי זה כל האדם**; **כי את כל מעשה האלהים יבא במשפט על כל נעלם אם טוב ואם רע**                                       | El cierre une temor, obediencia y juicio de lo oculto.                                       |
+| #qohelet_12_1-2   | **וזכר את בוראיך בימי בחורותיך עד אשר לא יבאו ימי הרעה והגיעו שנים אשר תאמר אין לי בהם חפץ**; **עד אשר לא תחשך השמש והאור והירח והכוכבים ושבו העבים אחר הגשם**      | Recordar al Creador precede a los días malos y a la descripción de la pérdida de vigor.      |
+| #qohelet_12_3-6   | **ביום שיזעו שמרי הבית והתעותו אנשי החיל ובטלו הטחנות כי מעטו וחשכו הראות בארבות**; **עד אשר לא ירתק חבל הכסף ותרוץ גלת הזהב ותשבר כד על המבוע ונרץ הגלגל אל הבור** | La poesía retrata deterioro, fragilidad y proximidad del fin.                                |
+| #qohelet_12_7     | **וישב העפר על הארץ כשהיה והרוח תשוב אל האלהים אשר נתנה**                                                                                                           | El cuerpo vuelve al polvo y el aliento vuelve a Elohim que lo dio.                           |
+| #qohelet_12_8     | **הבל הבלים אמר הקהלת הכל הבל**                                                                                                                                     | El estribillo de Qohélet vuelve a nombrar la fragilidad de todo lo que se observa.           |
+| #qohelet_12_9-11  | **ויתר שהיה קהלת חכם עוד למד דעת את העם ואזן וחקר תקן משלים הרבה**; **דברי חכמים כדרבנות וכמשמרות נטועים בעלי אספות נתנו מרעה אחד**                                 | El sabio enseña, ordena proverbios y presenta palabras que pinchan y sostienen.              |
+| #qohelet_12_12    | **ויתר מהמה בני הזהר עשות ספרים הרבה אין קץ ולהג הרבה יגעת בשר**                                                                                                    | La advertencia final limita la multiplicación interminable de libros y el estudio que agota. |
+| #qohelet_12_13-14 | **סוף דבר הכל נשמע את האלהים ירא ואת מצותיו שמור כי זה כל האדם**; **כי את כל מעשה האלהים יבא במשפט על כל נעלם אם טוב ואם רע**                                       | El cierre une temor, obediencia y juicio de lo oculto.                                       |
 
 ## Recordar antes de los días malos
 

@@ -4,17 +4,17 @@ description: "Estudio de Mishlei 25:21-28 sobre responder al enemigo, la lengua 
 date: 2026-08-05
 tags: [mishlei, mishlei_25, fuente, buena_noticia, lengua, dominio_propio, justicia]
 references:
-  - "#proverbios_25_21"
-  - "#proverbios_25_22"
-  - "#proverbios_25_23"
-  - "#proverbios_25_24"
-  - "#proverbios_25_25"
-  - "#proverbios_25_26"
-  - "#proverbios_25_27"
-  - "#proverbios_25_28"
-  - "#isaias_55_1"
-  - "#jeremias_2_13"
-  - "#ezequiel_3_18-19"
+  - "#mishlei_25_21"
+  - "#mishlei_25_22"
+  - "#mishlei_25_23"
+  - "#mishlei_25_24"
+  - "#mishlei_25_25"
+  - "#mishlei_25_26"
+  - "#mishlei_25_27"
+  - "#mishlei_25_28"
+  - "#yeshayahu_55_1"
+  - "#yirmeyahu_2_13"
+  - "#yejezkel_3_18-19"
 sources:
   - "https://www.youtube.com/watch?v=sZix8lTMoPg"
   - "docs/scriptures/oe/json/proverbs/25.json"
@@ -36,29 +36,29 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_25_21 | אם רעב שנאך האכלהו לחם ואם צמא השקהו מים | Si tiene hambre tu enemigo, dale de comer pan, y si tiene sed, dale de beber agua, |
-| #proverbios_25_22 | כי גחלים אתה חתה על ראשו ויהוה ישלם לך | porque carbones encendidos sacas tú, serán sobre su cabeza, y יהוה te hará sin deudas. |
-| #proverbios_25_23 | רוח צפון תחולל גשם ופנים נזעמים לשון סתר | Viento del norte da a luz lluvia, y rostro de enojos la lengua oculta. |
-| #proverbios_25_24 | טוב שבת על פנת גג מאשת מדונים מדינים ובית חבר | Mejor es sentarse sobre la esquina del techo que mujer de contiendas y casa de compañía. |
-| #proverbios_25_25 | מים קרים על נפש עיפה ושמועה טובה מארץ מרחק | Aguas frías sobre garganta cansada y buena noticia de tierra lejana. |
-| #proverbios_25_26 | מעין נרפש ומקור משחת צדיק מט לפני רשע | Fuente pisoteada y pozo destruido es el justo que cede delante del condenado. |
-| #proverbios_25_27-28 | אכל דבש הרבות לא טוב וחקר כבודם כבוד; עיר פרוצה אין חומה איש אשר אין מעצר לרוחו | Comer miel abundantemente no es bueno...; ciudad fisurada, sin muralla es el hombre que no tiene restricción para su espíritu. |
+| #mishlei_25_21 | אם רעב שנאך האכלהו לחם ואם צמא השקהו מים | Si tiene hambre tu enemigo, dale de comer pan, y si tiene sed, dale de beber agua, |
+| #mishlei_25_22 | כי גחלים אתה חתה על ראשו ויהוה ישלם לך | porque carbones encendidos sacas tú, serán sobre su cabeza, y יהוה te hará sin deudas. |
+| #mishlei_25_23 | רוח צפון תחולל גשם ופנים נזעמים לשון סתר | Viento del norte da a luz lluvia, y rostro de enojos la lengua oculta. |
+| #mishlei_25_24 | טוב שבת על פנת גג מאשת מדונים מדינים ובית חבר | Mejor es sentarse sobre la esquina del techo que mujer de contiendas y casa de compañía. |
+| #mishlei_25_25 | מים קרים על נפש עיפה ושמועה טובה מארץ מרחק | Aguas frías sobre garganta cansada y buena noticia de tierra lejana. |
+| #mishlei_25_26 | מעין נרפש ומקור משחת צדיק מט לפני רשע | Fuente pisoteada y pozo destruido es el justo que cede delante del condenado. |
+| #mishlei_25_27-28 | אכל דבש הרבות לא טוב וחקר כבודם כבוד; עיר פרוצה אין חומה איש אשר אין מעצר לרוחו | Comer miel abundantemente no es bueno...; ciudad fisurada, sin muralla es el hombre que no tiene restricción para su espíritu. |
 
 ## Pan y agua para el enemigo, no alimento para la torcedura
 
 La clase observa que el mandato no depende de que el enemigo sea amable. El verbo de alimentar y el verbo de dar de beber reciben un sentido espiritual: ofrecer la palabra de Elohim, la Torá y una reprensión que no se acomoda al deseo torcido del otro. Esta es una aplicación pastoral de la imagen; el sentido directo del pasaje es no pagar el odio con abandono o venganza. La frase sobre los carbones y el pago de יהוה deja el resultado en manos del Juez: el discípulo hace el bien y no controla la reacción del enemigo.
 
-La conexión con #ezequiel_3_18-19 ayuda a entender la responsabilidad de advertir, pero no convierte Mishlei 25:21-22 en una cita de Ezequiel. Dar pan no significa aprobar el pecado, y reprender no significa insultar. La clase acentúa que la palabra puede ser alimento precisamente cuando llama a abandonar el camino equivocado.
+La conexión con #yejezkel_3_18-19 ayuda a entender la responsabilidad de advertir, pero no convierte Mishlei 25:21-22 en una cita de Ezequiel. Dar pan no significa aprobar el pecado, y reprender no significa insultar. La clase acentúa que la palabra puede ser alimento precisamente cuando llama a abandonar el camino equivocado.
 
 ## La lengua oculta y el rostro de enojo
 
 El viento del norte que trae lluvia sirve de figura para la lengua escondida que produce un rostro de enojo. Eric contrasta hablar a la luz con murmurar por detrás y conecta la imagen con la lengua fraudulenta del Salmo 52 y con la declaración pública de Yehoshua sobre su enseñanza. El texto de Mishlei no nombra a Satán ni desarrolla por sí solo toda una escena escatológica; sí presenta una relación moral clara: el lenguaje oculto genera enojo y queda bajo el juicio de יהוה.
 
-La repetición de la esquina del techo en #proverbios_21_9 es una conexión observada en la clase. Puede funcionar como advertencia contra una convivencia dominada por la contienda; la lectura de la mujer como Israel desobediente, Jerusalén o una ciudad simbólica debe mantenerse como interpretación, no como traducción del verso. La buena noticia de una tierra lejana ofrece después el contraste: como agua fría para el cansado, un anuncio fiel vivifica al que está agotado.
+La repetición de la esquina del techo en #mishlei_21_9 es una conexión observada en la clase. Puede funcionar como advertencia contra una convivencia dominada por la contienda; la lectura de la mujer como Israel desobediente, Jerusalén o una ciudad simbólica debe mantenerse como interpretación, no como traducción del verso. La buena noticia de una tierra lejana ofrece después el contraste: como agua fría para el cansado, un anuncio fiel vivifica al que está agotado.
 
 ## La fuente pisoteada y el espíritu sin muralla
 
-Eric distingue **(מעין)**, _ma'yan_, manantial o fuente, de **(מקור)**, _maqor_, fuente o pozo. La clase relaciona el primero con la provisión de יהוה y el segundo con una provisión preparada para beber, y usa #jeremias_2_13 como conexión: abandonar la fuente de agua viva y cavar cisternas rotas. Esta correspondencia es pedagógica; el verso de Mishlei permite afirmar que el justo puede ceder delante del malvado y que tal cesión se parece a una fuente pisoteada y un pozo destruido.
+Eric distingue **(מעין)**, _ma'yan_, manantial o fuente, de **(מקור)**, _maqor_, fuente o pozo. La clase relaciona el primero con la provisión de יהוה y el segundo con una provisión preparada para beber, y usa #yirmeyahu_2_13 como conexión: abandonar la fuente de agua viva y cavar cisternas rotas. Esta correspondencia es pedagógica; el verso de Mishlei permite afirmar que el justo puede ceder delante del malvado y que tal cesión se parece a una fuente pisoteada y un pozo destruido.
 
 La imagen final explica el remedio: una ciudad abierta necesita muralla, y una persona necesita **(מעצר)**, _ma'atsar_, restricción o freno para su espíritu. La nota no concluye que toda caída pruebe una ausencia definitiva de fe. Concluye que el justo debe perseverar, discernir voces y custodiar lo que ha recibido.
 
@@ -76,22 +76,22 @@ La imagen final explica el remedio: una ciudad abierta necesita muralla, y una p
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_25_21-22 | El pan y el agua son la palabra y la reprensión dadas incluso al enemigo; el rechazo produce carbones sobre su cabeza. | Bondad hacia el enemigo apoyada; identificación espiritual del alimento cualificada. |
-| #proverbios_25_23-25 | La lengua oculta produce enojo; la buena noticia llega como agua fría a la garganta cansada. | Contraste textual apoyado; conexión con la Besorá y con Yehoshua pedagógica. |
-| #proverbios_25_26 | El manantial y el pozo representan provisión contaminada cuando el justo cede ante el malvado. | Ceder y contaminación apoyados; esquema fuente-padre/Mesías pendiente de verificación. |
-| #proverbios_25_27-28 | La miel en exceso, la investigación orgullosa y el espíritu sin freno muestran falta de medida. | Advertencia textual apoyada; aplicación a la revelación y al sacerdocio cualificada. |
+| #mishlei_25_21-22 | El pan y el agua son la palabra y la reprensión dadas incluso al enemigo; el rechazo produce carbones sobre su cabeza. | Bondad hacia el enemigo apoyada; identificación espiritual del alimento cualificada. |
+| #mishlei_25_23-25 | La lengua oculta produce enojo; la buena noticia llega como agua fría a la garganta cansada. | Contraste textual apoyado; conexión con la Besorá y con Yehoshua pedagógica. |
+| #mishlei_25_26 | El manantial y el pozo representan provisión contaminada cuando el justo cede ante el malvado. | Ceder y contaminación apoyados; esquema fuente-padre/Mesías pendiente de verificación. |
+| #mishlei_25_27-28 | La miel en exceso, la investigación orgullosa y el espíritu sin freno muestran falta de medida. | Advertencia textual apoyada; aplicación a la revelación y al sacerdocio cualificada. |
 
 ## Conexiones principales
 
-- #jeremias_2_13 ilumina el contraste entre fuente viva y cisternas rotas; no sustituye el contexto de Mishlei 25.
-- #ezequiel_3_18-19 se relaciona con la responsabilidad de advertir, pero la aplicación debe distinguir advertencia de agresión.
-- #proverbios_21_9 repite la imagen de la esquina del techo; la repetición refuerza el motivo de apartarse de la contienda.
+- #yirmeyahu_2_13 ilumina el contraste entre fuente viva y cisternas rotas; no sustituye el contexto de Mishlei 25.
+- #yejezkel_3_18-19 se relaciona con la responsabilidad de advertir, pero la aplicación debe distinguir advertencia de agresión.
+- #mishlei_21_9 repite la imagen de la esquina del techo; la repetición refuerza el motivo de apartarse de la contienda.
 
 ## Pendiente de verificar
 
-- [ ] Cotejar en léxicos hebreos la diferencia exacta entre **(מעין)**, **(מקור)** y los términos de pozo usados en #jeremias_2_13.
+- [ ] Cotejar en léxicos hebreos la diferencia exacta entre **(מעין)**, **(מקור)** y los términos de pozo usados en #yirmeyahu_2_13.
 - [ ] Localizar la referencia exacta del comentarista mencionado indirectamente sobre la esquina del techo, el exilio y el remanente.
-- [ ] Revisar la sintaxis de #proverbios_25_27 y la lectura de **(כבדום כבוד)** antes de fijar una traducción doctrinal sobre la gloria de los reyes.
+- [ ] Revisar la sintaxis de #mishlei_25_27 y la lectura de **(כבדום כבוד)** antes de fijar una traducción doctrinal sobre la gloria de los reyes.
 - [ ] Verificar las referencias exactas de la clase a la declaración de Yehoshua sobre hablar públicamente y a la imagen de la buena noticia para los cansados.
 
 ## Conclusión

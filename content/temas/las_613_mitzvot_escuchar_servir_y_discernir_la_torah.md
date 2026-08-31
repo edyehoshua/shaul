@@ -9,17 +9,17 @@ tags:
   - discernimiento
   - servicio
 references:
-  - "#exodo_20_2"
-  - "#deuteronomio_6_4"
-  - "#deuteronomio_6_5"
-  - "#levitico_23_10"
-  - "#levitico_23_11"
-  - "#levitico_23_14"
-  - "#levitico_23_15"
-  - "#levitico_23_16"
-  - "#numeros_6_2"
-  - "#numeros_6_3"
-  - "#numeros_6_5"
+  - "#shemot_20_2"
+  - "#devarim_6_4"
+  - "#devarim_6_5"
+  - "#vayikra_23_10"
+  - "#vayikra_23_11"
+  - "#vayikra_23_14"
+  - "#vayikra_23_15"
+  - "#vayikra_23_16"
+  - "#bamidbar_6_2"
+  - "#bamidbar_6_3"
+  - "#bamidbar_6_5"
 sources:
   - "https://www.youtube.com/watch?v=1yylyCqEFhw"
   - "https://www.youtube.com/watch?v=n5iXrkCooCM"
@@ -349,11 +349,11 @@ La primera sesión explica que el cómputo «613» no aparece como una lista num
 
 | Referencia          | Texto local                                                                                                                                                                                                                                                                                                                                                                                                                     | Observación                                                                                                               |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| #exodo_20_2        | **אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים**                                                                                                                                                                                                                                                                                                                                                                           | El Decálogo comienza con la identidad y la liberación de יהוה; una lista de mandamientos no debe desligarse de ese marco. |
-| #deuteronomio_6_4    | **שמ ישראל יהוה אלהינו יהוה אח**                                                                                                                                                                                                                                                                                                                                                                                                | La confesión de Israel centra la escucha en יהוה.                                                                         |
-| #deuteronomio_6_5    | **ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                                                                                                                                                                                                                                                                                                                                                                            | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
-| #levitico_23_10-16 | **דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן**; **והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן**; **ולחם וקלי וכרמל לא תאכלו עד עצם היום הזה עד הביאכם את קרבן אלהיכם חקת עולם לדרתיכם בכל משבתיכם**; **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה**; **עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה** | La ofrenda del ómer, la prohibición relativa al grano nuevo y el conteo se expresan dentro de una instrucción cultual.    |
-| #numeros_6_2-5      | **איש או אשה כי יפלא לנדר נדר נזיר להזיר ליהוה**; **מיין ושכר יזיר ... וענבים לחים ויבשים לא יאכל**; **כל ימי נדר נזרו תער לא יעבר על ראשו ... קדש יהיה**                                                                                                                                                                                                                                                                       | El pasaje regula un voto voluntario de separación para יהוה y describe restricciones concretas durante su plazo.          |
+| #shemot_20_2        | **אנכי יהוה אלהיך אשר הוצאתיך מארץ מצרים מבית עבדים**                                                                                                                                                                                                                                                                                                                                                                           | El Decálogo comienza con la identidad y la liberación de יהוה; una lista de mandamientos no debe desligarse de ese marco. |
+| #devarim_6_4    | **שמ ישראל יהוה אלהינו יהוה אח**                                                                                                                                                                                                                                                                                                                                                                                                | La confesión de Israel centra la escucha en יהוה.                                                                         |
+| #devarim_6_5    | **ואהבת את יהוה אלהיך בכל לבבך ובכל נפשך ובכל מאדך**                                                                                                                                                                                                                                                                                                                                                                            | El amor a יהוה involucra corazón, vida y fuerza; no se reduce a una contabilización.                                      |
+| #vayikra_23_10-16 | **דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן**; **והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן**; **ולחם וקלי וכרמל לא תאכלו עד עצם היום הזה עד הביאכם את קרבן אלהיכם חקת עולם לדרתיכם בכל משבתיכם**; **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה**; **עד ממחרת השבת השביעת תספרו חמשים יום והקרבתם מנחה חדשה ליהוה** | La ofrenda del ómer, la prohibición relativa al grano nuevo y el conteo se expresan dentro de una instrucción cultual.    |
+| #bamidbar_6_2-5      | **איש או אשה כי יפלא לנדר נדר נזיר להזיר ליהוה**; **מיין ושכר יזיר ... וענבים לחים ויבשים לא יאכל**; **כל ימי נדר נזרו תער לא יעבר על ראשו ... קדש יהיה**                                                                                                                                                                                                                                                                       | El pasaje regula un voto voluntario de separación para יהוה y describe restricciones concretas durante su plazo.          |
 
 ## Leer un cómputo sin reemplazar el texto
 
@@ -363,7 +363,7 @@ La Torah misma se expresa mediante instrucciones, relatos, alianzas, advertencia
 
 ## Servicio y obediencia
 
-La sesión sobre las primeras mitzvot cita, según la transcripción, #exodo_20_2 y otros pasajes para hablar de conocer y servir a Elohim. #exodo_20_2 sí presenta a יהוה como quien sacó a Israel de Egipto; #deuteronomio_6_4-5 llama a escuchar y amar a יהוה. La aplicación de «servicio» a la oración, al estudio, a la ayuda al prójimo o a una práctica comunitaria necesita distinguir qué afirma cada pasaje y qué procede de interpretaciones posteriores.
+La sesión sobre las primeras mitzvot cita, según la transcripción, #shemot_20_2 y otros pasajes para hablar de conocer y servir a Elohim. #shemot_20_2 sí presenta a יהוה como quien sacó a Israel de Egipto; #devarim_6_4-5 llama a escuchar y amar a יהוה. La aplicación de «servicio» a la oración, al estudio, a la ayuda al prójimo o a una práctica comunitaria necesita distinguir qué afirma cada pasaje y qué procede de interpretaciones posteriores.
 
 La clase también discute el peso de mandamientos rituales cuando no hay templo. Conviene no resolver esa cuestión con una fórmula única: las condiciones cultuales, los agentes designados y las instituciones presupuestas por cada texto deben verificarse antes de trasladar una práctica, declararla abolida o asignarle un equivalente espiritual.
 
@@ -371,13 +371,13 @@ La clase también discute el peso de mandamientos rituales cuando no hay templo.
 
 Los títulos posteriores delimitan asuntos que merecen tratamiento contextual: qorbanot y purificación, miqveh y tevilah, votos y rescates, Pésaj, Yom Teruah, jueces y tribunales, matrimonio, guerra, esclavitud, daños y reparación. La mera cercanía temática no autoriza a mezclar textos ni a deducir una regla contemporánea sin estudiar el pasaje correspondiente. En particular, las materias de penas, guerra, familia y pureza requieren evitar aplicaciones coercitivas, deshumanizadoras o anacrónicas.
 
-La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la lectura de la ofrenda de las primicias y del grano nuevo. Su discusión sobre fechas calendáricas, maduración de la cebada y la relación entre Pésaj y el ómer debe volver a #levitico_23_9-16, antes de presentarse como una conclusión normativa. El pasaje contiene una instrucción cultual concreta; los calendarios, las reconstrucciones agrícolas y su aplicación contemporánea requieren fuentes y contexto adicionales.
+La sesión sobre las mitzvot 191–192 contrasta el cómputo tradicional con la lectura de la ofrenda de las primicias y del grano nuevo. Su discusión sobre fechas calendáricas, maduración de la cebada y la relación entre Pésaj y el ómer debe volver a #vayikra_23_9-16, antes de presentarse como una conclusión normativa. El pasaje contiene una instrucción cultual concreta; los calendarios, las reconstrucciones agrícolas y su aplicación contemporánea requieren fuentes y contexto adicionales.
 
 ## El voto de nazir: separación regulada, no prestigio espiritual
 
-La sesión sobre la mitzvá 202 lee #numeros_6 como la regulación de un voto de nazir y llama la atención sobre su carácter voluntario. El texto abre el caso para «un hombre o una mujer» que haga un voto de nazir para separarse para יהוה (#numeros_6_2); luego especifica abstinencia de productos de la vid, el cabello sin cortar y la distancia de la impureza por un muerto (#numeros_6_3-8). La clase propone que esta separación no debe convertirse en exhibición de superioridad. Esa aplicación puede servir como examen ético, pero no debe confundirse con una explicación explícita del propósito del voto: el capítulo describe su procedimiento con mucho detalle y no desarrolla una motivación única para cada persona.
+La sesión sobre la mitzvá 202 lee #bamidbar_6 como la regulación de un voto de nazir y llama la atención sobre su carácter voluntario. El texto abre el caso para «un hombre o una mujer» que haga un voto de nazir para separarse para יהוה (#bamidbar_6_2); luego especifica abstinencia de productos de la vid, el cabello sin cortar y la distancia de la impureza por un muerto (#bamidbar_6_3-8). La clase propone que esta separación no debe convertirse en exhibición de superioridad. Esa aplicación puede servir como examen ético, pero no debe confundirse con una explicación explícita del propósito del voto: el capítulo describe su procedimiento con mucho detalle y no desarrolla una motivación única para cada persona.
 
-La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#numeros_6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
+La exposición también observa que el cierre del voto incluye ofrendas y la intervención sacerdotal (#bamidbar_6_13-20). Por ello, es más preciso decir que el rito tal como está regulado presupone santuario y sacerdocio, antes que convertir esa observación en una sentencia general sobre toda forma contemporánea de compromiso personal. Las relaciones etimológicas entre **(נזיר)**, **(נדר)** y **(נזר)**, así como las atribuciones a Rashi, Ibn Ezra y el tratado _Nazir_, quedan como investigación pendiente: la transcripción automática no basta para establecerlas ni para reproducir sus formulaciones.
 
 ## La segunda sección: alcances, condiciones y prudencia
 
@@ -394,9 +394,9 @@ La sesión final vuelve a Devarim 17 y a las restricciones para el rey. El texto
 - [ ] Distinguir en cada caso el texto de la Torah, la clasificación medieval y la aplicación pedagógica de la clase.
 - [ ] Cotejar las transliteraciones y equivalencias hebreas que aparezcan en las transcripciones automáticas con ediciones y léxicos.
 - [ ] Examinar por separado los mandamientos dependientes de santuario, sacerdocio, tierra, autoridades o procedimientos judiciales.
-- [ ] Cotejar la lectura de las mitzvot 191–192 con #levitico_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
-- [ ] Cotejar la terminología de #numbers*6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir* con fuentes textuales verificables.
-- [ ] Distinguir la regulación cultual de cierre del voto en #numeros_6_13-20 de cualquier aplicación contemporánea propuesta en la clase.
+- [ ] Cotejar la lectura de las mitzvot 191–192 con #vayikra_23_9-16 y documentar las fuentes para las afirmaciones calendáricas y agrícolas de la clase.
+- [ ] Cotejar la terminología de #bamidbar_6 (en especial **(נזיר)**, **(נדר)** y **(נזר)**) y las atribuciones a Rashi, Ibn Ezra y el tratado \_Nazir* con fuentes textuales verificables.
+- [ ] Distinguir la regulación cultual de cierre del voto en #bamidbar_6_13-20 de cualquier aplicación contemporánea propuesta en la clase.
 
 ## Conclusión
 

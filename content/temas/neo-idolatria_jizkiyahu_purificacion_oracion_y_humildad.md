@@ -10,25 +10,25 @@ tags:
   - purificacion
   - humildad
 references:
-  - "#2_reyes_18_1"
-  - "#2_reyes_18_3"
-  - "#2_reyes_18_4"
-  - "#2_reyes_18_5"
-  - "#2_reyes_18_6"
-  - "#2_reyes_18_7"
-  - "#2_reyes_18_13"
-  - "#2_reyes_18_22"
-  - "#2_reyes_19_14"
-  - "#2_reyes_19_15"
-  - "#2_reyes_19_19"
-  - "#2_reyes_19_35"
-  - "#2_reyes_20_1"
-  - "#2_reyes_20_3"
-  - "#2_reyes_20_5"
-  - "#2_reyes_20_12"
-  - "#2_reyes_20_17"
-  - "#2_cronicas_32_25"
-  - "#2_cronicas_32_26"
+  - "#melajim_bet_18_1"
+  - "#melajim_bet_18_3"
+  - "#melajim_bet_18_4"
+  - "#melajim_bet_18_5"
+  - "#melajim_bet_18_6"
+  - "#melajim_bet_18_7"
+  - "#melajim_bet_18_13"
+  - "#melajim_bet_18_22"
+  - "#melajim_bet_19_14"
+  - "#melajim_bet_19_15"
+  - "#melajim_bet_19_19"
+  - "#melajim_bet_19_35"
+  - "#melajim_bet_20_1"
+  - "#melajim_bet_20_3"
+  - "#melajim_bet_20_5"
+  - "#melajim_bet_20_12"
+  - "#melajim_bet_20_17"
+  - "#divrei_hayamim_bet_32_25"
+  - "#divrei_hayamim_bet_32_26"
 sources:
   - "https://www.youtube.com/watch?v=o2VdOyc30dM"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -49,13 +49,13 @@ Esta nota organiza la exposición de Eric de Jesús Rodríguez Mendoza sobre Jiz
 
 | Referencia | Texto TTH local | Función en la enseñanza |
 | --- | --- | --- |
-| #2_reyes_18_3-4 | «E hizo lo recto en los ojos de יהוה, conforme a todo lo que hizo David su padre. Él apartó los lugares altos... y cortó la serpiente de cobre... y la llamó Nejushtán». | La reforma destruye incluso un objeto que había tenido un uso ordenado cuando se convirtió en objeto de incienso. |
-| #2_reyes_18_5-7 | «En יהוה, Elohim de Israel, confió... Y se aferró a יהוה... y guardó sus mandamientos... Y se rebeló contra el rey de Ashur, y no le sirvió». | Define su confianza como adhesión y obediencia, no como emoción aislada. |
-| #2_reyes_18_13 | «En el décimo cuarto año del rey Jizkiyah, subió Sanjerib, rey de Ashur, sobre todas las ciudades de Yehudáh... y las tomó». | La fidelidad no evita automáticamente la presión histórica ni las consecuencias políticas. |
-| #2_reyes_19_14-15 | Jizkiyahu extiende las cartas ante יהוה y ora: «Tú eres el Elohim, sólo Tú, de todos los reinos de la tierra». | La crisis es llevada al templo y a la oración, no resuelta por la propaganda del enemigo. |
-| #2_reyes_19_19, 35 | «Sálvanos... y sabrán todos los reinos... que Tú... eres Elohim, sólo Tú»; luego el mensajero de יהוה hiere el campamento de Ashur. | La liberación tiene como fin que las naciones reconozcan quién es יהוה. |
-| #2_reyes_20_3, 5-6 | «He andado delante de ti en verdad y con corazón completo»; יהוה responde: «He escuchado tu tefilah... te sanaré». | La humillación y la oración acompañan la restauración del rey. |
-| #2_reyes_20_12, 17 | Babel envía cartas; luego se anuncia: «Será llevado todo lo que hay en tu casa... a Babel». | Una respuesta de יהוה en el presente no cancela la necesidad de vigilar el corazón. |
+| #melajim_bet_18_3-4 | «E hizo lo recto en los ojos de יהוה, conforme a todo lo que hizo David su padre. Él apartó los lugares altos... y cortó la serpiente de cobre... y la llamó Nejushtán». | La reforma destruye incluso un objeto que había tenido un uso ordenado cuando se convirtió en objeto de incienso. |
+| #melajim_bet_18_5-7 | «En יהוה, Elohim de Israel, confió... Y se aferró a יהוה... y guardó sus mandamientos... Y se rebeló contra el rey de Ashur, y no le sirvió». | Define su confianza como adhesión y obediencia, no como emoción aislada. |
+| #melajim_bet_18_13 | «En el décimo cuarto año del rey Jizkiyah, subió Sanjerib, rey de Ashur, sobre todas las ciudades de Yehudáh... y las tomó». | La fidelidad no evita automáticamente la presión histórica ni las consecuencias políticas. |
+| #melajim_bet_19_14-15 | Jizkiyahu extiende las cartas ante יהוה y ora: «Tú eres el Elohim, sólo Tú, de todos los reinos de la tierra». | La crisis es llevada al templo y a la oración, no resuelta por la propaganda del enemigo. |
+| #melajim_bet_19_19, 35 | «Sálvanos... y sabrán todos los reinos... que Tú... eres Elohim, sólo Tú»; luego el mensajero de יהוה hiere el campamento de Ashur. | La liberación tiene como fin que las naciones reconozcan quién es יהוה. |
+| #melajim_bet_20_3, 5-6 | «He andado delante de ti en verdad y con corazón completo»; יהוה responde: «He escuchado tu tefilah... te sanaré». | La humillación y la oración acompañan la restauración del rey. |
+| #melajim_bet_20_12, 17 | Babel envía cartas; luego se anuncia: «Será llevado todo lo que hay en tu casa... a Babel». | Una respuesta de יהוה en el presente no cancela la necesidad de vigilar el corazón. |
 
 ## Una reforma que distingue entre señal y objeto
 

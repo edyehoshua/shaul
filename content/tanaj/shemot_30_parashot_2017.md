@@ -8,12 +8,12 @@ tags:
   - ki-tisa
   - servicio
 references:
-  - "#exodo_27_20-21"
-  - "#exodo_28_2-4"
-  - "#exodo_28_40-43"
-  - "#exodo_30_11-16"
-  - "#exodo_30_17-21"
-  - "#exodo_30_22-38"
+  - "#shemot_27_20-21"
+  - "#shemot_28_2-4"
+  - "#shemot_28_40-43"
+  - "#shemot_30_11-16"
+  - "#shemot_30_17-21"
+  - "#shemot_30_22-38"
 sources:
   - "https://www.youtube.com/watch?v=ELZQY8k1Ibo"
   - "https://www.youtube.com/watch?v=dNFrW9BaMU8"
@@ -40,9 +40,9 @@ Esta es la nota canónica para Shemot 30. La exposición de Eric de Jesús Rodr�
 
 | Referencia       | Escritura local OE y TTH                                                                                                             | Fuerza del pasaje                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| #exodo_30_11-16 | **כי תשא את ראש בני ישראל לפקדיהם ונתנו איש כפר נפשו ליהוה**. TTH: «Cuando levantes la cabeza de los hijos de Israel por sus cargos» | El encargo exige una reconciliación por cada vida y un memorial para el servicio.    |
-| #exodo_30_17-21 | **ועשית כיור נחשת ... ונתת שמה מים**. TTH: «Harás una pileta de cobre ... y pondrás allí agua»                                       | El acercamiento cultual incluye lavarse antes de ministrar.                          |
-| #exodo_30_30-38 | **ואת אהרן ואת בניו תמשח וקדשת אתם לכהן לי**; **והקטרת ... קדש תהיה לך ליהוה**                                                       | La unción y el incienso son santos por designación divina y no objetos de uso común. |
+| #shemot_30_11-16 | **כי תשא את ראש בני ישראל לפקדיהם ונתנו איש כפר נפשו ליהוה**. TTH: «Cuando levantes la cabeza de los hijos de Israel por sus cargos» | El encargo exige una reconciliación por cada vida y un memorial para el servicio.    |
+| #shemot_30_17-21 | **ועשית כיור נחשת ... ונתת שמה מים**. TTH: «Harás una pileta de cobre ... y pondrás allí agua»                                       | El acercamiento cultual incluye lavarse antes de ministrar.                          |
+| #shemot_30_30-38 | **ואת אהרן ואת בניו תמשח וקדשת אתם לכהן לי**; **והקטרת ... קדש תהיה לך ליהוה**                                                       | La unción y el incienso son santos por designación divina y no objetos de uso común. |
 
 ## Levantar la cabeza no es contar para apropiarse del pueblo
 
@@ -76,13 +76,13 @@ La finalidad se repite: «cuando entren en la Tienda» y «cuando se acerquen al
 
 | Unidad textual   | Observación concreta de Eric                                               | Evaluación frente al texto                                                                                         |
 | ---------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| #exodo_30_11-16 | «Levantar la cabeza» comunica encargo y no solo contar personas.           | Apoyado por **נשא ראש** y **פקד**; «censo» es una reducción contextual, no toda la frase.                          |
-| #exodo_30_12-16 | El medio shekel es reconciliación y responsabilidad compartida, no precio. | Apoyado por **כפר נפש**, el destino memorial y la igualdad entre rico y pobre.                                     |
-| #exodo_30_17-38 | Los oficios sagrados y sus objetos no deben tratarse como comunes.         | Apoyado por el lavacro, la unción y las prohibiciones sobre aceite e incienso; la aplicación amplia es pedagógica. |
+| #shemot_30_11-16 | «Levantar la cabeza» comunica encargo y no solo contar personas.           | Apoyado por **נשא ראש** y **פקד**; «censo» es una reducción contextual, no toda la frase.                          |
+| #shemot_30_12-16 | El medio shekel es reconciliación y responsabilidad compartida, no precio. | Apoyado por **כפר נפש**, el destino memorial y la igualdad entre rico y pobre.                                     |
+| #shemot_30_17-38 | Los oficios sagrados y sus objetos no deben tratarse como comunes.         | Apoyado por el lavacro, la unción y las prohibiciones sobre aceite e incienso; la aplicación amplia es pedagógica. |
 
 ## El encargo, la cobertura y el límite del servicio
 
-La secuencia de Shemot 30 evita dos reducciones opuestas. El OE dice **ונתנו איש כפר נפשו ליהוה** y TTH: «dará cada uno la expiación de su alma a יהוה» (#exodo_30_12). **ונתנו**, _venatenu_, es una forma de נתן, «dar o entregar», con sujeto plural; su fuerza contextual distribuye la responsabilidad entre las personas contadas. No significa que cada israelita pueda comprar el favor divino. **כפר**, _kofer_, tiene el sentido normal de cobertura o rescate y, en el contexto cultual, participa en la reconciliación; «precio que compra la vida» sería una equivalencia pedagógica demasiado fuerte.
+La secuencia de Shemot 30 evita dos reducciones opuestas. El OE dice **ונתנו איש כפר נפשו ליהוה** y TTH: «dará cada uno la expiación de su alma a יהוה» (#shemot_30_12). **ונתנו**, _venatenu_, es una forma de נתן, «dar o entregar», con sujeto plural; su fuerza contextual distribuye la responsabilidad entre las personas contadas. No significa que cada israelita pueda comprar el favor divino. **כפר**, _kofer_, tiene el sentido normal de cobertura o rescate y, en el contexto cultual, participa en la reconciliación; «precio que compra la vida» sería una equivalencia pedagógica demasiado fuerte.
 
 El propósito inmediato se formula como **ולא יהיה בהם נגף**, «para que no haya en ellos plaga». **נגף**, _negef_, normalmente es golpe, tropiezo o plaga; aquí explica el riesgo que acompaña al registro, pero no es una promesa general de inmunidad. Eric observa que «levantar la cabeza» comunica dignidad y encargo. La observación recibe apoyo en **נשא ראש**, _nasa rosh_: **נשא** significa levantar, llevar o soportar, mientras **ראש** significa cabeza o principal. Sin embargo, el capítulo hace visible esa dignidad por una obligación concreta: cada uno aporta al memorial, y el rico no compra mayor rango que el pobre.
 
@@ -113,7 +113,7 @@ La frontera se hace corporal en 30:20-21: **ורחצו מים**, «se lavarán c
 
 Finalmente, **קדש**, _qadesh_, significa separar o consagrar; en la unción aparta a Aharón y sus hijos para el sacerdocio, no convierte al ministro en dueño de lo santo. **(זר)**, _zar_, significa extraño o no autorizado; en la prohibición del aceite y del incienso delimita quién no puede reproducir el uso cultual. La observación de Eric sobre no secularizar lo santo queda apoyada, aunque el capítulo no autoriza trasladar sin mediación cada fórmula del santuario a cualquier práctica moderna. La equivalencia crítica es clara: responsabilidad recibida, acceso regulado y santidad que pertenece a יהוה.
 
-## El encargo se verifica en el cuerpo y en el límite — Shemot 30:11–38 #exodo_30_11-38
+## El encargo se verifica en el cuerpo y en el límite — Shemot 30:11–38 #shemot_30_11-38
 
 La lectura de Eric sobre **כי תשא** queda incompleta si «levantar la cabeza» se separa de lo que el capítulo manda hacer después. OE dice **כי תשא את ראש בני ישראל לפקדיהם** y TTH: «cuando levantes la cabeza de los hijos de Israel por sus cargos» (30:12). **(נשא)**, _nasa_, significa levantar, llevar o soportar; aquí su fuerza contextual es poner al pueblo bajo un registro responsable. **(פקד)**, _paqad_, significa visitar, atender, asignar o pasar revista; en **לפקדיהם**, _lefiqdehem_, se refiere a las personas incluidas bajo una responsabilidad. «Promover» sería una equivalencia **pedagógica**, no exacta. La forma verbal no promete exaltación sin rendición de cuentas: cada persona entrega el medio shekel y queda vinculada al memorial del servicio.
 
@@ -131,27 +131,27 @@ El capítulo levanta la cabeza del pueblo al ponerlo bajo encargo, no al liberar
 
 La exposición asignada de Tetzaveh recorre Shemot 27:20–30:10 y toma como eje 28:43: las vestiduras acompañan a Aharón y sus hijos cuando entran a la Tienda o se acercan al altar «para ministrar», para que no carguen iniquidad y mueran. Eric insiste en que el vestido no es santo por materialidad ni funciona como amuleto; su función nace de la orden de יהוה y de la responsabilidad del servicio. Esa observación se sostiene al leer la perícopa en orden: aceite para mantener la luz, prendas para el sacerdocio, consagración con sacrificios y finalmente el altar del incienso.
 
-En #exodo_27_20-21, el OE dice **שמן זית זך כתית למאור להעלת נר תמיד** («aceite de oliva puro, prensado, para iluminación, para hacer subir una lámpara continuamente»). **כתית**, _katit_, significa «prensado o machacado»; su fuerza contextual describe la preparación del aceite, no una teoría espiritual sobre el sufrimiento. **להעלת**, _lehaalot_, procede de עלה, «hacer subir»; aquí indica mantener encendida la lámpara, y «elevar espiritualmente» sería **pedagógica**. Eric relaciona la luz sostenida con perseverancia; la aplicación es válida como exhortación, pero el sentido directo es el servicio continuo de Aharón y sus hijos.
+En #shemot_27_20-21, el OE dice **שמן זית זך כתית למאור להעלת נר תמיד** («aceite de oliva puro, prensado, para iluminación, para hacer subir una lámpara continuamente»). **כתית**, _katit_, significa «prensado o machacado»; su fuerza contextual describe la preparación del aceite, no una teoría espiritual sobre el sufrimiento. **להעלת**, _lehaalot_, procede de עלה, «hacer subir»; aquí indica mantener encendida la lámpara, y «elevar espiritualmente» sería **pedagógica**. Eric relaciona la luz sostenida con perseverancia; la aplicación es válida como exhortación, pero el sentido directo es el servicio continuo de Aharón y sus hijos.
 
-En #exodo_28_2-4, TTH traduce «vestiduras de santidad para honra y hermosura». La frase hebrea **בגדי קדש**, _bigde qodesh_, combina **בגד**, _beged_, «vestido o prenda», con **קדש**, _qodesh_, «santidad o apartamiento». La santidad aquí es **contextual**: prendas ordenadas para el servicio, no una propiedad mágica del tejido. **כבוד**, _kavod_, normalmente significa «peso, honor o gloria»; «honra» es **aproximada** y «peso de gloria» una equivalencia **pedagógica** que conserva la imagen evocada por Eric. **תפארת**, _tif'eret_, significa hermosura, esplendor o dignidad; no equivale exactamente a «perfección moral».
+En #shemot_28_2-4, TTH traduce «vestiduras de santidad para honra y hermosura». La frase hebrea **בגדי קדש**, _bigde qodesh_, combina **בגד**, _beged_, «vestido o prenda», con **קדש**, _qodesh_, «santidad o apartamiento». La santidad aquí es **contextual**: prendas ordenadas para el servicio, no una propiedad mágica del tejido. **כבוד**, _kavod_, normalmente significa «peso, honor o gloria»; «honra» es **aproximada** y «peso de gloria» una equivalencia **pedagógica** que conserva la imagen evocada por Eric. **תפארת**, _tif'eret_, significa hermosura, esplendor o dignidad; no equivale exactamente a «perfección moral».
 
 Eric vincula estas vestiduras con Isaías 61:10 y con la justicia recibida, y aplica el **מעיל**, _me'il_, «manto o capa», del sacerdote al «manto de justicia» profético. La conexión verbal es sugestiva, pero sigue siendo **canónica y pedagógica**: Shemot 28 describe la investidura de Aharón; Isaías 61 habla en su propio contexto de salvación y justicia. El texto de Éxodo no afirma que cada detalle del pectoral sea una descripción directa del Mesías. Sí afirma que las prendas representan al pueblo ante יהוה: las piedras con nombres en los hombros y el pectoral hacen visible una carga representativa concreta.
 
-El punto culminante aparece en #exodo_28_40-43: **ולבני אהרן תעשה כתנת ... והיו על אהרן ועל בניו** («para los hijos de Aharón harás túnicas ... y estarán sobre Aharón y sobre sus hijos»). **כתנת**, _ketonet_, es una túnica; **על**, _al_, es «sobre», y su fuerza contextual subraya que el vestido acompaña corporalmente el ingreso y el ministerio. **ונשאו עון**, _venase'u avon_, es «cargarán iniquidad»; **נשא**, _nasa_, significa levantar, llevar o soportar, mientras **עון**, _avon_, significa iniquidad o culpa. «Eliminarán el pecado» sería **inexacta**: el versículo habla de no llevar culpa al servicio mediante la vestidura prescrita.
+El punto culminante aparece en #shemot_28_40-43: **ולבני אהרן תעשה כתנת ... והיו על אהרן ועל בניו** («para los hijos de Aharón harás túnicas ... y estarán sobre Aharón y sobre sus hijos»). **כתנת**, _ketonet_, es una túnica; **על**, _al_, es «sobre», y su fuerza contextual subraya que el vestido acompaña corporalmente el ingreso y el ministerio. **ונשאו עון**, _venase'u avon_, es «cargarán iniquidad»; **נשא**, _nasa_, significa levantar, llevar o soportar, mientras **עון**, _avon_, significa iniquidad o culpa. «Eliminarán el pecado» sería **inexacta**: el versículo habla de no llevar culpa al servicio mediante la vestidura prescrita.
 
 La misma reserva alcanza la expresión **חקת עולם**, _juqat olam_, que TTH vierte «estatuto perpetuo». **חקה**, _juqah_, es un estatuto o disposición establecida; **עולם**, _olam_, puede expresar duración indefinida o continuidad. «Eterno» es **aproximada** y su alcance debe determinarse por el contexto; no autoriza a Eric ni al lector a convertir cada prenda en un objeto permanente para la comunidad moderna. La función de las vestiduras está delimitada por «cuando entren» y «cuando se acerquen al altar».
 
-En #exodo_29_45-46, la exposición lleva el tema desde la ropa hasta la presencia: «habitaré en medio de los hijos de Israel». **ושכנתי**, _veshajanti_, procede de שכן, «habitar o establecerse». «Presencia» es **pedagógica**, mientras que el verbo afirma morada. El pueblo conoce a יהוה como quien lo sacó de Mitsraim para habitar en medio de ellos; el servicio sacerdotal no crea a יהוה ni controla su presencia. Finalmente, #exodo_30_1-10 ordena el altar del incienso. **קטרת**, _qetoret_, es incienso; su fuerza aquí es culto reservado, no una técnica para producir acceso espiritual. La observación de Eric sobre no confiar en el medio más que en el Mediador puede conservarse como aplicación, siempre que no se confunda con el sentido ritual directo.
+En #shemot_29_45-46, la exposición lleva el tema desde la ropa hasta la presencia: «habitaré en medio de los hijos de Israel». **ושכנתי**, _veshajanti_, procede de שכן, «habitar o establecerse». «Presencia» es **pedagógica**, mientras que el verbo afirma morada. El pueblo conoce a יהוה como quien lo sacó de Mitsraim para habitar en medio de ellos; el servicio sacerdotal no crea a יהוה ni controla su presencia. Finalmente, #shemot_30_1-10 ordena el altar del incienso. **קטרת**, _qetoret_, es incienso; su fuerza aquí es culto reservado, no una técnica para producir acceso espiritual. La observación de Eric sobre no confiar en el medio más que en el Mediador puede conservarse como aplicación, siempre que no se confunda con el sentido ritual directo.
 
 ## Mapa ampliado de la enseñanza de Eric
 
 | Unidad textual   | Observación concreta de Eric                                          | Evaluación frente al texto                                                 |
 | ---------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #exodo_27_20-21 | La luz debe mantenerse continuamente con aceite preparado.            | Apoyo textual; la perseverancia espiritual es aplicación pedagógica.       |
-| #exodo_28_2-4   | Las prendas dan honra y hermosura, pero no son mágicas.               | Apoyo textual y léxico; la santidad procede de la orden y del servicio.    |
-| #exodo_28_40-43 | Las vestiduras evitan que el sacerdote cargue iniquidad al ministrar. | Apoyo textual; el alcance inmediato es sacerdotal y cultual.               |
-| #exodo_29_45-46 | La meta del orden cultual es la morada de יהוה en medio del pueblo.   | Apoyo textual; no se reduce a una técnica de acceso humano.                |
-| #exodo_30_1-10  | El incienso enseña reserva y dependencia del Mediador.                | La reserva cultual es textual; la aplicación al discipulado es pedagógica. |
+| #shemot_27_20-21 | La luz debe mantenerse continuamente con aceite preparado.            | Apoyo textual; la perseverancia espiritual es aplicación pedagógica.       |
+| #shemot_28_2-4   | Las prendas dan honra y hermosura, pero no son mágicas.               | Apoyo textual y léxico; la santidad procede de la orden y del servicio.    |
+| #shemot_28_40-43 | Las vestiduras evitan que el sacerdote cargue iniquidad al ministrar. | Apoyo textual; el alcance inmediato es sacerdotal y cultual.               |
+| #shemot_29_45-46 | La meta del orden cultual es la morada de יהוה en medio del pueblo.   | Apoyo textual; no se reduce a una técnica de acceso humano.                |
+| #shemot_30_1-10  | El incienso enseña reserva y dependencia del Mediador.                | La reserva cultual es textual; la aplicación al discipulado es pedagógica. |
 
 ## Reparación focal: la misma santidad atraviesa pueblo, sacerdote y objeto
 
@@ -159,7 +159,7 @@ El capítulo debe leerse como una progresión, no como una colección de símbol
 
 En 30:16 el dinero se da **על עבודת אהל מועד**, «para el servicio de la Tienda de la Reunión». **(עבודה)**, _avodah_, significa trabajo, servicio o labor; aquí designa el servicio cultual sostenido por la contribución, no una carrera individual de autoridad. El medio shekel recuerda a las personas, pero no las convierte en propietarias del santuario. La clase puede aplicar este principio a una comunidad que reconoce a cada miembro, pero esa aplicación es **teológica y aproximada**; el sentido exacto es el memorial y el servicio prescritos.
 
-La segunda transición es corporal. OE dice **ורחצו מים ולא ימתו**, «se lavarán con agua y no morirán» (#exodo_30_20). **(מים)**, _mayim_, significa agua; su fuerza contextual es el medio concreto del lavamiento. La forma no autoriza sustituir el acto por una emoción de pureza. TTH hace visible la misma secuencia: manos y pies se lavan antes de entrar o acercarse al altar. Eric acierta al resistir una santidad abstracta, aunque «preparación interior» es solo una aplicación **pedagógica**.
+La segunda transición es corporal. OE dice **ורחצו מים ולא ימתו**, «se lavarán con agua y no morirán» (#shemot_30_20). **(מים)**, _mayim_, significa agua; su fuerza contextual es el medio concreto del lavamiento. La forma no autoriza sustituir el acto por una emoción de pureza. TTH hace visible la misma secuencia: manos y pies se lavan antes de entrar o acercarse al altar. Eric acierta al resistir una santidad abstracta, aunque «preparación interior» es solo una aplicación **pedagógica**.
 
 Finalmente, 30:32 y 30:37 repiten que el aceite y el incienso no serán hechos «para ustedes» según su composición. **(רקח)**, _raqaj_, significa preparar o mezclar como perfumista; su fuerza contextual se refiere a una receta cultual definida. La prohibición de reproducir no implica que la materia sea mágica: manifiesta que la santidad pertenece a la orden de יהוה. Así, «levantar la cabeza» significa recibir reconocimiento bajo responsabilidad; no significa subir por encima del orden.
 

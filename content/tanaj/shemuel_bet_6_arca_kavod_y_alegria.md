@@ -1,13 +1,13 @@
 ---
 title: "Shemuel Bet 6: arca, kavod y alegría reverente"
-description: "Lectura de 2 Samuel 6 sobre el arca, la santidad de la presencia de יהוה, la danza de David y el desprecio de Mijal."
+description: "Lectura de 2 Shemuel 6 sobre el arca, la santidad de la presencia de יהוה, la danza de David y el desprecio de Mijal."
 date: 2026-07-29
 tags: [tanaj, shemuel_bet, haftarah, shmini, arca, santidad]
 references:
-  - "#2_samuel_6_1-5"
-  - "#2_samuel_6_6-11"
-  - "#2_samuel_6_12-19"
-  - "#2_samuel_6_20-23"
+  - "#shemuel_bet_6_1-5"
+  - "#shemuel_bet_6_6-11"
+  - "#shemuel_bet_6_12-19"
+  - "#shemuel_bet_6_20-23"
 sources:
   - "https://www.youtube.com/watch?v=QvVgjYqT3iI"
   - "docs/scriptures/tth/json/shemuel_bet.json"
@@ -24,19 +24,19 @@ Shemuel Bet 6 presenta una alegría verdadera, pero no una alegría que domestiq
 
 Esta nota sigue 2 Samuel 6:1-23 en cuatro unidades. La clase propone que una haftará puede relacionarse con una parashá por palabra, evento o propósito; esa es una pauta pedagógica, no una regla exclusiva para toda tradición. El TTH local se cita como texto de trabajo. La transcripción automática se usa para conservar y evaluar las observaciones de Eric, no como cita literal.
 
-## El arca no es un emblema de poder — 6:1-5 #2_samuel_6_1-5
+## El arca no es un emblema de poder — 6:1-5 #shemuel_bet_6_1-5
 
 David reúne a treinta mil escogidos y sale con el pueblo para hacer subir «el arca de Elohim, la cual es llamada Nombre, el Nombre de יהוה Tzebaot». El relato presenta entusiasmo, música y celebración. Sin embargo, el carro nuevo y el transporte dirigido por Uza y Ajío ya preparan la tensión: el arca no es simplemente un símbolo que el rey puede trasladar según conveniencia política. La clase acierta al relacionar el episodio con la manifestación del _kavod_ y con Shminí, porque en ambos casos la cercanía de lo santo exige obediencia concreta. La conexión es **temática y pedagógica**, no una afirmación de que ambos capítulos sean el mismo acontecimiento.
 
 La forma **(ארון)** (_aron_) significa arca, caja o cofre; aquí designa el arca asociada al Nombre y a la presencia de יהוה. **(שם)** (_shem_) significa nombre, y en 6:2 su fuerza contextual no reduce la escena a una etiqueta: el arca está vinculada al Nombre de יהוה Tzebaot. «Presencia» es una equivalencia **aproximada** para explicar el papel narrativo; no significa que el arca limite o contenga a יהוה.
 
-## Uza, temor y aprendizaje — 6:6-11 #2_samuel_6_6-11
+## Uza, temor y aprendizaje — 6:6-11 #shemuel_bet_6_6-11
 
 El TTH dice que Uza extendió la mano porque los bueyes habían dejado caer el arca; luego añade que Elohim lo golpeó «por la negligencia». El texto produce desconcierto deliberadamente: David se enoja, llama al lugar Peretz Uza y después pregunta: «¿Cómo vendrá a mí el arca de יהוה?». La clase conserva este peso y rechaza una lectura ligera de lo sagrado. La primera reacción de David no es todavía comprensión; el temor aparece en el v. 9 y conduce a dejar el arca tres meses en casa de Obed Edom.
 
 **(כבוד)** (_kavod_) significa peso, honor o gloria. Aunque el sustantivo no domina cada línea de este capítulo, expresa el campo que la clase aplica: lo santo tiene peso y no debe tratarse con banalidad. «Gloria» es una traducción tradicional; «peso» explica su fuerza metafórica. La equivalencia es **aproximada**, no una prueba de que toda reacción humana ante el arca sea idéntica a una definición de _kavod_. **(ירא)** (_yare_) significa temer o reverenciar; en 6:9 su fuerza contextual es reconocer peligro y distancia ante יהוה, no simplemente sentir pánico psicológico.
 
-## Alegría, sacrificio y bendición — 6:12-19 #2_samuel_6_12-19
+## Alegría, sacrificio y bendición — 6:12-19 #shemuel_bet_6_12-19
 
 Cuando David oye que יהוה ha bendecido la casa de Obed Edom «a causa del arca», la hace subir «con alegría». El cambio no elimina la advertencia anterior: ahora el relato describe portadores, sacrificio después de seis pasos, danza, efod de lino, _teruáh_ y voz de shofar. David no convierte la reverencia en inmovilidad; la alegría responde a una relación ordenada con lo santo.
 
@@ -44,7 +44,7 @@ Cuando David oye que יהוה ha bendecido la casa de Obed Edom «a causa del ar
 
 La distribución de pan, dátiles y pastel de pasas extiende la celebración a todo Israel. La santidad no termina en el gesto del rey: alcanza al pueblo mediante bendición y mesa compartida.
 
-## Mijal y el honor delante de יהוה — 6:20-23 #2_samuel_6_20-23
+## Mijal y el honor delante de יהוה — 6:20-23 #shemuel_bet_6_20-23
 
 Mijal desprecia a David en su corazón por haberse descubierto y danzado. David responde que fue «delante de יהוה», quien lo eligió, y declara que se humillará aún más ante יהוה. La clase usa este cierre para advertir contra medir el honor sólo con criterios de prestigio real. El texto no convierte toda forma de modestia en desprecio, pero sí contrasta el juicio de Mijal con la prioridad que David da a la mirada de יהוה.
 

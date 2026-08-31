@@ -27,6 +27,18 @@ test("Graph is the home: / is owned by the graph emitter, not the content page",
     "home must use the native Quartz Graph component",
   )
   assert.match(graphPage, /showTags: false/, "home graph must hide high-cardinality tag nodes")
+  assert.doesNotMatch(
+    graphPage,
+    /renderHomePage|graphSlug|GraphHome/,
+    "standalone graph HTML must not be emitted",
+  )
+
+  const sectionNav = await read("quartz/components/SectionNav.tsx")
+  assert.match(
+    sectionNav,
+    /label: "Grafo", slug: "index"/,
+    "navbar graph must return to the graph home",
+  )
 })
 
 test("Native Quartz graph used for the home (not a custom reimplementation)", async () => {
@@ -76,6 +88,24 @@ test("Explorer keeps corpus folders while filtering placeholder files", async ()
     explorerStyle,
     /folder-outer > ul \{[\s\S]*min-height: 0/,
     "collapsed folder content must not retain its intrinsic height",
+  )
+})
+
+test("Folder pages render their intro and direct article list", async () => {
+  const folderContent = await read("quartz/components/pages/FolderContent.tsx")
+  assert.match(folderContent, /folderPath\.at\(-1\) === "_folder"/)
+  assert.match(
+    folderContent,
+    /fileData: \{ \.\.\.fileData, slug: `\$\{folderPath\.join\("\/"\)\}\/index` as FullSlug \}/,
+  )
+})
+
+test("Article pages retain the compact local graph", async () => {
+  const layout = await read("quartz.layout.ts")
+  assert.match(
+    layout,
+    /right: \[[\s\S]*?Component\.Graph\(\),/,
+    "content pages must include the mini graph",
   )
 })
 

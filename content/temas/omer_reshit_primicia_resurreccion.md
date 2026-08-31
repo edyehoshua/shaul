@@ -9,10 +9,10 @@ tags:
   - resurreccion
   - fiestas
 references:
-  - "#levitico_23_10"
-  - "#levitico_23_11"
-  - "#levitico_23_15"
-  - "#levitico_23_16"
+  - "#vayikra_23_10"
+  - "#vayikra_23_11"
+  - "#vayikra_23_15"
+  - "#vayikra_23_16"
   - "#marcos_16_1"
   - "#marcos_16_2"
   - "#marcos_16_9"
@@ -37,9 +37,9 @@ Esta nota organiza la segunda parte de la enseñanza «El Ómer Re'shit parte 2�
 
 | Referencia | Texto local | Función en el argumento |
 | --- | --- | --- |
-| #levitico_23_10 | **דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן** | El mandato ocurre al entrar en la tierra y exige traer el ómer de la primicia de la cosecha. |
-| #levitico_23_11-12 | **והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן**; **ועשיתם ביום הניפכם את העמר כבש תמים בן שנתו לעלה ליהוה** | La primicia se presenta delante de יהוה y se acompaña de una ofrenda. |
-| #levitico_23_15-17 | **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה**; **עד ממחרת השבת השביעת תספרו חמשים יום**; **והבאתם מנחה חדשה ליהוה** | El ómer inicia un conteo de siete semanas y cincuenta días hacia una nueva ofrenda. |
+| #vayikra_23_10 | **דבר אל בני ישראל ואמרת אלהם כי תבאו אל הארץ אשר אני נתן לכם וקצרתם את קצירה והבאתם את עמר ראשית קצירכם אל הכהן** | El mandato ocurre al entrar en la tierra y exige traer el ómer de la primicia de la cosecha. |
+| #vayikra_23_11-12 | **והניף את העמר לפני יהוה לרצנכם ממחרת השבת יניפנו הכהן**; **ועשיתם ביום הניפכם את העמר כבש תמים בן שנתו לעלה ליהוה** | La primicia se presenta delante de יהוה y se acompaña de una ofrenda. |
+| #vayikra_23_15-17 | **וספרתם לכם ממחרת השבת מיום הביאכם את עמר התנופה שבע שבתות תמימת תהיינה**; **עד ממחרת השבת השביעת תספרו חמשים יום**; **והבאתם מנחה חדשה ליהוה** | El ómer inicia un conteo de siete semanas y cincuenta días hacia una nueva ofrenda. |
 | #marcos_16_1-2 | **ויהי כאשר עבר יום השבת ותבאנה... ובאחד בשבת בבקר השכם באו אל הקבר** | El relato sitúa la llegada al sepulcro después del shabat, al comienzo de la semana. |
 | #marcos_16_6-9 | **את ישוע הנצרי הנצלב אתן מבקשות הוא קם איננו פה**; **וכאשר קם מן המתים באחד בשבת נראה בראשנה אל מרים המגדלית** | La resurrección y la primera aparición se colocan en el primer día, la culminación de la conexión propuesta por la clase. |
 
@@ -74,8 +74,8 @@ La conexión no resuelve por sí sola toda la historia de las prácticas calend�
 
 | Unidad textual | Qué se tomó concretamente de Eric | Cómo se evaluó |
 | --- | --- | --- |
-| #levitico_23_10-12 | El ómer reshit es la porción óptima que el cultivador entrega, y la primicia representa confiar a יהוה la cosecha completa. | Apoyo textual y calificación: Levítico exige traer y mecer la primicia; la lectura sobre la mejor semilla y la cosecha futura es una inferencia pedagógica. |
-| #levitico_23_15-17 | El ómer inicia siete shabatot completos y conduce al día cincuenta; la clase usa ese orden para discutir qué shabat debe entenderse. | Apoyo textual parcial: el conteo y la nueva ofrenda están en el pasaje; la controversia histórica y su datación exacta quedan pendientes. |
+| #vayikra_23_10-12 | El ómer reshit es la porción óptima que el cultivador entrega, y la primicia representa confiar a יהוה la cosecha completa. | Apoyo textual y calificación: Levítico exige traer y mecer la primicia; la lectura sobre la mejor semilla y la cosecha futura es una inferencia pedagógica. |
+| #vayikra_23_15-17 | El ómer inicia siete shabatot completos y conduce al día cincuenta; la clase usa ese orden para discutir qué shabat debe entenderse. | Apoyo textual parcial: el conteo y la nueva ofrenda están en el pasaje; la controversia histórica y su datación exacta quedan pendientes. |
 | #marcos_16_1-9 | Eric conecta «pasado el shabat», «uno de la semana» y la resurrección con la señal de la primicia y con Yehoshua como inicio de una cosecha mayor. | Apoyo textual e inferencia mesiánica: Marcos sí narra la visita posterior al shabat y la resurrección; la equivalencia completa entre ómer y resurrección es una conexión teológica, no una definición lexical. |
 | Salmo 78:51 y Bereshit 25 | La clase usa primogénito, primicia, herencia y promesa para distinguir al que nace primero del que recibe la responsabilidad de continuar la promesa. | Conexión cualificada: se registra como argumento de Eric; la relación semántica entre todos los términos y la lectura de Esaú/Jacob requieren verificación más amplia. |
 

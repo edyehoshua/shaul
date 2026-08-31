@@ -15,8 +15,8 @@ references:
   - "#juan_10_25"
   - "#juan_10_27"
   - "#juan_10_28"
-  - "#salmos_30_1"
-  - "#levitico_23_2"
+  - "#tehilim_30_1"
+  - "#vayikra_23_2"
 sources:
   - "https://www.youtube.com/watch?v=e1oGNyhvSEQ"
   - "docs/scriptures/delitzsch/json/john.json"
@@ -39,12 +39,12 @@ Esta nota organiza la clase pública «Jag Hajanukáh - Fiesta del alistamiento�
 
 | Referencia        | Texto local                                                                                                                                                            | Función en el estudio                                                                         |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| #levitico_23_2     | **דבר אל בני ישראל ואמרת אלהם מועדי יהוה אשר תקראו אתם מקראי קדש אלה הם מועדי**                                                                                        | La lista normativa de citas de יהוה establece el límite de la comparación.                    |
+| #vayikra_23_2     | **דבר אל בני ישראל ואמרת אלהם מועדי יהוה אשר תקראו אתם מקראי קדש אלה הם מועדי**                                                                                        | La lista normativa de citas de יהוה establece el límite de la comparación.                    |
 | #juan_10_22    | **ויהי בימי החנכה בימי החרף בירושלים**                                                                                                                                 | El relato ubica a Yehoshua durante los días de Janukáh en Jerusalén.                          |
 | #juan_10_23    | **ויתהלך ישוע בבית המקדש באולם שלמה**                                                                                                                                  | Yehoshua camina en el templo, no aparece como observador distante.                            |
 | #juan_10_24-25 | **ויסבו אותו היהודים ויאמרו עד אנה תמשכנו בנפשנו אם אתה הוא המשיח הגד לנו לעין השמש׃ ויען אתם ישוע הן הגדתי לכם ולא האמנתם בי המעשים אשר אני עשה בשם אבי הם לי לעדות** | La pregunta por el Mesías conduce a las obras hechas en el nombre del Padre.                  |
 | #juan_10_27-28 | **צאני שמעות את קולי ואני ידע אתן והנה הולכות אחרי׃ וחיי עולם אתן להן לא תאבדנה לנצח ולא יחטף אתן איש מידי**                                                           | La respuesta pastoral es oír, seguir y recibir vida; no sólo identificar una fecha.           |
-| #salmos_30_1     | **מזמור שיר חנכת הבית לדוד**                                                                                                                                           | El título vincula חנכת con la casa, sin especificar por sí solo una interpretación mesiánica. |
+| #tehilim_30_1     | **מזמור שיר חנכת הבית לדוד**                                                                                                                                           | El título vincula חנכת con la casa, sin especificar por sí solo una interpretación mesiánica. |
 
 ## Vayiqra 23: una fiesta presente, pero no añadida a la lista
 
@@ -109,9 +109,9 @@ La referencia de Eric al Mesías que cumple los pasos de su misión debe calific
 
 | Perícopa o unidad                        | Observación atribuible de Eric                                                                                         | Evaluación frente a la Escritura                                                                                                     |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| #levitico_23_2-4; `youtube:e1oGNyhvSEQ`   | Janukáh no está en la lista de citas ordenadas por יהוה, por lo que debe distinguirse de los moadim normativos.        | Apoyo textual directo: se conserva el límite de la lista y no se fabrica un mandamiento.                                             |
+| #vayikra_23_2-4; `youtube:e1oGNyhvSEQ`   | Janukáh no está en la lista de citas ordenadas por יהוה, por lo que debe distinguirse de los moadim normativos.        | Apoyo textual directo: se conserva el límite de la lista y no se fabrica un mandamiento.                                             |
 | #juan_10_22-25; `youtube:e1oGNyhvSEQ` | Yehoshua estuvo en Jerusalén durante la dedicación y dirigió la conversación hacia sus obras y su identidad mesiánica. | Apoyo textual: el relato ubica la escena y menciona la dedicación; su presencia no convierte automáticamente la fecha en obligación. |
-| #salmos_30_1; `youtube:e1oGNyhvSEQ`     | «Dedicación de la casa» puede enseñar un alistamiento para el propósito de Elohim, no solo la apertura de un edificio. | Inferencia cualificada: el título sostiene el campo semántico de dedicación; la aplicación mesiánica requiere control intertextual.  |
+| #tehilim_30_1; `youtube:e1oGNyhvSEQ`     | «Dedicación de la casa» puede enseñar un alistamiento para el propósito de Elohim, no solo la apertura de un edificio. | Inferencia cualificada: el título sostiene el campo semántico de dedicación; la aplicación mesiánica requiere control intertextual.  |
 | #juan_10_27-28; `youtube:e1oGNyhvSEQ` | El alistamiento se verifica en oír la voz, seguir al Pastor y recibir vida.                                            | Apoyo textual directo para oír, seguir y recibir vida; no se atribuye la vida eterna a un calendario.                                |
 | Conexión con Mateo 3:15                  | El Mesías cumple los pasos de justicia sin saltarse el proceso de preparación.                                         | Conexión intertextual pedagógica y cualificada; no es una afirmación explícita de Juan 10 ni del título de Tehilim 30.               |
 

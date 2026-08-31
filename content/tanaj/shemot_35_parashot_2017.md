@@ -6,7 +6,7 @@ tags:
   - parashot
   - shemot
 references:
-  - "#exodo_35_1"
+  - "#shemot_35_1"
 sources:
   - "https://www.youtube.com/watch?v=bbbEFpR39a8"
   - "docs/scriptures/oe/json/exodus/35.json"
@@ -27,7 +27,7 @@ Esta es la nota canónica para Shemot 35 dentro de esta incorporación. La trans
 
 | Referencia   | Hebreo local (OE, sin nikud)                                                        | Observación                                                                                           |
 | ------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| #exodo_35_1 | **ויקהל משה את כל עדת בני ישראל ויאמר אלהם אלה הדברים אשר צוה יהוה לעשת אתם** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
+| #shemot_35_1 | **ויקהל משה את כל עדת בני ישראל ויאמר אלהם אלה הדברים אשר צוה יהוה לעשת אתם** | Versículo de apertura del capítulo; debe leerse en su unidad literaria antes de derivar aplicaciones. |
 
 ## Lectura inicial
 

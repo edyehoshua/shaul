@@ -4,15 +4,15 @@ description: "Estudio de Mishlei 18:10-16 sobre el refugio en el Nombre de יה�
 date: 2026-08-05
 tags: [mishlei, mishlei_18, refugio, humildad, escucha, sabiduria]
 references:
-  - "#proverbios_18_10"
-  - "#proverbios_18_11"
-  - "#proverbios_18_12"
-  - "#proverbios_18_13"
-  - "#proverbios_18_14"
-  - "#proverbios_18_15"
-  - "#proverbios_18_16"
-  - "#proverbios_16_18"
-  - "#proverbios_17_23"
+  - "#mishlei_18_10"
+  - "#mishlei_18_11"
+  - "#mishlei_18_12"
+  - "#mishlei_18_13"
+  - "#mishlei_18_14"
+  - "#mishlei_18_15"
+  - "#mishlei_18_16"
+  - "#mishlei_16_18"
+  - "#mishlei_17_23"
 sources:
   - "https://www.youtube.com/watch?v=WqpTElaPJ9A"
   - "docs/scriptures/oe/json/proverbs/18.json"
@@ -34,13 +34,13 @@ Esta nota organiza la clase sobre Mishlei 18:10-16. Sigue las conexiones interna
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_18_10 | מגדל עז שם יהוה בו ירוץ צדיק ונשגב | Torre fuerte es el Nombre de יהוה, adentro de ella correrá el justo y será elevado. |
-| #proverbios_18_11 | הון עשיר קרית עזו וכחומה נשגבה במשכיתו | La riqueza del rico es la ciudad de su fuerza, y como muralla elevada en su cerco (Otra lectura posible es: en su imaginación). |
-| #proverbios_18_12 | לפני שבר יגבה לב איש ולפני כבוד ענוה | Antes de la ruptura se exalta el corazón del hombre, y antes de la honra está la humildad. |
-| #proverbios_18_13 | משיב דבר בטרם ישמע אולת היא לו וכלמה | El que devuelve palabra antes de escuchar, le es tontería y vergüenza. |
-| #proverbios_18_14 | רוח איש יכלכל מחלהו ורוח נכאה מי ישאנה | El espíritu del hombre puede sostener su enfermedad, pero el espíritu herido, ¿quién lo soportará? |
-| #proverbios_18_15 | לב נבון יקנה דעת ואזן חכמים תבקש דעת | El corazón del entendido adquirirá conocimiento, y el oído de los sabios buscará el conocimiento. |
-| #proverbios_18_16 | מתן אדם ירחיב לו ולפני גדלים ינחנו | La dádiva del hombre lo ensanchará, y delante de los grandes lo conducirá. |
+| #mishlei_18_10 | מגדל עז שם יהוה בו ירוץ צדיק ונשגב | Torre fuerte es el Nombre de יהוה, adentro de ella correrá el justo y será elevado. |
+| #mishlei_18_11 | הון עשיר קרית עזו וכחומה נשגבה במשכיתו | La riqueza del rico es la ciudad de su fuerza, y como muralla elevada en su cerco (Otra lectura posible es: en su imaginación). |
+| #mishlei_18_12 | לפני שבר יגבה לב איש ולפני כבוד ענוה | Antes de la ruptura se exalta el corazón del hombre, y antes de la honra está la humildad. |
+| #mishlei_18_13 | משיב דבר בטרם ישמע אולת היא לו וכלמה | El que devuelve palabra antes de escuchar, le es tontería y vergüenza. |
+| #mishlei_18_14 | רוח איש יכלכל מחלהו ורוח נכאה מי ישאנה | El espíritu del hombre puede sostener su enfermedad, pero el espíritu herido, ¿quién lo soportará? |
+| #mishlei_18_15 | לב נבון יקנה דעת ואזן חכמים תבקש דעת | El corazón del entendido adquirirá conocimiento, y el oído de los sabios buscará el conocimiento. |
+| #mishlei_18_16 | מתן אדם ירחיב לו ולפני גדלים ינחנו | La dádiva del hombre lo ensanchará, y delante de los grandes lo conducirá. |
 
 ## Dos fortalezas: el Nombre y la riqueza
 
@@ -82,11 +82,11 @@ Finalmente, la dádiva del ser humano ensancha su camino y lo conduce delante de
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_18_10-11 | El Nombre de יהוה es torre del justo; la riqueza puede ser muralla real o imaginada. | Contraste textual apoyado; lectura de “Nombre” como obrar y aplicación espiritual calificadas. |
-| #proverbios_18_12 | La altivez precede la ruptura y la humildad precede la honra; se conecta con Mishlei 16:18 y 17:23. | Secuencia y conexiones temáticas apoyadas; etimología contextual de _ish_ pendiente. |
-| #proverbios_18_13 | Responder antes de escuchar es tontería y vergüenza. | Sentido textual directo; aplicación a defenderse antes de oír calificada. |
-| #proverbios_18_14-15 | El espíritu herido pesa; el sabio escucha y el entendido adquiere conocimiento. | Contraste textual apoyado; descripción de _ruaj_ y madurez como aplicación pastoral. |
-| #proverbios_18_16 | La dádiva ensancha y conduce delante de grandes; se lee como ofrenda que abre camino hacia reposo. | Imagen textual apoyada; lectura mesiánica y escatológica atribuida. |
+| #mishlei_18_10-11 | El Nombre de יהוה es torre del justo; la riqueza puede ser muralla real o imaginada. | Contraste textual apoyado; lectura de “Nombre” como obrar y aplicación espiritual calificadas. |
+| #mishlei_18_12 | La altivez precede la ruptura y la humildad precede la honra; se conecta con Mishlei 16:18 y 17:23. | Secuencia y conexiones temáticas apoyadas; etimología contextual de _ish_ pendiente. |
+| #mishlei_18_13 | Responder antes de escuchar es tontería y vergüenza. | Sentido textual directo; aplicación a defenderse antes de oír calificada. |
+| #mishlei_18_14-15 | El espíritu herido pesa; el sabio escucha y el entendido adquiere conocimiento. | Contraste textual apoyado; descripción de _ruaj_ y madurez como aplicación pastoral. |
+| #mishlei_18_16 | La dádiva ensancha y conduce delante de grandes; se lee como ofrenda que abre camino hacia reposo. | Imagen textual apoyada; lectura mesiánica y escatológica atribuida. |
 
 ## Pendiente de verificar
 

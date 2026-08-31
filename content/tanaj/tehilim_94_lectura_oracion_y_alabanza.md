@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_94_1"
-  - "#salmos_94_23"
+  - "#tehilim_94_1"
+  - "#tehilim_94_23"
 sources:
   - "https://www.youtube.com/watch?v=PJRyPclz_GA"
   - "docs/scriptures/oe/json/psalms/94.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 94. La transcripci�
 
 | Referencia     | Texto hebreo local (OE)                                      | Observación de lectura                                               |
 | -------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| #salmos_94_1  | אל נקמות יהוה אל נקמות הופיע                                 | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_94_23 | וישב עליהם את אונם וברעתם יצמיתם יצמיתם יהוה אלהינו | El verso final permite observar el cierre de la composición.         |
+| #tehilim_94_1  | אל נקמות יהוה אל נקמות הופיע                                 | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_94_23 | וישב עליהם את אונם וברעתם יצמיתם יצמיתם יהוה אלהינו | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

@@ -19,9 +19,9 @@ references:
   - "#ester_9_5-22"
   - "#ester_9_26-28"
   - "#ester_10_3"
-  - "#salmos_80_9-14"
-  - "#salmos_83_1-8"
-  - "#zacarias_2_9"
+  - "#tehilim_80_9-14"
+  - "#tehilim_83_1-8"
+  - "#zejariah_2_9"
 sources:
   - "https://www.youtube.com/watch?v=0jssylSPp4g"
   - "docs/scriptures/oe/json/esther/1.json"
@@ -60,9 +60,9 @@ Esta nota desarrolla la fuente pública `youtube:0jssylSPp4g`. La exposición se
 | #ester_9_16   | **ושאר היהודים ... נקהלו ועמד על נפשם ונוח מאיביהם ... ובבזה לא שלחו את ידם**                                           | Defensa y descanso; no extienden la mano al botín.                                              |
 | #ester_9_22   | **כימים אשר נחו בהם היהודים מאויביהם והחדש אשר נהפך להם מיגון לשמחה ... ומשלוח מנות איש לרעהו ומתנות לאביונים**         | La memoria se vuelve banquete, porciones y dones a pobres.                                      |
 | #ester_10_3   | **כי מרדכי היהודי ... דרש טוב לעמו ודבר שלום לכל זרעו**                                                                 | El liderazgo se mide por el bien del pueblo y la paz.                                           |
-| #salmos_80_13  | **למה פרצת גדריה וארוה כל עברי דרך**                                                                                    | La viña sin vallado queda expuesta; imagen del cerco roto.                                      |
-| #salmos_83_5   | **אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד**                                                                         | El consejo enemigo apunta a borrar la memoria del nombre de Israel.                             |
-| #zacarias_2_9 | **ואני אהיה לה נאם יהוה חומת אש סביב ולכבוד אהיה בתוכה**                                                                | יהוה mismo como muro de fuego alrededor de Jerusalén.                                           |
+| #tehilim_80_13  | **למה פרצת גדריה וארוה כל עברי דרך**                                                                                    | La viña sin vallado queda expuesta; imagen del cerco roto.                                      |
+| #tehilim_83_5   | **אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד**                                                                         | El consejo enemigo apunta a borrar la memoria del nombre de Israel.                             |
+| #zejariah_2_9 | **ואני אהיה לה נאם יהוה חומת אש סביב ולכבוד אהיה בתוכה**                                                                | יהוה mismo como muro de fuego alrededor de Jerusalén.                                           |
 
 ## Pueblo del libro y cerco de _’ejad_
 
@@ -74,11 +74,11 @@ Para ilustrar _’ejad_, la clase compara tres «unos»: יהוה es _’ejad_; 
 
 ## Salmo 80, Salmo 83 y el muro de fuego
 
-Eric lee #salmos_80_9-14: la viña sacada de Egipto llena la tierra, pero cuando se rompen sus vallados cualquiera que pasa la vendimia y la bestia del campo la devora. **(גדר)**, _gader_, significa vallado, seto o cerca; en 80:13 la pregunta «¿por qué rompiste sus vallados?» describe exposición. «Vallado» es **directo**; usarlo como definición exhaustiva de la Torah es **pedagógico**. La clase conecta el hueco del cerco con la entrada de lo extraño en el culto.
+Eric lee #tehilim_80_9-14: la viña sacada de Egipto llena la tierra, pero cuando se rompen sus vallados cualquiera que pasa la vendimia y la bestia del campo la devora. **(גדר)**, _gader_, significa vallado, seto o cerca; en 80:13 la pregunta «¿por qué rompiste sus vallados?» describe exposición. «Vallado» es **directo**; usarlo como definición exhaustiva de la Torah es **pedagógico**. La clase conecta el hueco del cerco con la entrada de lo extraño en el culto.
 
-Luego lee #salmos_83_1-8: enemigos que consultan para destruir al pueblo y borrar la memoria del nombre de Israel. **(זכר)**, _zakar_, significa recordar; la forma **יזכר**, _yizakher_, en 83:5 niega que el nombre de Israel vuelva a ser recordado. La observación de Eric de que el conflicto apunta a la memoria recibe **apoyo textual**. Las identificaciones modernas de Edom, Ismael, Tiro o Agar con entidades políticas actuales son **aproximadas e históricas**; el salmo nombra pueblos de su horizonte y no entrega un mapa geopolítico automático del siglo XXI.
+Luego lee #tehilim_83_1-8: enemigos que consultan para destruir al pueblo y borrar la memoria del nombre de Israel. **(זכר)**, _zakar_, significa recordar; la forma **יזכר**, _yizakher_, en 83:5 niega que el nombre de Israel vuelva a ser recordado. La observación de Eric de que el conflicto apunta a la memoria recibe **apoyo textual**. Las identificaciones modernas de Edom, Ismael, Tiro o Agar con entidades políticas actuales son **aproximadas e históricas**; el salmo nombra pueblos de su horizonte y no entrega un mapa geopolítico automático del siglo XXI.
 
-La clase busca además la promesa de un muro de fuego y la localiza en #zacarias_2_9: «yo seré para ella… muro de fuego alrededor, y para gloria estaré en medio de ella». **(חומת אש)**, _jomat ’esh_, significa muro o muralla de fuego. La glosa es **directa**; la aplicación a la identidad del pueblo en Purim es **pedagógica**: יהוה mismo aparece como cerco, no solo una disciplina humana.
+La clase busca además la promesa de un muro de fuego y la localiza en #zejariah_2_9: «yo seré para ella… muro de fuego alrededor, y para gloria estaré en medio de ella». **(חומת אש)**, _jomat ’esh_, significa muro o muralla de fuego. La glosa es **directa**; la aplicación a la identidad del pueblo en Purim es **pedagógica**: יהוה mismo aparece como cerco, no solo una disciplina humana.
 
 ## Shushán, Amán y el _pur_
 
@@ -109,7 +109,7 @@ En #ester_9_5-16 los judíos prevalecen. La clase destaca que, aunque el edicto 
 | Unidad textual                         | Observación concreta de la clase                                                                                          | Tratamiento en esta nota                                                                                                      |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Apertura; #ester_3_8                  | Lee **ישנו עם אחד** como pueblo uno/cerrado; el vallado es Torah y evangelio; compara _’ejad_ con tabernáculo y con יהוה. | Apoyo textual en la frase hebrea; la imagen del cerco y el filtro Torah-evangelio se marcan como pedagógicos y cualificados.  |
-| #salmos_80; #salmos_83; #zacarias_2_9 | El hueco del vallado expone la viña; el consejo enemigo busca borrar la memoria de Israel; יהוה es muro de fuego.         | Apoyo textual en los pasajes citados; mapeos geopolíticos modernos quedan aproximados.                                        |
+| #tehilim_80; #tehilim_83; #zejariah_2_9 | El hueco del vallado expone la viña; el consejo enemigo busca borrar la memoria de Israel; יהוה es muro de fuego.         | Apoyo textual en los pasajes citados; mapeos geopolíticos modernos quedan aproximados.                                        |
 | #ester_3_7-13                         | Amán echa _pur_ como sortilegio; la fecha cae en Adar; hay un segundo gran intento de borrar la simiente tras Faraón.     | Apoyo textual al _pur_ y a Adar; «sortilegio/zodiaco» y tipología del genocidio son paráfrasis evaluadas, no citas literales. |
 | #ester_4_13-7_10                      | Ester no pide la mitad del reino; pide su vida y su pueblo; el mal de Amán se revierte.                                   | Apoyo textual fuerte; la cronología exacta del ayuno se marca como inferencial.                                               |
 | #ester_8_8-9_28                       | El edicto no se revoca: se autoriza la defensa; no toman el botín; instituyen banquete, porciones y dones a pobres.       | Apoyo textual directo; la aplicación a conflictos presentes es pedagógica y limitada.                                         |

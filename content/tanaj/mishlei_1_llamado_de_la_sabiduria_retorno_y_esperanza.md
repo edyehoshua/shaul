@@ -4,19 +4,19 @@ description: "La sabiduría llama al pueblo, confronta el retroceso y promete se
 date: 2026-08-06
 tags: [mishlei, mishlei_1, sabiduria, teshuva, temor, exilio, esperanza]
 references:
-  - "#proverbios_1_20"
-  - "#proverbios_1_21"
-  - "#proverbios_1_22"
-  - "#proverbios_1_23"
-  - "#proverbios_1_28"
-  - "#proverbios_1_29"
-  - "#proverbios_1_31"
-  - "#proverbios_1_32"
-  - "#proverbios_1_33"
-  - "#isaias_65_12"
-  - "#oseas_5_14"
-  - "#jeremias_29_12"
-  - "#jeremias_3_22"
+  - "#mishlei_1_20"
+  - "#mishlei_1_21"
+  - "#mishlei_1_22"
+  - "#mishlei_1_23"
+  - "#mishlei_1_28"
+  - "#mishlei_1_29"
+  - "#mishlei_1_31"
+  - "#mishlei_1_32"
+  - "#mishlei_1_33"
+  - "#yeshayahu_65_12"
+  - "#hoshea_5_14"
+  - "#yirmeyahu_29_12"
+  - "#yirmeyahu_3_22"
 sources:
   - "https://www.youtube.com/watch?v=nN44Xkk3CuA"
   - "docs/scriptures/oe/json/raw/proverbs.json"
@@ -38,12 +38,12 @@ Esta nota organiza la enseñanza pública sobre Mishlei 1:20-33. Sigue el movimi
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_1_20 | חכמות בחוץ תרנה ברחבות תתן קולה | La Sabiduría grita afuera, en las plazas da su voz; |
-| #proverbios_1_21 | בראש המיות תקרא בפתחי שערים בעיר אמריה תאמר | en la cabeza de los tumultos llama, en las entradas de las puertas, en la ciudad, su dicho dice: |
-| #proverbios_1_22 | עד מתי פתים תאהבו פתי ולצים לצון חמדו להם וכסילים ישנאו דעת | ¿Hasta cuándo, ingenuos, amarán la ingenuidad, y los burladores la burla desearán para sí, y los indisciplinados odiarán el conocimiento? |
-| #proverbios_1_23 | תשובו לתוכחתי הנה אביעה לכם רוחי אודיעה דברי אתכם | ¡Vuelvan a mi reprensión! He aquí, haré fluir mi Rúaj hacia ustedes, les haré conocer mis palabras. |
-| #proverbios_1_28-30 | אז יקראנני ולא אענה ישחרנני ולא ימצאנני / תחת כי שנאו דעת ויראת יהוה לא בחרו / לא אבו לעצתי נאצו כל תוכחתי | Entonces me llamarán, y no responderé; buscarán temprano, y no hallarán; por causa de que odiaron el conocimiento y el temor de יהוה no escogieron; no quisieron mi consejo, despreciaron toda mi reprensión; |
-| #proverbios_1_31-33 | ויאכלו מפרי דרכם וממעצתיהם ישבעו / כי משובת פתים תהרגם ושלות כסילים תאבדם / ושמע לי ישכן בטח ושאנן מפחד רעה | Comerán del fruto de su camino; el retroceso de los ingenuos los matará, pero el que me escucha morará seguro y descansará del terror del mal. |
+| #mishlei_1_20 | חכמות בחוץ תרנה ברחבות תתן קולה | La Sabiduría grita afuera, en las plazas da su voz; |
+| #mishlei_1_21 | בראש המיות תקרא בפתחי שערים בעיר אמריה תאמר | en la cabeza de los tumultos llama, en las entradas de las puertas, en la ciudad, su dicho dice: |
+| #mishlei_1_22 | עד מתי פתים תאהבו פתי ולצים לצון חמדו להם וכסילים ישנאו דעת | ¿Hasta cuándo, ingenuos, amarán la ingenuidad, y los burladores la burla desearán para sí, y los indisciplinados odiarán el conocimiento? |
+| #mishlei_1_23 | תשובו לתוכחתי הנה אביעה לכם רוחי אודיעה דברי אתכם | ¡Vuelvan a mi reprensión! He aquí, haré fluir mi Rúaj hacia ustedes, les haré conocer mis palabras. |
+| #mishlei_1_28-30 | אז יקראנני ולא אענה ישחרנני ולא ימצאנני / תחת כי שנאו דעת ויראת יהוה לא בחרו / לא אבו לעצתי נאצו כל תוכחתי | Entonces me llamarán, y no responderé; buscarán temprano, y no hallarán; por causa de que odiaron el conocimiento y el temor de יהוה no escogieron; no quisieron mi consejo, despreciaron toda mi reprensión; |
+| #mishlei_1_31-33 | ויאכלו מפרי דרכם וממעצתיהם ישבעו / כי משובת פתים תהרגם ושלות כסילים תאבדם / ושמע לי ישכן בטח ושאנן מפחד רעה | Comerán del fruto de su camino; el retroceso de los ingenuos los matará, pero el que me escucha morará seguro y descansará del terror del mal. |
 
 ## La voz de la sabiduría está en público y llama al pueblo
 
@@ -77,17 +77,17 @@ El cierre no promete comodidad inmediata. “El que me escucha morará seguro”
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_1_20-21 | La sabiduría proclama en calles, plazas y puertas; la voz alcanza al pueblo y al tribunal. | Apoyo textual con aplicación sobre los profetas. |
-| #proverbios_1_22-23 | Ingenuos, burladores e indisciplinados son llamados a volver; la reprensión precede al derramamiento del Rúaj. | Apoyo textual y aclaración léxica; identificación plena con יהוה queda calificada. |
-| #proverbios_1_24-30 | Rechazar consejo y temor conduce a que el pueblo busque sin hallar; la clase lo conecta con exilio e idolatría. | Texto directo sobre rechazo; inferencia histórica e intertextual atribuida. |
-| #proverbios_1_31-33 | Cada grupo come el fruto de su camino; el que escucha recibe seguridad frente al mal. | Apoyo textual; aplicación al reino venidero calificada. |
+| #mishlei_1_20-21 | La sabiduría proclama en calles, plazas y puertas; la voz alcanza al pueblo y al tribunal. | Apoyo textual con aplicación sobre los profetas. |
+| #mishlei_1_22-23 | Ingenuos, burladores e indisciplinados son llamados a volver; la reprensión precede al derramamiento del Rúaj. | Apoyo textual y aclaración léxica; identificación plena con יהוה queda calificada. |
+| #mishlei_1_24-30 | Rechazar consejo y temor conduce a que el pueblo busque sin hallar; la clase lo conecta con exilio e idolatría. | Texto directo sobre rechazo; inferencia histórica e intertextual atribuida. |
+| #mishlei_1_31-33 | Cada grupo come el fruto de su camino; el que escucha recibe seguridad frente al mal. | Apoyo textual; aplicación al reino venidero calificada. |
 
 ## Conexiones principales
 
-- #isaias_65_12: llamado rechazado y contraste entre siervos y quienes desobedecen.
-- #oseas_5_14: retiro de יהוה hasta que el pueblo reconozca su culpa y busque su rostro.
-- #jeremias_29_12: promesa de ser hallado cuando el pueblo busca con todo el corazón.
-- #jeremias_3_22: promesa de sanar el retroceso de los hijos desviados.
+- #yeshayahu_65_12: llamado rechazado y contraste entre siervos y quienes desobedecen.
+- #hoshea_5_14: retiro de יהוה hasta que el pueblo reconozca su culpa y busque su rostro.
+- #yirmeyahu_29_12: promesa de ser hallado cuando el pueblo busca con todo el corazón.
+- #yirmeyahu_3_22: promesa de sanar el retroceso de los hijos desviados.
 
 ## Pendiente de verificar
 

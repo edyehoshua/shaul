@@ -10,15 +10,15 @@ tags:
   - misericordia
   - neo-idolatria
 references:
-  - "#2_reyes_2_9"
-  - "#2_reyes_4_1"
-  - "#2_reyes_4_8"
-  - "#2_reyes_8_12"
-  - "#2_reyes_9_6"
-  - "#2_reyes_10_28"
-  - "#2_reyes_10_31"
-  - "#2_reyes_13_4"
-  - "#2_reyes_13_23"
+  - "#melajim_bet_2_9"
+  - "#melajim_bet_4_1"
+  - "#melajim_bet_4_8"
+  - "#melajim_bet_8_12"
+  - "#melajim_bet_9_6"
+  - "#melajim_bet_10_28"
+  - "#melajim_bet_10_31"
+  - "#melajim_bet_13_4"
+  - "#melajim_bet_13_23"
 sources:
   - "https://www.youtube.com/watch?v=layUF91PZiU"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -39,11 +39,11 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local de TTH | Función en el estudio |
 | --- | --- | --- |
-| #2_reyes_2_9 | «Y aconteció que cuando habían pasado, Eliyáhu dijo a Elishá: Pide qué haré por ti antes de que sea tomado de contigo. Y dijo Elishá: Sea, por favor, doble porción de tu espíritu sobre mí.» | La clase lee la petición y la sucesión profética como el comienzo del servicio de Elishá. |
-| #2_reyes_8_12-13 | «Porque sé que harás a los hijos de Israel maldad... Y dijo Jazael: Pero, ¿qué es tu siervo, un perro, que hará esta gran cosa? Y dijo Elishá: Me ha hecho ver יהוה a ti como rey sobre Aram.» | La palabra profética muestra que יהוה conoce y juzga la violencia que Jazael ejercerá. |
-| #2_reyes_9_6-7 | «Así dijo יהוה, Elohim de Israel: “Te he ungido por rey sobre el pueblo de יהוה, sobre Israel. Y herirás a la casa de Ajab tu amo...”» | La unción de Yehú es presentada como encargo de juicio contra la casa de Ajab. |
-| #2_reyes_10_28-31 | «Y destruyó Yehú a Baal de Israel. Pero, los pecados de Yarobam... no se desvió Yehú de detrás de ellos... Pero Yehú no se guardó de andar en la Torah de יהוה... con todo su corazón.» | El propio texto limita el elogio: destrucción de Baal, pero permanencia en la idolatría de los becerros. |
-| #2_reyes_13_4-5, 23 | «Y suplicó estando débil Yehoajaz al rostro de יהוה, y lo escuchó יהוה... Y dio יהוה a Israel un salvador...» / «Pero se compadeció יהוה de ellos, y les tuvo misericordia... por causa de su pacto...» | La liberación no se funda en la justicia del rey, sino en la compasión, el pacto y la misericordia de יהוה. |
+| #melajim_bet_2_9 | «Y aconteció que cuando habían pasado, Eliyáhu dijo a Elishá: Pide qué haré por ti antes de que sea tomado de contigo. Y dijo Elishá: Sea, por favor, doble porción de tu espíritu sobre mí.» | La clase lee la petición y la sucesión profética como el comienzo del servicio de Elishá. |
+| #melajim_bet_8_12-13 | «Porque sé que harás a los hijos de Israel maldad... Y dijo Jazael: Pero, ¿qué es tu siervo, un perro, que hará esta gran cosa? Y dijo Elishá: Me ha hecho ver יהוה a ti como rey sobre Aram.» | La palabra profética muestra que יהוה conoce y juzga la violencia que Jazael ejercerá. |
+| #melajim_bet_9_6-7 | «Así dijo יהוה, Elohim de Israel: “Te he ungido por rey sobre el pueblo de יהוה, sobre Israel. Y herirás a la casa de Ajab tu amo...”» | La unción de Yehú es presentada como encargo de juicio contra la casa de Ajab. |
+| #melajim_bet_10_28-31 | «Y destruyó Yehú a Baal de Israel. Pero, los pecados de Yarobam... no se desvió Yehú de detrás de ellos... Pero Yehú no se guardó de andar en la Torah de יהוה... con todo su corazón.» | El propio texto limita el elogio: destrucción de Baal, pero permanencia en la idolatría de los becerros. |
+| #melajim_bet_13_4-5, 23 | «Y suplicó estando débil Yehoajaz al rostro de יהוה, y lo escuchó יהוה... Y dio יהוה a Israel un salvador...» / «Pero se compadeció יהוה de ellos, y les tuvo misericordia... por causa de su pacto...» | La liberación no se funda en la justicia del rey, sino en la compasión, el pacto y la misericordia de יהוה. |
 
 ## Elishá recibe el servicio y la compasión se vuelve visible
 
@@ -83,11 +83,11 @@ El TTH dice que יהוה reconoció que Yehú había hecho lo recto contra la ca
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2_reyes_2_9-15 | Elishá recibe una doble porción y abre el Jordán después de Eliyáhu. | Apoyo textual; la conexión mesiánica se presenta como lectura tipológica. |
-| #2_reyes_2_23-24; 4_1-37 | Elishá sana aguas, multiplica aceite, levanta al hijo de la sunamita y juzga la burla. | Se conserva la observación; las aplicaciones sobre edad, pecado y salvación quedan cualificadas. |
-| #2_reyes_8_12-13 | Jazael será rey y oprimirá a Israel; Elishá llora al conocerlo. | Apoyo textual e identificación de Aram; detalles históricos pendientes. |
-| #2_reyes_9_6-10; 10_1-28 | Yehú es ungido, destruye la casa de Ajab y tiende una trampa a Baal. | Apoyo textual directo; se distingue el juicio ejecutado de la fidelidad personal. |
-| #2_reyes_10_29-31; 13_4-5, 23 | Yehú conserva los becerros y יהוה libera a Israel por compasión y pacto. | Apoyo textual; la aplicación a la neo-idolatría se mantiene como advertencia analógica. |
+| #melajim_bet_2_9-15 | Elishá recibe una doble porción y abre el Jordán después de Eliyáhu. | Apoyo textual; la conexión mesiánica se presenta como lectura tipológica. |
+| #melajim_bet_2_23-24; 4_1-37 | Elishá sana aguas, multiplica aceite, levanta al hijo de la sunamita y juzga la burla. | Se conserva la observación; las aplicaciones sobre edad, pecado y salvación quedan cualificadas. |
+| #melajim_bet_8_12-13 | Jazael será rey y oprimirá a Israel; Elishá llora al conocerlo. | Apoyo textual e identificación de Aram; detalles históricos pendientes. |
+| #melajim_bet_9_6-10; 10_1-28 | Yehú es ungido, destruye la casa de Ajab y tiende una trampa a Baal. | Apoyo textual directo; se distingue el juicio ejecutado de la fidelidad personal. |
+| #melajim_bet_10_29-31; 13_4-5, 23 | Yehú conserva los becerros y יהוה libera a Israel por compasión y pacto. | Apoyo textual; la aplicación a la neo-idolatría se mantiene como advertencia analógica. |
 
 ## Pendiente de verificar
 

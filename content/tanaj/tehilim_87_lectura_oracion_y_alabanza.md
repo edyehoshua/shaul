@@ -8,8 +8,8 @@ tags:
   - himnos
   - oracion
 references:
-  - "#salmos_87_1"
-  - "#salmos_87_7"
+  - "#tehilim_87_1"
+  - "#tehilim_87_7"
 sources:
   - "https://www.youtube.com/watch?v=AM2fdiGBMz8"
   - "docs/scriptures/oe/json/psalms/87.json"
@@ -30,8 +30,8 @@ Esta nota canónica reúne la fuente disponible para Tehilim 87. La transcripci�
 
 | Referencia    | Texto hebreo local (OE)                | Observación de lectura                                               |
 | ------------- | -------------------------------------- | -------------------------------------------------------------------- |
-| #salmos_87_1 | לבני קרח מזמור שיר יסודתו בהררי קדש | El primer verso abre la unidad y debe leerse con el resto del salmo. |
-| #salmos_87_7 | ושרים כחללים כל מעיני בך           | El verso final permite observar el cierre de la composición.         |
+| #tehilim_87_1 | לבני קרח מזמור שיר יסודתו בהררי קדש | El primer verso abre la unidad y debe leerse con el resto del salmo. |
+| #tehilim_87_7 | ושרים כחללים כל מעיני בך           | El verso final permite observar el cierre de la composición.         |
 
 ## Lectura del capítulo
 

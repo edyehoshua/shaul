@@ -14,7 +14,7 @@ references:
   - "#marcos_16_1"
   - "#lucas_24_1"
   - "#lucas_24_6-7"
-  - "#levitico_23_15-17"
+  - "#vayikra_23_15-17"
   - "#hechos_2_1-4"
   - "#1_corintios_15_20-23"
 sources:
@@ -45,7 +45,7 @@ Esta nota integra una clase de Eric sobre resurrección, conteo del ómer y Shav
 | #juan_20_1 | **ויהי באחד בשבת ותבוא מרים המגדלית לפנות בקר בחשכה אל הקבר ותרא את האבן מגללה מעל הקבר** | Eric destaca que la visita ocurre cuando todavía hay oscuridad y la piedra ya está retirada. |
 | #mateo_28_1, #marcos_16_1 | **ואחרי מוצאי השבת כשהאיר לאחד בשבת...** / **ויהי כאשר עבר יום השבת...** | Los relatos sitúan la visita después del shabat, al comenzar el primer día. |
 | #lucas_24_1, #lucas_24_6-7 | **ובאחד בשבת לפני עלות השחר באו אל הקבר... איננו פה כי קם... וביום השלישי קום יקום** | Las mujeres llegan antes del amanecer y reciben el anuncio de que ya no está allí. |
-| #levitico_23_15-17 | **וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה... חמשים יום... והקרבתם מנחה חדשה ליהוה... לחם תנופה שתים... חמץ תאפה בכורים ליהוה** | El texto ordena contar siete semanas completas, cincuenta días y presentar una ofrenda nueva de primicias. |
+| #vayikra_23_15-17 | **וספרתם לכם ממחרת השבת... שבע שבתות תמימת תהיינה... חמשים יום... והקרבתם מנחה חדשה ליהוה... לחם תנופה שתים... חמץ תאפה בכורים ליהוה** | El texto ordena contar siete semanas completas, cincuenta días y presentar una ofrenda nueva de primicias. |
 | #hechos_2_1-4 | **וביום מלאת שבעת השבעות נאספו כלם לב אחד... וימלאו כלם רוח הקדש** | Hechos vincula el cumplimiento de las semanas con la reunión y el don del Ruaj. |
 
 ## Hoja léxica
@@ -82,7 +82,7 @@ El conteo de Vaikra debe conservar sus propias palabras: “siete semanas comple
 | --- | --- | --- |
 | #juan_20_1; #lucas_24_1, 6-7 | Las mujeres llegaron antes del amanecer y Yehoshua ya no estaba; nadie vio la salida del sepulcro. | Apoyado por la secuencia textual; la hora exacta de la resurrección queda como inferencia. |
 | #mateo_28_1; #marcos_16_1 | “Primer día” comienza después del shabat; la “mañana” describe la visita, no obliga a colocar allí la resurrección. | Clarificación temporal apoyada por las escenas; la armonización total de los relatos requiere revisión adicional. |
-| #levitico_23_15-17; #1_corintios_15_20-23 | El ómer, la primera porción y las primicias ofrecen el marco para entender la presentación de Yehoshua y el conteo hacia Shavu’ot. | Correspondencia temática y lexical; la identificación de una ceremonia mesiánica exacta es inferencia calificada. |
+| #vayikra_23_15-17; #1_corintios_15_20-23 | El ómer, la primera porción y las primicias ofrecen el marco para entender la presentación de Yehoshua y el conteo hacia Shavu’ot. | Correspondencia temática y lexical; la identificación de una ceremonia mesiánica exacta es inferencia calificada. |
 | #hechos_2_1-4 | El cumplimiento de las semanas se relaciona con la reunión de discípulos y el don del Ruaj. | Apoyo textual en Hechos; no se afirma que Vaikra explique exhaustivamente cada detalle de Hechos. |
 
 El mapa registra los puntos concretos conservados y evaluados; no afirma una cobertura exhaustiva de todo lo dicho en la clase.
@@ -101,7 +101,7 @@ La lectura de Eric aporta una advertencia útil: distinguir el momento en que se
 
 ## Ver también
 
-- [[vaikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
+- [[vayikra_23_omer_conteo_primicias_y_shavuot|Vaikra 23: ómer, primicias y conteo hacia Shavu’ot]]
 - [[shavuot_convocacion_primicias_y_promesa|Shavu’ot: convocación, primicias y promesa]]
 - [[omer_reshit_pan_cada_dia_y_primicia|Ómer reshit: pan, cada día y primicia]]
 

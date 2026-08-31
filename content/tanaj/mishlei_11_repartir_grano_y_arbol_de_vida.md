@@ -4,19 +4,19 @@ description: "Estudio de Mishlei 11:19-31 sobre justicia, generosidad, enseñanz
 date: 2026-08-06
 tags: [mishlei, mishlei_11, justicia, generosidad, enseñanza, vida]
 references:
-  - "#proverbios_11_19"
-  - "#proverbios_11_20"
-  - "#proverbios_11_21"
-  - "#proverbios_11_22"
-  - "#proverbios_11_23"
-  - "#proverbios_11_24"
-  - "#proverbios_11_25"
-  - "#proverbios_11_26"
-  - "#proverbios_11_27"
-  - "#proverbios_11_28"
-  - "#proverbios_11_29"
-  - "#proverbios_11_30"
-  - "#proverbios_11_31"
+  - "#mishlei_11_19"
+  - "#mishlei_11_20"
+  - "#mishlei_11_21"
+  - "#mishlei_11_22"
+  - "#mishlei_11_23"
+  - "#mishlei_11_24"
+  - "#mishlei_11_25"
+  - "#mishlei_11_26"
+  - "#mishlei_11_27"
+  - "#mishlei_11_28"
+  - "#mishlei_11_29"
+  - "#mishlei_11_30"
+  - "#mishlei_11_31"
 sources:
   - "https://www.youtube.com/watch?v=-yaNJ0VABUg"
   - "docs/scriptures/oe/json/proverbs/11.json"
@@ -38,12 +38,12 @@ Esta nota organiza la clase pública sobre Mishlei 11:19-31. Sigue la secuencia 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_11_19 | כן צדקה לחיים ומרדף רעה למותו | El establecido en la justicia va a vida, pero el que persigue el mal, a su muerte. |
-| #proverbios_11_20-21 | תועבת יהוה עקשי לב ורצונו תמימי דרך / יד ליד לא ינקה רע וזרע צדיקים נמלט | Abominación de יהוה son los torcidos de corazón, y su deseo, los enteros de camino. Mano a mano, no será inocente el malo, pero la semilla de los justos será hecha escapar. |
-| #proverbios_11_22-23 | נזם זהב באף חזיר אשה יפה וסרת טעם / תאות צדיקים אך טוב תקות רשעים עברה | Anillo de oro en la nariz de un cerdo es la mujer bella que se ha apartado del juicio. El deseo de los justos es solamente el bien, la esperanza de los condenados es el desborde. |
-| #proverbios_11_24-26 | יש מפזר ונוסף עוד ... מנע בר יקבהו לאום | Hay quien reparte, y le es añadido más... el que retiene el grano será maldecido por el pueblo. |
-| #proverbios_11_27-30 | שחר טוב יבקש רצון ... פרי צדיק עץ חיים ולקח נפשות חכם | El que busca temprano el bien procurará el favor... el fruto del justo es árbol de vida, y el que toma personas es sabio. |
-| #proverbios_11_31 | הן צדיק בארץ ישלם אף כי רשע וחוטא | He aquí, el justo en la tierra será retribuido, ¡cuánto más el condenado y el pecador! |
+| #mishlei_11_19 | כן צדקה לחיים ומרדף רעה למותו | El establecido en la justicia va a vida, pero el que persigue el mal, a su muerte. |
+| #mishlei_11_20-21 | תועבת יהוה עקשי לב ורצונו תמימי דרך / יד ליד לא ינקה רע וזרע צדיקים נמלט | Abominación de יהוה son los torcidos de corazón, y su deseo, los enteros de camino. Mano a mano, no será inocente el malo, pero la semilla de los justos será hecha escapar. |
+| #mishlei_11_22-23 | נזם זהב באף חזיר אשה יפה וסרת טעם / תאות צדיקים אך טוב תקות רשעים עברה | Anillo de oro en la nariz de un cerdo es la mujer bella que se ha apartado del juicio. El deseo de los justos es solamente el bien, la esperanza de los condenados es el desborde. |
+| #mishlei_11_24-26 | יש מפזר ונוסף עוד ... מנע בר יקבהו לאום | Hay quien reparte, y le es añadido más... el que retiene el grano será maldecido por el pueblo. |
+| #mishlei_11_27-30 | שחר טוב יבקש רצון ... פרי צדיק עץ חיים ולקח נפשות חכם | El que busca temprano el bien procurará el favor... el fruto del justo es árbol de vida, y el que toma personas es sabio. |
+| #mishlei_11_31 | הן צדיק בארץ ישלם אף כי רשע וחוטא | He aquí, el justo en la tierra será retribuido, ¡cuánto más el condenado y el pecador! |
 
 ## Justicia que conduce a vida
 
@@ -86,10 +86,10 @@ El cierre dice que el fruto del justo es árbol de vida y que el sabio “toma p
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_11_19-23 | Justicia conduce a vida; la mano de יהוה retribuye; el corazón torcido y el deseo producen consecuencias. | Contraste textual apoyado; “semilla de shalom” calificada. |
-| #proverbios_11_24-26 | Repartir lo que se recibe trae añadidura; retener el grano produce carencia; regar trae lluvia. | Exhortación textual apoyada; aplicación a Torah y Rúaj pedagógica. |
-| #proverbios_11_27-29 | Buscar el bien, no confiar en riqueza y no turbar la casa conducen a un camino firme. | Paralelismo apoyado; interioridad de _bait_ y ejemplo de Faraón pendientes. |
-| #proverbios_11_30-31 | El fruto del justo es árbol de vida; recibir personas es sabio; toda obra recibe retribución. | Texto apoyado; crítica a “ganar almas” y aplicación pastoral calificadas. |
+| #mishlei_11_19-23 | Justicia conduce a vida; la mano de יהוה retribuye; el corazón torcido y el deseo producen consecuencias. | Contraste textual apoyado; “semilla de shalom” calificada. |
+| #mishlei_11_24-26 | Repartir lo que se recibe trae añadidura; retener el grano produce carencia; regar trae lluvia. | Exhortación textual apoyada; aplicación a Torah y Rúaj pedagógica. |
+| #mishlei_11_27-29 | Buscar el bien, no confiar en riqueza y no turbar la casa conducen a un camino firme. | Paralelismo apoyado; interioridad de _bait_ y ejemplo de Faraón pendientes. |
+| #mishlei_11_30-31 | El fruto del justo es árbol de vida; recibir personas es sabio; toda obra recibe retribución. | Texto apoyado; crítica a “ganar almas” y aplicación pastoral calificadas. |
 
 ## Pendiente de verificar
 

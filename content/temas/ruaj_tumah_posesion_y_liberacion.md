@@ -7,7 +7,7 @@ tags:
   - tumah
   - liberacion
   - demonios
-  - markos
+  - marcos
   - santidad
 references:
   - "#marcos_1_23"
@@ -19,14 +19,14 @@ references:
   - "#mateo_12_44"
   - "#mateo_12_45"
   - "#marcos_4_15"
-  - "#1_samuel_16_14"
-  - "#1_samuel_16_23"
+  - "#shemuel_alef_16_14"
+  - "#shemuel_alef_16_23"
   - "#hechos_16_16"
   - "#hechos_16_18"
   - "#2_corintios_4_4"
-  - "#levitico_13_45"
-  - "#levitico_15_19"
-  - "#levitico_15_24"
+  - "#vayikra_13_45"
+  - "#vayikra_15_19"
+  - "#vayikra_15_24"
 sources:
   - "/Users/jhonny/.codex/attachments/27da551b-bb74-4f9e-973e-eef44d41f04e/pasted-text.txt"
   - "docs/scriptures/tth/json/markos.json"
@@ -60,12 +60,12 @@ La clase propone que la expresión "espíritu inmundo" debe leerse con más prec
 | #marcos_1_27 | TTH: "¿Qué enseñanza nueva es esta suya? ¡Porque con poder aun a los espíritus impuros da orden, y ellos le escuchan!" / Delitzsch: אף לרוחות הטמאה מצוה הוא בגבורה והנה שמעות לו | La novedad percibida es autoridad: los poderes escuchan y obedecen. |
 | #mateo_12_43-45 | TTH: el espíritu impuro sale, vuelve a la casa vacía y trae siete peores. | La clase advierte que expulsar sin llenar de palabra, discipulado y presencia de Elohim deja a la persona vulnerable. |
 | #marcos_4_15 | TTH: cuando se siembra la palabra, Ha'satán quita lo sembrado en el corazón. | La cautividad también puede bloquear la recepción de la palabra, no solo producir síntomas visibles. |
-| #1_samuel_16_14 | ורוח יהוה סרה מעם שאול ובעתתו רוח רעה מאת יהוה | El caso de Shaúl muestra tormento por un poder adverso después de apartarse la ruaj de יהוה. |
-| #1_samuel_16_23 | והיה בהיות רוח אלהים אל שאול ולקח דוד את הכנור ונגן בידו ורוח לשאול וטוב לו וסרה מעליו רוח הרעה | La música guiada por el poder de Elohim apacigua y aparta el tormento. |
+| #shemuel_alef_16_14 | ורוח יהוה סרה מעם שאול ובעתתו רוח רעה מאת יהוה | El caso de Shaúl muestra tormento por un poder adverso después de apartarse la ruaj de יהוה. |
+| #shemuel_alef_16_23 | והיה בהיות רוח אלהים אל שאול ולקח דוד את הכנור ונגן בידו ורוח לשאול וטוב לו וסרה מעליו רוח הרעה | La música guiada por el poder de Elohim apacigua y aparta el tormento. |
 | #hechos_16_16-18 | Delitzsch: שפחה בעלת אוב... ויאמר אל הרוח אנכי מצוך בשם ישוע המשיח לצאת ממנה | El caso de la muchacha con adivinación muestra que un poder puede hablar verdad parcial y aun así ser rechazado por el siervo del Mesías. |
 | #2_corintios_4_4 | Delitzsch: אל העולם הזה עור בהם את מחשבות חסרי האמונה | La ceguera del entendimiento se lee como bloqueo espiritual que impide ver la gloria del Mesías. |
-| #levitico_13_45 | TTH: el tzarúa grita "¡Impuro, impuro!" / OE: וטמא טמא יקרא | La clase usa tzaraat para explicar tumah como inhabilidad, no como simple suciedad. |
-| #levitico_15_19, #levitico_15_24 | TTH: la mujer en nidah y el hombre que se acuesta con ella quedan impuros por un tiempo. | La impureza puede ser temporal y relacionada con condición corporal, exclusión o reconstitución, no con repulsión moral automática. |
+| #vayikra_13_45 | TTH: el tzarúa grita "¡Impuro, impuro!" / OE: וטמא טמא יקרא | La clase usa tzaraat para explicar tumah como inhabilidad, no como simple suciedad. |
+| #vayikra_15_19, #vayikra_15_24 | TTH: la mujer en nidah y el hombre que se acuesta con ella quedan impuros por un tiempo. | La impureza puede ser temporal y relacionada con condición corporal, exclusión o reconstitución, no con repulsión moral automática. |
 
 ## Hoja léxica
 
@@ -130,4 +130,4 @@ La clase lleva a leer la posesión demoníaca como cautividad bajo un poder de d
 ## Ver también
 
 - [[tzaraat|Tzaraat: piel, casa y cabeza bajo examen]]
-- [[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]
+- [[juan_10_puerta_pastor_abba|Yojanán 10: la puerta, el buen pastor y Abba]]

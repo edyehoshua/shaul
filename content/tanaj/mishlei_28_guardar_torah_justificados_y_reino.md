@@ -4,19 +4,19 @@ description: "La condena, los muchos gobernantes y la debilidad se contrastan co
 date: 2026-08-05
 tags: [mishlei, mishlei_28, torah, justificacion, esperanza, reino, discernimiento]
 references:
-  - "#proverbios_28_1"
-  - "#proverbios_28_2"
-  - "#proverbios_28_3"
-  - "#proverbios_28_4"
-  - "#proverbios_28_5"
-  - "#proverbios_28_6"
-  - "#proverbios_28_7"
-  - "#proverbios_28_8"
-  - "#levitico_26_36"
+  - "#mishlei_28_1"
+  - "#mishlei_28_2"
+  - "#mishlei_28_3"
+  - "#mishlei_28_4"
+  - "#mishlei_28_5"
+  - "#mishlei_28_6"
+  - "#mishlei_28_7"
+  - "#mishlei_28_8"
+  - "#vayikra_26_36"
   - "#juan_5_22"
   - "#mateo_13_20"
-  - "#jeremias_31_31"
-  - "#proverbios_19_1"
+  - "#yirmeyahu_31_31"
+  - "#mishlei_19_1"
 sources:
   - "https://www.youtube.com/watch?v=6xSeVap4xDU"
   - "docs/scriptures/oe/json/proverbs/28.json"
@@ -39,15 +39,15 @@ Esta nota organiza la enseñanza del hermano Eric de Jesús Rodríguez Mendoza s
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_28_1 | נסו ואין רדף רשע וצדיקים ככפיר יבטח | Huye el condenado sin que haya perseguidor, pero los justos son como el león, que confía. |
-| #proverbios_28_2 | בפשע ארץ רבים שריה ובאדם מבין ידע כן יאריך | En la transgresión de la tierra, muchos son sus príncipes, pero en el hombre entendido que conoce, firme permanecerá prolongadamente. |
-| #proverbios_28_3 | גבר רש ועשק דלים מטר סחף ואין לחם | Varón pobre, y que oprime a los débiles, es lluvia que arruina, y sin pan. |
-| #proverbios_28_4 | עזבי תורה יהללו רשע ושמרי תורה יתגרו בם | Los que abandonan la Torah alaban al condenado, y los que guardan la Torah pelean contra ellos. |
-| #proverbios_28_5 | אנשי רע לא יבינו משפט ומבקשי יהוה יבינו כל | Los hombres del mal no entienden el proceso legal, pero los que buscan a יהוה entienden todo. |
-| #proverbios_28_6 | טוב רש הולך בתמו מעקש דרכים והוא עשיר | Mejor es el pobre que anda en su integridad, que el torcido de dos caminos, y es rico. |
-| #proverbios_28_7 | נוצר תורה בן מבין ורעה זוללים יכלים אביו | El que preserva la Torah es hijo entendido, pero el compañero de glotones avergüenza a su padre. |
-| #proverbios_28_8 | מרבה הונו בנשך ובתרבית ותרבית לחונן דלים יקבצנו | El que aumenta su riqueza con usura e interés, para el que favorece a los débiles lo recolecta. |
-| #proverbios_19_1 | טוב רש הולך בתמו מעקש שפתיו והוא כסיל | Mejor es el pobre que anda en su integridad que el perverso de labios e indisciplinado. |
+| #mishlei_28_1 | נסו ואין רדף רשע וצדיקים ככפיר יבטח | Huye el condenado sin que haya perseguidor, pero los justos son como el león, que confía. |
+| #mishlei_28_2 | בפשע ארץ רבים שריה ובאדם מבין ידע כן יאריך | En la transgresión de la tierra, muchos son sus príncipes, pero en el hombre entendido que conoce, firme permanecerá prolongadamente. |
+| #mishlei_28_3 | גבר רש ועשק דלים מטר סחף ואין לחם | Varón pobre, y que oprime a los débiles, es lluvia que arruina, y sin pan. |
+| #mishlei_28_4 | עזבי תורה יהללו רשע ושמרי תורה יתגרו בם | Los que abandonan la Torah alaban al condenado, y los que guardan la Torah pelean contra ellos. |
+| #mishlei_28_5 | אנשי רע לא יבינו משפט ומבקשי יהוה יבינו כל | Los hombres del mal no entienden el proceso legal, pero los que buscan a יהוה entienden todo. |
+| #mishlei_28_6 | טוב רש הולך בתמו מעקש דרכים והוא עשיר | Mejor es el pobre que anda en su integridad, que el torcido de dos caminos, y es rico. |
+| #mishlei_28_7 | נוצר תורה בן מבין ורעה זוללים יכלים אביו | El que preserva la Torah es hijo entendido, pero el compañero de glotones avergüenza a su padre. |
+| #mishlei_28_8 | מרבה הונו בנשך ובתרבית ותרבית לחונן דלים יקבצנו | El que aumenta su riqueza con usura e interés, para el que favorece a los débiles lo recolecta. |
+| #mishlei_19_1 | טוב רש הולך בתמו מעקש שפתיו והוא כסיל | Mejor es el pobre que anda en su integridad que el perverso de labios e indisciplinado. |
 
 ## El condenado huye y el justificado confía
 
@@ -102,9 +102,9 @@ El cierre vuelve a Mishlei 28:8: la riqueza aumentada con usura e interés acaba
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_28_1-2 | El condenado huye bajo sentencia; los justificados confían, y un hombre entendido permanece frente a muchos gobernantes. | Contraste textual apoyado; conexión con Vayiqra y figura mesiánica calificadas. |
-| #proverbios_28_3-4 | El poderoso pobre oprime a los débiles; abandonar la Torah alaba al condenado y preservarla resiste sus obras. | Oposición textual apoyada; identificación de grupos con Satanás y semillas tratada como aplicación. |
-| #proverbios_28_5-8 | Buscar a יהוה permite entender el mishpat; la integridad supera la riqueza aparente, el hijo entendido preserva la Torah y la usura cambia de dueño. | Apoyo textual; conexiones con Yojanan, Mishlei 19 y la obra del Mesías calificadas. |
+| #mishlei_28_1-2 | El condenado huye bajo sentencia; los justificados confían, y un hombre entendido permanece frente a muchos gobernantes. | Contraste textual apoyado; conexión con Vayiqra y figura mesiánica calificadas. |
+| #mishlei_28_3-4 | El poderoso pobre oprime a los débiles; abandonar la Torah alaba al condenado y preservarla resiste sus obras. | Oposición textual apoyada; identificación de grupos con Satanás y semillas tratada como aplicación. |
+| #mishlei_28_5-8 | Buscar a יהוה permite entender el mishpat; la integridad supera la riqueza aparente, el hijo entendido preserva la Torah y la usura cambia de dueño. | Apoyo textual; conexiones con Yojanan, Mishlei 19 y la obra del Mesías calificadas. |
 
 ## Pendiente de verificar
 
@@ -116,10 +116,10 @@ El cierre vuelve a Mishlei 28:8: la riqueza aumentada con usura e interés acaba
 
 ## Conexiones principales
 
-- #levitico_26_36: el temor sin perseguidor ofrece el trasfondo temático de Mishlei 28:1; la conexión no reemplaza la lectura del contexto de Vayiqra.
-- #proverbios_19_1: la repetición de “pobre íntegro” ilumina la ironía de la riqueza y el doble camino en Mishlei 28:6.
+- #vayikra_26_36: el temor sin perseguidor ofrece el trasfondo temático de Mishlei 28:1; la conexión no reemplaza la lectura del contexto de Vayiqra.
+- #mishlei_19_1: la repetición de “pobre íntegro” ilumina la ironía de la riqueza y el doble camino en Mishlei 28:6.
 - #juan_5_22: la clase conecta el _mishpat_ con el juicio entregado al Hijo; se trata de una lectura mesiánica, no de una traducción añadida al proverbio.
-- #jeremias_31_31: la Torah escrita en el corazón acompaña la aplicación de “preservar la Torah”; la referencia exacta queda por cotejar con la formulación local disponible.
+- #yirmeyahu_31_31: la Torah escrita en el corazón acompaña la aplicación de “preservar la Torah”; la referencia exacta queda por cotejar con la formulación local disponible.
 
 ## Conclusión
 

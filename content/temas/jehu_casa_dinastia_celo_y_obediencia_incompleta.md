@@ -10,15 +10,15 @@ tags:
   - sincretismo
   - obediencia
 references:
-  - "#2_reyes_9_1"
-  - "#2_reyes_9_6"
-  - "#2_reyes_10_28"
-  - "#2_reyes_10_29"
-  - "#2_reyes_10_30"
-  - "#2_reyes_10_31"
-  - "#2_reyes_10_36"
-  - "#2_reyes_13_3"
-  - "#2_reyes_13_23"
+  - "#melajim_bet_9_1"
+  - "#melajim_bet_9_6"
+  - "#melajim_bet_10_28"
+  - "#melajim_bet_10_29"
+  - "#melajim_bet_10_30"
+  - "#melajim_bet_10_31"
+  - "#melajim_bet_10_36"
+  - "#melajim_bet_13_3"
+  - "#melajim_bet_13_23"
 sources:
   - "https://www.youtube.com/watch?v=Ap7lr0Ybezk"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -39,12 +39,12 @@ Esta nota organiza la clase pública «NEOIDOLATRÍA, Israel y el legado de las 
 
 | Referencia | Texto local de TTH | Función en el estudio |
 | --- | --- | --- |
-| #2_reyes_9_1, 6-7 | «Y Elishá el profeta llamó a uno de los hijos de los profetas...» / «Así dijo יהוה, Elohim de Israel: “Te he ungido por rey sobre el pueblo de יהוה, sobre Israel. Y herirás a la casa de Ajab...”» | Yehú recibe una comisión real y judicial concreta. |
-| #2_reyes_10_28-31 | «Y destruyó Yehú a Baal de Israel. Pero, los pecados de Yarobam... no se desvió Yehú de detrás de ellos, los becerros de oro... Pero Yehú no se guardó de andar en la Torah de יהוה... con todo su corazón.» | El contraste interno del pasaje impide llamar íntegra a la reforma de Yehú. |
-| #2_reyes_10_30 | «Porque hiciste bien al hacer lo recto en mis ojos... los hijos de la cuarta generación se sentarán para ti sobre el trono de Israel.» | יהוה reconoce el acto de juicio y limita la promesa a una dinastía de cuatro generaciones. |
-| #2_reyes_10_32 | «En aquellos días comenzó יהוה a cortar en Israel; y los golpeó Jazael por toda la frontera de Israel.» | La permanencia en la idolatría tiene consecuencias nacionales. |
-| #2_reyes_10_36 | «Y los días que reinó Yehú sobre Israel fueron veintiocho años, en Shomrón.» | Cierre del reinado del fundador de la casa. |
-| #2_reyes_13_3-5, 23 | «Y se encendió la ira de יהוה contra Israel... Y suplicó estando débil Yehoajaz... Y dio יהוה a Israel un salvador...» / «Pero se compadeció יהוה de ellos... por causa de su pacto...» | La liberación posterior se atribuye a la misericordia y al pacto, no a la rectitud de la dinastía. |
+| #melajim_bet_9_1, 6-7 | «Y Elishá el profeta llamó a uno de los hijos de los profetas...» / «Así dijo יהוה, Elohim de Israel: “Te he ungido por rey sobre el pueblo de יהוה, sobre Israel. Y herirás a la casa de Ajab...”» | Yehú recibe una comisión real y judicial concreta. |
+| #melajim_bet_10_28-31 | «Y destruyó Yehú a Baal de Israel. Pero, los pecados de Yarobam... no se desvió Yehú de detrás de ellos, los becerros de oro... Pero Yehú no se guardó de andar en la Torah de יהוה... con todo su corazón.» | El contraste interno del pasaje impide llamar íntegra a la reforma de Yehú. |
+| #melajim_bet_10_30 | «Porque hiciste bien al hacer lo recto en mis ojos... los hijos de la cuarta generación se sentarán para ti sobre el trono de Israel.» | יהוה reconoce el acto de juicio y limita la promesa a una dinastía de cuatro generaciones. |
+| #melajim_bet_10_32 | «En aquellos días comenzó יהוה a cortar en Israel; y los golpeó Jazael por toda la frontera de Israel.» | La permanencia en la idolatría tiene consecuencias nacionales. |
+| #melajim_bet_10_36 | «Y los días que reinó Yehú sobre Israel fueron veintiocho años, en Shomrón.» | Cierre del reinado del fundador de la casa. |
+| #melajim_bet_13_3-5, 23 | «Y se encendió la ira de יהוה contra Israel... Y suplicó estando débil Yehoajaz... Y dio יהוה a Israel un salvador...» / «Pero se compadeció יהוה de ellos... por causa de su pacto...» | La liberación posterior se atribuye a la misericordia y al pacto, no a la rectitud de la dinastía. |
 
 ## La casa no es solo un edificio: es semilla, autoridad y práctica
 
@@ -98,11 +98,11 @@ El resultado histórico es una casa que se corta y un reino que vuelve a la ines
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en esta nota |
 | --- | --- | --- |
-| #2_reyes_9_1-10 | Yehú es ungido para juzgar la casa de Ajab e Izebel. | Apoyo textual directo; se limita la identificación de motivaciones internas. |
-| #2_reyes_10_1-28 | Yehú destruye la casa de Ajab y reúne mediante astucia a los adoradores de Baal. | Apoyo textual; se explica la estrategia sin presentar la violencia como modelo general. |
-| #2_reyes_10_29-31 | Yehú destruye a Baal, pero conserva los becerros y no guarda la Torá con todo el corazón. | Apoyo textual central; base de la advertencia contra el sincretismo. |
-| #2_reyes_10_30, 36 | La dinastía recibe cuatro generaciones y el fundador reina veintiocho años. | Apoyo textual; se distingue recompensa limitada de aprobación completa. |
-| #2_reyes_13_3-5, 23-25 | יהוה escucha en la opresión, da un salvador y se compadece por su pacto; la casa continúa debilitada. | Apoyo textual con aplicación sobre misericordia y soberanía, sin atribuir intenciones no reveladas. |
+| #melajim_bet_9_1-10 | Yehú es ungido para juzgar la casa de Ajab e Izebel. | Apoyo textual directo; se limita la identificación de motivaciones internas. |
+| #melajim_bet_10_1-28 | Yehú destruye la casa de Ajab y reúne mediante astucia a los adoradores de Baal. | Apoyo textual; se explica la estrategia sin presentar la violencia como modelo general. |
+| #melajim_bet_10_29-31 | Yehú destruye a Baal, pero conserva los becerros y no guarda la Torá con todo el corazón. | Apoyo textual central; base de la advertencia contra el sincretismo. |
+| #melajim_bet_10_30, 36 | La dinastía recibe cuatro generaciones y el fundador reina veintiocho años. | Apoyo textual; se distingue recompensa limitada de aprobación completa. |
+| #melajim_bet_13_3-5, 23-25 | יהוה escucha en la opresión, da un salvador y se compadece por su pacto; la casa continúa debilitada. | Apoyo textual con aplicación sobre misericordia y soberanía, sin atribuir intenciones no reveladas. |
 
 ## Pendiente de verificar
 

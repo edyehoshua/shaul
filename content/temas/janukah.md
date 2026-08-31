@@ -6,11 +6,11 @@ tags:
   - janukah
   - templo
   - identidad
-  - yojanan
+  - juan
   - tehilim
 references:
-  - "#salmos_30_1-5"
-  - "#salmos_30_6-13"
+  - "#tehilim_30_1-5"
+  - "#tehilim_30_6-13"
   - "#juan_10_22-24"
   - "#juan_10_25-30"
 sources:
@@ -36,13 +36,13 @@ La nota trabaja con las dos clases públicas «Janukáh 2024 - 5785 Un día para
 
 | Unidad            | Texto local                                                                  | Fuerza del pasaje                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| #salmos_30_1-2   | **מזמור שיר חנכת הבית לדוד; ארוממך יהוה כי דליתני**                          | El encabezado vincula el canto con la dedicación de la casa; el orante alaba porque fue levantado.           |
-| #salmos_30_3-5   | **יהוה אלהי שועתי אליך ותרפאני... זמרו ליהוה חסידיו והודו לזכר קדשו**        | El clamor, la sanidad y la memoria de la santidad producen alabanza comunitaria.                             |
+| #tehilim_30_1-2   | **מזמור שיר חנכת הבית לדוד; ארוממך יהוה כי דליתני**                          | El encabezado vincula el canto con la dedicación de la casa; el orante alaba porque fue levantado.           |
+| #tehilim_30_3-5   | **יהוה אלהי שועתי אליך ותרפאני... זמרו ליהוה חסידיו והודו לזכר קדשו**        | El clamor, la sanidad y la memoria de la santidad producen alabanza comunitaria.                             |
 | #juan_10_22-24 | **ויהי בימי החנכה בימי החרף בירושלים... אם אתה הוא המשיח הגד לנו לעין השמש** | Yojanan sitúa la escena en Janucá, invierno y el pórtico de Shlomó; allí se exige una declaración mesiánica. |
 | #juan_10_25-27 | **המעשים אשר אני עשה בשם אבי הם לי לעדות... צאני שמעות את קולי**             | Yehoshua remite a sus obras y describe a sus ovejas como quienes oyen su voz y le siguen.                    |
 | #juan_10_28-30 | **וחיי עולם אתן להן... ואני והאב אחד**                                       | La promesa de vida y la unidad con el Padre son la respuesta teológica del pasaje.                           |
 
-## Dedicación y memoria: Tehilim 30:1-5 #salmos_30_1-5
+## Dedicación y memoria: Tehilim 30:1-5 #tehilim_30_1-5
 
 El título dice **חנכת הבית**, _chanukat habayit_, «dedicación de la casa». **חנך**, _chanakh_, significa dedicar, inaugurar o poner en uso; su relación con «rehabilitar» es aproximada, porque el encabezado no narra por sí solo toda la historia macabea. Eric usa el salmo como memoria de una casa restaurada y de una identidad que no debe perderse. El texto confirma la dirección de la lectura: el cantor recuerda la liberación de יהוה y llama a los fieles a cantar, pero no identifica explícitamente Janucá histórica de los Macabeos.
 
@@ -72,7 +72,7 @@ Eric recuerda en sus clases que la historia de Janucá se conoce mediante testig
 
 | Unidad textual    | Observación concreta atribuida a Eric                                                                                 | Prueba y tratamiento                                                                                            |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| #salmos_30_1-5   | Eric usa la dedicación de la casa y la memoria de la santidad para explicar una identidad que recuerda la liberación. | El encabezado y el llamado a confesar la santidad son directos; la aplicación a Janucá histórica es contextual. |
+| #tehilim_30_1-5   | Eric usa la dedicación de la casa y la memoria de la santidad para explicar una identidad que recuerda la liberación. | El encabezado y el llamado a confesar la santidad son directos; la aplicación a Janucá histórica es contextual. |
 | #juan_10_22-24 | La fiesta crea el escenario de la presión mesiánica, no una obligación uniforme de celebrarla.                        | El texto fija Janucá y la pregunta; la libertad de conciencia proviene de la exposición atribuida.              |
 | #juan_10_25-30 | Eric desplaza el centro hacia obras, escucha, seguimiento y preservación en la mano del Padre.                        | Yehoshua habla de obras, ovejas, voz, vida y unidad; la síntesis de identidad bíblica es pedagógica.            |
 

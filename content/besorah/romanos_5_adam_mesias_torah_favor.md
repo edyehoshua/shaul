@@ -14,9 +14,9 @@ references:
   - "#romanos_5_12-14"
   - "#romanos_5_15-19"
   - "#romanos_5_20-21"
-  - "#genesis_3_1-24"
+  - "#bereshit_3_1-24"
   - "#santiago_1_14-15"
-  - "#isaias_42_21"
+  - "#yeshayahu_42_21"
 sources:
   - "https://www.youtube.com/watch?v=rJn64hHbN2U"
   - "docs/scriptures/tth/json/romanos.json"

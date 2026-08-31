@@ -97,7 +97,7 @@ La gracia que salva no es un salario y tampoco una licencia. Efesios 2 presenta 
 
 - [[efesios_2_muertos_bajo_el_eon_y_llamados_a_caminar|Efesios 2: muertos bajo el eón y llamados a caminar]]
 - [[efesios_2_dadiva_gracia_y_buenas_obras|Efesios 2: la dádiva que crea un camino de buenas obras]]
-- [[galatim_1_evangelio_gracia_y_llamado|Gálatas 1: evangelio, gracia y llamado]]
+- [[galatas_1_evangelio_gracia_y_llamado|Gálatas 1: evangelio, gracia y llamado]]
 
 ## Créditos
 

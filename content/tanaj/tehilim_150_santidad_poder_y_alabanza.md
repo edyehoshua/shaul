@@ -8,10 +8,10 @@ tags:
   - santidad
   - instrumentos
 references:
-  - "#salmos_150_1-6"
-  - "#genesis_1_6-8"
-  - "#exodo_19_16-20"
-  - "#isaias_43_21"
+  - "#tehilim_150_1-6"
+  - "#bereshit_1_6-8"
+  - "#shemot_19_16-20"
+  - "#yeshayahu_43_21"
   - "#romanos_12_1-2"
   - "#hebreos_2_14-18"
   - "#hebreos_12_14"
@@ -35,10 +35,10 @@ Se sigue el salmo en orden textual. Las observaciones de Eric sobre santidad, se
 
 | Referencia | Texto hebreo local | Función en el argumento |
 | --- | --- | --- |
-| #salmos_150_1 | **הללו יה הללו אל בקדשו הללו ברקיע עזו** | Alabanza en su santidad y en el firmamento de su poder. |
-| #salmos_150_2 | **הללוהו בגבורתיו הללוהו כרב גדלו** | Alabanza por sus actos poderosos y conforme a su grandeza. |
-| #salmos_150_3-5 | **הללוהו בתקוע שופר ... בתף ומחול ... בצלצלי שמע ... בצלצלי תרועה** | La alabanza toma forma sonora, corporal y comunitaria. |
-| #salmos_150_6 | **כל הנשמה תהלל יה הללו יה** | Cierre universal del salmo: toda נשמה alaba a יה. |
+| #tehilim_150_1 | **הללו יה הללו אל בקדשו הללו ברקיע עזו** | Alabanza en su santidad y en el firmamento de su poder. |
+| #tehilim_150_2 | **הללוהו בגבורתיו הללוהו כרב גדלו** | Alabanza por sus actos poderosos y conforme a su grandeza. |
+| #tehilim_150_3-5 | **הללוהו בתקוע שופר ... בתף ומחול ... בצלצלי שמע ... בצלצלי תרועה** | La alabanza toma forma sonora, corporal y comunitaria. |
+| #tehilim_150_6 | **כל הנשמה תהלל יה הללו יה** | Cierre universal del salmo: toda נשמה alaba a יה. |
 
 ## Mapa de la enseñanza de Eric
 
@@ -50,7 +50,7 @@ Se sigue el salmo en orden textual. Las observaciones de Eric sobre santidad, se
 | 150:3-5 | Eric pide que los instrumentos y la danza no busquen protagonismo, likes o aplausos. Distingue el tof de tambores modernos y reclama una alabanza bíblica consciente, no un trance tomado de otras culturas. | El texto enumera shofar, nevel, kinnor, tof, danza, minim, ugav y címbalos; apoya variedad instrumental y danza, pero no formula una prohibición moderna sobre instrumentos ni demuestra por sí solo el origen cultual de cada ritmo. |
 | 150:6 | Eric rechaza que el cierre signifique que animales o cualquier cosa que respire alaba, y relaciona **נשמה** con la vida recibida y la confesión del Mesías. | **נשמה** puede significar aliento, respiración o ser viviente; el sentido hebreo no permite restringirlo automáticamente a una confesión cristológica. La lectura de Eric es una aplicación teológica posterior que debe permanecer marcada. |
 
-## 150:1: santidad y separación #salmos_150_1
+## 150:1: santidad y separación #tehilim_150_1
 
 El salmo comienza con **הללו יה**, _halelu Yah_, “alaben a Yah”, y repite el imperativo **הללו**, _halelu_, “alaben”. Eric detiene la lectura en **בקדשו**, _bekodsho_, y prefiere el sentido “en su santidad” frente a la traducción “en su santuario”. **קדש**, _qodesh_, significa santidad o cosa santa; en este contexto su fuerza es el ámbito o carácter santo que distingue a יהוה. La observación de Eric está apoyada por la forma hebrea, aunque el campo semántico de **קדש** también puede relacionarse con un santuario. No se debe presentar su preferencia interpretativa como la única traducción posible.
 
@@ -58,7 +58,7 @@ Eric desarrolla una tesis importante: si hay “poderosos” en el mundo, lo que
 
 La segunda mitad del verso dice **הללוהו ברקיע עזו**, _halleluhu birqia ozzo_. Eric cuestiona “firmamento de su poder” y propone oír en **רקיע**, _raqia_, la idea de un separador, como en Bereshit 1:6-8, donde la expansión separa aguas de aguas. La relación léxica con el relato de la creación es exacta: **רקיע** aparece en ambos pasajes. Sin embargo, en Tehilim 150:1 la frase puede alabar a יהוה en la extensión/firmamento de su poder sin exigir que **רקיע** sea solo “poder para separar”. La aplicación de Eric —discernir entre lo que procede de יהוה y lo que no— es pedagógica y coherente con su énfasis en santidad, no una traducción literal exhaustiva.
 
-## 150:2: obras poderosas y grandeza #salmos_150_2
+## 150:2: obras poderosas y grandeza #tehilim_150_2
 
 El v. 2 ordena: **הללוהו בגבורתיו**, _halleluhu bigvurotav_, “alábenlo por sus actos poderosos”, y **הללוהו כרב גדלו**, _halleluhu kerov godlo_, “alábenlo conforme a la abundancia de su grandeza”. **גבורה**, _gevurah_, significa fuerza, poder o acto poderoso; Eric la enlaza con las proezas de יהוה y, en particular, con resucitar a los muertos. Hebreos 2:14-18 y el testimonio apostólico hacen posible esa conexión dentro de una lectura canónica mesiánica, pero el verso del salmo no menciona explícitamente la resurrección. El dato textual seguro es que la alabanza responde a obras de poder.
 
@@ -66,7 +66,7 @@ Eric también explica la grandeza desde **גדל**, _gadal_, “crecer, hacerse 
 
 El movimiento de los vv. 1-2 es claro: santidad, poder y grandeza no son adornos para la reputación del adorador. Son motivos que orientan la alabanza hacia quién es יהוה y hacia lo que él ha hecho. Eric critica la música religiosa que solo conserva relatos del pasado sin testimonio de una obra recibida; esa exhortación es una aplicación pastoral. El salmo sí exige recordar obras y grandeza, pero no ordena que cada canto tenga que narrar una experiencia contemporánea.
 
-## 150:3-5: instrumentos, danza y conciencia #salmos_150_3-5
+## 150:3-5: instrumentos, danza y conciencia #tehilim_150_3-5
 
 La lista sonora comienza con **תקע שופר**, _teqa shofar_, “toque de shofar”, y continúa con **נבל** _nevel_ y **כנור** _kinnor_, instrumentos de cuerda. Eric insiste en que el shofar debe tocarse con conciencia de lo que representa, vinculándolo con la voz de יהוה en Shemot 19:16-20. La conexión es pedagógica y canónica; en el salmo el shofar es un instrumento de alabanza, no una explicación completa de todos sus usos en la Torá.
 
@@ -74,7 +74,7 @@ El v. 4 añade **תף**, _tof_, y **מחול**, _machol_, “pandero” y “dan
 
 En el v. 5 aparecen **צלצלי שמע**, _tziltzilei shema_, y **צלצלי תרועה**, _tziltzilei teruah_, “címbalos resonantes” y “címbalos de clamor/alarma”. Eric relaciona **תרועה**, _teruah_, con el sonido segmentado del shofar y con recordar la palabra y los mandamientos. El sentido normal de **תרועה** es clamor, toque fuerte o sonido de alarma; su conexión con el shofar tiene apoyo canónico, aunque aquí modifica a los címbalos. La alabanza no es presentada como exhibición individual: Eric aplica el salmo contra el artista que busca ovación, likes o protagonismo, y propone que el canto congregacional tenga preferencia por la palabra revelada. Romanos 12:1-2 ayuda a expresar culto consciente y discernimiento, pero es una conexión posterior.
 
-## 150:6: toda נשמה #salmos_150_6
+## 150:6: toda נשמה #tehilim_150_6
 
 El cierre dice **כל הנשמה תהלל יה**, _kol haneshamah tehallel Yah_, “todo aliento/ser viviente alabe a Yah”, seguido de otro **הללו יה**. **נשמה**, _neshamah_, significa aliento, respiración o vida animada. Eric objeta la lectura popular de que “todo lo que respira” incluye automáticamente animales o cualquier criatura, y propone que el término señale a quienes han recibido vida espiritual, han confesado al Mesías y están capacitados para proclamar sus maravillas.
 
@@ -98,9 +98,9 @@ La secuencia completa permite mantener ambas capas sin confundirlas. Literalment
 
 ## Conexiones principales
 
-- #genesis_1_6-8 explica el trasfondo léxico de **רקיע** y la separación; no reduce el verso del salmo a una sola metáfora.
-- #exodo_19_16-20 ilumina el sonido del shofar como señal de la voz de יהוה; la relación no agota sus usos litúrgicos.
-- #isaias_43_21 presenta al pueblo formado para proclamar alabanza; conecta con la aplicación de Eric sobre testimonio.
+- #bereshit_1_6-8 explica el trasfondo léxico de **רקיע** y la separación; no reduce el verso del salmo a una sola metáfora.
+- #shemot_19_16-20 ilumina el sonido del shofar como señal de la voz de יהוה; la relación no agota sus usos litúrgicos.
+- #yeshayahu_43_21 presenta al pueblo formado para proclamar alabanza; conecta con la aplicación de Eric sobre testimonio.
 - #romanos_12_1-2 ofrece la conexión de culto consciente y discernimiento de la voluntad; es canónica y pedagógica.
 - #hebreos_2_14-18 y #hebreos_12_14 permiten conectar poder, redención y santidad con el Mesías; no sustituyen la lectura poética del salmo.
 

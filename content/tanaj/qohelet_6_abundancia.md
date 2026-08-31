@@ -8,9 +8,9 @@ tags:
   - riqueza
   - limite
 references:
-  - "#eclesiastes_6_1-6"
-  - "#eclesiastes_6_7-9"
-  - "#eclesiastes_6_10-12"
+  - "#qohelet_6_1-6"
+  - "#qohelet_6_7-9"
+  - "#qohelet_6_10-12"
 sources:
   - "https://www.youtube.com/watch?v=c2SMHdaezd8"
   - "https://www.youtube.com/watch?v=wDyWgoQ2WpQ"
@@ -37,7 +37,7 @@ Se usa el texto hebreo OE local, sin nikud ni segmentación morfológica. Las ob
 | 6:7-9   | **כל עמל האדם לפיהו וגם הנפש לא תמלא**             | El trabajo alimenta, pero el deseo interior no se llena.               |
 | 6:10-12 | **כי מי יודע מה טוב לאדם בחיים מספר ימי חיי הבלו** | El nombre y la condición humana tienen límite; nadie domina el futuro. |
 
-## 6:1-6: recibirlo todo y no poder comer de ello #eclesiastes_6_1-6
+## 6:1-6: recibirlo todo y no poder comer de ello #qohelet_6_1-6
 
 Qohélet introduce una **רעה** (_raah_), una desgracia o mal que ha visto «bajo el sol». El caso es específico: Elohim da a un hombre **עשר ונכסים וכבוד** —riqueza, posesiones y honra—, y no le falta nada de lo que desea; sin embargo, Elohim no le concede poder para comer de ello. **שלט** (_shalat_) significa tener dominio, autoridad o capacidad; aquí la fuerza contextual no es que el hombre carezca de bienes, sino que carece de capacidad efectiva para disfrutarlos. La observación pública atribuible a Eric sobre la distancia entre poseer y disfrutar queda apoyada directamente por la estructura del versículo.
 
@@ -45,13 +45,13 @@ El resultado es que un extranjero come sus bienes. **נכרי** (_nokri_) signif
 
 Los versos 3-6 llevan el caso al extremo: cien hijos, muchos años y una vida larga no compensan un alma insatisfecha ni una sepultura. El texto usa una comparación severa con el aborto para mostrar que duración y descendencia no son medidas suficientes de bien. **נפש** (_nefesh_) puede significar vida, persona, alma o apetito; aquí la relación con «no saciarse del bien» es contextual. No se debe convertir la imagen retórica en una sentencia sobre el valor de cada vida humana; su función es desmontar la confianza en los indicadores externos de éxito.
 
-## 6:7-9: trabajo, boca y deseo #eclesiastes_6_7-9
+## 6:7-9: trabajo, boca y deseo #qohelet_6_7-9
 
 La segunda unidad resume: **כל עמל האדם לפיהו וגם הנפש לא תמלא** —todo el trabajo del ser humano es para su boca, pero el apetito no se llena. **עמל** (_amal_) significa trabajo penoso, labor o fatiga; el capítulo reconoce la actividad, pero niega que por sí sola llene la interioridad. **מלא** (_male_) significa llenar o completar; aplicado a la **נפש**, marca un deseo que permanece abierto.
 
 Qohélet pregunta qué ventaja tiene el sabio sobre el necio y qué tiene el pobre que sabe caminar delante de los vivos. La pregunta no desprecia automáticamente la sabiduría; cuestiona su capacidad de resolver la condición humana bajo el sol. Después ofrece una máxima: **טוב מראה עינים מהלך נפש** —mejor es lo que ven los ojos que el andar del deseo. Ver la porción presente es mejor que perseguir un apetito errante. **רעות רוח** (_reut ruaj_) significa alimentar o perseguir el viento; la relación con la exposición de un deseo insaciable es pedagógica, pero nace de la imagen explícita del capítulo.
 
-## 6:10-12: nombre, humanidad y desconocimiento #eclesiastes_6_10-12
+## 6:10-12: nombre, humanidad y desconocimiento #qohelet_6_10-12
 
 Lo que existe ya ha sido nombrado y se sabe que es **אדם** (_adam_), humano. El ser humano no puede contender con quien es más fuerte. **דין** (_din_) significa juzgar, contender o litigar; aquí expresa la imposibilidad de llevar a juicio o dominar una realidad superior. La enseñanza atribuible a Eric puede usar el límite de «Adam» para hablar de la condición humana, pero la etimología no debe reemplazar la afirmación inmediata: la criatura no controla al más fuerte.
 

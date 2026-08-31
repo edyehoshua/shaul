@@ -1,6 +1,6 @@
 ---
 title: "Tehilim 135: nombre, pueblo prototipo y Aleluya"
-description: "Estudio canónico de Tehilim 135 sobre el servicio visible, la memoria del éxodo, la impotencia de los ídolos y la alabanza como testimonio."
+description: "Estudio canónico de Tehilim 135 sobre el servicio visible, la memoria del Shemot, la impotencia de los ídolos y la alabanza como testimonio."
 date: 2026-07-28
 tags:
   - tehilim
@@ -8,12 +8,12 @@ tags:
   - nombre
   - idolos
 references:
-  - "#salmos_135_1-21"
-  - "#salmos_122_2"
-  - "#exodo_19_5-6"
-  - "#isaias_36_22-23"
-  - "#isaias_45_5-7"
-  - "#ezequiel_36_22-28"
+  - "#tehilim_135_1-21"
+  - "#tehilim_122_2"
+  - "#shemot_19_5-6"
+  - "#yeshayahu_36_22-23"
+  - "#yeshayahu_45_5-7"
+  - "#yejezkel_36_22-28"
   - "#romanos_1_21-25"
   - "#hebreos_12_22-24"
 sources:
@@ -35,11 +35,11 @@ Esta nota sigue los versículos en orden y conserva las observaciones materiales
 
 | Ref.               | Texto hebreo local                                                                                                                                                                                                                                                             | Función en el argumento                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| #salmos_135_1-4   | **הללו יה הללו את שם יהוה הללו עבדי יהוה / שעמדים בבית יהוה בחצרות בית אלהינו / הללו יה כי טוב יהוה זמרו לשמו כי נעים / כי יעקב בחר לו יה ישראל לסגלתו**                                                                                                                       | Invitación a alabar, permanecer y recordar la elección.                    |
-| #salmos_135_5-7   | **כי אני ידעתי כי גדול יהוה ואדנינו מכל אלהים / כל אשר חפץ יהוה עשה בשמים ובארץ בימים וכל תהומות / מעלה נשאים מקצה הארץ ברקים למטר עשה מוצא רוח מאוצרותיו**                                                                                                                    | La grandeza de יהוה se verifica en su gobierno de cielo, tierra y abismos. |
-| #salmos_135_8-14  | **שהכה בכורי מצרים מאדם עד בהמה / שלח אתות ומפתים בתוככי מצרים בפרעה ובכל עבדיו / שהכה גוים רבים והרג מלכים עצומים / לסיחון מלך האמרי ולעוג מלך הבשן ולכל ממלכות כנען / ונתן ארצם נחלה נחלה לישראל עמו / יהוה שמך לעולם יהוה זכרך לדר ודר / כי ידין יהוה עמו ועל עבדיו יתנחם** | Éxodo, juicio, tierra, memoria y restauración del pueblo.                  |
-| #salmos_135_15-18 | **עצבי הגוים כסף וזהב מעשה ידי אדם / פה להם ולא ידברו עינים להם ולא יראו / אזנים להם ולא יאזינו אף אין יש רוח בפיהם / כמוהם יהיו עשיהם כל אשר בטח בהם**                                                                                                                        | La obra humana no puede hablar, ver, oír ni dar vida.                      |
-| #salmos_135_19-21 | **בית ישראל ברכו את יהוה בית אהרן ברכו את יהוה / בית הלוי ברכו את יהוה יראי יהוה ברכו את יהוה / ברוך יהוה מציון שכן ירושלם הללו יה**                                                                                                                                           | La alabanza se amplía por casas y temerosos hasta Sion.                    |
+| #tehilim_135_1-4   | **הללו יה הללו את שם יהוה הללו עבדי יהוה / שעמדים בבית יהוה בחצרות בית אלהינו / הללו יה כי טוב יהוה זמרו לשמו כי נעים / כי יעקב בחר לו יה ישראל לסגלתו**                                                                                                                       | Invitación a alabar, permanecer y recordar la elección.                    |
+| #tehilim_135_5-7   | **כי אני ידעתי כי גדול יהוה ואדנינו מכל אלהים / כל אשר חפץ יהוה עשה בשמים ובארץ בימים וכל תהומות / מעלה נשאים מקצה הארץ ברקים למטר עשה מוצא רוח מאוצרותיו**                                                                                                                    | La grandeza de יהוה se verifica en su gobierno de cielo, tierra y abismos. |
+| #tehilim_135_8-14  | **שהכה בכורי מצרים מאדם עד בהמה / שלח אתות ומפתים בתוככי מצרים בפרעה ובכל עבדיו / שהכה גוים רבים והרג מלכים עצומים / לסיחון מלך האמרי ולעוג מלך הבשן ולכל ממלכות כנען / ונתן ארצם נחלה נחלה לישראל עמו / יהוה שמך לעולם יהוה זכרך לדר ודר / כי ידין יהוה עמו ועל עבדיו יתנחם** | Éxodo, juicio, tierra, memoria y restauración del pueblo.                  |
+| #tehilim_135_15-18 | **עצבי הגוים כסף וזהב מעשה ידי אדם / פה להם ולא ידברו עינים להם ולא יראו / אזנים להם ולא יאזינו אף אין יש רוח בפיהם / כמוהם יהיו עשיהם כל אשר בטח בהם**                                                                                                                        | La obra humana no puede hablar, ver, oír ni dar vida.                      |
+| #tehilim_135_19-21 | **בית ישראל ברכו את יהוה בית אהרן ברכו את יהוה / בית הלוי ברכו את יהוה יראי יהוה ברכו את יהוה / ברוך יהוה מציון שכן ירושלם הללו יה**                                                                                                                                           | La alabanza se amplía por casas y temerosos hasta Sion.                    |
 
 ## Mapa de la enseñanza de Eric
 
@@ -52,7 +52,7 @@ Esta nota sigue los versículos en orden y conserva las observaciones materiales
 
 ## Nombre, servicio y alabanza visible
 
-En los versículos 1-4, la repetición de **הללו** (_halelu_, “alaben”) no deja la adoración en sentimiento privado. El grupo es llamado “siervos” y está en la casa y en los atrios. Eric observa que una persona puede cantar y, sin embargo, deshonrar el nombre con su conducta; esa exhortación se prueba por el uso bíblico del nombre como reputación y testimonio, y por la preocupación profética de que Israel profane el nombre entre las naciones (#ezequiel_36_22-28). “Nombre” no es una sílaba mágica: aquí es la identidad reconocible de יהוה en sus actos.
+En los versículos 1-4, la repetición de **הללו** (_halelu_, “alaben”) no deja la adoración en sentimiento privado. El grupo es llamado “siervos” y está en la casa y en los atrios. Eric observa que una persona puede cantar y, sin embargo, deshonrar el nombre con su conducta; esa exhortación se prueba por el uso bíblico del nombre como reputación y testimonio, y por la preocupación profética de que Israel profane el nombre entre las naciones (#yejezkel_36_22-28). “Nombre” no es una sílaba mágica: aquí es la identidad reconocible de יהוה en sus actos.
 
 La clase acerca **זמרו** (_zamru_, “canten/salmodien”) y **נעים** (_naim_, “agradable, deleitoso”) a ofrecer lo mejor que ha producido Dios, en vez de presentar como tributo la propia jactancia. El salmo no exige negar el pecado ni fingir perfección; sí orienta el canto hacia el bien de יהוה. Esta es una relación pedagógica con la idea de selección de lo mejor, no una definición de **זמר** como “extraer lo más valioso”.
 
@@ -75,8 +75,8 @@ Los versículos 8-14 hacen que la alabanza sea verificable: primogénitos, seña
 
 ## Conexiones principales
 
-- #exodo_19_5-6 explica el trasfondo de pueblo escogido sin borrar que “tesoro especial” pertenece a יהוה.
-- #ezequiel_36_22-28 prueba que la conducta del pueblo puede profanar o santificar el nombre ante las naciones.
+- #shemot_19_5-6 explica el trasfondo de pueblo escogido sin borrar que “tesoro especial” pertenece a יהוה.
+- #yejezkel_36_22-28 prueba que la conducta del pueblo puede profanar o santificar el nombre ante las naciones.
 - #romanos_1_21-25 confirma la relación entre ingratitud, oscurecimiento e idolatría.
 - #hebreos_12_22-24 permite leer Sion en clave celestial, pero de manera tipológica y no como reemplazo del cierre del salmo.
 

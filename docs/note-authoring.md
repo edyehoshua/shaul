@@ -59,7 +59,7 @@ Rules:
 
 - YAML uses spaces only, never tabs
 - `references` holds verse tags like `#juan_10_11`
-- Verse tags use lowercase ASCII Spanish book slugs consistently: `#genesis_1_1`, `#exodo_3_14`, `#juan_10_11`, `#isaias_53_5`. Keep Hebrew names and transliterations in the visible note text when they carry the argument.
+- Verse tags use lowercase ASCII slugs according to the cited corpus: Tanaj books use Hebrew transliteration (`#bereshit_1_1`, `#shemot_3_14`, `#yeshayahu_53_5`), while Besorah books use Spanish (`#juan_10_11`, `#galatas_3_13`). Cross-references always follow the convention of the book being cited.
 - `sources` holds public source URLs or internal public-facing docs like `docs/benhaelohim.md`; never include private local filesystem paths.
 - `source_ids` optionally holds stable source identifiers such as `youtube:VID...[truncated]
 - Optional: `translation: "[TTH, Delitzsch]"` when multiple corpora are cited
@@ -118,8 +118,8 @@ Use topic-specific structure. Do not force every section on every note. Pick onl
 
 Recent high-quality examples:
 
-- `content/besorah/yojanan_10_puerta_pastor_abba.md`
-- `content/besorah/yojanan_14_abba_menajem_nombre.md`
+- `content/besorah/juan_10_puerta_pastor_abba.md`
+- `content/besorah/juan_14_abba_menajem_nombre.md`
 - `content/temas/ben_hijo_titulos_mesias.md`
 - `content/temas/elohim_aba.md`
 
@@ -131,7 +131,7 @@ When a note discusses a verse, extract text from the local corpus instead of lea
 
 | Referencia   | Hebreo (sin nikud) | TTH (ES) | Observación |
 | ------------ | ------------------ | -------- | ----------- |
-| #genesis_1_1 | ...                | ...      | ...         |
+| #bereshit_1_1 | ...                | ...      | ...         |
 
 ### Besorah / mixed local corpora
 
@@ -255,12 +255,12 @@ Never:
 
 ## Linking and Tags
 
-- Inline verse tags: `#juan_10_11`, `#genesis_1_1`
+- Inline verse tags: Tanaj `#bereshit_1_1`; Besorah `#juan_10_11`
 - Run `npm run verse-tags:check` after changing references or inline verse tags.
 - Related notes: prefer `## Ver también` with relative links or wikilinks
 - Both styles are acceptable:
-  - `[Yojanán 10](./yojanan_10_puerta_pastor_abba.md)`
-  - `[[yojanan_10_puerta_pastor_abba|Yojanán 10: la puerta]]`
+  - `[Yojanán 10](./juan_10_puerta_pastor_abba.md)`
+  - `[[juan_10_puerta_pastor_abba|Yojanán 10: la puerta]]`
 - Prefer linking over duplicating long explanations across notes
 
 ## Agent Workflow (Any LLM)

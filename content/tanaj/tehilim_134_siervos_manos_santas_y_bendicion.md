@@ -9,9 +9,9 @@ tags:
   - santidad
   - eric-youtube
 references:
-  - "#salmos_134_1"
-  - "#salmos_134_2"
-  - "#salmos_134_3"
+  - "#tehilim_134_1"
+  - "#tehilim_134_2"
+  - "#tehilim_134_3"
 sources:
   - "https://www.youtube.com/watch?v=tl3mTl4WmO8"
   - "docs/scriptures/oe/json/psalms/134.json"
@@ -32,11 +32,11 @@ La nota sigue los tres versículos en orden. Conserva las observaciones material
 
 | Referencia     | Texto local (OE, hebreo sin nikud)                                   | Función en el argumento                                                             |
 | -------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| #salmos_134_1 | **שיר המעלות הנה ברכו את יהוה כל עבדי יהוה העמדים בבית יהוה בלילות** | Convoca a todos los siervos de יהוה que están de pie en su casa durante las noches. |
-| #salmos_134_2 | **שאו ידכם קדש וברכו את יהוה**                                       | El gesto de levantar las manos acompaña la bendición dirigida a יהוה.               |
-| #salmos_134_3 | **יברכך יהוה מציון עשה שמים וארץ**                                   | יהוה bendice desde Sion como Hacedor de cielos y tierra.                            |
+| #tehilim_134_1 | **שיר המעלות הנה ברכו את יהוה כל עבדי יהוה העמדים בבית יהוה בלילות** | Convoca a todos los siervos de יהוה que están de pie en su casa durante las noches. |
+| #tehilim_134_2 | **שאו ידכם קדש וברכו את יהוה**                                       | El gesto de levantar las manos acompaña la bendición dirigida a יהוה.               |
+| #tehilim_134_3 | **יברכך יהוה מציון עשה שמים וארץ**                                   | יהוה bendice desde Sion como Hacedor de cielos y tierra.                            |
 
-## 134:1: el último escalón y los siervos en la noche #salmos_134_1
+## 134:1: el último escalón y los siervos en la noche #tehilim_134_1
 
 Eric sitúa el salmo en el último peldaño de los quince cánticos de los escalones. Según la explicación de la clase, los levitas subían desde el atrio inferior hasta el atrio de Israel y, delante de ellos, estaban el atrio de los sacerdotes, el altar y el templo. Esa reconstrucción ofrece un marco histórico-litúrgico para leer el cierre de la serie, pero el texto local no enumera los quince peldaños ni prueba por sí solo cada detalle arquitectónico. Lo que sí dice es “cántico de los escalones” y llama a los siervos a bendecir a יהוה.
 
@@ -48,7 +48,7 @@ El participio **העמדים**, _ha-omdim_, significa “los que están de pie�
 
 La frase “en la casa de יהוה durante las noches” genera una tensión que Eric reconoce. Propone primero una posibilidad histórica —guardias o personas encargadas de las puertas— y luego una lectura simbólica: la noche representa caos, desorden, tribulación y actividad de las tinieblas. La primera posibilidad requiere documentación externa; la segunda es una lectura canónica y pastoral. El verso sostiene con exactitud que esos siervos están en la casa durante las noches, pero no decide por sí solo cuánto de la frase es vigilancia sacerdotal ni establece que “noche” tenga siempre un valor simbólico único.
 
-## 134:2: manos levantadas y santidad practicada #salmos_134_2
+## 134:2: manos levantadas y santidad practicada #tehilim_134_2
 
 El segundo verso ordena: “Levanten sus manos santas y bendigan a יהוה”. Eric conecta este gesto con la oración de 1 Timoteo 2:8: manos levantadas sin ira ni contienda. Como lectura canónica, la relación ilumina la ética del gesto; el salmo mismo no contiene la cláusula “sin ira ni contienda”. Por eso la nota conserva la observación de Eric, pero la presenta como conexión y no como traducción añadida del hebreo.
 
@@ -56,7 +56,7 @@ El segundo verso ordena: “Levanten sus manos santas y bendigan a יהוה”. 
 
 La aplicación central de la clase es coherencia: no basta repetir “barukh” en hebreo mientras la persona es violenta, áspera o daña su casa. Eric lleva el verso a la vida familiar y al liderazgo, especialmente al deber de no convertir la autoridad en ira. El salmo apoya el vínculo entre bendición y manos consagradas; la aplicación doméstica concreta se deriva de la conexión apostólica y de la exhortación pastoral, no de un detalle explícito sobre matrimonio en este capítulo.
 
-## 134:3: la bendición desde Sion #salmos_134_3
+## 134:3: la bendición desde Sion #tehilim_134_3
 
 La respuesta llega en tercera persona: “Te bendiga יהוה desde Sion, el que hizo cielos y tierra”. Eric observa que la bendición no nace de la autosuficiencia de los siervos, sino que viene de יהוה. **יברכך**, _yevarekhekha_, es “te bendiga”; la forma normal de **ברך** conserva aquí una bendición dirigida al destinatario. **עשה**, _oseh_, es “hace” o “el que hace”. Eric recalca que el participio presenta a יהוה como Hacedor activo, no solamente como alguien que hizo en un pasado distante. Gramaticalmente la forma describe al que hace; la doctrina de una renovación continua es una extensión teológica, no una traducción exclusiva.
 

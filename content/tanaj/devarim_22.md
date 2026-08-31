@@ -8,7 +8,7 @@ tags:
   - hediot
   - devarim_22
 references:
-  - "#deuteronomio_22_12"
+  - "#devarim_22_12"
 sources: []
 ---
 
@@ -18,13 +18,13 @@ Devarim 22:12 se toma aquí como base para pensar los tzitzit, y la nota añade 
 
 ## Texto base
 
-- #deuteronomio_22_12
+- #devarim_22_12
 
 ## Hoja de comparación
 
 | Referencia     | Hebreo                                                                                   | TTH local                                                                                    | Observación                                                              |
 | -------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #deuteronomio_22_12 | **(גְּדִלִים תַּעֲשֶׂה לָּךְ עַל אַרְבַּע כַּנְפוֹת כְּסוּתְךָ אֲשֶׁר תְּכַסֶּה בָּהּ)** | Hilos trenzados harás para ti en las cuatro esquinas de tu vestidura, con la cual te cubres. | La nota pone énfasis en la expresión "vestidura, con la cual te cubres". |
+| #devarim_22_12 | **(גְּדִלִים תַּעֲשֶׂה לָּךְ עַל אַרְבַּע כַּנְפוֹת כְּסוּתְךָ אֲשֶׁר תְּכַסֶּה בָּהּ)** | Hilos trenzados harás para ti en las cuatro esquinas de tu vestidura, con la cual te cubres. | La nota pone énfasis en la expresión "vestidura, con la cual te cubres". |
 
 ## Observaciones
 

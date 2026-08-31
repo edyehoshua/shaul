@@ -1,0 +1,34 @@
+---
+title: "Apocalipsis 19: repaso de la historia y separación final"
+description: "Apunte de repaso sobre Apocalipsis 19 y la recapitulación de congregaciones, sellos, shofares y tazones"
+date: 2026-05-16
+tags:
+  - apocalipsis
+  - apocalipsis_19
+references:
+  - "#apocalipsis_19_1"
+sources: []
+---
+
+# Tesis
+
+Sodot 19 funciona aquí como repaso del libro: las congregaciones, los sellos, los shofares y los tazones cuentan la misma historia desde distintos ángulos hasta la separación final entre trigo y cizaña.
+
+## Texto base
+
+- #apocalipsis_19_1
+
+## Texto TTH disponible
+
+| Referencia  | Texto TTH                                                                                                                                                            |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #apocalipsis_19_1 | Y después de eso, escuché una gran voz de multitud en los cielos, diciendo: ¡Haleluyah! La salvación, la gloria, el esplendor y la potencia son para nuestro Elohim. |
+
+## Observaciones
+
+- Las siete congregaciones representan la plenitud de Israel.
+- Los sellos se leen como recuento histórico y los shofares como amonestaciones para los rebeldes de Israel.
+- Los tazones aparecen como derramamiento de la ira de Elohim y como preparación del juicio final.
+- La mujer, el hijo, el reptil y los animales reorganizan la misma historia con lenguaje de personajes.
+- La gran preocupación pastoral de la nota es la apostasía de quienes niegan al Mesías después de haber profesado creer.
+- Hamon se resume como multitud.

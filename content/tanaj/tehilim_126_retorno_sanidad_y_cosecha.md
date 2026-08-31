@@ -8,11 +8,11 @@ tags:
   - sion
   - restauracion
 references:
-  - "#salmos_126_1-6"
-  - "#deuteronomio_30_1-10"
-  - "#isaias_51_11"
-  - "#isaias_57_18-19"
-  - "#oseas_14_5-7"
+  - "#tehilim_126_1-6"
+  - "#devarim_30_1-10"
+  - "#yeshayahu_51_11"
+  - "#yeshayahu_57_18-19"
+  - "#hoshea_14_5-7"
   - "#colosenses_3_10"
 sources:
   - "https://www.youtube.com/watch?v=KZsPjtLou_g"
@@ -34,9 +34,9 @@ Se sigue el salmo en orden textual. La nota conserva las observaciones materiale
 
 | Referencia       | Texto hebreo local                                                                                                        | Función en el argumento                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| #salmos_126_1-2 | **שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים / אז ימלא שחוק פינו ולשוננו רנה אז יאמרו בגוים הגדיל יהוה לעשות עם אלה** | Retorno de Sion, asombro, boca llena de risa y testimonio de las naciones. |
-| #salmos_126_3-4 | **הגדיל יהוה לעשות עמנו היינו שמחים / שובה יהוה את שבותנו שביתנו כאפיקים בנגב**                                           | Confesión comunitaria y petición de restauración abundante.                |
-| #salmos_126_5-6 | **הזרעים בדמעה ברנה יקצרו / הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו**                                          | Siembra dolorosa, cosecha gozosa y perseverancia del sembrador.            |
+| #tehilim_126_1-2 | **שיר המעלות בשוב יהוה את שיבת ציון היינו כחלמים / אז ימלא שחוק פינו ולשוננו רנה אז יאמרו בגוים הגדיל יהוה לעשות עם אלה** | Retorno de Sion, asombro, boca llena de risa y testimonio de las naciones. |
+| #tehilim_126_3-4 | **הגדיל יהוה לעשות עמנו היינו שמחים / שובה יהוה את שבותנו שביתנו כאפיקים בנגב**                                           | Confesión comunitaria y petición de restauración abundante.                |
+| #tehilim_126_5-6 | **הזרעים בדמעה ברנה יקצרו / הלוך ילך ובכה נשא משך הזרע בא יבוא ברנה נשא אלמתיו**                                          | Siembra dolorosa, cosecha gozosa y perseverancia del sembrador.            |
 
 ## Mapa de la enseñanza de Eric
 
@@ -78,9 +78,9 @@ El salmo permite hablar de alegría corporal y pública sin negar la formación 
 
 ## Conexiones principales
 
-- #deuteronomio_30_1-10 relaciona regreso, obediencia y restauración del corazón.
-- #isaias_51_11 confirma el retorno de Sion acompañado de gozo.
-- #oseas_14_5-7 desarrolla el lenguaje de sanar la apostasía y florecer.
+- #devarim_30_1-10 relaciona regreso, obediencia y restauración del corazón.
+- #yeshayahu_51_11 confirma el retorno de Sion acompañado de gozo.
+- #hoshea_14_5-7 desarrolla el lenguaje de sanar la apostasía y florecer.
 - #colosenses_3_10 ofrece una conexión mesiánica sobre renovación, marcada como aproximada.
 
 ## Pendiente de verificar

@@ -12,8 +12,8 @@ references:
   - "#romanos_4_9-12"
   - "#romanos_4_13-17"
   - "#romanos_4_18-25"
-  - "#genesis_15_6"
-  - "#genesis_17_5"
+  - "#bereshit_15_6"
+  - "#bereshit_17_5"
 sources:
   - "https://www.youtube.com/watch?v=T5Gz07-mSLw"
   - "https://www.youtube.com/watch?v=FLwENs5WWjM"
@@ -65,7 +65,7 @@ El participio **(ὄντι)**, _onti_, significa «siendo» o «estando»; en la
 
 Pablo desplaza la discusión de la señal a la herencia. #romanos_4_13 declara que la promesa de ser heredero del mundo no vino por Torá, sino por justicia de emunah. En los versículos 14-16 razona que, si la herencia dependiera de quienes son de Torá como único grupo, la emunah quedaría vacía y la promesa anulada. Su conclusión es «por eso»: procede de emunah, conforme al favor, para que la promesa sea firme para toda la descendencia.
 
-La clase relaciona este movimiento con la fidelidad anterior de Elohim. El texto lo confirma al presentar la firmeza de la promesa como finalidad, y al citar que Abraham fue puesto por padre de muchas naciones (#romanos_4_17; #genesis_17_5). La inclusión no descansa en una nueva jactancia étnica ni en la ausencia de respuesta: descansa en el Elohim que da vida a los muertos y llama lo que no es como si fuese.
+La clase relaciona este movimiento con la fidelidad anterior de Elohim. El texto lo confirma al presentar la firmeza de la promesa como finalidad, y al citar que Abraham fue puesto por padre de muchas naciones (#romanos_4_17; #bereshit_17_5). La inclusión no descansa en una nueva jactancia étnica ni en la ausencia de respuesta: descansa en el Elohim que da vida a los muertos y llama lo que no es como si fuese.
 
 ## Romanos 4:18-25: esperanza fortalecida y resurrección #romanos_4_18-25
 
@@ -88,8 +88,8 @@ El capítulo no permite detenerse en Abraham. «No fue escrito solamente por cau
 
 ## Conexiones principales
 
-- #genesis_15_6 es la Escritura que Pablo cita para estructurar #romanos_4_3 y #romanos_4_22.
-- #genesis_17_5 sostiene la cita de #romanos_4_17 sobre el padre de muchas naciones.
+- #bereshit_15_6 es la Escritura que Pablo cita para estructurar #romanos_4_3 y #romanos_4_22.
+- #bereshit_17_5 sostiene la cita de #romanos_4_17 sobre el padre de muchas naciones.
 - [[romanos_2_juicio_imparcial_arrepentimiento_el_corazon|Romanos 2: juicio imparcial, teshuvá y el corazón]] prepara el problema de la jactancia identitaria que Romanos 4 desarrolla con Abraham.
 - [[romanos_5_adam_muerte_gracia_y_justicia|Romanos 5: Adán, muerte, gracia y justicia]] prolonga la relación entre justificación, vida y Yehoshua.
 
@@ -111,7 +111,7 @@ La promesa mantiene su firmeza porque depende del prometedor. **(βεβαιόω)
 
 ## Verificación textual consolidada
 
-La secuencia de Romanos 4 queda establecida por el texto local y sus referencias cruzadas: #romanos_4_3 cita #genesis_15_6; #romanos_4_9-12 coloca la circuncisión después de la justicia contada; #romanos_4_13-17 fundamenta la promesa en el favor y la emunah; y #romanos_4_23-25 aplica el argumento al Elohim que levantó a Yehoshua. Esta comprobación no pretende sustituir una edición crítica, pero sí resuelve el hilo argumental que las clases atribuidas a Eric necesitan para una nota canónica.
+La secuencia de Romanos 4 queda establecida por el texto local y sus referencias cruzadas: #romanos_4_3 cita #bereshit_15_6; #romanos_4_9-12 coloca la circuncisión después de la justicia contada; #romanos_4_13-17 fundamenta la promesa en el favor y la emunah; y #romanos_4_23-25 aplica el argumento al Elohim que levantó a Yehoshua. Esta comprobación no pretende sustituir una edición crítica, pero sí resuelve el hilo argumental que las clases atribuidas a Eric necesitan para una nota canónica.
 
 En #romanos_4_3-5, **(λογίζομαι)**, _logizomai_, significa contar, considerar o acreditar. Su fuerza contextual es imputativa y contrastiva: Elohim cuenta la emunah por justicia, mientras el salario del trabajador aparece como deuda. «Contar» es **directo**; «acreditar» es **aproximado y pedagógico**, porque no debe reintroducir una relación salarial que Pablo acaba de negar. La forma hebrea **(ויחשבה)**, _vayaḥsheveha_, significa «y la consideró» o «la contó»; su correspondencia con _logizomai_ es **aproximada**, y la conexión canónica con Bereshit 15:6 es **directa** porque Pablo la cita.
 

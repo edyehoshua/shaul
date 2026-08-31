@@ -9,21 +9,21 @@ tags:
   - disciplina
   - fidelidad
 references:
-  - "#proverbios_5_1"
-  - "#proverbios_5_3"
-  - "#proverbios_5_5"
-  - "#proverbios_5_6"
-  - "#proverbios_5_7"
-  - "#proverbios_5_8"
-  - "#proverbios_5_11"
-  - "#proverbios_5_12"
-  - "#proverbios_5_13"
-  - "#proverbios_5_14"
-  - "#proverbios_5_15"
-  - "#proverbios_5_18"
-  - "#proverbios_5_21"
-  - "#proverbios_5_22"
-  - "#proverbios_5_23"
+  - "#mishlei_5_1"
+  - "#mishlei_5_3"
+  - "#mishlei_5_5"
+  - "#mishlei_5_6"
+  - "#mishlei_5_7"
+  - "#mishlei_5_8"
+  - "#mishlei_5_11"
+  - "#mishlei_5_12"
+  - "#mishlei_5_13"
+  - "#mishlei_5_14"
+  - "#mishlei_5_15"
+  - "#mishlei_5_18"
+  - "#mishlei_5_21"
+  - "#mishlei_5_22"
+  - "#mishlei_5_23"
 sources:
   - "https://www.youtube.com/watch?v=Ik2lfn6fY4c&list=PL8hWSx6FFBKOkIJcipUb1HhAU4f3vu8tb&index=92&t=2248s"
   - "docs/scriptures/tth/json/mishlei.json"
@@ -45,12 +45,12 @@ Esta nota organiza la exposición del hermano Eric de Jesús Rodríguez Mendoza 
 
 | Unidad           | Texto local                                                                                                                                                                                               | Función en el argumento                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| #proverbios_5_1-2   | **בני לחכמתי הקשיבה לתבונתי הטה אזנך** — “Hijo mío, a mi sabiduría presta atención; a mi entendimiento inclina tu oído… para guardar planes de consejo, y conocimiento tus labios vigilarán.”             | La escucha precede a la protección. La forma OE se normaliza sin barras morfológicas.                    |
-| #proverbios_5_3-6   | TTH: “Porque miel destilan los labios de la extraña, y suave más que el aceite es su paladar; pero su final es amargo como el ajenjo… Sus pies descienden a la muerte… se extravían sus cursos, no sabe.” | El atractivo inicial no define el destino; el texto pasa de la boca a la muerte y al extravío.           |
-| #proverbios_5_7-8   | TTH: “Y ahora, hijos, escúchenme… Aleja de sobre ella tu camino, y no te acerques a la puerta de su casa.”                                                                                                | La advertencia se vuelve práctica: escuchar y guardar distancia.                                         |
-| #proverbios_5_11-14 | TTH: “Y gemirás en tu final… ‘¡Cómo aborrecí la disciplina…! Y no he escuchado a la voz de mi Maestro…’”                                                                                                  | El arrepentimiento tardío identifica el rechazo de musar como causa, no como accidente.                  |
-| #proverbios_5_15-18 | TTH: “Bebe las aguas de tu pozo… Será bendita tu fuente, y alegría que viene de la mujer de tu juventud.”                                                                                                 | El capítulo contrapone exclusividad y dispersión; no deja la imagen del agua sin relación con fidelidad. |
-| #proverbios_5_21-23 | TTH: “Porque al frente de los ojos de יהוה están los caminos del hombre… Sus torceduras capturarán al condenado… Él morirá sin disciplina.”                                                               | יהוה ve el camino completo; el pecado lleva sus propias cuerdas y consecuencias.                         |
+| #mishlei_5_1-2   | **בני לחכמתי הקשיבה לתבונתי הטה אזנך** — “Hijo mío, a mi sabiduría presta atención; a mi entendimiento inclina tu oído… para guardar planes de consejo, y conocimiento tus labios vigilarán.”             | La escucha precede a la protección. La forma OE se normaliza sin barras morfológicas.                    |
+| #mishlei_5_3-6   | TTH: “Porque miel destilan los labios de la extraña, y suave más que el aceite es su paladar; pero su final es amargo como el ajenjo… Sus pies descienden a la muerte… se extravían sus cursos, no sabe.” | El atractivo inicial no define el destino; el texto pasa de la boca a la muerte y al extravío.           |
+| #mishlei_5_7-8   | TTH: “Y ahora, hijos, escúchenme… Aleja de sobre ella tu camino, y no te acerques a la puerta de su casa.”                                                                                                | La advertencia se vuelve práctica: escuchar y guardar distancia.                                         |
+| #mishlei_5_11-14 | TTH: “Y gemirás en tu final… ‘¡Cómo aborrecí la disciplina…! Y no he escuchado a la voz de mi Maestro…’”                                                                                                  | El arrepentimiento tardío identifica el rechazo de musar como causa, no como accidente.                  |
+| #mishlei_5_15-18 | TTH: “Bebe las aguas de tu pozo… Será bendita tu fuente, y alegría que viene de la mujer de tu juventud.”                                                                                                 | El capítulo contrapone exclusividad y dispersión; no deja la imagen del agua sin relación con fidelidad. |
+| #mishlei_5_21-23 | TTH: “Porque al frente de los ojos de יהוה están los caminos del hombre… Sus torceduras capturarán al condenado… Él morirá sin disciplina.”                                                               | יהוה ve el camino completo; el pecado lleva sus propias cuerdas y consecuencias.                         |
 
 ## Escuchar antes de caminar: vv. 1-8
 

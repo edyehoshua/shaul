@@ -10,14 +10,14 @@ tags:
   - reino
   - juicio
 references:
-  - "#salmos_96_1"
-  - "#salmos_96_2"
-  - "#salmos_96_3"
-  - "#salmos_96_5"
-  - "#salmos_96_7"
-  - "#salmos_96_9"
-  - "#salmos_96_10"
-  - "#salmos_96_13"
+  - "#tehilim_96_1"
+  - "#tehilim_96_2"
+  - "#tehilim_96_3"
+  - "#tehilim_96_5"
+  - "#tehilim_96_7"
+  - "#tehilim_96_9"
+  - "#tehilim_96_10"
+  - "#tehilim_96_13"
 sources:
   - "https://www.youtube.com/watch?v=9GNsngTjhfc"
   - "docs/scriptures/oe/json/psalms/96.json"
@@ -43,7 +43,7 @@ Esta nota desarrolla la clase pública del hermano Eric de Jesús Rodríguez Men
 | 96:7-9 | **הבו ליהוה משפחות עמים הבו ליהוה כבוד ועז הבו ליהוה כבוד שמו שאו מנחה ובאו לחצרותיו השתחוו ליהוה בהדרת קדש חילו מפניו כל הארץ** | Eric sigue la triple invitación a dar gloria, traer ofrenda y postrarse; la adoración incluye reverencia ante יהוה y no solamente una declaración verbal. |
 | 96:10-13 | **אמרו בגוים יהוה מלך אף תכון תבל בל תמוט ידין עמים במישרים ישמחו השמים ותגל הארץ ירעם הים ומלאו יעלז שדי וכל אשר בו אז ירננו כל עצי יער לפני יהוה כי בא כי בא לשפט הארץ ישפט תבל בצדק ועמים באמונתו** | El anuncio “יהוה reina” se conecta con estabilidad y juicio. Eric resalta que cielo, tierra, mar y árboles celebran la llegada del Juez; los vv. 10 y 13 definen ese juicio como recto y fiel. |
 
-## El canto nuevo y el anuncio diario (96:1-3) #salmos_96_1-3
+## El canto nuevo y el anuncio diario (96:1-3) #tehilim_96_1-3
 
 Eric comienza con la triple repetición de **שירו**, “canten”. El imperativo no se dirige a un grupo aislado: el texto dice “toda la tierra”. El canto nuevo no aparece como una emoción sin contenido; los vv. 2-3 explican qué se proclama: se bendice el nombre, se anuncia de día en día la salvación y se cuentan la gloria y las maravillas entre las naciones.
 
@@ -51,19 +51,19 @@ Eric comienza con la triple repetición de **שירו**, “canten”. El impera
 
 Eric insiste en que el anuncio a las naciones no es una licencia para abandonar el texto de Israel, porque el mensaje se concentra en el nombre, la gloria y las maravillas de יהוה. El salmo sí extiende el destinatario a los pueblos, pero no reemplaza al Dios creador por una idea religiosa universal genérica.
 
-## יהוה frente a los ídolos (96:4-6) #salmos_96_4-6
+## יהוה frente a los ídolos (96:4-6) #tehilim_96_4-6
 
 La segunda unidad da la razón del anuncio. יהוה es grande y digno de alabanza; es temible sobre todos los “elohim”. Eric llama la atención sobre la frase que sigue: los elohim de las naciones son **אלילים**, *elilim*, mientras que יהוה hizo los cielos. La clase usa este contraste para separar al Creador de las imágenes y poderes a los que se atribuye autoridad.
 
 **אליל**, *elil*, normalmente “ídolo” o “nulidad”, tiene aquí fuerza polémica: la palabra rebaja aquello que pretende rivalizar con יהוה. No debe convertirse, sin más, en una teoría sobre la ontología de cada ser nombrado en otros textos. **עשה**, *asah*, normalmente “hacer”, en “יהוה cielos hizo” expresa la obra creadora que el salmo presenta como fundamento de su singularidad. Su relación con **ποιέω**, *poieō*, es una correspondencia aproximada de sentido, no una equivalencia morfológica. **כבוד**, *kavod*, normalmente “gloria, peso, honor”, y **הדר**, *hadar*, “esplendor, majestad”, describen la dignidad visible de la presencia divina; la relación con **δόξα**, *doxa*, y **μεγαλοπρέπεια**, *megaloprepeia*, es pedagógica y contextual.
 
-## Las familias de pueblos y la postración (96:7-9) #salmos_96_7-9
+## Las familias de pueblos y la postración (96:7-9) #tehilim_96_7-9
 
 Eric observa que el salmo no solamente invita a individuos: dice “familias de pueblos”. La repetición de **הבו**, “den”, construye una liturgia de reconocimiento: den gloria y fuerza, den gloria al nombre, lleven ofrenda y entren en sus atrios. El v. 9 añade postración, santidad y temor de toda la tierra. El anuncio universal, por tanto, tiene una forma concreta de culto y reverencia.
 
 **משפחה**, *mishpachah*, normalmente “familia, clan”, tiene aquí fuerza corporativa: los pueblos no aparecen como espectadores anónimos, sino como comunidades llamadas a honrar a יהוה. **שחה**, *shachah*, normalmente “inclinarse” o “postrarse”, comunica una respuesta corporal de adoración. Su relación con **προσκυνέω**, *proskyneō*, es aproximada: ambas formas pueden expresar postración, pero el hebreo del salmo debe seguir siendo la base. Eric vincula la “ofrenda” con la entrega de honor, pero la nota conserva el dato textual: el verso dice **שאו מנחה**, “lleven una ofrenda”; no autoriza a definir por sí solo todos los detalles del culto posterior.
 
-## יהוה reina y juzga (96:10-13) #salmos_96_10-13
+## יהוה reina y juzga (96:10-13) #tehilim_96_10-13
 
 El centro declarativo del salmo es el mandato: “Digan entre las naciones: יהוה reina”. Eric lee esta frase como el anuncio que da sentido a todo lo anterior. El reinado no es una abstracción: el mundo queda firme y no vacila, y יהוה juzga a los pueblos con rectitud. La creación participa de la respuesta: los cielos se alegran, la tierra se regocija, el mar ruge, el campo se alegra y los árboles cantan.
 

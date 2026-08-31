@@ -9,22 +9,22 @@ tags:
   - remanente
   - seudat-mashiaj
 references:
-  - "#isaias_11_1"
-  - "#isaias_11_2"
-  - "#isaias_11_3"
-  - "#isaias_11_4"
-  - "#isaias_11_5"
-  - "#isaias_11_6"
-  - "#isaias_11_9"
-  - "#isaias_11_10"
-  - "#isaias_11_11"
-  - "#isaias_11_12"
-  - "#isaias_11_13"
-  - "#isaias_11_16"
-  - "#isaias_12_1"
-  - "#isaias_12_2"
-  - "#isaias_12_3"
-  - "#isaias_12_6"
+  - "#yeshayahu_11_1"
+  - "#yeshayahu_11_2"
+  - "#yeshayahu_11_3"
+  - "#yeshayahu_11_4"
+  - "#yeshayahu_11_5"
+  - "#yeshayahu_11_6"
+  - "#yeshayahu_11_9"
+  - "#yeshayahu_11_10"
+  - "#yeshayahu_11_11"
+  - "#yeshayahu_11_12"
+  - "#yeshayahu_11_13"
+  - "#yeshayahu_11_16"
+  - "#yeshayahu_12_1"
+  - "#yeshayahu_12_2"
+  - "#yeshayahu_12_3"
+  - "#yeshayahu_12_6"
   - "#juan_12_32"
 sources:
   - "https://www.youtube.com/watch?v=Kiq69SwJqEE"
@@ -48,13 +48,13 @@ La nota organiza **HAFTARÁH DE SE'UDAT MASHÍAJ 2018: Os atraeré a mí mismo**
 
 | Referencia          | Texto TTH local                                                                                                                                                                                                                        | Función en la enseñanza                                                      |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| #isaias_11_1-2   | “Y saldrá una rama del tronco de Yishai, y un brote de sus raíces dará fruto. Y descansará sobre Él el Rúaj de יהוה, espíritu de sabiduría y discernimiento, espíritu de consejo y poder, espíritu de conocimiento y de temor de יהוה.” | El brote mesiánico conserva la raíz davídica y recibe el Rúaj para gobernar. |
-| #isaias_11_3-5   | “No hará el proceso legal por la vista de sus ojos… hará el proceso legal en justicia a los débiles… la justicia será el cinto de sus caderas, y la emunah el cinto de su cintura.”                                                    | El gobierno se mide por justicia y fidelidad, no por apariencia.             |
-| #isaias_11_6-10  | “No harán maldad y no destruirán… porque llena estará la tierra del conocimiento a יהוה… la raíz de Yishai… será su descanso gloria.”                                                                                                   | La paz se vincula con el conocimiento de יהוה y con el descanso glorioso.    |
-| #isaias_11_11-16 | “Levantará estandarte para las naciones, y reunirá a los desnaturalizados de Israel, y a los dispersos de Yehudáh juntará de las cuatro esquinas de la tierra.”                                                                        | El estandarte explica la reunión y la reconciliación del pueblo.             |
-| #isaias_12_1-6   | “El es mi salvación, confiaré y no temeré… sacarán aguas con gozo de las fuentes de la salvación… grande es en medio de ti el Santo de Israel.”                                                                                        | El oráculo termina en confesión, gozo y testimonio público.                  |
+| #yeshayahu_11_1-2   | “Y saldrá una rama del tronco de Yishai, y un brote de sus raíces dará fruto. Y descansará sobre Él el Rúaj de יהוה, espíritu de sabiduría y discernimiento, espíritu de consejo y poder, espíritu de conocimiento y de temor de יהוה.” | El brote mesiánico conserva la raíz davídica y recibe el Rúaj para gobernar. |
+| #yeshayahu_11_3-5   | “No hará el proceso legal por la vista de sus ojos… hará el proceso legal en justicia a los débiles… la justicia será el cinto de sus caderas, y la emunah el cinto de su cintura.”                                                    | El gobierno se mide por justicia y fidelidad, no por apariencia.             |
+| #yeshayahu_11_6-10  | “No harán maldad y no destruirán… porque llena estará la tierra del conocimiento a יהוה… la raíz de Yishai… será su descanso gloria.”                                                                                                   | La paz se vincula con el conocimiento de יהוה y con el descanso glorioso.    |
+| #yeshayahu_11_11-16 | “Levantará estandarte para las naciones, y reunirá a los desnaturalizados de Israel, y a los dispersos de Yehudáh juntará de las cuatro esquinas de la tierra.”                                                                        | El estandarte explica la reunión y la reconciliación del pueblo.             |
+| #yeshayahu_12_1-6   | “El es mi salvación, confiaré y no temeré… sacarán aguas con gozo de las fuentes de la salvación… grande es en medio de ti el Santo de Israel.”                                                                                        | El oráculo termina en confesión, gozo y testimonio público.                  |
 
-## El brote que permanece unido a la raíz — Yeshayahu 11:1-2 #isaias_11_1-2
+## El brote que permanece unido a la raíz — Yeshayahu 11:1-2 #yeshayahu_11_1-2
 
 Eric comienza con la imagen de un árbol cortado. Aunque el tronco parezca destruido, la raíz de Yishai no desaparece; de ella salen un **(חטר)**, _jéter_, rama o vara, y un **(נצר)**, _nétsér_, brote o retoño. La distinción es contextual: ambos términos participan de la imagen vegetal, pero no deben fundirse como si fueran la misma forma hebrea. La enseñanza de la clase insiste en que la promesa no sustituye la raíz de David por un poder sin genealogía. El brote nuevo depende de la obra de יהוה y, aun así, produce fruto.
 
@@ -62,25 +62,25 @@ La clase conecta _nétsér_ con Nazaret y con las expresiones griegas que el eva
 
 Sobre el brote descansa el **(רוח יהוה)**, Rúaj de יהוה. El texto no ofrece una energía indefinida: enumera sabiduría, discernimiento, consejo, poder, conocimiento y temor de יהוה. Eric usa esta lista para mostrar que el Mashíaj se identifica por la calidad de su gobierno y de su discernimiento. La autoridad mesiánica, por tanto, es recibida y orientada hacia יהוה.
 
-## Juicio que no depende de las apariencias — Yeshayahu 11:3-5 #isaias_11_3-5
+## Juicio que no depende de las apariencias — Yeshayahu 11:3-5 #yeshayahu_11_3-5
 
 El gobernante no hace el proceso legal por la vista de sus ojos ni por lo que sus oídos escuchan. Eric aplica esta afirmación al juicio confiable del Mashíaj: no es manipulado por la impresión externa ni por el rumor. El texto concreta ese juicio en los débiles y afligidos de la tierra. La justicia no es una abstracción cortesana; protege a quienes quedarían expuestos ante un poder que juzga mal.
 
 La clase destaca también las imágenes de la vara de la boca y del Rúaj de los labios. Eric las relaciona con la eficacia de la palabra mesiánica y con el juicio contra el malvado. Esa conexión se mantiene como lectura de la perícopa, mientras que la identificación de figuras posteriores debe verificarse en cada pasaje. El cierre de la unidad presenta dos cinturones: **(צדק)**, _tsédeq_, justicia o rectitud, y **(אמונה)**, _emunah_, fidelidad, firmeza o confiabilidad. “Fidelidad” es una aproximación contextual de _emunah_, no una equivalencia exhaustiva para todos sus usos.
 
-## Paz, conocimiento y descanso glorioso — Yeshayahu 11:6-10 #isaias_11_6-10
+## Paz, conocimiento y descanso glorioso — Yeshayahu 11:6-10 #yeshayahu_11_6-10
 
 La convivencia del lobo con el cordero, del leopardo con el cabrito y del león con el ganado no aparece como un adorno separado del gobierno anterior. Eric observa que el texto primero describe al gobernante justo y luego explica que no habrá maldad porque la tierra estará llena del conocimiento de יהוה. La paz tiene una causa teológica: el mundo es reordenado por el conocimiento del Santo, no simplemente por una tregua humana.
 
 En el versículo 10 la raíz de Yishai está en pie como estandarte de los pueblos. Las naciones lo buscan y su **(מנוחה)**, _menújah_, es gloria o descanso glorioso. Eric enlaza este movimiento con Yojanan 12:32: el levantamiento del Mesías atrae hacia él. La correspondencia es temática y pedagógica; Yeshayahu habla de la raíz como estandarte y Yojanan interpreta el levantamiento de Yehoshua en su propio argumento. La conexión gana fuerza al observar que ambos textos describen una atracción que alcanza más allá de una sola comunidad, pero no elimina sus diferencias literarias.
 
-## Estandarte, remanente y reconciliación — Yeshayahu 11:11-16 #isaias_11_11-16
+## Estandarte, remanente y reconciliación — Yeshayahu 11:11-16 #yeshayahu_11_11-16
 
 “En aquel día” יהוה vuelve a extender su mano para adquirir al remanente. Eric subraya que el texto nombra regiones y distingue entre los grupos reunidos: no reduce la restauración a una sola población ya organizada. El estandarte para las naciones reúne a los desnaturalizados de Israel y a los dispersos de Yehudáh desde las cuatro esquinas de la tierra. La reunión es espiritual y comunitaria en la exposición, aunque el texto también conserva geografía, pueblos y memoria histórica.
 
 El v. 13 impide imaginar una restauración que deje intacta la rivalidad: la envidia de Efráim se aparta y Yehudáh ya no oprime a Efráim. Eric aplica la imagen del nuevo brote y del injerto para explicar cómo personas de fuera pueden participar de la promesa sin borrar la raíz. Esa aplicación debe mantenerse como inferencia teológica de la clase, no como una definición botánica del pasaje. El camino del remanente recuerda el éxodo: la carretera desde Ashur retoma el patrón de יהוה que abre camino y reúne a su pueblo.
 
-## El cántico de salvación — Yeshayahu 12:1-6 #isaias_12_1-6
+## El cántico de salvación — Yeshayahu 12:1-6 #yeshayahu_12_1-6
 
 El capítulo 12 responde a la visión con una confesión: יהוה manifestó su enojo, pero su ira se volvió y restauró al hablante. Eric presenta este giro como consuelo para una comunidad que reconoce su fracaso sin concluir que la historia terminó. “El es mi salvación, confiaré y no temeré” mantiene unido al Mashíaj con la salvación de יהוה; la mediación mesiánica no desplaza al Santo de Israel.
 
@@ -127,11 +127,11 @@ El capítulo 12 responde en orden: **הנה אל ישועתי אבטח ולא א
 
 | Unidad textual      | Observación concreta de la clase                                                                                          | Tratamiento en esta nota                                                                                           |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| #isaias_11_1     | El tronco puede ser cortado, pero de la raíz de Yishai brotan dos imágenes de retoño; Eric relaciona _nétsér_ con Nazaret. | Texto local y hoja léxica; vínculo con Nazaret marcado como inferencia pendiente, no como equivalencia automática. |
-| #isaias_11_2-5   | El Mashíaj recibe el Rúaj, juzga sin depender de apariencia y lleva justicia y fidelidad como cinturones.                 | Apoyo textual y aclaración léxica de Rúaj, _tsédeq_ y _emunah_.                                                    |
-| #isaias_11_6-10  | La paz universal nace del conocimiento de יהוה; el estandarte atrae a las naciones y su descanso es gloria.               | Desarrollo ordenado del pasaje; conexión con Yojanan 12:32 tratada como lectura canónica/pedagógica.               |
-| #isaias_11_11-16 | El estandarte reúne a los dispersos, separa “desnaturalizados” y dispersos, y sana la rivalidad entre Efráim y Yehudáh.   | Apoyo textual; la imagen del injerto se conserva como aplicación atribuida y calificada.                           |
-| #isaias_12_1-6   | La reunión desemboca en confianza, aguas de salvación, canto y anuncio público de las obras de יהוה.                      | Síntesis textual del cántico y tratamiento de la aplicación mesiánica sin reemplazar el sentido del capítulo.      |
+| #yeshayahu_11_1     | El tronco puede ser cortado, pero de la raíz de Yishai brotan dos imágenes de retoño; Eric relaciona _nétsér_ con Nazaret. | Texto local y hoja léxica; vínculo con Nazaret marcado como inferencia pendiente, no como equivalencia automática. |
+| #yeshayahu_11_2-5   | El Mashíaj recibe el Rúaj, juzga sin depender de apariencia y lleva justicia y fidelidad como cinturones.                 | Apoyo textual y aclaración léxica de Rúaj, _tsédeq_ y _emunah_.                                                    |
+| #yeshayahu_11_6-10  | La paz universal nace del conocimiento de יהוה; el estandarte atrae a las naciones y su descanso es gloria.               | Desarrollo ordenado del pasaje; conexión con Yojanan 12:32 tratada como lectura canónica/pedagógica.               |
+| #yeshayahu_11_11-16 | El estandarte reúne a los dispersos, separa “desnaturalizados” y dispersos, y sana la rivalidad entre Efráim y Yehudáh.   | Apoyo textual; la imagen del injerto se conserva como aplicación atribuida y calificada.                           |
+| #yeshayahu_12_1-6   | La reunión desemboca en confianza, aguas de salvación, canto y anuncio público de las obras de יהוה.                      | Síntesis textual del cántico y tratamiento de la aplicación mesiánica sin reemplazar el sentido del capítulo.      |
 
 ## Pendiente de verificar
 
@@ -143,7 +143,7 @@ El capítulo 12 responde en orden: **הנה אל ישועתי אבטח ולא א
 ## Conexiones principales
 
 - [[yeshayahu_10_12_mashiaj_descanso|Yeshayahu 10–12: el Mashíaj, el remanente y el descanso glorioso]]: estudio complementario de la misma haftaráh y de su secuencia completa.
-- [[yojanan_12_luz_grano_y_levantamiento|Yojanan 12: la hora, el grano y el levantamiento]]: conexión con la palabra “os atraeré a mí mismo”, pendiente de cotejo si el archivo está disponible.
+- [[juan_12_luz_grano_y_levantamiento|Yojanan 12: la hora, el grano y el levantamiento]]: conexión con la palabra “os atraeré a mí mismo”, pendiente de cotejo si el archivo está disponible.
 - [[tehilim_95_lectura_y_reposo|Tehilim 95: invitación, pastor y reposo]]: vínculo temático con el descanso, sin asumir identidad terminológica total.
 
 ## Conclusión

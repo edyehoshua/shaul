@@ -1,6 +1,6 @@
 ---
 title: "Shabat Shekalim: actuar con fidelidad y reparar la casa"
-description: "Estudio de 2 Reyes 12 sobre la contribución, la reparación del templo y la confianza en quienes sirven con fidelidad, en diálogo con Shemot 30."
+description: "Estudio de 2 Melajim 12 sobre la contribución, la reparación del templo y la confianza en quienes sirven con fidelidad, en diálogo con Shemot 30."
 date: 2026-07-28
 tags:
   - haftarah
@@ -10,27 +10,27 @@ tags:
   - templo
   - transparencia
 references:
-  - "#2_reyes_12_1"
-  - "#2_reyes_12_2"
-  - "#2_reyes_12_4"
-  - "#2_reyes_12_5"
-  - "#2_reyes_12_6"
-  - "#2_reyes_12_7"
-  - "#2_reyes_12_8"
-  - "#2_reyes_12_9"
-  - "#2_reyes_12_10"
-  - "#2_reyes_12_11"
-  - "#2_reyes_12_12"
-  - "#2_reyes_12_13"
-  - "#2_reyes_12_14"
-  - "#2_reyes_12_15"
-  - "#2_reyes_12_16"
-  - "#exodo_30_11"
-  - "#exodo_30_12"
-  - "#exodo_30_13"
-  - "#exodo_30_14"
-  - "#exodo_30_15"
-  - "#exodo_30_16"
+  - "#melajim_bet_12_1"
+  - "#melajim_bet_12_2"
+  - "#melajim_bet_12_4"
+  - "#melajim_bet_12_5"
+  - "#melajim_bet_12_6"
+  - "#melajim_bet_12_7"
+  - "#melajim_bet_12_8"
+  - "#melajim_bet_12_9"
+  - "#melajim_bet_12_10"
+  - "#melajim_bet_12_11"
+  - "#melajim_bet_12_12"
+  - "#melajim_bet_12_13"
+  - "#melajim_bet_12_14"
+  - "#melajim_bet_12_15"
+  - "#melajim_bet_12_16"
+  - "#shemot_30_11"
+  - "#shemot_30_12"
+  - "#shemot_30_13"
+  - "#shemot_30_14"
+  - "#shemot_30_15"
+  - "#shemot_30_16"
 sources:
   - "https://www.youtube.com/watch?v=EdDuQREWp3Y"
   - "docs/scriptures/tth/json/melajim_bet.json"
@@ -52,11 +52,11 @@ Esta nota organiza **Haftaráh Shabat Shqalim (2018): El actuar dentro de la fid
 
 | Referencia            | Texto local                                                                                                                                                                                   | Función en la enseñanza                                                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| #exodo_30_11-16      | “Cuando tomes el censo de los hijos de Israel... cada uno dará una expiación de su persona a יהוה... el rico no aumentará y el pobre no disminuirá... para hacer expiación por sus personas.” | La contribución aparece dentro de un censo y una expiación; no se debe trasladar sin examen a cualquier impuesto religioso. |
-| #2_reyes_12_1-3   | “E hizo Yehoásh lo recto en los ojos de יהוה todos sus días que le instruyó Yehoiada el sacerdote. Pero, los lugares altos no fueron apartados.”                                              | El narrador reconoce una obediencia real, pero también un límite que impide presentar al rey como perfecto.                 |
-| #2_reyes_12_4-8   | “Todo el dinero de las santidades... todo el dinero que suba sobre el corazón de cada hombre para traer a la casa de יהוה... ellos reforzarán las grietas de la casa.”                        | El dinero se orienta a una necesidad concreta; la falta de reparación provoca una intervención pública.                     |
-| #2_reyes_12_9-14  | “Tomó Yehoiada el sacerdote un cofre... pusieron allí... todo el dinero... y daban el dinero... a los hacedores del trabajo.”                                                                 | La caja, el conteo y la entrega a los obreros establecen una administración visible y finalista.                            |
-| #2_reyes_12_15-16 | “No se pedían cuentas a los hombres que daban el dinero... porque con fidelidad ellos hacían. El dinero de las ofrendas de culpa y del pecado... para los sacerdotes era.”                    | La confianza se funda en la fidelidad observada y el relato distingue fondos con destinos diferentes.                       |
+| #shemot_30_11-16      | “Cuando tomes el censo de los hijos de Israel... cada uno dará una expiación de su persona a יהוה... el rico no aumentará y el pobre no disminuirá... para hacer expiación por sus personas.” | La contribución aparece dentro de un censo y una expiación; no se debe trasladar sin examen a cualquier impuesto religioso. |
+| #melajim_bet_12_1-3   | “E hizo Yehoásh lo recto en los ojos de יהוה todos sus días que le instruyó Yehoiada el sacerdote. Pero, los lugares altos no fueron apartados.”                                              | El narrador reconoce una obediencia real, pero también un límite que impide presentar al rey como perfecto.                 |
+| #melajim_bet_12_4-8   | “Todo el dinero de las santidades... todo el dinero que suba sobre el corazón de cada hombre para traer a la casa de יהוה... ellos reforzarán las grietas de la casa.”                        | El dinero se orienta a una necesidad concreta; la falta de reparación provoca una intervención pública.                     |
+| #melajim_bet_12_9-14  | “Tomó Yehoiada el sacerdote un cofre... pusieron allí... todo el dinero... y daban el dinero... a los hacedores del trabajo.”                                                                 | La caja, el conteo y la entrega a los obreros establecen una administración visible y finalista.                            |
+| #melajim_bet_12_15-16 | “No se pedían cuentas a los hombres que daban el dinero... porque con fidelidad ellos hacían. El dinero de las ofrendas de culpa y del pecado... para los sacerdotes era.”                    | La confianza se funda en la fidelidad observada y el relato distingue fondos con destinos diferentes.                       |
 
 ## 1. La costumbre de leer debe someterse al texto
 
@@ -70,7 +70,7 @@ Eric lee Shemot 30:11-16 para cuestionar la idea de un impuesto nacional indifer
 
 La clase distingue entre una contribución vinculada al servicio y una carga que se cobra a personas sin relación con aquello que financia. Esa distinción puede expresarse con cuidado: el texto de Shemot establece un acto regulado para una situación concreta, mientras que 2 Reyes describe dinero que sube al corazón de una persona para llevarlo a la casa de יהוה. La nota no resuelve aquí toda la historia de las monedas del templo ni la relación entre medio siclo bíblico y denominaciones griegas o romanas. Sí conserva el núcleo de Eric: no se debe usar una palabra sagrada para justificar una administración que el texto no ordena.
 
-## 3. Cuando la plata no llega a las grietas — 2 Reyes 12:1-8 #2_reyes_12_1-8
+## 3. Cuando la plata no llega a las grietas — 2 Reyes 12:1-8 #melajim_bet_12_1-8
 
 Yehoásh hace lo recto mientras recibe la instrucción de Yehoiada, pero el narrador añade que los lugares altos permanecen. La evaluación es matizada: hay una acción correcta sin una reforma total. Luego el rey enumera distintas entradas de dinero: las santidades, el dinero de quien pasa, el dinero de la estimación y lo que sube sobre el corazón de cada persona. El destino indicado es reparar las grietas de la casa de יהוה.
 
@@ -78,7 +78,7 @@ El problema aparece en el año veintitrés: los sacerdotes aún no han reforzado
 
 La solución establece una separación: los sacerdotes no tomarán el dinero del pueblo para sí ni repararán las grietas con un fondo ambiguo. El relato no presenta el control como enemigo de la fe. Presenta una estructura que hace que la plata pueda seguir su propósito, y que deja visible quién la recibe y para qué.
 
-## 4. La caja, los obreros y la fidelidad — 2 Reyes 12:9-16 #2_reyes_12_9-16
+## 4. La caja, los obreros y la fidelidad — 2 Reyes 12:9-16 #melajim_bet_12_9-16
 
 Yehoiada toma un cofre, perfora una abertura y lo coloca junto al altar. Los guardianes del umbral depositan allí el dinero que llega a la casa de יהוה. Cuando hay mucho, el escriba del rey y el sumo sacerdote lo atan y cuentan la plata. Después la entregan a los hacedores del trabajo: grabadores de madera, constructores, albañiles y cortadores de piedra. La reparación incluye materiales y todo lo que se gasta en reforzar la casa.
 
@@ -103,12 +103,12 @@ El versículo 16 conserva además una distinción: el dinero de las ofrendas de 
 
 | Unidad textual       | Observación concreta de la clase                                                                                                 | Tratamiento en esta nota                                                                          |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| #exodo_30_11-16     | El medio siclo está ligado al censo y a la expiación, no debe convertirse automáticamente en impuesto nacional.                  | Se cita el texto local y se limita la aplicación; historia monetaria posterior queda pendiente.   |
-| #2_reyes_12_1-3  | Yehoásh actuó rectamente bajo instrucción, pero dejó lugares altos; la evaluación bíblica puede ser positiva y crítica a la vez. | Desarrollo textual y matización del personaje, sin idealizarlo.                                   |
-| #2_reyes_12_4-8  | La plata debía reforzar las grietas; el retraso sacerdotal exige que el rey pregunte y corrija el sistema.                       | Apoyo textual y tratamiento del destino finalista de la contribución.                             |
-| #2_reyes_12_9-14 | La caja y el conteo permiten dirigir el dinero a obreros y materiales, no a objetos suntuosos.                                   | Se explica la estructura de administración y se distingue el dato del uso pastoral contemporáneo. |
-| #2_reyes_12_15   | Los trabajadores no eran auditados centavo por centavo porque actuaban con fidelidad.                                            | Se conserva como confianza basada en carácter probado, no como ausencia de controles.             |
-| #2_reyes_12_16   | Los fondos de culpa y pecado tenían otro destino sacerdotal.                                                                     | Se destaca que la transparencia incluye diferenciar propósitos y responsables.                    |
+| #shemot_30_11-16     | El medio siclo está ligado al censo y a la expiación, no debe convertirse automáticamente en impuesto nacional.                  | Se cita el texto local y se limita la aplicación; historia monetaria posterior queda pendiente.   |
+| #melajim_bet_12_1-3  | Yehoásh actuó rectamente bajo instrucción, pero dejó lugares altos; la evaluación bíblica puede ser positiva y crítica a la vez. | Desarrollo textual y matización del personaje, sin idealizarlo.                                   |
+| #melajim_bet_12_4-8  | La plata debía reforzar las grietas; el retraso sacerdotal exige que el rey pregunte y corrija el sistema.                       | Apoyo textual y tratamiento del destino finalista de la contribución.                             |
+| #melajim_bet_12_9-14 | La caja y el conteo permiten dirigir el dinero a obreros y materiales, no a objetos suntuosos.                                   | Se explica la estructura de administración y se distingue el dato del uso pastoral contemporáneo. |
+| #melajim_bet_12_15   | Los trabajadores no eran auditados centavo por centavo porque actuaban con fidelidad.                                            | Se conserva como confianza basada en carácter probado, no como ausencia de controles.             |
+| #melajim_bet_12_16   | Los fondos de culpa y pecado tenían otro destino sacerdotal.                                                                     | Se destaca que la transparencia incluye diferenciar propósitos y responsables.                    |
 
 ## Pendiente de verificar
 

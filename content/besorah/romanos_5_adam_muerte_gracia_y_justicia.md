@@ -23,7 +23,7 @@ references:
   - "#romanos_3_20"
   - "#romanos_3_23"
   - "#romanos_8_1-4"
-  - "#genesis_3_1-24"
+  - "#bereshit_3_1-24"
 sources:
   - "https://www.youtube.com/watch?v=WQq_loecKIM"
   - "https://www.youtube.com/watch?v=ePW-rAPrIAo"
@@ -172,7 +172,7 @@ La forma **(παράπτωμα)**, _paraptōma_, significa transgresión o delit
 ## Ver también
 
 - [[colosenses_1_sabiduria_herencia_plenitud|Colosenses 1: identidad, fruto y reconciliación]]
-- [[yojanan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
+- [[juan_15_vid_fruto_amor_discipulado|Yojanán 15: vid, fruto, amor y discipulado]]
 
 ## Créditos
 

@@ -4,12 +4,12 @@ description: "Estudio de Mishlei 4 sobre la disciplina del Padre, la sabiduría 
 date: 2026-08-06
 tags: [mishlei, mishlei_4, disciplina, musar, sabiduria, torah, camino]
 references:
-  - "#proverbios_4_1"
-  - "#proverbios_4_7"
-  - "#proverbios_4_13"
-  - "#proverbios_4_18"
-  - "#proverbios_4_23"
-  - "#proverbios_4_27"
+  - "#mishlei_4_1"
+  - "#mishlei_4_7"
+  - "#mishlei_4_13"
+  - "#mishlei_4_18"
+  - "#mishlei_4_23"
+  - "#mishlei_4_27"
 sources:
   - "https://www.youtube.com/watch?v=KrkYLdIxoFQ"
   - "docs/scriptures/oe/json/proverbs/4.json"
@@ -30,33 +30,33 @@ Esta nota organiza la clase pública sobre Mishlei 4. Sigue el capítulo en sus 
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_4_1 | שמעו בנים מוסר אב והקשיבו לדעת בינה | Escuchen, hijos míos, la disciplina del Padre; atiendan al conocimiento del discernimiento. |
-| #proverbios_4_2 | כי לקח טוב נתתי לכם תורתי אל תעזבו | Porque enseñanza buena he dado a ustedes, mi Torah no abandonen. |
-| #proverbios_4_3 | כי בן הייתי לאבי רך ויחיד לפני אמי | Porque hijo fui para mi padre, tierno y único delante de mi madre. |
-| #proverbios_4_4 | וירני ויאמר לי יתמך דברי לבך שמר מצותי וחיה | Y me instruyó, y me dijo: Se sostenga de mis palabras tu corazón, guarda mis mandamientos y vivirás. |
-| #proverbios_4_5 | קנה חכמה קנה בינה אל תשכח ואל תט מאמרי פי | Adquiere sabiduría, adquiere discernimiento; no olvides ni te inclines de los dichos de mi boca. |
-| #proverbios_4_6 | אל תעזבה ותשמרך אהבה ותצרך | No la abandones, y te guardará; ámala, y te vigilará. |
-| #proverbios_4_7 | ראשית חכמה קנה חכמה ובכל קנינך קנה בינה | El principio de la sabiduría: adquiere sabiduría; y en toda tu adquisición, adquiere discernimiento. |
-| #proverbios_4_8 | סלסלה ותרוממך תכבדך כי תחבקנה | Exáltala, y ella te elevará; te honrará, porque la abrazarás. |
-| #proverbios_4_9 | תתן לראשך לוית חן עטרת תפארת תמגנך | Dará a tu cabeza guirnalda de favor, corona de esplendor te protegerá. |
-| #proverbios_4_10 | שמע בני וקח אמרי וירבו לך שנות חיים | Escucha, hijo mío, y toma mis dichos, y se aumentarán para ti los años de vida. |
-| #proverbios_4_11 | בדרך חכמה הרתיך הדרכתיך במעגלי ישר | En el camino de sabiduría te he instruido, te encaminé en las sendas de rectitud. |
-| #proverbios_4_12 | בלכתך לא יצר צעדך ואם תרוץ לא תכשל | En tu andar, no será estrecho tu paso; y si corres, no tropezarás. |
-| #proverbios_4_13 | החזק במוסר אל תרף נצרה כי היא חייך | Agárrate en la disciplina, no sueltes; vigílala, porque es tu vida. |
-| #proverbios_4_14 | בארח רשעים אל תבא ואל תאשר בדרך רעים | En senda de condenados no entres, y no camines en camino de malos. |
-| #proverbios_4_15 | פרעהו אל תעבר בו שטה מעליו ועבור | Recházalo, no pases por él; apártate de sobre él, y pasa. |
-| #proverbios_4_16 | כי לא ישנו אם לא ירעו ונגזלה שנתם אם לא יכשולו יכשילו | Porque no duermen si no hacen el mal; y les es robado su sueño si no hacen tropezar. |
-| #proverbios_4_17 | כי לחמו לחם רשע ויין חמסים ישתו | Porque su pan es pan de malicia, y vino de violentos beben. |
-| #proverbios_4_18 | וארח צדיקים כאור נגה הולך ואור עד נכון היום | Pero la senda de los justos es como la luz del resplandor, que va y brilla hasta establecerse el día. |
-| #proverbios_4_19 | דרך רשעים כאפלה לא ידעו במה יכשלו | El camino de condenados es como tiniebla, no saben en qué tropiezan. |
-| #proverbios_4_20 | בני לדברי הקשיבה לאמרי הט אזנך | Hijo mío, a mis palabras atiende; a mis dichos inclina tu oído. |
-| #proverbios_4_21 | אל יליזו מעיניך שמרם בתוך לבבך | No se aparten de tus ojos, guárdalas en medio de tu corazón. |
-| #proverbios_4_22 | כי חיים הם למצאיהם ולכל בשרו מרפא | Porque vida es para los que las hallan; y para toda su carne, sanidad. |
-| #proverbios_4_23 | מכל משמר נצר לבך כי ממנו תוצאות חיים | De todo lo guardado, vigila tu corazón, porque de él son las salientes de la vida. |
-| #proverbios_4_24 | הסר ממך עקשות פה ולזות שפתים הרחק ממך | Aparta de ti la torcedura de la boca, y la tortuosidad de labios aleja de ti. |
-| #proverbios_4_25 | עיניך לנכח יביטו ועפעפיך יישרו נגדך | Tus ojos observen al Recto, y tus párpados sean rectos delante de ti. |
-| #proverbios_4_26 | פלס מעגל רגלך וכל דרכיך יכנו | Nivela la senda de tu pie, y todos tus caminos se afirmarán. |
-| #proverbios_4_27 | אל תט ימין ושמאול הסר רגלך מרע | No te inclines a derecha e izquierda, aparta tu pie del mal. |
+| #mishlei_4_1 | שמעו בנים מוסר אב והקשיבו לדעת בינה | Escuchen, hijos míos, la disciplina del Padre; atiendan al conocimiento del discernimiento. |
+| #mishlei_4_2 | כי לקח טוב נתתי לכם תורתי אל תעזבו | Porque enseñanza buena he dado a ustedes, mi Torah no abandonen. |
+| #mishlei_4_3 | כי בן הייתי לאבי רך ויחיד לפני אמי | Porque hijo fui para mi padre, tierno y único delante de mi madre. |
+| #mishlei_4_4 | וירני ויאמר לי יתמך דברי לבך שמר מצותי וחיה | Y me instruyó, y me dijo: Se sostenga de mis palabras tu corazón, guarda mis mandamientos y vivirás. |
+| #mishlei_4_5 | קנה חכמה קנה בינה אל תשכח ואל תט מאמרי פי | Adquiere sabiduría, adquiere discernimiento; no olvides ni te inclines de los dichos de mi boca. |
+| #mishlei_4_6 | אל תעזבה ותשמרך אהבה ותצרך | No la abandones, y te guardará; ámala, y te vigilará. |
+| #mishlei_4_7 | ראשית חכמה קנה חכמה ובכל קנינך קנה בינה | El principio de la sabiduría: adquiere sabiduría; y en toda tu adquisición, adquiere discernimiento. |
+| #mishlei_4_8 | סלסלה ותרוממך תכבדך כי תחבקנה | Exáltala, y ella te elevará; te honrará, porque la abrazarás. |
+| #mishlei_4_9 | תתן לראשך לוית חן עטרת תפארת תמגנך | Dará a tu cabeza guirnalda de favor, corona de esplendor te protegerá. |
+| #mishlei_4_10 | שמע בני וקח אמרי וירבו לך שנות חיים | Escucha, hijo mío, y toma mis dichos, y se aumentarán para ti los años de vida. |
+| #mishlei_4_11 | בדרך חכמה הרתיך הדרכתיך במעגלי ישר | En el camino de sabiduría te he instruido, te encaminé en las sendas de rectitud. |
+| #mishlei_4_12 | בלכתך לא יצר צעדך ואם תרוץ לא תכשל | En tu andar, no será estrecho tu paso; y si corres, no tropezarás. |
+| #mishlei_4_13 | החזק במוסר אל תרף נצרה כי היא חייך | Agárrate en la disciplina, no sueltes; vigílala, porque es tu vida. |
+| #mishlei_4_14 | בארח רשעים אל תבא ואל תאשר בדרך רעים | En senda de condenados no entres, y no camines en camino de malos. |
+| #mishlei_4_15 | פרעהו אל תעבר בו שטה מעליו ועבור | Recházalo, no pases por él; apártate de sobre él, y pasa. |
+| #mishlei_4_16 | כי לא ישנו אם לא ירעו ונגזלה שנתם אם לא יכשולו יכשילו | Porque no duermen si no hacen el mal; y les es robado su sueño si no hacen tropezar. |
+| #mishlei_4_17 | כי לחמו לחם רשע ויין חמסים ישתו | Porque su pan es pan de malicia, y vino de violentos beben. |
+| #mishlei_4_18 | וארח צדיקים כאור נגה הולך ואור עד נכון היום | Pero la senda de los justos es como la luz del resplandor, que va y brilla hasta establecerse el día. |
+| #mishlei_4_19 | דרך רשעים כאפלה לא ידעו במה יכשלו | El camino de condenados es como tiniebla, no saben en qué tropiezan. |
+| #mishlei_4_20 | בני לדברי הקשיבה לאמרי הט אזנך | Hijo mío, a mis palabras atiende; a mis dichos inclina tu oído. |
+| #mishlei_4_21 | אל יליזו מעיניך שמרם בתוך לבבך | No se aparten de tus ojos, guárdalas en medio de tu corazón. |
+| #mishlei_4_22 | כי חיים הם למצאיהם ולכל בשרו מרפא | Porque vida es para los que las hallan; y para toda su carne, sanidad. |
+| #mishlei_4_23 | מכל משמר נצר לבך כי ממנו תוצאות חיים | De todo lo guardado, vigila tu corazón, porque de él son las salientes de la vida. |
+| #mishlei_4_24 | הסר ממך עקשות פה ולזות שפתים הרחק ממך | Aparta de ti la torcedura de la boca, y la tortuosidad de labios aleja de ti. |
+| #mishlei_4_25 | עיניך לנכח יביטו ועפעפיך יישרו נגדך | Tus ojos observen al Recto, y tus párpados sean rectos delante de ti. |
+| #mishlei_4_26 | פלס מעגל רגלך וכל דרכיך יכנו | Nivela la senda de tu pie, y todos tus caminos se afirmarán. |
+| #mishlei_4_27 | אל תט ימין ושמאול הסר רגלך מרע | No te inclines a derecha e izquierda, aparta tu pie del mal. |
 
 ## Recibir la disciplina del Padre
 
@@ -97,10 +97,10 @@ Por eso siguen la boca torcida, los labios tortuosos, los ojos que deben mirar a
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_4_1-4 | La voz de la Torah forma hijos; musar y mandamientos producen vida. | Disciplina, Torah y vida apoyadas; lectura mesiánica atribuida. |
-| #proverbios_4_5-9 | Primero se adquiere sabiduría y luego se forma discernimiento en la vivencia. | Distinción pedagógica útil; equivalencia léxica exacta pendiente. |
-| #proverbios_4_10-19 | Hay que sostenerse en la disciplina y separarse de la senda violenta; la luz de los justos crece. | Apoyado por el texto; aplicación a hábitos calificada. |
-| #proverbios_4_20-27 | Corazón, boca, ojos y pies deben alinearse con la Torah y apartarse del mal. | Desarrollo textual apoyado; aplicación práctica razonada. |
+| #mishlei_4_1-4 | La voz de la Torah forma hijos; musar y mandamientos producen vida. | Disciplina, Torah y vida apoyadas; lectura mesiánica atribuida. |
+| #mishlei_4_5-9 | Primero se adquiere sabiduría y luego se forma discernimiento en la vivencia. | Distinción pedagógica útil; equivalencia léxica exacta pendiente. |
+| #mishlei_4_10-19 | Hay que sostenerse en la disciplina y separarse de la senda violenta; la luz de los justos crece. | Apoyado por el texto; aplicación a hábitos calificada. |
+| #mishlei_4_20-27 | Corazón, boca, ojos y pies deben alinearse con la Torah y apartarse del mal. | Desarrollo textual apoyado; aplicación práctica razonada. |
 
 ## Pendiente de verificar
 

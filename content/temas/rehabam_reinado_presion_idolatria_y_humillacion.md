@@ -10,19 +10,19 @@ tags:
   - humillacion
   - torah
 references:
-  - "#1_reyes_12_13"
-  - "#1_reyes_12_14"
-  - "#1_reyes_12_15"
-  - "#1_reyes_12_24"
-  - "#1_reyes_14_21"
-  - "#1_reyes_14_22"
-  - "#1_reyes_14_23"
-  - "#1_reyes_14_25"
-  - "#2_cronicas_12_1"
-  - "#2_cronicas_12_5"
-  - "#2_cronicas_12_6"
-  - "#2_cronicas_12_7"
-  - "#2_cronicas_12_14"
+  - "#melajim_alef_12_13"
+  - "#melajim_alef_12_14"
+  - "#melajim_alef_12_15"
+  - "#melajim_alef_12_24"
+  - "#melajim_alef_14_21"
+  - "#melajim_alef_14_22"
+  - "#melajim_alef_14_23"
+  - "#melajim_alef_14_25"
+  - "#divrei_hayamim_bet_12_1"
+  - "#divrei_hayamim_bet_12_5"
+  - "#divrei_hayamim_bet_12_6"
+  - "#divrei_hayamim_bet_12_7"
+  - "#divrei_hayamim_bet_12_14"
 sources:
   - "https://www.youtube.com/watch?v=2HmA2ZjVpTY"
   - "docs/scriptures/oe/json/raw/ikings.json"
@@ -43,10 +43,10 @@ Esta nota organiza la exposición pública de Eric de Jesús Rodríguez Mendoza 
 
 | Referencia | Texto local hebreo | Función en la enseñanza |
 | --- | --- | --- |
-| #1_reyes_12_13-15 | **וַיַּ֧עַן הַמֶּ֛לֶךְ אֶת הָעָ֖ם קָשָׁ֑ה... אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֕י אֲיַסֵּ֥ר אֶתְכֶ֖ם בָּעַקְרַבִּֽים... כִּֽי הָיְתָ֤ה סִבָּה֙ מֵעִ֣ם יְהוָ֔ה** | La dureza de Rejab'am participa en la división, aunque el narrador también la sitúa dentro del juicio anunciado. |
-| #1_reyes_14_22-25 | **וַיַּעַשׂ יְהוּדָ֛ה הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה... בָּמ֥וֹת וּמַצֵּב֖וֹת וַאֲשֵׁרִ֑ים... וַיְהִ֛י... עָלָ֛ה שִׁישַׁ֥ק** | La idolatría no es una abstracción: aparece en altares, pilares, asherim y prácticas de las naciones, seguida por invasión. |
-| #2_cronicas_12_1-2 | **עָזַ֖ב אֶת תּוֹרַ֣ת יְהוָ֑ה... כִּ֥י מָעֲל֖וּ בַּיהוָֽה** | El cronista identifica la raíz del desastre como abandono de la Torah y rebelión contra יהוה. |
-| #2_cronicas_12_5-7,14 | **אַתֶּם֙ עֲזַבְתֶּ֣ם אֹתִ֔י... צַדִּ֥יק יְהוָֽה... נִכְנְע֖וּ... וַיַּ֖עַשׂ הָרָ֑ע כִּ֣י לֹ֤א הֵכִין֙ לִבּ֔וֹ** | La humillación cambia la intensidad del juicio, pero el corazón no queda descrito como preparado para buscar a יהוה. |
+| #melajim_alef_12_13-15 | **וַיַּ֧עַן הַמֶּ֛לֶךְ אֶת הָעָ֖ם קָשָׁ֑ה... אָבִ֗י יִסַּ֤ר אֶתְכֶם֙ בַּשּׁוֹטִ֔ים וַאֲנִ֕י אֲיַסֵּ֥ר אֶתְכֶ֖ם בָּעַקְרַבִּֽים... כִּֽי הָיְתָ֤ה סִבָּה֙ מֵעִ֣ם יְהוָ֔ה** | La dureza de Rejab'am participa en la división, aunque el narrador también la sitúa dentro del juicio anunciado. |
+| #melajim_alef_14_22-25 | **וַיַּעַשׂ יְהוּדָ֛ה הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה... בָּמ֥וֹת וּמַצֵּב֖וֹת וַאֲשֵׁרִ֑ים... וַיְהִ֛י... עָלָ֛ה שִׁישַׁ֥ק** | La idolatría no es una abstracción: aparece en altares, pilares, asherim y prácticas de las naciones, seguida por invasión. |
+| #divrei_hayamim_bet_12_1-2 | **עָזַ֖ב אֶת תּוֹרַ֣ת יְהוָ֑ה... כִּ֥י מָעֲל֖וּ בַּיהוָֽה** | El cronista identifica la raíz del desastre como abandono de la Torah y rebelión contra יהוה. |
+| #divrei_hayamim_bet_12_5-7,14 | **אַתֶּם֙ עֲזַבְתֶּ֣ם אֹתִ֔י... צַדִּ֥יק יְהוָֽה... נִכְנְע֖וּ... וַיַּ֖עַשׂ הָרָ֑ע כִּ֣י לֹ֤א הֵכִין֙ לִבּ֔וֹ** | La humillación cambia la intensidad del juicio, pero el corazón no queda descrito como preparado para buscar a יהוה. |
 
 ## El poder que escucha mal termina sirviendo a su propia dureza
 

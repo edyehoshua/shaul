@@ -97,7 +97,7 @@ Apocalipsis 7 sigue una secuencia de pausa, sello, enumeración, multitud y cons
 ## Ver también
 
 - [[apocalipsis_4_trono_redencion_y_adoracion|Apocalipsis 4: trono, redención y adoración]]
-- [[sodot_7|Sodot 7: cuatro vientos y cuatro confines]]
+- [[apocalipsis_7|Sodot 7: cuatro vientos y cuatro confines]]
 
 ## Créditos
 

@@ -9,12 +9,12 @@ tags:
   - justicia
   - refugio
 references:
-  - "#salmos_17_1"
-  - "#salmos_17_3"
-  - "#salmos_17_5"
-  - "#salmos_17_8"
-  - "#salmos_17_13"
-  - "#salmos_17_15"
+  - "#tehilim_17_1"
+  - "#tehilim_17_3"
+  - "#tehilim_17_5"
+  - "#tehilim_17_8"
+  - "#tehilim_17_13"
+  - "#tehilim_17_15"
 sources:
   - "https://www.youtube.com/watch?v=NkYCmCelYWg"
   - "docs/scriptures/oe/json/psalms/17.json"
@@ -35,10 +35,10 @@ Esta nota organiza la clase «Tehilim/Himnos/Salmo Cap 17» y coteja sus observa
 
 | Referencia | Texto local (hebreo sin nikud) | Función en la lectura |
 | --- | --- | --- |
-| #salmos_17_1-3 | תפלה לדוד שמעה יהוה צדק הקשיבה רנתי האזינה תפלתי בלא שפתי מרמה · מלפניך משפטי יצא עיניך תחזינה מישרים · בחנת לבי פקדת לילה צרפתני בל תמצא זמתי בל יעבר פי | El ruego pide escucha, juicio recto y examen del corazón. |
-| #salmos_17_4-8 | לפעלות אדם בדבר שפתיך אני שמרתי ארחות פריץ · תמך אשרי במעגלותיך בל נמוטו פעמי · אני קראתיך כי תענני אל הט אזנך לי שמע אמרתי · הפלה חסדיך מושיע חוסים ממתקוממים בימינך · שמרני כאישון בת עין בצל כנפיך תסתירני | La palabra de יהוה guarda el camino, afirma los pasos y da refugio. |
-| #salmos_17_9-12 | מפני רשעים זו שדוני איבי בנפש יקיפו עלי · חלבמו סגרו פימו דברו בגאות · אשרינו עתה סבבוני סבבונו עיניהם ישיתו לנטות בארץ · דמינו כאריה יכסוף לטרוף וככפיר ישב במסתרים | Los enemigos rodean, hablan con soberbia y acechan como depredadores. |
-| #salmos_17_13-15 | קומה יהוה קדמה פניו הכריעהו פלטה נפשי מרשע חרבך · ממתים ידך יהוה ממתים מחלד חלקם בחיים וצפינך וצפונך תמלא בטנם ישבעו בנים והניחו יתרם לעולליהם · אני בצדק אחזה פניך אשבעה בהקיץ תמונתך | El ruego de liberación contrasta con la esperanza final de ver el rostro de יהוה. |
+| #tehilim_17_1-3 | תפלה לדוד שמעה יהוה צדק הקשיבה רנתי האזינה תפלתי בלא שפתי מרמה · מלפניך משפטי יצא עיניך תחזינה מישרים · בחנת לבי פקדת לילה צרפתני בל תמצא זמתי בל יעבר פי | El ruego pide escucha, juicio recto y examen del corazón. |
+| #tehilim_17_4-8 | לפעלות אדם בדבר שפתיך אני שמרתי ארחות פריץ · תמך אשרי במעגלותיך בל נמוטו פעמי · אני קראתיך כי תענני אל הט אזנך לי שמע אמרתי · הפלה חסדיך מושיע חוסים ממתקוממים בימינך · שמרני כאישון בת עין בצל כנפיך תסתירני | La palabra de יהוה guarda el camino, afirma los pasos y da refugio. |
+| #tehilim_17_9-12 | מפני רשעים זו שדוני איבי בנפש יקיפו עלי · חלבמו סגרו פימו דברו בגאות · אשרינו עתה סבבוני סבבונו עיניהם ישיתו לנטות בארץ · דמינו כאריה יכסוף לטרוף וככפיר ישב במסתרים | Los enemigos rodean, hablan con soberbia y acechan como depredadores. |
+| #tehilim_17_13-15 | קומה יהוה קדמה פניו הכריעהו פלטה נפשי מרשע חרבך · ממתים ידך יהוה ממתים מחלד חלקם בחיים וצפינך וצפונך תמלא בטנם ישבעו בנים והניחו יתרם לעולליהם · אני בצדק אחזה פניך אשבעה בהקיץ תמונתך | El ruego de liberación contrasta con la esperanza final de ver el rostro de יהוה. |
 
 ## Hoja léxica
 
@@ -82,10 +82,10 @@ La nota conserva esa conexión como lectura canónica a verificar, no como una c
 
 | Unidad textual | Observación concreta de la clase | Tratamiento en la nota |
 | --- | --- | --- |
-| #salmos_17_1–3 | El poema es **תפלה**; **צדק** admite lecturas distintas; sin labios de engaño el corazón examinado de noche y la boca no deben competir. | Encabezado y examen cotejados con OE; ambigüedad de tsedeq y la práctica orante quedan cualificadas. |
-| #salmos_17_4–8 | Por la palabra de los labios de יהוה se guardan las sendas del parits; los pasos se afirman en las ma‘gelot; refugio como ishon bat ayin bajo las alas. | Secuencia palabra–pasos–refugio con apoyo textual; parits y ma‘gelot con equivalencias aproximadas. |
-| #salmos_17_9–14 | Enemigos como león y cachorro acechante; porción de los mortales en esta vida frente a la liberación pedida. | Metáfora depredadora retenida; doctrina cerrada de vida eterna desde v. 14 marcada como exceso. |
-| #salmos_17_15 | Contraste: ellos se sacian de hijos; el orante se sacia al despertar con la temuná del rostro de יהוה. | Cierre de rostro y semejanza anclado en el texto; enlaces apostólicos en pendiente de verificar. |
+| #tehilim_17_1–3 | El poema es **תפלה**; **צדק** admite lecturas distintas; sin labios de engaño el corazón examinado de noche y la boca no deben competir. | Encabezado y examen cotejados con OE; ambigüedad de tsedeq y la práctica orante quedan cualificadas. |
+| #tehilim_17_4–8 | Por la palabra de los labios de יהוה se guardan las sendas del parits; los pasos se afirman en las ma‘gelot; refugio como ishon bat ayin bajo las alas. | Secuencia palabra–pasos–refugio con apoyo textual; parits y ma‘gelot con equivalencias aproximadas. |
+| #tehilim_17_9–14 | Enemigos como león y cachorro acechante; porción de los mortales en esta vida frente a la liberación pedida. | Metáfora depredadora retenida; doctrina cerrada de vida eterna desde v. 14 marcada como exceso. |
+| #tehilim_17_15 | Contraste: ellos se sacian de hijos; el orante se sacia al despertar con la temuná del rostro de יהוה. | Cierre de rostro y semejanza anclado en el texto; enlaces apostólicos en pendiente de verificar. |
 
 ## Pendiente de verificar
 

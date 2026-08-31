@@ -21,9 +21,9 @@ references:
   - "#romanos_1_31"
   - "#romanos_1_32"
   - "#romanos_2_1"
-  - "#genesis_3_6"
-  - "#jueces_19_22"
-  - "#levitico_18_22"
+  - "#bereshit_3_6"
+  - "#shoftim_19_22"
+  - "#vayikra_18_22"
   - "#efesios_2_3"
 sources:
   - "https://www.youtube.com/watch?v=-xgUSMnGvW8"

@@ -6,7 +6,7 @@ tags:
   - bamidbar
   - bamidbar_27
 references:
-  - "#numeros_27_7"
+  - "#bamidbar_27_7"
 sources: []
 ---
 
@@ -16,13 +16,13 @@ Bamidbar 27 destaca aquí la firmeza de ken y la palabra revelada cuando las hij
 
 ## Texto base
 
-- #numeros_27_7
+- #bamidbar_27_7
 
 ## Texto TTH disponible
 
 | Referencia     | Texto                                                                                                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #numeros_27_7 | "Lo inconmovible las hijas de Tzelofjad hablan. Dando, darás a ellos propiedad de herencia entre los hermanos de su padre, y harás pasar la herencia de su padre a ellas." |
+| #bamidbar_27_7 | "Lo inconmovible las hijas de Tzelofjad hablan. Dando, darás a ellos propiedad de herencia entre los hermanos de su padre, y harás pasar la herencia de su padre a ellas." |
 
 ## Observaciones
 

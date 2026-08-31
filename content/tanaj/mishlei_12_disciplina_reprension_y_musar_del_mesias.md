@@ -4,10 +4,10 @@ description: "Estudio de Mishlei 12:1-2 sobre musar, tokejat, conocimiento y la 
 date: 2026-08-06
 tags: [mishlei, mishlei_12, musar, tokejat, disciplina, shalom, yehoshua]
 references:
-  - "#proverbios_12_1"
-  - "#proverbios_12_2"
-  - "#isaias_1_18"
-  - "#isaias_53_5"
+  - "#mishlei_12_1"
+  - "#mishlei_12_2"
+  - "#yeshayahu_1_18"
+  - "#yeshayahu_53_5"
   - "#juan_1_12"
 sources:
   - "https://www.youtube.com/watch?v=P73jY2DtQNY"
@@ -34,10 +34,10 @@ Esta nota organiza la clase inicial sobre Mishlei 12:1-2, siguiendo la explicaci
 
 | Ref. | Hebreo OE (sin nikud) | TTH (ES) |
 | --- | --- | --- |
-| #proverbios_12_1 | אהב מוסר אהב דעת ושנא תוכחת בער | El que ama la disciplina, ama el conocimiento, y el que odia la reprensión es estúpido. |
-| #proverbios_12_2 | טוב יפיק רצון מיהוה ואיש מזמות ירשיע | El bien producirá favor de יהוה, pero Él condenará al hombre de planes condenados. |
-| #isaias_1_18 | לכו נא ונוכחה יאמר יהוה אם יהיו חטאיכם כשנים כשלג ילבינו אם יאדימו כתולע כצמר יהיו | Vengan, por favor, y debatamos —dice יהוה— si fueren sus pecados como escarlata, como la nieve serán emblanquecidos; si fueren rojos como el gusano carmesí, como lana serán. |
-| #isaias_53_5 | והוא מחלל מפשעינו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו | Mas Él fue traspasado por nuestras transgresiones, aplastado por nuestras iniquidades. La disciplina de nuestro shalom fue sobre Él, y por sus heridas trajo sanación a nosotros. |
+| #mishlei_12_1 | אהב מוסר אהב דעת ושנא תוכחת בער | El que ama la disciplina, ama el conocimiento, y el que odia la reprensión es estúpido. |
+| #mishlei_12_2 | טוב יפיק רצון מיהוה ואיש מזמות ירשיע | El bien producirá favor de יהוה, pero Él condenará al hombre de planes condenados. |
+| #yeshayahu_1_18 | לכו נא ונוכחה יאמר יהוה אם יהיו חטאיכם כשנים כשלג ילבינו אם יאדימו כתולע כצמר יהיו | Vengan, por favor, y debatamos —dice יהוה— si fueren sus pecados como escarlata, como la nieve serán emblanquecidos; si fueren rojos como el gusano carmesí, como lana serán. |
+| #yeshayahu_53_5 | והוא מחלל מפשעינו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו | Mas Él fue traspasado por nuestras transgresiones, aplastado por nuestras iniquidades. La disciplina de nuestro shalom fue sobre Él, y por sus heridas trajo sanación a nosotros. |
 | #juan_1_12 | — | Pero a cuantos lo recibieron les dio facultad para ser hijos de Elohim, a los que tuvieron emunah por su Nombre. |
 
 La clase también lee Yeshayahu 1:18 como escena de reprensión y Yeshayahu 53:5 como texto donde aparece **(מוסר)**. El corpus OE de Yeshayahu 53:5 conserva: `והוא מחלל מפשענו מדכא מעונתינו מוסר שלומנו עליו ובחברתו נרפא לנו`. En la traducción de TTH citada por la clase, la idea aparece como “la disciplina de nuestro shalom estaba sobre él”; esta formulación interpretativa debe distinguirse de una traducción castellana única.
@@ -75,10 +75,10 @@ Desde esa perspectiva, recibir al Mesías equivale en la enseñanza a recibir el
 
 | Unidad | Observación concreta de la clase | Tratamiento |
 | --- | --- | --- |
-| #proverbios_12_1 | Amar musar conduce a daat; odiar tokejat muestra una negativa a escuchar la demostración. | Contraste textual apoyado; diferencia técnica entre términos calificada. |
-| #proverbios_12_2 | El bien produce el favor/restauración de יהוה, mientras que los planes malvados llevan a condenación. | Paralelismo apoyado; explicación soteriológica atribuida. |
-| #isaias_1_18 | “Vengan y debatamos” ilustra tokejat como confrontación que deja expuesto el error. | Invitación textual apoyada; marco judicial celestial calificado. |
-| #isaias_53_5 | Yehoshua recibe el musar orientado al shalom que el pueblo no recibió. | Presencia de musar y shalom apoyada; lectura mesiánica de sustitución atribuida. |
+| #mishlei_12_1 | Amar musar conduce a daat; odiar tokejat muestra una negativa a escuchar la demostración. | Contraste textual apoyado; diferencia técnica entre términos calificada. |
+| #mishlei_12_2 | El bien produce el favor/restauración de יהוה, mientras que los planes malvados llevan a condenación. | Paralelismo apoyado; explicación soteriológica atribuida. |
+| #yeshayahu_1_18 | “Vengan y debatamos” ilustra tokejat como confrontación que deja expuesto el error. | Invitación textual apoyada; marco judicial celestial calificado. |
+| #yeshayahu_53_5 | Yehoshua recibe el musar orientado al shalom que el pueblo no recibió. | Presencia de musar y shalom apoyada; lectura mesiánica de sustitución atribuida. |
 | #juan_1_12 | Recibir al Hijo se relaciona con recibir la disciplina y ser hechos hijos de Elohim. | Conexión temática de la clase; no equivalencia lexical exacta. |
 
 ## Pendiente de verificar

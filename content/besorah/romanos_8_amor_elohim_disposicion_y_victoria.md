@@ -12,9 +12,9 @@ tags:
   - yehoshua
 references:
   - "#romanos_8_28-39"
-  - "#salmos_23_5"
-  - "#salmos_44_22"
-  - "#genesis_22_12-13"
+  - "#tehilim_23_5"
+  - "#tehilim_44_22"
+  - "#bereshit_22_12-13"
   - "#juan_3_16"
   - "#romanos_8_18-27"
 sources:
@@ -42,8 +42,8 @@ Esta nota organiza la clase pública sobre Romanos 8:28-39. Se sigue la unidad e
 | #romanos_8_28-30 | «A los amados de Elohim todas las cosas obran para bien, a estos que conforme a la disposición son llamados»; los que fueron conocidos y dispuestos fueron llamados, justificados y glorificados. | El «bien» se interpreta según la disposición y el llamamiento de Elohim, no como garantía de ausencia de sufrimiento. |
 | #romanos_8_31-34 | «Si Elohim es por nosotros, ¿quién contra nosotros?»; Elohim justifica, Yehoshua murió, se levantó, está a la diestra e intercede. | La seguridad se funda en acciones de Elohim y del Mesías, no en mérito humano. |
 | #romanos_8_35-39 | Nada —estrechez, persecución, muerte, vida, poderes, altura, profundidad o creación— puede separar del amor de Elohim en Yehoshua el Mesías. | El amor es inseparable porque está anclado en la obra mesiánica y atraviesa la aflicción. |
-| #genesis_22_12-13 | Elohim dice que Abraham no retuvo a su hijo único; luego aparece un carnero ofrecido en lugar de su hijo. | La clase usa este pasaje como trasfondo de Romanos 8:32 y como figura mesiánica; la relación tipológica no es una cita explícita de Pablo. |
-| #salmos_23_5; #salmos_44_22 | «Prepararás delante de mí mesa frente a mis opresores»; «por ti somos matados todo el día». | Las conexiones ilustran preparación, oposición y sufrimiento; deben permanecer subordinadas al argumento de Romanos. |
+| #bereshit_22_12-13 | Elohim dice que Abraham no retuvo a su hijo único; luego aparece un carnero ofrecido en lugar de su hijo. | La clase usa este pasaje como trasfondo de Romanos 8:32 y como figura mesiánica; la relación tipológica no es una cita explícita de Pablo. |
+| #tehilim_23_5; #tehilim_44_22 | «Prepararás delante de mí mesa frente a mis opresores»; «por ti somos matados todo el día». | Las conexiones ilustran preparación, oposición y sufrimiento; deben permanecer subordinadas al argumento de Romanos. |
 
 ## El bien no es comodidad: disposición y llamamiento
 
